@@ -9,8 +9,8 @@ backports.functools_lru_cache=1.6.4=pyhd8ed1ab_0
 beautifulsoup4=4.9.3=pyhb0f4dca_0
 black=19.10b0=py_0
 brotlipy=0.7.0=py39h2bbff1b_1003
-ca-certificates=2022.2.1=haa95532_0
-certifi=2021.10.8=py39haa95532_2
+ca-certificates=2021.10.8=h5b45459_0
+certifi=2021.10.8=py39hcbf5309_1
 cffi=1.15.0=py39h2bbff1b_1
 charset-normalizer=2.0.4=pyhd3eb1b0_0
 click=8.0.3=pyhd3eb1b0_0
@@ -30,7 +30,7 @@ libsodium=1.0.18=h8d14728_1
 matplotlib-inline=0.1.2=pyhd3eb1b0_2
 mypy_extensions=0.4.3=py39haa95532_1
 nest-asyncio=1.5.4=pyhd8ed1ab_0
-openssl=1.1.1n=h2bbff1b_0
+openssl=1.1.1l=h8ffe710_0
 parso=0.7.1=pyh9f0ad1d_0
 pathspec=0.7.0=py_0
 pickleshare=0.7.5=py_1003
@@ -42,6 +42,7 @@ pyopenssl=22.0.0=pyhd3eb1b0_0
 pysocks=1.7.1=py39haa95532_0
 python=3.9.0=h6244533_2
 python-dateutil=2.8.2=pyhd8ed1ab_0
+python_abi=3.9=2_cp39
 pywin32=302=py39h827c3e9_1
 pyzmq=22.3.0=py39hd77b12b_2
 regex=2021.8.3=py39h2bbff1b_0
@@ -57,6 +58,7 @@ traitlets=4.3.3=pyhd8ed1ab_2
 typed-ast=1.4.3=py39h2bbff1b_1
 typing_extensions=4.1.1=pyh06a4308_0
 tzdata=2021e=hda174b7_0
+url-normalize=1.4.3=pyhd8ed1ab_0
 urllib3=1.26.8=pyhd3eb1b0_0
 vc=14.2=h21ff451_1
 vs2015_runtime=14.27.29016=h5e58377_2

@@ -4,7 +4,8 @@ from datetime import datetime
 from selenium.webdriver.remote.webdriver import WebDriver
 from selenium.common.exceptions import NoSuchElementException
 
-from urllib.parse import urlparse
+from urllib.parse import urlparse, urljoin, urlunsplit
+from url_normalize import url_normalize
 import requests
 from entities import Image
 
@@ -19,6 +20,10 @@ def get_all_links(driver: WebDriver, limit_domain, banned_filetypes):
         if onclick and ("location.href" in onclick or "document.location" in onclick):
             href = onclick.split("'")[-1]
 
+        if type(href) != str:
+            # print(f"href not string: '{href}'")
+            continue
+
         o = urlparse(href)
 
         if not re.search(f"{limit_domain}$", str(o.hostname)):
@@ -27,10 +32,10 @@ def get_all_links(driver: WebDriver, limit_domain, banned_filetypes):
         if re.search(f"{banned_filetypes}$", str(href)):
             continue
 
-        if o.scheme in ["http", "https"]:
-            links.append(href)
-        else:
-            print(f"!!!!!! WEIRD LINK: {href}")
+        if o.scheme not in ["http", "https"]:
+            continue
+
+        links.append(url_normalize(href))
 
     return links
 
