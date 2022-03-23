@@ -73,6 +73,8 @@ def get_robots_data(driver: WebDriver, url, site_maps):
     return robots_content, sitemap_content
 
 
+# Functions for possible use to store frontier on disk in
+# order to not loose track of progress if an error occurs
 def write_file(path, data):
     with open(path, "w") as file:
         if type(data) == list:
