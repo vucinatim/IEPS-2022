@@ -5,6 +5,15 @@
 - URL frontier: A list of URLs waiting to be parsed.
 - Datastore: To store the data and additional metadata used by the crawler.
 
+## TO-DO
+
+> * DB interface (with methods in existing entities classes).
+> * Parallelization with threads and locking.
+> * Duplication checks by comparing pages from DB.
+> * Canonicalization of stored urls.
+> * Robots.txt content extraction improvement in get_robots_data().
+> * Squashing bugs.
+
 ## Installation
 
 Create a new python virtual environment with conda and install requirements.
