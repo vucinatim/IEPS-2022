@@ -22,9 +22,21 @@ $ conda create --name <env> --file requirements.txt
 ```
 Then download chromedriver from https://chromedriver.chromium.org/ for selenium web scraper and put it inside ./crawler directory.
 
-## Set up
+## Database Set up (Windows)
 
-Some setup instructions.
+Go to an empty folder and save the script into a subfolder named *init_scripts*. Create another empty folder named *pgdata*.
+
+We run docker container using the following command. The command will name the container *postgresql-wier*, set username and password, map database files to folder *./pgdata* and initialization scripts to *./init-scripts*, map port 5432 to host machine (i.e. localhost) and run image *postgres:12.2* in a detached mode.
+
+```
+docker run --name postgresql-wier `
+    -e POSTGRES_PASSWORD=SecretPassword `
+    -e POSTGRES_USER=user `
+    -v $PWD/pgdata:/var/lib/postgresql/data `
+    -v $PWD/init-scripts:/docker-entrypoint-initdb.d `
+    -p 5432:5432 `
+    -d postgres:12.2
+```
 
 ## How to run
 

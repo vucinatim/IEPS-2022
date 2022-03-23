@@ -14,8 +14,8 @@ class Site:
         p3 = f"Sitemap: {self.sitemap_content[:20] if self.sitemap_content else 'None'}"
         return p1 + p2 + p3
 
-    def db_create_site(self):
-        raise NotImplementedError
+    def to_tuple(self):
+        return (self.domain, self.robots_content, self.sitemap_content)
 
 
 class Page:
