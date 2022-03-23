@@ -1,23 +1,36 @@
-from selenium import webdriver
-from selenium.webdriver.remote.webdriver import WebDriver
-from urllib.request import urlopen
-from urllib.request import Request
-from urllib.request import urlretrieve
-from urllib.parse import urlparse
-from bs4 import BeautifulSoup
+import re
 from datetime import datetime
-from entities import Site, Page, Image
-import requests
+
+from selenium.webdriver.remote.webdriver import WebDriver
 from selenium.common.exceptions import NoSuchElementException
 
+from urllib.parse import urlparse
+import requests
+from entities import Image
 
-def get_all_links(driver: WebDriver):
+
+def get_all_links(driver: WebDriver, limit_domain, banned_filetypes):
     links = []
     anchors = driver.find_elements_by_tag_name("a")
     for a in anchors:
         href = a.get_attribute("href")
-        if href != "" and href != None:
+
+        onclick = a.get_attribute("onclick")
+        if onclick and ("location.href" in onclick or "document.location" in onclick):
+            href = onclick.split("'")[-1]
+
+        o = urlparse(href)
+
+        if not re.search(f"{limit_domain}$", str(o.hostname)):
+            continue
+
+        if re.search(f"{banned_filetypes}$", str(href)):
+            continue
+
+        if o.scheme in ["http", "https"]:
             links.append(href)
+        else:
+            print(f"!!!!!! WEIRD LINK: {href}")
 
     return links
 
@@ -29,15 +42,14 @@ def get_all_images(driver: WebDriver):
 
         src = img.get_attribute("src")
         o = urlparse(src)
-        if o.scheme != "http" and o.scheme != "https":
-            continue
-        filename = src.split("/")[-1]
-        content_type = img.get_attribute("content-type")
-        data = requests.get(src).content
-        accessed_time = datetime.now().time()
+        if o.scheme in ["http", "https"]:
+            filename = src.split("/")[-1]
+            content_type = img.get_attribute("content-type")
+            data = requests.get(src, verify=False).content
+            accessed_time = datetime.now()
 
-        image = Image(filename, content_type, data, accessed_time)
-        images.append(image)
+            image = Image(filename, content_type, data, accessed_time)
+            images.append(image)
 
     return images
 
