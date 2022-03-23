@@ -1,16 +1,26 @@
 import re
+import mimetypes
 from datetime import datetime
 
 from selenium.webdriver.remote.webdriver import WebDriver
 from selenium.common.exceptions import NoSuchElementException
 
-from urllib.parse import urlparse, urljoin, urlunsplit
+from urllib.parse import urlparse
+from urllib.request import urlopen
 from url_normalize import url_normalize
 import requests
 from entities import Image
 
 
-def get_all_links(driver: WebDriver, limit_domain, banned_filetypes):
+def guess_type_of(link, strict=False):
+    link_type, _ = mimetypes.guess_type(link)
+    if link_type is None and strict:
+        u = urlopen(link)
+        link_type = u.info().get_content_type()
+    return link_type
+
+
+def get_all_links(driver: WebDriver, limit_domain, allowed_link_types):
     links = []
     anchors = driver.find_elements_by_tag_name("a")
     for a in anchors:
@@ -29,10 +39,12 @@ def get_all_links(driver: WebDriver, limit_domain, banned_filetypes):
         if not re.search(f"{limit_domain}$", str(o.hostname)):
             continue
 
-        if re.search(f"{banned_filetypes}$", str(href)):
+        if o.scheme not in ["http", "https"]:
             continue
 
-        if o.scheme not in ["http", "https"]:
+        link_type = guess_type_of(href)
+        if link_type and link_type not in allowed_link_types:
+            print(f"Not allowed link type: '{link_type}'")
             continue
 
         links.append(url_normalize(href))
