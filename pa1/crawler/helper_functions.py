@@ -43,7 +43,6 @@ def guess_type_of(link, strict=False):
 #     else:
 #         html_content, images, links = None, [], []
 #         page_data = None
-        
 
 
 def get_all_links(driver: WebDriver, limit_domain, allowed_link_types):
@@ -73,7 +72,9 @@ def get_all_links(driver: WebDriver, limit_domain, allowed_link_types):
             print(f"Not allowed link type: '{link_type}'")
             continue
 
-        links.append(url_normalize(href))
+        normalized_url = url_normalize(href)
+        if normalized_url not in links:
+            links.append(normalized_url)
 
     return links
 

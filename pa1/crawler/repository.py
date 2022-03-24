@@ -2,7 +2,7 @@ from typing import List
 import threading
 import psycopg
 
-from entities import Site, Page, Image, PageData, Link
+from entities import Site, Page, Image, PageData, Link, FrontierEntry
 
 lock = threading.Lock()
 
@@ -18,7 +18,7 @@ def clear_db():
         with lock:
             with conn.cursor() as cur:
                 cur.execute(
-                    "TRUNCATE crawldb.image, crawldb.link, crawldb.page, crawldb.page_data, crawldb.site"
+                    "TRUNCATE crawldb.image, crawldb.link, crawldb.page, crawldb.page_data, crawldb.site, crawldb.frontier"
                 )
 
 
@@ -97,7 +97,7 @@ def create_page_data(page_data: PageData):
 
 
 def create_link(link: Link):
-    if not link.from_page or not link.to_page:
+    if link.from_page is None or link.to_page is None:
         return
     with psycopg.connect(host=DB_HOST, user=DB_USER, password=DB_PASSWORD) as conn:
         conn.autocommit = True
@@ -128,3 +128,37 @@ def check_if_duplicate(html_content):
                 )
                 q = cur.fetchone()
                 return q[0] if q is not None else None
+
+
+def create_frontier_entries(frontier_entries: List[FrontierEntry]):
+    with psycopg.connect(host=DB_HOST, user=DB_USER, password=DB_PASSWORD) as conn:
+        conn.autocommit = True
+        with lock:
+            with conn.cursor() as cur:
+                cur.executemany(
+                    "INSERT INTO crawldb.frontier (src_url, dest_url, crawled) VALUES (%s, %s, %s)",
+                    [f.to_tuple() for f in frontier_entries],
+                )
+
+
+def get_next_frontier_entry():
+    with psycopg.connect(host=DB_HOST, user=DB_USER, password=DB_PASSWORD) as conn:
+        conn.autocommit = True
+        with lock:
+            with conn.cursor() as cur:
+                cur.execute(
+                    "SELECT (id, src_url, dest_url) FROM crawldb.frontier WHERE crawled = %s ORDER BY id LIMIT 1",
+                    (False,),
+                )
+                q = cur.fetchone()
+                return q[0] if q is not None else None
+
+
+def update_frontier_entry_to_crawled(id):
+    with psycopg.connect(host=DB_HOST, user=DB_USER, password=DB_PASSWORD) as conn:
+        conn.autocommit = True
+        with lock:
+            with conn.cursor() as cur:
+                cur.execute(
+                    "UPDATE crawldb.frontier SET crawled = %s WHERE id = %s", (True, id)
+                )
