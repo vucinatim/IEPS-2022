@@ -2,7 +2,7 @@ from typing import List
 import threading
 import psycopg
 
-from entities import Site, Page, Image, PageData, Link, FrontierEntry
+from entities import Site, Page, Image, PageData, Link, FrontierEntry, Error
 
 lock = threading.Lock()
 
@@ -161,4 +161,15 @@ def update_frontier_entry_to_crawled(id):
             with conn.cursor() as cur:
                 cur.execute(
                     "UPDATE crawldb.frontier SET crawled = %s WHERE id = %s", (True, id)
+                )
+
+
+def create_error(error: Error):
+    with psycopg.connect(host=DB_HOST, user=DB_USER, password=DB_PASSWORD) as conn:
+        conn.autocommit = True
+        with lock:
+            with conn.cursor() as cur:
+                cur.executemany(
+                    "INSERT INTO crawldb.error (url, message, error_time) VALUES (%s, %s, %s)",
+                    error.to_tuple(),
                 )

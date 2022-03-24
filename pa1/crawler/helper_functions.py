@@ -79,7 +79,7 @@ def get_all_links(driver: WebDriver, limit_domain, allowed_link_types):
     return links
 
 
-def get_all_images(driver: WebDriver, page_url):
+def get_all_images(driver: WebDriver, page_url, store_binary):
     images = []
     imgs = driver.find_elements_by_tag_name("img")
     for img in imgs:
@@ -90,7 +90,7 @@ def get_all_images(driver: WebDriver, page_url):
             page = page_url
             filename = src.split("/")[-1]
             content_type = guess_type_of(src, strict=True)
-            data = requests.get(src, verify=False).content
+            data = requests.get(src, verify=False).content if store_binary else None
             accessed_time = datetime.now()
 
             image = Image(page, filename, content_type, data, accessed_time)
@@ -99,9 +99,9 @@ def get_all_images(driver: WebDriver, page_url):
     return images
 
 
-def get_page_data(url):
+def get_page_data(url, store_binary):
     data_type_code = url.split(".")[-1].upper()
-    data = requests.get(url, verify=False).content
+    data = requests.get(url, verify=False).content if store_binary else None
     return PageData(url, data_type_code, data)
 
 
@@ -129,23 +129,3 @@ def parse_robots_file(url):
         print("Error: Parse Robots Failed!")
 
     return rp, robots_content, site_map_content
-
-
-# Functions for possible use to store frontier on disk in
-# order to not loose track of progress if an error occurs
-def write_file(path, data):
-    with open(path, "w") as file:
-        if type(data) == list:
-            for d in data:
-                file.write(d)
-        else:
-            file.write(data)
-
-
-def append_file(path, data):
-    with open(path, "a") as file:
-        if type(data) == list:
-            for d in data:
-                file.write(d + "\n")
-        else:
-            file.write(data + "\n")

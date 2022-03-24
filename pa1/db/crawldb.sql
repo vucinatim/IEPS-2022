@@ -58,6 +58,13 @@ CREATE TABLE crawldb.frontier (
   crawled boolean NOT NULL,
   CONSTRAINT pk_frontier_id PRIMARY KEY (id)
 );
+CREATE TABLE crawldb.error (
+  id serial NOT NULL,
+  url varchar(3000),
+  message text,
+  error_time timestamp,
+  CONSTRAINT pk_error_id PRIMARY KEY (id)
+);
 CREATE INDEX "idx_link_from_page" ON crawldb.link (from_page);
 CREATE INDEX "idx_link_to_page" ON crawldb.link (to_page);
 ALTER TABLE

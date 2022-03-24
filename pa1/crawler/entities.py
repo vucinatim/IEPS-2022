@@ -25,6 +25,7 @@ class Page:
         accessed_time,
         images,
         page_data,
+        links,
     ):
         self.site = site
         self.type_code = type_code
@@ -34,6 +35,7 @@ class Page:
         self.accessed_time = accessed_time
         self.images = images
         self.page_data = page_data
+        self.links = links
 
     def __str__(self):
         p1 = f"site: {self.site} \n"
@@ -43,8 +45,9 @@ class Page:
         p5 = f"status_code: {self.status_code} \n"
         p6 = f"accessed_time: {self.accessed_time} \n"
         p7 = f"images: {len(self.images) if self.images else 'None'} \n"
-        p8 = f"page_data: {self.page_data}"
-        return p1 + p2 + p3 + p4 + p5 + p6 + p7 + p8
+        p8 = f"page_data: {self.page_data} \n"
+        p9 = f"links: {len(self.links) if self.links else 0}"
+        return p1 + p2 + p3 + p4 + p5 + p6 + p7 + p8 + p9
 
     def to_tuple(self):
         return (
@@ -123,3 +126,19 @@ class FrontierEntry:
 
     def to_tuple(self):
         return (self.src_url, self.dest_url, self.crawled)
+
+
+class Error:
+    def __init__(self, url, message, accessed_time):
+        self.url = url
+        self.message = message
+        self.accessed_time = accessed_time
+
+    def __str__(self):
+        p1 = f"url: {self.url} \n"
+        p2 = f"message: {self.message} \n"
+        p3 = f"accessed_time: {self.accessed_time}"
+        return p1 + p2 + p3
+
+    def to_tuple(self):
+        return (self.url, self.message, self.accessed_time)
