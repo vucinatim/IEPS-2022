@@ -33,6 +33,15 @@ def create_site(site: Site):
                 )
 
 
+def check_if_site_exists(domain):
+    with psycopg.connect(host=DB_HOST, user=DB_USER, password=DB_PASSWORD) as conn:
+        conn.autocommit = True
+        with lock:
+            with conn.cursor() as cur:
+                cur.execute("SELECT id FROM crawldb.site WHERE domain = %s", (domain,))
+                return cur.fetchone() is not None
+
+
 def create_page(page: Page):
     with psycopg.connect(host=DB_HOST, user=DB_USER, password=DB_PASSWORD) as conn:
         conn.autocommit = True
@@ -46,6 +55,15 @@ def create_page(page: Page):
                     "INSERT INTO crawldb.page (site_id, page_type_code, url, html_content, http_status_code, accessed_time) VALUES (%s, %s, %s, %s, %s, %s)",
                     (site_id, *page.to_tuple()),
                 )
+
+
+def check_if_page_exists(url):
+    with psycopg.connect(host=DB_HOST, user=DB_USER, password=DB_PASSWORD) as conn:
+        conn.autocommit = True
+        with lock:
+            with conn.cursor() as cur:
+                cur.execute("SELECT id FROM crawldb.page WHERE url = %s", (url,))
+                return cur.fetchone() is not None
 
 
 def create_images(images: List[Image]):
@@ -97,3 +115,16 @@ def create_link(link: Link):
                     "INSERT INTO crawldb.link (from_page, to_page) VALUES (%s, %s)",
                     (from_page_id, to_page_id),
                 )
+
+
+def check_if_duplicate(html_content):
+    with psycopg.connect(host=DB_HOST, user=DB_USER, password=DB_PASSWORD) as conn:
+        conn.autocommit = True
+        with lock:
+            with conn.cursor() as cur:
+                cur.execute(
+                    "SELECT url FROM crawldb.page WHERE html_content = %s",
+                    (html_content,),
+                )
+                q = cur.fetchone()
+                return q[0] if q is not None else None

@@ -1,12 +1,14 @@
 import re
+import os
 import mimetypes
 from datetime import datetime
 
 from selenium.webdriver.remote.webdriver import WebDriver
-from selenium.common.exceptions import NoSuchElementException
+from selenium.common.exceptions import WebDriverException
 
 from urllib.parse import urlparse
 from urllib.request import urlopen
+import urllib.robotparser as urobot
 from url_normalize import url_normalize
 import requests
 from entities import Image, PageData
@@ -21,6 +23,27 @@ def guess_type_of(link, strict=False):
         except:
             pass
     return link_type
+
+
+# def get_page(driver: WebDriver, url, type_code):
+#     try:
+#         print(f"Retrieving web page URL '{url}'")
+#         driver.get(url)
+#     except WebDriverException as e:
+#         print(e)
+
+#     if type_code == 'FRONTIER':
+#         html_content = driver.page_source
+#         images = get_all_images(driver, url)
+#         links = get_all_links(driver, LIMIT_DOMAIN, ALLOWED_LINK_TYPES)
+#         page_data = None
+#     elif type_code == 'BINARY':
+#         html_content, images, links = None, [], []
+#         page_data = helper_functions.get_page_data(dest_url)
+#     else:
+#         html_content, images, links = None, [], []
+#         page_data = None
+        
 
 
 def get_all_links(driver: WebDriver, limit_domain, allowed_link_types):
@@ -87,23 +110,24 @@ def get_robots_url(url):
     return robots_url
 
 
-def get_robots_data(driver: WebDriver, url, site_maps):
-    robots_content = None
-    sitemap_content = None
+def parse_robots_file(url):
+    robots_content, site_map_content = None, None
+    robots_url = get_robots_url(url)
 
-    driver.get(url)
+    rp = urobot.RobotFileParser()
+    rp.set_url(robots_url)
+
     try:
-        robots_content = driver.find_element_by_tag_name("pre").get_attribute(
-            "textContent"
-        )
-    except NoSuchElementException:
-        pass
+        rp.read()
+        robots_content = urlopen(robots_url).read().decode("utf-8")
+        site_maps = rp.site_maps()
+        if site_maps:
+            r = requests.get(site_maps[0])
+            site_map_content = r.text
+    except:
+        print("Error: Parse Robots Failed!")
 
-    if site_maps:
-        driver.get(site_maps[0])
-        sitemap_content = driver.page_source
-
-    return robots_content, sitemap_content
+    return rp, robots_content, site_map_content
 
 
 # Functions for possible use to store frontier on disk in
