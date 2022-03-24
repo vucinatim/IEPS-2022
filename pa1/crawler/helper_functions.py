@@ -9,14 +9,17 @@ from urllib.parse import urlparse
 from urllib.request import urlopen
 from url_normalize import url_normalize
 import requests
-from entities import Image
+from entities import Image, PageData
 
 
 def guess_type_of(link, strict=False):
     link_type, _ = mimetypes.guess_type(link)
     if link_type is None and strict:
-        u = urlopen(link)
-        link_type = u.info().get_content_type()
+        try:
+            u = urlopen(link)
+            link_type = u.info().get_content_type()
+        except:
+            pass
     return link_type
 
 
@@ -52,7 +55,7 @@ def get_all_links(driver: WebDriver, limit_domain, allowed_link_types):
     return links
 
 
-def get_all_images(driver: WebDriver):
+def get_all_images(driver: WebDriver, page_url):
     images = []
     imgs = driver.find_elements_by_tag_name("img")
     for img in imgs:
@@ -60,15 +63,28 @@ def get_all_images(driver: WebDriver):
         src = img.get_attribute("src")
         o = urlparse(src)
         if o.scheme in ["http", "https"]:
+            page = page_url
             filename = src.split("/")[-1]
-            content_type = img.get_attribute("content-type")
+            content_type = guess_type_of(src, strict=True)
             data = requests.get(src, verify=False).content
             accessed_time = datetime.now()
 
-            image = Image(filename, content_type, data, accessed_time)
+            image = Image(page, filename, content_type, data, accessed_time)
             images.append(image)
 
     return images
+
+
+def get_page_data(url):
+    data_type_code = url.split(".")[-1].upper()
+    data = requests.get(url, verify=False).content
+    return PageData(url, data_type_code, data)
+
+
+def get_robots_url(url):
+    domain_url = "{uri.scheme}://{uri.netloc}".format(uri=urlparse(url))
+    robots_url = domain_url + "/robots.txt"
+    return robots_url
 
 
 def get_robots_data(driver: WebDriver, url, site_maps):
