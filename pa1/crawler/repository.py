@@ -136,7 +136,7 @@ def create_frontier_entries(frontier_entries: List[FrontierEntry]):
         with lock:
             with conn.cursor() as cur:
                 cur.executemany(
-                    "INSERT INTO crawldb.frontier (src_url, dest_url, crawled) VALUES (%s, %s, %s)",
+                    "INSERT INTO crawldb.frontier (src_url, dest_url, crawled, fetched) VALUES (%s, %s, %s, %s)",
                     [f.to_tuple() for f in frontier_entries],
                 )
 
@@ -147,11 +147,18 @@ def get_next_frontier_entry():
         with lock:
             with conn.cursor() as cur:
                 cur.execute(
-                    "SELECT (id, src_url, dest_url) FROM crawldb.frontier WHERE crawled = %s ORDER BY id LIMIT 1",
+                    "SELECT (id, src_url, dest_url) FROM crawldb.frontier WHERE fetched = %s ORDER BY id LIMIT 1",
                     (False,),
                 )
                 q = cur.fetchone()
-                return q[0] if q is not None else None
+                if q is not None:
+                    cur.execute(
+                        "UPDATE crawldb.frontier SET fetched = %s WHERE id = %s",
+                        (True, q[0][0]),
+                    )
+                    return q[0]
+                else:
+                    return None
 
 
 def update_frontier_entry_to_crawled(id):
