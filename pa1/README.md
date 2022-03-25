@@ -1,18 +1,12 @@
 # Programming assignment 1 (Crawler)
+A standalone crawler that will crawl only .gov.si web sites. 
+The crawler will roughly consist of the following components:
+
 - HTTP downloader and renderer: To retrieve and render a web page.
 - Data extractor: Minimal functionalities to extract images and hyperlinks.
 - Duplicate detector: To detect already parsed pages.
 - URL frontier: A list of URLs waiting to be parsed.
 - Datastore: To store the data and additional metadata used by the crawler.
-
-## TO-DO
-
-> * DB interface (with methods in existing entities classes).
-> * Parallelization with threads and locking.
-> * Duplication checks by comparing pages from DB.
-> * Canonicalization of stored urls.
-> * Robots.txt content extraction improvement in get_robots_data().
-> * Squashing bugs.
 
 ## Installation
 
@@ -40,4 +34,30 @@ docker run --name postgresql-wier `
 
 ## How to run
 
-Some instructions on how to run the crawler.
+To run the crawler you must have the chromedriver executable inside the ./crawler directory.
+Alternatively you can specify the location of your chromedriver executable manually in the *set up parameters* codeblock
+
+You will also need to have a PostgreSQL database running and initialized with the provided schemas.
+You can set the connection parameters in the *repository.py* file.
+
+You can set multiple parameters of the crawler
+```
+LIMIT_DOMAIN = ".gov.si"
+SEED_URLS = ["http://www.gov.si/", "http://www.evem.gov.si/", "http://e-uprava.gov.si/", "http://e-prostor.gov.si/"]
+BINARY_CONTENT = ['pdf', 'doc', 'docx', 'ppt', 'pptx']
+ALLOWED_LINK_TYPES = [
+    'text/html', 
+    'application/pdf',
+    'application/msword',
+    'application/vnd.openxmlformats-officedocument.wordprocessingml.document',
+    'application/vnd.ms-powerpoint',
+    'application/vnd.openxmlformats-officedocument.spreadsheetml.sheet']
+
+NUMBER_OF_WORKERS = 3
+TIMEOUT = 5 # Default timeout if no robots.txt
+START_CLEAN = False # If set to TRUE it will clear the database and start again from seed urls
+STORE_BINARY = True # If set to TRUE it will store binary data of images and files
+RESPECT_CRAWL_DELAY = True # If set to true the crawler will respect crawl_delay from robots.txt
+```
+
+To start the crawler run the *Start Crawler* codeblock.

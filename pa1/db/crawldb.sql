@@ -57,6 +57,7 @@ CREATE TABLE crawldb.frontier (
   dest_url varchar(3000),
   crawled boolean NOT NULL,
   fetched boolean NOT NULL,
+  processed boolean NOT NULL,
   CONSTRAINT pk_frontier_id PRIMARY KEY (id)
 );
 CREATE TABLE crawldb.error (

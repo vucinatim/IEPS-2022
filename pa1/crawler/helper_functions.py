@@ -8,9 +8,9 @@ from selenium.common.exceptions import WebDriverException
 
 from urllib.parse import urlparse
 from urllib.request import urlopen
-import urllib.robotparser as urobot
 from url_normalize import url_normalize
 import requests
+import robotparser as urobot
 from entities import Image, PageData
 
 

@@ -113,21 +113,25 @@ class Link:
 
 
 class FrontierEntry:
-    def __init__(self, src_url, dest_url, crawled=False, fetched=False):
+    def __init__(
+        self, src_url, dest_url, crawled=False, fetched=False, processed=False
+    ):
         self.src_url = src_url
         self.dest_url = dest_url
         self.crawled = crawled
         self.fetched = fetched
+        self.processed = processed
 
     def __str__(self):
         p1 = f"src_url: {self.src_url} \n"
         p2 = f"dest_url: {self.dest_url} \n"
         p3 = f"crawled: {self.crawled} \n"
-        p4 = f"fetched: {self.fetched}"
-        return p1 + p2 + p3 + p4
+        p4 = f"fetched: {self.fetched} \n"
+        p5 = f"fetched: {self.processed}"
+        return p1 + p2 + p3 + p4 + p5
 
     def to_tuple(self):
-        return (self.src_url, self.dest_url, self.crawled, self.fetched)
+        return (self.src_url, self.dest_url, self.crawled, self.fetched, self.processed)
 
 
 class Error:

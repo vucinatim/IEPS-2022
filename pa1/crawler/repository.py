@@ -117,6 +117,15 @@ def create_link(link: Link):
                 )
 
 
+def get_all_links():
+    with psycopg.connect(host=DB_HOST, user=DB_USER, password=DB_PASSWORD) as conn:
+        conn.autocommit = True
+        with lock:
+            with conn.cursor() as cur:
+                cur.execute("SELECT from_page, to_page FROM crawldb.link")
+                return cur.fetchall()
+
+
 def check_if_duplicate(html_content):
     with psycopg.connect(host=DB_HOST, user=DB_USER, password=DB_PASSWORD) as conn:
         conn.autocommit = True
@@ -136,7 +145,7 @@ def create_frontier_entries(frontier_entries: List[FrontierEntry]):
         with lock:
             with conn.cursor() as cur:
                 cur.executemany(
-                    "INSERT INTO crawldb.frontier (src_url, dest_url, crawled, fetched) VALUES (%s, %s, %s, %s)",
+                    "INSERT INTO crawldb.frontier (src_url, dest_url, crawled, fetched, processed) VALUES (%s, %s, %s, %s, %s)",
                     [f.to_tuple() for f in frontier_entries],
                 )
 
@@ -171,12 +180,23 @@ def update_frontier_entry_to_crawled(id):
                 )
 
 
+def update_frontier_entry_to_processed(id):
+    with psycopg.connect(host=DB_HOST, user=DB_USER, password=DB_PASSWORD) as conn:
+        conn.autocommit = True
+        with lock:
+            with conn.cursor() as cur:
+                cur.execute(
+                    "UPDATE crawldb.frontier SET processed = %s WHERE id = %s",
+                    (True, id),
+                )
+
+
 def create_error(error: Error):
     with psycopg.connect(host=DB_HOST, user=DB_USER, password=DB_PASSWORD) as conn:
         conn.autocommit = True
         with lock:
             with conn.cursor() as cur:
-                cur.executemany(
+                cur.execute(
                     "INSERT INTO crawldb.error (url, message, error_time) VALUES (%s, %s, %s)",
                     error.to_tuple(),
                 )
