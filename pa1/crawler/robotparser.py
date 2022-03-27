@@ -236,10 +236,13 @@ class RuleLine:
             allowance = True
         path = urllib.parse.urlunparse(urllib.parse.urlparse(path))
         self.path = urllib.parse.quote(path).replace("%2A", "")
+        if self.path and self.path[0] == "/":
+            self.path = self.path[1:]
         self.allowance = allowance
 
     def applies_to(self, filename):
-        return self.path == "*" or filename.startswith(self.path)
+        # print(f"{self.path} in {filename}")
+        return self.path == "*" or self.path in filename
 
     def __str__(self):
         return ("Allow" if self.allowance else "Disallow") + ": " + self.path

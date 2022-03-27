@@ -1,6 +1,7 @@
 from typing import List
 import threading
 import psycopg
+import mmh3
 
 from entities import Site, Page, Image, PageData, Link, FrontierEntry, Error
 
@@ -52,8 +53,12 @@ def create_page(page: Page):
                 )
                 site_id = cur.fetchone()[0]
                 cur.execute(
-                    "INSERT INTO crawldb.page (site_id, page_type_code, url, html_content, http_status_code, accessed_time) VALUES (%s, %s, %s, %s, %s, %s)",
-                    (site_id, *page.to_tuple()),
+                    "INSERT INTO crawldb.page (site_id, page_type_code, url, html_content, http_status_code, accessed_time, html_content_hash) VALUES (%s, %s, %s, %s, %s, %s, %s)",
+                    (
+                        site_id,
+                        *page.to_tuple(),
+                        mmh3.hash(page.html_content) if page.html_content else None,
+                    ),
                 )
 
 
@@ -127,13 +132,15 @@ def get_all_links():
 
 
 def check_if_duplicate(html_content):
+    if not html_content:
+        return None
     with psycopg.connect(host=DB_HOST, user=DB_USER, password=DB_PASSWORD) as conn:
         conn.autocommit = True
         with lock:
             with conn.cursor() as cur:
                 cur.execute(
-                    "SELECT url FROM crawldb.page WHERE html_content = %s",
-                    (html_content,),
+                    "SELECT url FROM crawldb.page WHERE html_content_hash = %s",
+                    (mmh3.hash(html_content),),
                 )
                 q = cur.fetchone()
                 return q[0] if q is not None else None
@@ -170,6 +177,46 @@ def get_next_frontier_entry():
                     return None
 
 
+# def get_next_frontier_entry():
+#     with psycopg.connect(host=DB_HOST, user=DB_USER, password=DB_PASSWORD) as conn:
+#         conn.autocommit = True
+#         with lock:
+#             with conn.cursor() as cur:
+#                 cur.execute(
+#                     "SELECT (id, src_url, dest_url) FROM crawldb.frontier WHERE fetched = %s AND new_site=true ORDER BY id LIMIT 1",
+#                     (False,),
+#                 )
+#                 q = cur.fetchone()
+#                 if q is not None:
+#                     cur.execute(
+#                         "UPDATE crawldb.frontier SET fetched = %s WHERE id = %s",
+#                         (True, q[0][0]),
+#                     )
+#                     return q[0]
+#                 else:
+#                     return None
+
+
+# def get_next_frontier_entry():
+#     with psycopg.connect(host=DB_HOST, user=DB_USER, password=DB_PASSWORD) as conn:
+#         conn.autocommit = True
+#         with lock:
+#             with conn.cursor() as cur:
+#                 cur.execute(
+#                     "SELECT (id, src_url, dest_url) FROM crawldb.frontier WHERE fetched = %s AND dest_url NOT IN (SELECT url FROM crawldb.page) ORDER BY id LIMIT 1",
+#                     (False,),
+#                 )
+#                 q = cur.fetchone()
+#                 if q is not None:
+#                     cur.execute(
+#                         "UPDATE crawldb.frontier SET fetched = %s WHERE id = %s",
+#                         (True, q[0][0]),
+#                     )
+#                     return q[0]
+#                 else:
+#                     return None
+
+
 def update_frontier_entry_to_crawled(id):
     with psycopg.connect(host=DB_HOST, user=DB_USER, password=DB_PASSWORD) as conn:
         conn.autocommit = True
@@ -200,3 +247,47 @@ def create_error(error: Error):
                     "INSERT INTO crawldb.error (url, message, error_time) VALUES (%s, %s, %s)",
                     error.to_tuple(),
                 )
+
+
+# DB Managing Functions
+def update_html_content_hashes():
+    with psycopg.connect(host=DB_HOST, user=DB_USER, password=DB_PASSWORD) as conn:
+        conn.autocommit = True
+        with lock:
+            with conn.cursor() as cur:
+                cur.execute(
+                    "SELECT id, html_content FROM crawldb.page WHERE html_content IS NOT NULL"
+                )
+                rows = cur.fetchall()
+                hashes = [(id, mmh3.hash(html_content)) for (id, html_content) in rows]
+                update_query = """UPDATE crawldb.page AS p
+                     SET html_content_hash = e.hash 
+                     FROM (VALUES (%s, %s)) AS e(id, hash) 
+                     WHERE e.id = p.id;"""
+
+                cur.executemany(update_query, hashes)
+
+
+def update_new_sites():
+    with psycopg.connect(host=DB_HOST, user=DB_USER, password=DB_PASSWORD) as conn:
+        conn.autocommit = True
+        with lock:
+            with conn.cursor() as cur:
+                cur.execute("SELECT url FROM crawldb.page")
+                page_rows = set(cur.fetchall())
+                print("Page rows fetched")
+                cur.execute("SELECT id, dest_url FROM crawldb.frontier")
+                frontier_rows = cur.fetchall()
+                print("Frontier rows fetched")
+                new_urls = [
+                    (f_id, f_url)
+                    for f_id, f_url in frontier_rows
+                    if (f_url,) not in page_rows
+                ]
+                print(f"New urls: {len(new_urls)}")
+                update_query = """UPDATE crawldb.frontier AS p
+                     SET new_site = true
+                     FROM (VALUES (%s, %s)) AS e(id, url)
+                     WHERE e.id = p.id;"""
+
+                cur.executemany(update_query, new_urls[:60000])

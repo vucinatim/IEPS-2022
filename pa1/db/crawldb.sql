@@ -20,6 +20,7 @@ CREATE TABLE crawldb.page (
   page_type_code varchar(20),
   url varchar(3000),
   html_content text,
+  html_content_hash integer,
   http_status_code integer,
   accessed_time timestamp,
   CONSTRAINT pk_page_id PRIMARY KEY (id),
@@ -60,6 +61,7 @@ CREATE TABLE crawldb.frontier (
   processed boolean NOT NULL,
   CONSTRAINT pk_frontier_id PRIMARY KEY (id)
 );
+CREATE INDEX "idx_frontier_id" ON crawldb.frontier (id);
 CREATE TABLE crawldb.error (
   id serial NOT NULL,
   url varchar(3000),

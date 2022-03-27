@@ -49,32 +49,37 @@ def get_all_links(driver: WebDriver, limit_domain, allowed_link_types):
     links = []
     anchors = driver.find_elements_by_tag_name("a")
     for a in anchors:
-        href = a.get_attribute("href")
+        try:
+            href = a.get_attribute("href")
 
-        onclick = a.get_attribute("onclick")
-        if onclick and ("location.href" in onclick or "document.location" in onclick):
-            href = onclick.split("'")[-1]
+            onclick = a.get_attribute("onclick")
+            if onclick and (
+                "location.href" in onclick or "document.location" in onclick
+            ):
+                href = onclick.split("'")[-1]
 
-        if type(href) != str:
-            # print(f"href not string: '{href}'")
-            continue
+            if type(href) != str:
+                # print(f"href not string: '{href}'")
+                continue
 
-        o = urlparse(href)
+            o = urlparse(href)
 
-        if not re.search(f"{limit_domain}$", str(o.hostname)):
-            continue
+            if not re.search(f"{limit_domain}$", str(o.hostname)):
+                continue
 
-        if o.scheme not in ["http", "https"]:
-            continue
+            if o.scheme not in ["http", "https"]:
+                continue
 
-        link_type = guess_type_of(href)
-        if link_type and link_type not in allowed_link_types:
-            print(f"Not allowed link type: '{link_type}'")
-            continue
+            link_type = guess_type_of(href)
+            if link_type and link_type not in allowed_link_types:
+                print(f"Not allowed link type: '{link_type}'")
+                continue
 
-        normalized_url = url_normalize(href)
-        if normalized_url not in links:
-            links.append(normalized_url)
+            normalized_url = url_normalize(href)
+            if normalized_url not in links:
+                links.append(normalized_url)
+        except:
+            print(f"Parsing URL in anchor tag failed. Skipping to next...")
 
     return links
 
@@ -83,18 +88,20 @@ def get_all_images(driver: WebDriver, page_url, store_binary):
     images = []
     imgs = driver.find_elements_by_tag_name("img")
     for img in imgs:
+        try:
+            src = img.get_attribute("src")
+            o = urlparse(src)
+            if o.scheme in ["http", "https"]:
+                page = page_url
+                filename = src.split("/")[-1]
+                content_type = guess_type_of(src, strict=True)
+                data = requests.get(src, verify=False).content if store_binary else None
+                accessed_time = datetime.now()
 
-        src = img.get_attribute("src")
-        o = urlparse(src)
-        if o.scheme in ["http", "https"]:
-            page = page_url
-            filename = src.split("/")[-1]
-            content_type = guess_type_of(src, strict=True)
-            data = requests.get(src, verify=False).content if store_binary else None
-            accessed_time = datetime.now()
-
-            image = Image(page, filename, content_type, data, accessed_time)
-            images.append(image)
+                image = Image(page, filename, content_type, data, accessed_time)
+                images.append(image)
+        except:
+            print(f"Getting image source failed. Skipping to next image...")
 
     return images
 
