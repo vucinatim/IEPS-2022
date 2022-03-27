@@ -1,0 +1,12 @@
+The filesize of the exported db file exceeds 100mb and can therefore not be uploaded to the repository on github.
+Instead I provided a dropbox link so that the file can be downloaded.
+The db doesnt contain any binary files and the size is still bigger somehow 
+(it is impossible to get it below 100mb without deleting rows in pages table)
+
+
+DB file link
+--------------------------------------------------------------------------------------
+
+https://www.dropbox.com/s/rkrb2gkyrwpk7sh/db?dl=0
+
+--------------------------------------------------------------------------------------
