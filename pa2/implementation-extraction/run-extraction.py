@@ -1,9 +1,11 @@
 import sys
-import os
 import codecs
 import glob
-import regex
-import json
+import re
+
+from A import re_extract
+from B import xpath_extract
+from C import auto_extract
 
 
 def get_html(site_names):
@@ -13,65 +15,22 @@ def get_html(site_names):
         files = glob.glob(path)
         pages = {}
         for f_path in files:
-            f = codecs.open(f_path, "r", encoding="LATIN-1").read()
-            f_name = f_path.split("/")[-1]
-            pages[f_name] = str(f)
+            with codecs.open(f_path, "r", encoding="utf-8", errors="ignore") as f:
+                f_name = f_path.split("/")[-1]
+                pages[f_name] = re.sub(" +", " ", str(f.read()))
 
         sites.append(pages)
 
     return sites
 
 
-def re_extract(sites):
-    for site in sites:
-        for p_name, p_html in site.items():
-            print(f"\n {p_name}")
-
-            title = regex.findall(r"<a.*<b>.*?<\/a>(?=<br>)", p_html)
-            content = regex.findall(
-                r'<span class="normal">.*?(?=<\/td>)', p_html, flags=regex.S
-            )
-            list_price = regex.findall(r"(?<=List Price:.*?)\$.*?(?=<)", p_html)
-            price = regex.findall(r"(?<=>Price:.*?)\$.*?(?=<)", p_html)
-            saving = regex.findall(r"(?<=You Save:.*?)\$.*?(?= )", p_html)
-            saving_percent = regex.findall(r"(?<=You Save:.*?\$.*? ).*?(?=\<)", p_html)
-
-            print(len(content))
-
-            if not title:
-                continue
-
-            data_items = []
-            for i in range(len(title)):
-                dict = {
-                    "Title": title[i],
-                    "Content": content[i],
-                    "ListPrice": list_price[i],
-                    "Price": price[i],
-                    "Saving": saving[i],
-                    "SavingPercent": saving_percent[i],
-                }
-                data_items.append(dict)
-
-                json_object = json.dumps(dict, indent=4)
-                print(json_object)
-
-    #     site["extracted"] = data_items
-
-    # return sites
-
-
-def xpath_extract(sites):
-    pass
-
-
-def auto_extract(sites):
-    pass
-
+# -*- coding: UTF-8 -*-
 
 if __name__ == "__main__":
+    sys.stdin.reconfigure(encoding="utf-8")
+    sys.stdout.reconfigure(encoding="utf-8")
 
-    SITE_NAMES = ["overstock.com", "rtvslo.si"]
+    SITE_NAMES = ["overstock.com", "rtvslo.si", "ceneje.si"]
 
     if len(sys.argv) < 2:
         print("Error: no arguments passed.")
