@@ -1,0 +1,193 @@
+---- overstock.com\jewelry01.html ----
+[
+  {
+    "Title": "10-kt. Seven Diamond Ladies Heart Ring (0.08 TW)",
+    "Content": "This ladies fashion ring dazzles with hearts and diamonds. The gold band is crafted into delicate, open hearts. Seven brilliant-cut diamonds add a bit of sparkle.",
+    "ListPrice": "$149.00",
+    "Price": "$69.99",
+    "Saving": "$79.01",
+    "SavingPercent": "(53%)"
+  },
+  {
+    "Title": "10-Kt. Diamond Ring (.25 TW)",
+    "Content": "Nineteen round diamonds accent this 10-karat yellow gold ring with filigree accents.",
+    "ListPrice": "$250.00",
+    "Price": "$74.90",
+    "Saving": "$175.10",
+    "SavingPercent": "(70%)"
+  },
+  {
+    "Title": "10-kt. Pearl and Diamond Butterfly Earrings",
+    "Content": "Perfectly proportioned 5.5- to 6-mm cultured pearls on 10-karat yellow gold settings highlight these petite earrings. A dainty rhodium-plated gold butterfly studded with a diamond (0.02 total carat weight, J-K color, I-2 clarity) rests atop each pearl.",
+    "ListPrice": "$149.00",
+    "Price": "$42.99",
+    "Saving": "$106.01",
+    "SavingPercent": "(71%)"
+  },
+  {
+    "Title": "14-kt. Diamond 'S' Tennis Bracelet (2.00 TW)",
+    "Content": "Invest in a swirl of light with this diamond 'S' tennis bracelet. Crafted in 14-karat gold, the piece features 49 diamonds for two full carats. The 7.25-inch bracelet closes with a pressure clasp.",
+    "ListPrice": "$1,539.99",
+    "Price": "$499.99",
+    "Saving": "$1,040.00",
+    "SavingPercent": "(67%)"
+  },
+  {
+    "Title": "10-kt. Diamond Band Fashion Ring (.11 TW)",
+    "Content": "Crafted in white and yellow gold, this ring displays a band of seven round diamonds. Order your new gold and diamond fashion ring today at our low, online price.",
+    "ListPrice": "$179.99",
+    "Price": "$79.99",
+    "Saving": "$100.00",
+    "SavingPercent": "(55%)"
+  },
+  {
+    "Title": "14-kt. White Gold, Pearl and Diamond Ring",
+    "Content": "Show your romantic side with this 14-karat diamond and pearl ring. Set in a domed band of 14-karat white gold, the ring features a 7-mm cultured pearl. Curved rows of diamonds flank the pearl.",
+    "ListPrice": "$419.99",
+    "Price": "$149.99",
+    "Saving": "$270.00",
+    "SavingPercent": "(64%)"
+  },
+  {
+    "Title": "14-kt. Gold Diamond Present Future Pendant (.25TW)",
+    "Content": "Designed with three large, sparkling diamonds to represent past, present, and future, this stunning pendant is set in gleaming 14-karat gold. It incorporates a total of nine diamonds (0.25 total carat weight, K color, I-2 to I-3 clarity).",
+    "ListPrice": "$299.00",
+    "Price": "$149.99",
+    "Saving": "$149.01",
+    "SavingPercent": "(49%)"
+  },
+  {
+    "Title": "14-kt. Diamond Solitaire Pendant (.33 TW)",
+    "Content": "In this simple, yet elegant pendant, a round brilliant diamond (0.33 total carat weight, H-J color, I-1 to I-2 clarity) is prong-set in 14-karat white gold.",
+    "ListPrice": "$1,019.99",
+    "Price": "$319.99",
+    "Saving": "$700.00",
+    "SavingPercent": "(68%)"
+  },
+  {
+    "Title": "14-kt. Diamond Solitaire Earrings (0.33 TW)",
+    "Content": "Dazzle your way into her heart, with these classic diamond solitaire earrings. Two brilliant-cut diamonds (0.33 total carat weight, G-H color, I-1 to I-2 clarity) are set in four prongs of 14-karat white gold.",
+    "ListPrice": "$639.99",
+    "Price": "$199.99",
+    "Saving": "$440.00",
+    "SavingPercent": "(68%)"
+  },
+  {
+    "Title": "14-kt. Diamond Cross Pendant (.06 TW)",
+    "Content": "Over a cleanly sculpted Roman cross of 14-karat white gold drapes a slender banner containing three bright prong-set round diamonds (0.06 total carat weight, H-I color, I clarity).",
+    "ListPrice": "$305.00",
+    "Price": "$119.99",
+    "Saving": "$185.01",
+    "SavingPercent": "(60%)"
+  },
+  {
+    "Title": "14-kt. Diamond Solitaire Stud Earrings (.50 TW)",
+    "Content": "Every jewelry collection needs a classic pair of diamond solitaire earrings. Set in 14-karat gold, these diamond stud earrings (0.50 total carat weight) have post backs with butterfly clasps.",
+    "ListPrice": "$999.99",
+    "Price": "$359.99",
+    "Saving": "$640.00",
+    "SavingPercent": "(64%)"
+  },
+  {
+    "Title": "14-kt. Cultured Pearl Diamond Earrings",
+    "Content": "Create an elegant appearance with these pearl and diamond stud earrings. Set in 14-karat yellow gold, each earring features an 8 to 8.5-mm cultured white pearl. Prong-set round diamonds accent the pearls. Posts with butterfly clasps secure the earrings.",
+    "ListPrice": "$508.99",
+    "Price": "$179.99",
+    "Saving": "$329.00",
+    "SavingPercent": "(64%)"
+  },
+  {
+    "Title": "14-kt. Diamond 7.5-8 mm Pearl Pendant",
+    "Content": "Add a classic to your jewelry collection with this 14-karat gold, diamond, and pearl necklace. The 7.5-8 mm cultured white pearl creates the focal point of the pendant, while a diamond (0.10 TW) adds sparkle.",
+    "ListPrice": "$196.99",
+    "Price": "$69.99",
+    "Saving": "$127.00",
+    "SavingPercent": "(64%)"
+  },
+  {
+    "Title": "14-kt. Diamond Solitaire Earrings (.50 TW)",
+    "Content": "This earring set has two brilliant-cut diamonds (0.50 total carat weight, G-H color, I-1 to I-2 clarity) set in four prongs of 14-karat white gold.",
+    "ListPrice": "$1,369.99",
+    "Price": "$409.99",
+    "Saving": "$960.00",
+    "SavingPercent": "(70%)"
+  },
+  {
+    "Title": "14-kt White Gold Diamond Band (0.50 TW)",
+    "Content": "Crafted of 14-karat white gold, this stylish ring features a bright row of 20 channel-set, princess-cut baguette diamonds. Treat her like royalty and save when you buy jewelry treasures at Overstock.com.",
+    "ListPrice": "$1,635.00",
+    "Price": "$609.99",
+    "Saving": "$1,025.01",
+    "SavingPercent": "(62%)"
+  }
+]
+
+---- overstock.com\jewelry02.html ----
+[
+  {
+    "Title": "14-kt. Green Jade Hoops",
+    "Content": "Hoops of cool green jade rest between 14-karat yellow gold endpieces. The hoops graduate in thickness from 3 mm at the ends to 6 mm in the center, with approximately 29 mm overall diameter.",
+    "ListPrice": "$90.00",
+    "Price": "$46.99",
+    "Saving": "$43.01",
+    "SavingPercent": "(47%)"
+  },
+  {
+    "Title": "14-kt. Jade Doughnut Pendant",
+    "Content": "The 25-mm disk hangs delicately from a 14-karat gold chain. The disk features a dramatic gold Chinese character in the center, accompanied by four stylized gold bees.",
+    "ListPrice": "$150.00",
+    "Price": "$48.99",
+    "Saving": "$101.01",
+    "SavingPercent": "(67%)"
+  },
+  {
+    "Title": "14-kt. Charcoal Jade and Ruby Elephant Pendant",
+    "Content": "Carved of rich dark grey jade, this elephant pendant has 14-karat yellow gold applied to mark the feet, tusk, tail, and blanket. A 2-mm round faceted ruby in a gold bezel setting forms the eye. The pendant hangs from an 18-inch chain.",
+    "ListPrice": "$100.00",
+    "Price": "$28.99",
+    "Saving": "$71.01",
+    "SavingPercent": "(71%)"
+  },
+  {
+    "Title": "14-kt. Carved Lavender Jade Earrings",
+    "Content": "Luscious 8-mm lavender jade balls, carved with intricate Asian style, dangle from a 14-karat yellow gold French hook.",
+    "ListPrice": "$80.00",
+    "Price": "$39.99",
+    "Saving": "$40.01",
+    "SavingPercent": "(50%)"
+  },
+  {
+    "Title": "14-kt. Jade Cross Pendant",
+    "Content": "Green jade and gold create this beautiful cross pendant. Cylindrical bars of green jade feature caps and center of 14-karat yellow gold.",
+    "ListPrice": "$150.00",
+    "Price": "$49.99",
+    "Saving": "$100.01",
+    "SavingPercent": "(66%)"
+  },
+  {
+    "Title": "14-kt. Multicolored Jade Earrings",
+    "Content": "A delicate wrapping of 14-karat yellow gold wire holds six 6 x 4 pear shapes of jade in various shades: brilliant green, orange, lavender, black, pale yellow, and white. The post earrings have butterfly backs.",
+    "ListPrice": "$375.00",
+    "Price": "$99.99",
+    "Saving": "$275.01",
+    "SavingPercent": "(73%)"
+  },
+  {
+    "Title": "14-kt. Multicolored Jade Ring",
+    "Content": "A delicate wrapping of 14-karat yellow gold wire holds six 6 x 4 ovals of jade in various shades: brilliant green, orange, lavender, black, pale yellow, and white. A narrow gold band divides to support the setting.",
+    "ListPrice": "$250.00",
+    "Price": "$56.99",
+    "Saving": "$193.01",
+    "SavingPercent": "(77%)"
+  },
+  {
+    "Title": "14-kt. Onyx and Ruby Elephant Pendant",
+    "Content": "Carved of rich black onyx, this elephant pendant has 14-karat yellow gold applied to mark the feet, tusk, tail, and blanket. A 2-mm round faceted ruby in a gold bezel setting forms the eye. The pendant hangs from an 18-inch chain.",
+    "ListPrice": "$100.00",
+    "Price": "$35.99",
+    "Saving": "$64.01",
+    "SavingPercent": "(64%)"
+  }
+]
+
+

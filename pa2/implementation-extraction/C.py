@@ -1,12 +1,6 @@
 import enum
 import re
-
-
-# Token-Type
-class TT(enum.Enum):
-    tag = 1
-    string = 2
-    comment = 3
+from tokenizer import preprocess_html, tokenize, Token, TT
 
 
 # Match-Type
@@ -17,87 +11,128 @@ class MT(enum.Enum):
     iterator = 4
 
 
-def preprocess_html(html):
-    body = re.search(r"<body.*<\/body>", html, flags=re.S).group(0)
-    body = re.sub(r"<script.*?<\/script>", "", body, flags=re.S)
-    body = re.sub(r"<!--.*?-->", "", body, flags=re.S)
-    body = re.sub(r"\n", "", body)
-    return body
+class WrapperEntry:
+    def __init__(self, tokens, mtype):
+        self.tokens = tokens
+        self.mtype = mtype
+
+    def compare(self, t):
+        return self.mtype == MT.normal and t.compare(self.tokens[0])
+
+    def __str__(self):
+        tks = "".join([t.__str__() for t in self.tokens])
+        if self.mtype == MT.normal:
+            return tks
+        if self.mtype == MT.field:
+            return "#PCDATA"
+        if self.mtype == MT.optional:
+            return f"( {tks} )?"
+        if self.mtype == MT.iterator:
+            return f"( {tks} )+"
 
 
-def tokenize(html):
-    tokens = []
+def search_down(terminal, tokens, idx):
+    stack = -1
 
-    idx = -1
-    while idx < len(html) - 1:
+    while True:
+        if idx > len(tokens) - 1:
+            return False
+        if stack == 0:
+            if terminal.compare(tokens[idx]):
+                return idx
+
+        if terminal.tag == tokens[idx].tag:
+            if tokens[idx].ttype == TT.open:
+                stack += 1
+            elif tokens[idx].ttype == TT.close:
+                stack -= 1
+
         idx += 1
-        token = ""
-        c = html[idx]
-        c_n = html[idx + 1]
 
-        if c == "<" and c_n == "/":
-            while c != ">" and idx < len(html) - 1:
-                token += c
-                idx += 1
-                c = html[idx]
-            token += c
-            tokens.append((token, TT.tag, token))
-            continue
 
-        if c == "<" and c_n == "!":
-            while c != ">" and idx < len(html) - 1:
-                token += c
-                idx += 1
-                c = html[idx]
-            token += c
-            tokens.append(("<!-- -->", TT.comment, token))
-            continue
+def search_up(terminal, tokens, idx):
+    stack = -1
 
-        if c == "<" and c_n != "/" and c_n != "!":
-            while c != ">" and idx < len(html) - 1:
-                token += c
-                idx += 1
-                c = html[idx]
-            token += c
-            tag = (token.split(" ")[0] + ">").replace(">>", ">")
-            tokens.append((tag, TT.tag, token))
-            continue
+    while True:
+        if not idx >= 0:
+            return False
+        if stack == 0:
+            if terminal.compare(tokens[idx]):
+                return idx
 
-        if c not in [" ", "\n", "\t"]:
-            while c_n != "<" and idx < len(html) - 2:
-                token += c
-                idx += 1
-                c = html[idx]
-                c_n = html[idx + 1]
-            if token:
-                tokens.append((token, TT.string, token))
+        if terminal.tag == tokens[idx].tag:
+            if tokens[idx].ttype == TT.close:
+                stack += 1
+            elif tokens[idx].ttype == TT.open:
+                stack -= 1
 
-    return tokens
+        idx -= 1
 
 
 def match_iterator(a, b, idx_a, idx_b):
-    terminal_tag = a[idx_a - 1]
+    term_idx = idx_a - 1
+    terminal_tag = a[term_idx]
+    while not terminal_tag.is_tag():
+        term_idx -= 1
+        terminal_tag = a[term_idx]
+
+    if terminal_tag.is_self_closing():
+        print("Failed to match iterator")
+        print(f"Terminal TAG: {terminal_tag}")
+        return None, idx_a, idx_b
 
     for idx, smp in [(idx_a, a), (idx_b, b)]:
         init_idx = idx
-        while True:
-            if idx > len(smp) - 1:
+
+        # Find square candidate down
+        idx = search_down(terminal_tag, smp, idx)
+        if not idx:
+            print("Search down failed")
+            continue
+        smp1 = list(smp[init_idx : idx + 1])
+
+        # Find square candidate up
+        idx = search_up(smp[init_idx], smp, init_idx - 1)
+        if not idx:
+            print("Search up failed")
+            continue
+        smp2 = list(smp[idx:init_idx])
+
+        if len(smp1) - len(smp2) > 10:
+            print("! Length difference too great !")
+            idx = search_up(smp[init_idx], smp, idx - 1)
+            if not idx:
+                print("Search up SECOND failed")
+                continue
+            smp2 = list(smp[idx:init_idx])
+
+        print("Square 1:")
+        print(*smp1)
+
+        print("Square 2:")
+        print(*smp2)
+
+        square = road_runner(smp1, smp2)
+
+        if not square:
+            break
+
+        idx = init_idx
+        print(f"terminal: {terminal_tag}")
+        while idx < len(smp) - 1:
+            if smp[idx].compare(smp[init_idx]):
+                idx = search_down(terminal_tag, smp, idx)
+                idx += 1
+            else:
                 break
-            if smp[idx] == terminal_tag:
-                smp1 = list(smp[init_idx : idx + 1])
-                smp2 = []
-                idx = init_idx
-                while True:
-                    if smp[idx] == smp[init_idx]:
-                        smp2 = list(smp[idx : init_idx + 1])
-                        idx -= 1
-                        break
 
-                square = road_runner(smp1, smp2)
+        if init_idx == idx_a:
+            return square, idx - 1, idx_b - 1
+        elif init_idx == idx_b:
+            return square, idx_a - 1, idx - 1
 
-                return (MT.iterator, road_runner(smp1, smp2))
-
-            idx += 1
+    print("Failed to match iterator")
+    return None, idx_a, idx_b
 
 
 def match_optional(a, b, idx_a, idx_b):
@@ -110,62 +145,180 @@ def match_optional(a, b, idx_a, idx_b):
     optional_a = []
     optional_b = []
 
+    a_stack = 0
+    b_stack = 0
+
     while True:
         idx_a += 1
         idx_b += 1
 
         if idx_a > len(a) - 1 or idx_b > len(b) - 1:
             print("Error: couldn't find optional match")
-            exit()
-            return None
+            return False, init_idx_b + 1, init_idx_b + 1
+
+        optional_a.append(a[idx_a - 1])
+        optional_b.append(b[idx_b - 1])
 
         token_a = a[idx_a]
         token_b = b[idx_b]
 
-        optional_a.append(token_a[2])
-        optional_b.append(token_b[2])
+        if (
+            token_a.tag == tag_b.tag
+            and tag_b.ttype == TT.close
+            and token_a.ttype == TT.open
+        ):
+            a_stack += 1
+        if (
+            token_b.tag == tag_a.tag
+            and tag_a.ttype == TT.close
+            and token_b.ttype == TT.open
+        ):
+            b_stack += 1
 
-        if token_a == tag_b:
-            return (MT.optional, optional_a), idx_a, init_idx_b
+        if token_a.compare(tag_b):
+            if a_stack == 0:
+                print(f"Opt match: {token_a}, {tag_b}")
+                return optional_a, idx_a - 1, init_idx_b - 1
+            else:
+                a_stack -= 1
 
-        if token_b == tag_a:
-            return (MT.optional, optional_b), init_idx_a, idx_b
+        if token_b.compare(tag_a):
+            if b_stack == 0:
+                print(f"Opt match: {token_b}, {tag_a}")
+                return optional_b, init_idx_a - 1, idx_b - 1
+            else:
+                b_stack -= 1
+
+
+def match_str_tag(a, b, idx_a, idx_b):
+    token_a: Token = a[idx_a]
+    token_b: Token = b[idx_b]
+
+    match = []
+    if token_a.is_tag():
+        if token_a.is_self_closing():
+            match.append(token_a)
+            idx_a += 1
+        else:
+            while True:
+                match.append(a[idx_a])
+                if a[idx_a].tag == token_a.tag and a[idx_a].ttype == TT.close:
+                    break
+                idx_a += 1
+        return match, idx_a, idx_b
+
+    if token_b.is_tag():
+        if token_b.is_self_closing():
+            match.append(token_b)
+            idx_b += 1
+        else:
+            while True:
+                match.append(b[idx_b])
+                if b[idx_b].tag == token_b.tag and b[idx_b].ttype == TT.close:
+                    break
+                idx_b += 1
+        return match, idx_a, idx_b
+
+
+def generalize_wrapper(wrapper, match):
+    new_wrapper = []
+
+    open_token = match[0]
+    close_token = match[-1]
+
+    idx = len(wrapper) - 1
+    while idx >= 0:
+        if wrapper[idx].compare(close_token):
+            while not wrapper[idx].compare(open_token):
+                idx -= 1
+        else:
+            new_wrapper = wrapper[0 : idx + 1]
+            break
+
+        idx -= 1
+
+    print(f"Wrapper (old, new) ({len(wrapper)}, {len(new_wrapper)})")
+
+    return new_wrapper
 
 
 def road_runner(a, b):
     wrapper = []
-    spaces = 0
     idx_a, idx_b = 0, 0
 
-    token_a = a[idx_a]
-    token_b = b[idx_b]
-
+    count = 0
     while True:
         if idx_a > len(a) - 1 or idx_b > len(b) - 1:
             return wrapper
 
+        token_a: Token = a[idx_a]
+        token_b: Token = b[idx_b]
+
         # TOKEN mismatch
-        if token_a[2] != token_b[2]:
+        if not token_a.compare(token_b):
             # TAG mismatch
-            if token_a[1] == TT.tag and token_b == TT.tag:
+            if token_a.is_tag() and token_b.is_tag():
+                print(f"{count} - Matching iterator (a, b): ({token_a}, {token_b})")
                 match, idx_a, idx_b = match_iterator(a, b, idx_a, idx_b)
-                if not match:
+                if match:
+                    wrapper = generalize_wrapper(wrapper, match)
+                    wrapper.append(WrapperEntry(match, MT.iterator))
+                else:
+                    print(f"{count} - Matching optional (a, b): ({token_a}, {token_b})")
                     match, idx_a, idx_b = match_optional(a, b, idx_a, idx_b)
-                wrapper.append(match)
+                    if not match:
+                        print_wrapper(wrapper)
+                        return False
+                    wrapper.append(WrapperEntry(match, MT.optional))
             # STRING mismatch
-            elif token_a[1] == TT.string and token_b == TT.string:
-                wrapper.append((MT.normal, "#PCDATA"))
+            elif token_a.is_string() and token_b.is_string():
+                print(f"{count} - Matching string (a, b): ({token_a}, {token_b})")
+                wrapper.append(WrapperEntry(["#PCDATA"], MT.field))
             else:
-                print("Error: STRING - TAG mismatch occured")
+                print(f"(STRING, TAG) - ({token_a}, {token_b}) mismatch occured")
+                match, idx_a, idx_b = match_str_tag(a, b, idx_a, idx_b)
+                wrapper.append(WrapperEntry(match, MT.optional))
+
+            # print("\n")
+            # print_wrapper(wrapper)
+            # print("\n")
         else:
-            wrapper.append(token_a[2])
+            wrapper.append(WrapperEntry([token_a], MT.normal))
+            print(f"{count} - Found Match: ({token_a}, {token_b})")
 
         idx_a += 1
         idx_b += 1
+        count += 1
+
+        # print_wrapper(wrapper)
+
+
+def sp_print(str, spaces):
+    out = " " * spaces + str
+    print(out)
+
+
+def print_wrapper(wrapper):
+    spaces = 0
+    for we in wrapper:
+        if we.mtype == MT.normal:
+            if we.tokens[0].ttype == TT.open:
+                sp_print(we.__str__(), spaces)
+                if not we.tokens[0].is_self_closing():
+                    spaces += 2
+            elif we.tokens[0].ttype == TT.close:
+                spaces -= 2
+                sp_print(we.__str__(), spaces)
+            else:
+                sp_print(we.__str__(), spaces)
+        else:
+            sp_print(we.__str__(), spaces)
 
 
 def auto_extract(sites):
     for idx, site in enumerate(sites):
+        if idx != 2:
+            continue
         p_names = list(site.keys())
         p_htmls = list(site.values())
 
@@ -174,14 +327,16 @@ def auto_extract(sites):
         tokens_a = tokenize(a)
         tokens_b = tokenize(b)
 
-        neki = [0, 1, 2, 3, 4, 5]
-        print(neki[0:4])
+        print(f"---- {p_names[0]} ----")
+        print("TOKENS:", *tokens_a[:20], "...", sep=" ", end="\n\n")
 
-        # out = road_runner(tokens_a, tokens_b)
+        print(f"---- {p_names[1]} ----")
+        print("TOKENS:", *tokens_b[:20], "...", sep=" ", end="\n\n")
+
+        wrapper = road_runner(tokens_a, tokens_b)
 
         print(f"---- {p_names[0]} ----")
-        print(*tokens_a, sep="\n")
+        # print(*wrapper, sep="\n")
+        print_wrapper(wrapper)
 
-        print(f"---- {p_names[0]} ----")
-        print(*tokens_b, sep="\n")
         exit()

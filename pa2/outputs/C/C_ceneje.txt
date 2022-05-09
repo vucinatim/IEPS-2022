@@ -1,0 +1,2459 @@
+---- ceneje.si\APPLE prenosnik MacBook Pro 13.3 M1 (8-CPU + 8-GPU) 8GB_256GB, Silver - Ceneje.si.html ----
+TOKENS: <body> <div> <main> </main> </div> <div> <div> <nav> <div> <span> <a> Akcije  </a> </span> <span> <a> Prenesi Chrome dodatek  </a> </span> <span> ...
+
+---- ceneje.si\Prenosnik ACER Nitro 5 AN517-52-577J i5-10300H_8GB_SSD 512GB_17.3 FHD IPS_GTX 1650 4GB_brez OS crn - 43,9 cm (17,3) - Ceneje.si.html ----
+TOKENS: <body> <div> <main> </main> </div> <div> <div> <nav> <div> <span> <a> Akcije  </a> </span> <span> <a> Prenesi Chrome dodatek  </a> </span> <span> ...
+
+0 - Found Match: (<body>, <body>)
+1 - Found Match: (<div>, <div>)
+2 - Found Match: (<main>, <main>)
+3 - Found Match: (</main>, </main>)
+4 - Found Match: (</div>, </div>)
+5 - Found Match: (<div>, <div>)
+6 - Found Match: (<div>, <div>)
+7 - Found Match: (<nav>, <nav>)
+8 - Found Match: (<div>, <div>)
+9 - Found Match: (<span>, <span>)
+10 - Found Match: (<a>, <a>)
+11 - Found Match: (Akcije , Akcije )
+12 - Found Match: (</a>, </a>)
+13 - Found Match: (</span>, </span>)
+14 - Found Match: (<span>, <span>)
+15 - Found Match: (<a>, <a>)
+16 - Found Match: (Prenesi Chrome dodatek , Prenesi Chrome dodatek )
+17 - Found Match: (</a>, </a>)
+18 - Found Match: (</span>, </span>)
+19 - Found Match: (<span>, <span>)
+20 - Found Match: (<a>, <a>)
+21 - Found Match: (Katalogi, Katalogi)
+22 - Found Match: (</a>, </a>)
+23 - Found Match: (</span>, </span>)
+24 - Found Match: (<span>, <span>)
+25 - Found Match: (<a>, <a>)
+26 - Found Match: (Nasveti, Nasveti)
+27 - Found Match: (</a>, </a>)
+28 - Found Match: (</span>, </span>)
+29 - Found Match: (<span>, <span>)
+30 - Found Match: (<a>, <a>)
+31 - Found Match: (Vpis spletne trgovine, Vpis spletne trgovine)
+32 - Found Match: (</a>, </a>)
+33 - Found Match: (</span>, </span>)
+34 - Found Match: (</div>, </div>)
+35 - Found Match: (</nav>, </nav>)
+36 - Found Match: (</div>, </div>)
+37 - Found Match: (<header>, <header>)
+38 - Found Match: (<nav>, <nav>)
+39 - Found Match: (<div>, <div>)
+40 - Found Match: (<div>, <div>)
+41 - Found Match: (<span>, <span>)
+42 - Found Match: (3.300.351 izdelkov , 3.300.351 izdelkov )
+43 - Found Match: (<span>, <span>)
+44 - Found Match: (</span>, </span>)
+45 - Found Match: (580 trgovin , 580 trgovin )
+46 - Found Match: (<span>, <span>)
+47 - Found Match: (</span>, </span>)
+48 - Found Match: (8.650 znamk , 8.650 znamk )
+49 - Found Match: (</span>, </span>)
+50 - Found Match: (<ul>, <ul>)
+51 - Found Match: (<li>, <li>)
+52 - Found Match: (<a>, <a>)
+53 - Found Match: (Akcije , Akcije )
+54 - Found Match: (</a>, </a>)
+55 - Found Match: (</li>, </li>)
+56 - Found Match: (<li>, <li>)
+57 - Found Match: (<a>, <a>)
+58 - Found Match: (Prenesi Chrome dodatek , Prenesi Chrome dodatek )
+59 - Found Match: (</a>, </a>)
+60 - Found Match: (</li>, </li>)
+61 - Found Match: (<li>, <li>)
+62 - Found Match: (<a>, <a>)
+63 - Found Match: (Katalogi, Katalogi)
+64 - Found Match: (</a>, </a>)
+65 - Found Match: (<span>, <span>)
+66 - Found Match: (</span>, </span>)
+67 - Found Match: (</li>, </li>)
+68 - Found Match: (<li>, <li>)
+69 - Found Match: (<a>, <a>)
+70 - Found Match: (Nasveti, Nasveti)
+71 - Found Match: (</a>, </a>)
+72 - Found Match: (<span>, <span>)
+73 - Found Match: (</span>, </span>)
+74 - Found Match: (</li>, </li>)
+75 - Found Match: (<li>, <li>)
+76 - Found Match: (<a>, <a>)
+77 - Found Match: (Vpis spletne trgovine, Vpis spletne trgovine)
+78 - Found Match: (</a>, </a>)
+79 - Found Match: (</li>, </li>)
+80 - Found Match: (</ul>, </ul>)
+81 - Found Match: (<div>, <div>)
+82 - Found Match: (<div>, <div>)
+83 - Found Match: (<div>, <div>)
+84 - Found Match: (<div>, <div>)
+85 - Found Match: (<div>, <div>)
+86 - Found Match: (</div>, </div>)
+87 - Found Match: (</div>, </div>)
+88 - Found Match: (</div>, </div>)
+89 - Found Match: (</div>, </div>)
+90 - Found Match: (</div>, </div>)
+91 - Found Match: (</div>, </div>)
+92 - Found Match: (</div>, </div>)
+93 - Found Match: (</nav>, </nav>)
+94 - Found Match: (</header>, </header>)
+95 - Found Match: (<div>, <div>)
+96 - Found Match: (<div>, <div>)
+97 - Found Match: (<div>, <div>)
+98 - Found Match: (<div>, <div>)
+99 - Found Match: (<a>, <a>)
+100 - Found Match: (<img>, <img>)
+101 - Found Match: (</a>, </a>)
+102 - Found Match: (</div>, </div>)
+103 - Found Match: (<div>, <div>)
+104 - Found Match: (<div>, <div>)
+105 - Found Match: (<div>, <div>)
+106 - Found Match: (<div>, <div>)
+107 - Found Match: (<img>, <img>)
+108 - Found Match: (<h6>, <h6>)
+109 - Found Match: (Kategorije, Kategorije)
+110 - Found Match: (</h6>, </h6>)
+111 - Found Match: (</div>, </div>)
+112 - Found Match: (</div>, </div>)
+113 - Found Match: (<div>, <div>)
+114 - Found Match: (<form>, <form>)
+115 - Found Match: (<input>, <input>)
+116 - Found Match: (<div>, <div>)
+117 - Found Match: (<div>, <div>)
+118 - Found Match: (</div>, </div>)
+119 - Found Match: (<img>, <img>)
+120 - Found Match: (</div>, </div>)
+121 - Found Match: (</form>, </form>)
+122 - Found Match: (</div>, </div>)
+123 - Found Match: (</div>, </div>)
+124 - Found Match: (<div>, <div>)
+125 - Found Match: (<a>, <a>)
+126 - Found Match: (<img>, <img>)
+127 - Found Match: (<h6>, <h6>)
+128 - Found Match: (Kategorije, Kategorije)
+129 - Found Match: (</h6>, </h6>)
+130 - Found Match: (</a>, </a>)
+131 - Found Match: (</div>, </div>)
+132 - Found Match: (<div>, <div>)
+133 - Found Match: (<div>, <div>)
+134 - Found Match: (<ul>, <ul>)
+135 - Found Match: (<li>, <li>)
+136 - Found Match: (<a>, <a>)
+137 - Found Match: (Avdio &amp; Video, Avdio &amp; Video)
+138 - Found Match: (</a>, </a>)
+139 - Found Match: (</li>, </li>)
+140 - Found Match: (<li>, <li>)
+141 - Found Match: (<a>, <a>)
+142 - Found Match: (Avto Oprema, Avto Oprema)
+143 - Found Match: (</a>, </a>)
+144 - Found Match: (</li>, </li>)
+145 - Found Match: (<li>, <li>)
+146 - Found Match: (<a>, <a>)
+147 - Found Match: (Dom &amp; Vrt, Dom &amp; Vrt)
+148 - Found Match: (</a>, </a>)
+149 - Found Match: (</li>, </li>)
+150 - Found Match: (<li>, <li>)
+151 - Found Match: (<a>, <a>)
+152 - Found Match: (Erotika, Erotika)
+153 - Found Match: (</a>, </a>)
+154 - Found Match: (</li>, </li>)
+155 - Found Match: (<li>, <li>)
+156 - Found Match: (<a>, <a>)
+157 - Found Match: (Foto, Foto)
+158 - Found Match: (</a>, </a>)
+159 - Found Match: (</li>, </li>)
+160 - Found Match: (<li>, <li>)
+161 - Found Match: (<a>, <a>)
+162 - Found Match: (Lepota in zdravje, Lepota in zdravje)
+163 - Found Match: (</a>, </a>)
+164 - Found Match: (</li>, </li>)
+165 - Found Match: (<li>, <li>)
+166 - Found Match: (<a>, <a>)
+167 - Found Match: (Oblačila in obutev, Oblačila in obutev)
+168 - Found Match: (</a>, </a>)
+169 - Found Match: (</li>, </li>)
+170 - Found Match: (<li>, <li>)
+171 - Found Match: (<a>, <a>)
+172 - Found Match: (Pisarna in šola, Pisarna in šola)
+173 - Found Match: (</a>, </a>)
+174 - Found Match: (</li>, </li>)
+175 - Found Match: (<li>, <li>)
+176 - Found Match: (<a>, <a>)
+177 - Found Match: (Računalništvo, Računalništvo)
+178 - Found Match: (</a>, </a>)
+179 - Found Match: (</li>, </li>)
+180 - Found Match: (<li>, <li>)
+181 - Found Match: (<a>, <a>)
+182 - Found Match: (Supermarket, Supermarket)
+183 - Found Match: (</a>, </a>)
+184 - Found Match: (</li>, </li>)
+185 - Found Match: (<li>, <li>)
+186 - Found Match: (<a>, <a>)
+187 - Found Match: (Šport, Šport)
+188 - Found Match: (</a>, </a>)
+189 - Found Match: (</li>, </li>)
+190 - Found Match: (<li>, <li>)
+191 - Found Match: (<a>, <a>)
+192 - Found Match: (Telefonija, Telefonija)
+193 - Found Match: (</a>, </a>)
+194 - Found Match: (</li>, </li>)
+195 - Found Match: (<li>, <li>)
+196 - Found Match: (<a>, <a>)
+197 - Found Match: (Vse za otroke, Vse za otroke)
+198 - Found Match: (</a>, </a>)
+199 - Found Match: (</li>, </li>)
+200 - Found Match: (<li>, <li>)
+201 - Found Match: (<a>, <a>)
+202 - Found Match: (Vse kategorije, Vse kategorije)
+203 - Found Match: (</a>, </a>)
+204 - Found Match: (</li>, </li>)
+205 - Found Match: (</ul>, </ul>)
+206 - Found Match: (</div>, </div>)
+207 - Found Match: (<div>, <div>)
+208 - Found Match: (<div>, <div>)
+209 - Found Match: (<ul>, <ul>)
+210 - Found Match: (<li>, <li>)
+211 - Found Match: (<a>, <a>)
+212 - Found Match: (Televizorji, Televizorji)
+213 - Found Match: (</a>, </a>)
+214 - Found Match: (</li>, </li>)
+215 - Found Match: (<li>, <li>)
+216 - Found Match: (<a>, <a>)
+217 - Found Match: (Glasbeni predvajalniki, Glasbeni predvajalniki)
+218 - Found Match: (</a>, </a>)
+219 - Found Match: (</li>, </li>)
+220 - Found Match: (<li>, <li>)
+221 - Found Match: (<a>, <a>)
+222 - Found Match: (Hi-Fi, Hi-Fi)
+223 - Found Match: (</a>, </a>)
+224 - Found Match: (</li>, </li>)
+225 - Found Match: (<li>, <li>)
+226 - Found Match: (<a>, <a>)
+227 - Found Match: (Hišni kino, Hišni kino)
+228 - Found Match: (</a>, </a>)
+229 - Found Match: (</li>, </li>)
+230 - Found Match: (<li>, <li>)
+231 - Found Match: (<a>, <a>)
+232 - Found Match: (Glasbila, Glasbila)
+233 - Found Match: (</a>, </a>)
+234 - Found Match: (</li>, </li>)
+235 - Found Match: (<li>, <li>)
+236 - Found Match: (<a>, <a>)
+237 - Found Match: (Glasbena oprema, Glasbena oprema)
+238 - Found Match: (</a>, </a>)
+239 - Found Match: (</li>, </li>)
+240 - Found Match: (<li>, <li>)
+241 - Found Match: (<a>, <a>)
+242 - Found Match: (Dodatna oprema za avdio in video, Dodatna oprema za avdio in video)
+243 - Found Match: (</a>, </a>)
+244 - Found Match: (</li>, </li>)
+245 - Found Match: (<li>, <li>)
+246 - Found Match: (<a>, <a>)
+247 - Found Match: (Glasba in film, Glasba in film)
+248 - Found Match: (</a>, </a>)
+249 - Found Match: (</li>, </li>)
+250 - Found Match: (</ul>, </ul>)
+251 - Found Match: (</div>, </div>)
+252 - Found Match: (<div>, <div>)
+253 - Found Match: (<ul>, <ul>)
+254 - Found Match: (<li>, <li>)
+255 - Found Match: (<a>, <a>)
+256 - Found Match: (Pnevmatike, Pnevmatike)
+257 - Found Match: (</a>, </a>)
+258 - Found Match: (</li>, </li>)
+259 - Found Match: (<li>, <li>)
+260 - Found Match: (<a>, <a>)
+261 - Found Match: (Avto oprema in GPS, Avto oprema in GPS)
+262 - Found Match: (</a>, </a>)
+263 - Found Match: (</li>, </li>)
+264 - Found Match: (<li>, <li>)
+265 - Found Match: (<a>, <a>)
+266 - Found Match: (Platišča, Platišča)
+267 - Found Match: (</a>, </a>)
+268 - Found Match: (</li>, </li>)
+269 - Found Match: (<li>, <li>)
+270 - Found Match: (<a>, <a>)
+271 - Found Match: (Avto deli, Avto deli)
+272 - Found Match: (</a>, </a>)
+273 - Found Match: (</li>, </li>)
+274 - Found Match: (<li>, <li>)
+275 - Found Match: (<a>, <a>)
+276 - Found Match: (Avtoakustika, Avtoakustika)
+277 - Found Match: (</a>, </a>)
+278 - Found Match: (</li>, </li>)
+279 - Found Match: (<li>, <li>)
+280 - Found Match: (<a>, <a>)
+281 - Found Match: (Avtodomi, prikolice in oprema, Avtodomi, prikolice in oprema)
+282 - Found Match: (</a>, </a>)
+283 - Found Match: (</li>, </li>)
+284 - Found Match: (<li>, <li>)
+285 - Found Match: (<a>, <a>)
+286 - Found Match: (Motorni deli in oprema, Motorni deli in oprema)
+287 - Found Match: (</a>, </a>)
+288 - Found Match: (</li>, </li>)
+289 - Found Match: (<li>, <li>)
+290 - Found Match: (<a>, <a>)
+291 - Found Match: (Nova vozila, Nova vozila)
+292 - Found Match: (</a>, </a>)
+293 - Found Match: (</li>, </li>)
+294 - Found Match: (</ul>, </ul>)
+295 - Found Match: (</div>, </div>)
+296 - Found Match: (<div>, <div>)
+297 - Found Match: (<ul>, <ul>)
+298 - Found Match: (<li>, <li>)
+299 - Found Match: (<a>, <a>)
+300 - Found Match: (Bela tehnika, Bela tehnika)
+301 - Found Match: (</a>, </a>)
+302 - Found Match: (</li>, </li>)
+303 - Found Match: (<li>, <li>)
+304 - Found Match: (<a>, <a>)
+305 - Found Match: (Mali gospodinjski aparati, Mali gospodinjski aparati)
+306 - Found Match: (</a>, </a>)
+307 - Found Match: (</li>, </li>)
+308 - Found Match: (<li>, <li>)
+309 - Found Match: (<a>, <a>)
+310 - Found Match: (V kuhinji, V kuhinji)
+311 - Found Match: (</a>, </a>)
+312 - Found Match: (</li>, </li>)
+313 - Found Match: (<li>, <li>)
+314 - Found Match: (<a>, <a>)
+315 - Found Match: (Hlajenje in gretje, Hlajenje in gretje)
+316 - Found Match: (</a>, </a>)
+317 - Found Match: (</li>, </li>)
+318 - Found Match: (<li>, <li>)
+319 - Found Match: (<a>, <a>)
+320 - Found Match: (Pohištvo, Pohištvo)
+321 - Found Match: (</a>, </a>)
+322 - Found Match: (</li>, </li>)
+323 - Found Match: (<li>, <li>)
+324 - Found Match: (<a>, <a>)
+325 - Found Match: (Oprema za dom, Oprema za dom)
+326 - Found Match: (</a>, </a>)
+327 - Found Match: (</li>, </li>)
+328 - Found Match: (<li>, <li>)
+329 - Found Match: (<a>, <a>)
+330 - Found Match: (Orodje in stroji, Orodje in stroji)
+331 - Found Match: (</a>, </a>)
+332 - Found Match: (</li>, </li>)
+333 - Found Match: (<li>, <li>)
+334 - Found Match: (<a>, <a>)
+335 - Found Match: (Male živali, Male živali)
+336 - Found Match: (</a>, </a>)
+337 - Found Match: (</li>, </li>)
+338 - Found Match: (<li>, <li>)
+339 - Found Match: (<a>, <a>)
+340 - Found Match: (Gradbeništvo, Gradbeništvo)
+341 - Found Match: (</a>, </a>)
+342 - Found Match: (</li>, </li>)
+343 - Found Match: (<li>, <li>)
+344 - Found Match: (<a>, <a>)
+345 - Found Match: (Vrt in okolica, Vrt in okolica)
+346 - Found Match: (</a>, </a>)
+347 - Found Match: (</li>, </li>)
+348 - Found Match: (</ul>, </ul>)
+349 - Found Match: (</div>, </div>)
+350 - Found Match: (<div>, <div>)
+351 - Found Match: (<ul>, <ul>)
+352 - Found Match: (<li>, <li>)
+353 - Found Match: (<a>, <a>)
+354 - Found Match: (Erotični pripomočki, Erotični pripomočki)
+355 - Found Match: (</a>, </a>)
+356 - Found Match: (</li>, </li>)
+357 - Found Match: (<li>, <li>)
+358 - Found Match: (<a>, <a>)
+359 - Found Match: (Erotična oblačila in perilo, Erotična oblačila in perilo)
+360 - Found Match: (</a>, </a>)
+361 - Found Match: (</li>, </li>)
+362 - Found Match: (<li>, <li>)
+363 - Found Match: (<a>, <a>)
+364 - Found Match: (Erotična drogerija in kozmetika, Erotična drogerija in kozmetika)
+365 - Found Match: (</a>, </a>)
+366 - Found Match: (</li>, </li>)
+367 - Found Match: (<li>, <li>)
+368 - Found Match: (<a>, <a>)
+369 - Found Match: (Erotični filmi in revije, Erotični filmi in revije)
+370 - Found Match: (</a>, </a>)
+371 - Found Match: (</li>, </li>)
+372 - Found Match: (<li>, <li>)
+373 - Found Match: (<a>, <a>)
+374 - Found Match: (Erotične igre in darila, Erotične igre in darila)
+375 - Found Match: (</a>, </a>)
+376 - Found Match: (</li>, </li>)
+377 - Found Match: (</ul>, </ul>)
+378 - Found Match: (</div>, </div>)
+379 - Found Match: (<div>, <div>)
+380 - Found Match: (<ul>, <ul>)
+381 - Found Match: (<li>, <li>)
+382 - Found Match: (<a>, <a>)
+383 - Found Match: (Digitalni fotoaparati, Digitalni fotoaparati)
+384 - Found Match: (</a>, </a>)
+385 - Found Match: (</li>, </li>)
+386 - Found Match: (<li>, <li>)
+387 - Found Match: (<a>, <a>)
+388 - Found Match: (Video kamere, Video kamere)
+389 - Found Match: (</a>, </a>)
+390 - Found Match: (</li>, </li>)
+391 - Found Match: (<li>, <li>)
+392 - Found Match: (<a>, <a>)
+393 - Found Match: (Spominske kartice in čitalci, Spominske kartice in čitalci)
+394 - Found Match: (</a>, </a>)
+395 - Found Match: (</li>, </li>)
+396 - Found Match: (<li>, <li>)
+397 - Found Match: (<a>, <a>)
+398 - Found Match: (Foto oprema, Foto oprema)
+399 - Found Match: (</a>, </a>)
+400 - Found Match: (</li>, </li>)
+401 - Found Match: (</ul>, </ul>)
+402 - Found Match: (</div>, </div>)
+403 - Found Match: (<div>, <div>)
+404 - Found Match: (<ul>, <ul>)
+405 - Found Match: (<li>, <li>)
+406 - Found Match: (<a>, <a>)
+407 - Found Match: (Aparati za osebno nego, Aparati za osebno nego)
+408 - Found Match: (</a>, </a>)
+409 - Found Match: (</li>, </li>)
+410 - Found Match: (<li>, <li>)
+411 - Found Match: (<a>, <a>)
+412 - Found Match: (Aparati za zdravje, Aparati za zdravje)
+413 - Found Match: (</a>, </a>)
+414 - Found Match: (</li>, </li>)
+415 - Found Match: (<li>, <li>)
+416 - Found Match: (<a>, <a>)
+417 - Found Match: (Hrana in pijača, Hrana in pijača)
+418 - Found Match: (</a>, </a>)
+419 - Found Match: (</li>, </li>)
+420 - Found Match: (<li>, <li>)
+421 - Found Match: (<a>, <a>)
+422 - Found Match: (Kozmetika in higiena, Kozmetika in higiena)
+423 - Found Match: (</a>, </a>)
+424 - Found Match: (</li>, </li>)
+425 - Found Match: (<li>, <li>)
+426 - Found Match: (<a>, <a>)
+427 - Found Match: (Lekarna, Lekarna)
+428 - Found Match: (</a>, </a>)
+429 - Found Match: (</li>, </li>)
+430 - Found Match: (<li>, <li>)
+431 - Found Match: (<a>, <a>)
+432 - Found Match: (Ličila, Ličila)
+433 - Found Match: (</a>, </a>)
+434 - Found Match: (</li>, </li>)
+435 - Found Match: (<li>, <li>)
+436 - Found Match: (<a>, <a>)
+437 - Found Match: (Optika, Optika)
+438 - Found Match: (</a>, </a>)
+439 - Found Match: (</li>, </li>)
+440 - Found Match: (<li>, <li>)
+441 - Found Match: (<a>, <a>)
+442 - Found Match: (Parfumerija, Parfumerija)
+443 - Found Match: (</a>, </a>)
+444 - Found Match: (</li>, </li>)
+445 - Found Match: (<li>, <li>)
+446 - Found Match: (<a>, <a>)
+447 - Found Match: (Prehranska dopolnila, Prehranska dopolnila)
+448 - Found Match: (</a>, </a>)
+449 - Found Match: (</li>, </li>)
+450 - Found Match: (</ul>, </ul>)
+451 - Found Match: (</div>, </div>)
+452 - Found Match: (<div>, <div>)
+453 - Found Match: (<ul>, <ul>)
+454 - Found Match: (<li>, <li>)
+455 - Found Match: (<a>, <a>)
+456 - Found Match: (Ženska oblačila, Ženska oblačila)
+457 - Found Match: (</a>, </a>)
+458 - Found Match: (</li>, </li>)
+459 - Found Match: (<li>, <li>)
+460 - Found Match: (<a>, <a>)
+461 - Found Match: (Ženska obutev, Ženska obutev)
+462 - Found Match: (</a>, </a>)
+463 - Found Match: (</li>, </li>)
+464 - Found Match: (<li>, <li>)
+465 - Found Match: (<a>, <a>)
+466 - Found Match: (Moška oblačila, Moška oblačila)
+467 - Found Match: (</a>, </a>)
+468 - Found Match: (</li>, </li>)
+469 - Found Match: (<li>, <li>)
+470 - Found Match: (<a>, <a>)
+471 - Found Match: (Moška obutev, Moška obutev)
+472 - Found Match: (</a>, </a>)
+473 - Found Match: (</li>, </li>)
+474 - Found Match: (<li>, <li>)
+475 - Found Match: (<a>, <a>)
+476 - Found Match: (Otroška oblačila in obutev, Otroška oblačila in obutev)
+477 - Found Match: (</a>, </a>)
+478 - Found Match: (</li>, </li>)
+479 - Found Match: (<li>, <li>)
+480 - Found Match: (<a>, <a>)
+481 - Found Match: (Modni dodatki, Modni dodatki)
+482 - Found Match: (</a>, </a>)
+483 - Found Match: (</li>, </li>)
+484 - Found Match: (</ul>, </ul>)
+485 - Found Match: (</div>, </div>)
+486 - Found Match: (<div>, <div>)
+487 - Found Match: (<ul>, <ul>)
+488 - Found Match: (<li>, <li>)
+489 - Found Match: (<a>, <a>)
+490 - Found Match: (Šolske potrebščine, Šolske potrebščine)
+491 - Found Match: (</a>, </a>)
+492 - Found Match: (</li>, </li>)
+493 - Found Match: (<li>, <li>)
+494 - Found Match: (<a>, <a>)
+495 - Found Match: (Pisarniški pripomočki, Pisarniški pripomočki)
+496 - Found Match: (</a>, </a>)
+497 - Found Match: (</li>, </li>)
+498 - Found Match: (<li>, <li>)
+499 - Found Match: (<a>, <a>)
+500 - Found Match: (Pisala, Pisala)
+501 - Found Match: (</a>, </a>)
+502 - Found Match: (</li>, </li>)
+503 - Found Match: (<li>, <li>)
+504 - Found Match: (<a>, <a>)
+505 - Found Match: (Papir in papirna galanterija, Papir in papirna galanterija)
+506 - Found Match: (</a>, </a>)
+507 - Found Match: (</li>, </li>)
+508 - Found Match: (<li>, <li>)
+509 - Found Match: (<a>, <a>)
+510 - Found Match: (Knjige in literatura, Knjige in literatura)
+511 - Found Match: (</a>, </a>)
+512 - Found Match: (</li>, </li>)
+513 - Found Match: (<li>, <li>)
+514 - Found Match: (<a>, <a>)
+515 - Found Match: (Pisarniški aparati, Pisarniški aparati)
+516 - Found Match: (</a>, </a>)
+517 - Found Match: (</li>, </li>)
+518 - Found Match: (<li>, <li>)
+519 - Found Match: (<a>, <a>)
+520 - Found Match: (Pisarniško pohištvo, Pisarniško pohištvo)
+521 - Found Match: (</a>, </a>)
+522 - Found Match: (</li>, </li>)
+523 - Found Match: (<li>, <li>)
+524 - Found Match: (<a>, <a>)
+525 - Found Match: (Arhiviranje, Arhiviranje)
+526 - Found Match: (</a>, </a>)
+527 - Found Match: (</li>, </li>)
+528 - Found Match: (<li>, <li>)
+529 - Found Match: (<a>, <a>)
+530 - Found Match: (Obrazci in dokumenti, Obrazci in dokumenti)
+531 - Found Match: (</a>, </a>)
+532 - Found Match: (</li>, </li>)
+533 - Found Match: (</ul>, </ul>)
+534 - Found Match: (</div>, </div>)
+535 - Found Match: (<div>, <div>)
+536 - Found Match: (<ul>, <ul>)
+537 - Found Match: (<li>, <li>)
+538 - Found Match: (<a>, <a>)
+539 - Found Match: (Prenosniki, Prenosniki)
+540 - Found Match: (</a>, </a>)
+541 - Found Match: (</li>, </li>)
+542 - Found Match: (<li>, <li>)
+543 - Found Match: (<a>, <a>)
+544 - Found Match: (Računalniki, Računalniki)
+545 - Found Match: (</a>, </a>)
+546 - Found Match: (</li>, </li>)
+547 - Found Match: (<li>, <li>)
+548 - Found Match: (<a>, <a>)
+549 - Found Match: (Tablični računalniki, Tablični računalniki)
+550 - Found Match: (</a>, </a>)
+551 - Found Match: (</li>, </li>)
+552 - Found Match: (<li>, <li>)
+553 - Found Match: (<a>, <a>)
+554 - Found Match: (Slika in zvok, Slika in zvok)
+555 - Found Match: (</a>, </a>)
+556 - Found Match: (</li>, </li>)
+557 - Found Match: (<li>, <li>)
+558 - Found Match: (<a>, <a>)
+559 - Found Match: (Računalniška oprema, Računalniška oprema)
+560 - Found Match: (</a>, </a>)
+561 - Found Match: (</li>, </li>)
+562 - Found Match: (<li>, <li>)
+563 - Found Match: (<a>, <a>)
+564 - Found Match: (Računalniške komponente, Računalniške komponente)
+565 - Found Match: (</a>, </a>)
+566 - Found Match: (</li>, </li>)
+567 - Found Match: (<li>, <li>)
+568 - Found Match: (<a>, <a>)
+569 - Found Match: (Mrežna oprema, Mrežna oprema)
+570 - Found Match: (</a>, </a>)
+571 - Found Match: (</li>, </li>)
+572 - Found Match: (<li>, <li>)
+573 - Found Match: (<a>, <a>)
+574 - Found Match: (Tiskalniki, skenerji, Tiskalniki, skenerji)
+575 - Found Match: (</a>, </a>)
+576 - Found Match: (</li>, </li>)
+577 - Found Match: (<li>, <li>)
+578 - Found Match: (<a>, <a>)
+579 - Found Match: (Kartuše in tonerji, Kartuše in tonerji)
+580 - Found Match: (</a>, </a>)
+581 - Found Match: (</li>, </li>)
+582 - Found Match: (</ul>, </ul>)
+583 - Found Match: (</div>, </div>)
+584 - Found Match: (<div>, <div>)
+585 - Found Match: (<ul>, <ul>)
+586 - Found Match: (<li>, <li>)
+587 - Found Match: (PONUDBA SPLETNIH TRGOVIN, PONUDBA SPLETNIH TRGOVIN)
+588 - Found Match: (</li>, </li>)
+589 - Found Match: (<li>, <li>)
+590 - Found Match: (<a>, <a>)
+591 - Found Match: (Kruh in pekovski izdelki, Kruh in pekovski izdelki)
+592 - Found Match: (</a>, </a>)
+593 - Found Match: (</li>, </li>)
+594 - Found Match: (<li>, <li>)
+595 - Found Match: (<a>, <a>)
+596 - Found Match: (Mleko, mlečni izdelki in jajca, Mleko, mlečni izdelki in jajca)
+597 - Found Match: (</a>, </a>)
+598 - Found Match: (</li>, </li>)
+599 - Found Match: (<li>, <li>)
+600 - Found Match: (<a>, <a>)
+601 - Found Match: (Sadje in zelenjava, Sadje in zelenjava)
+602 - Found Match: (</a>, </a>)
+603 - Found Match: (</li>, </li>)
+604 - Found Match: (<li>, <li>)
+605 - Found Match: (<a>, <a>)
+606 - Found Match: (Meso in ribe, Meso in ribe)
+607 - Found Match: (</a>, </a>)
+608 - Found Match: (</li>, </li>)
+609 - Found Match: (<li>, <li>)
+610 - Found Match: (<a>, <a>)
+611 - Found Match: (Testenine, riž in juhe, Testenine, riž in juhe)
+612 - Found Match: (</a>, </a>)
+613 - Found Match: (</li>, </li>)
+614 - Found Match: (<li>, <li>)
+615 - Found Match: (<a>, <a>)
+616 - Found Match: (Osnovna živila, Osnovna živila)
+617 - Found Match: (</a>, </a>)
+618 - Found Match: (</li>, </li>)
+619 - Found Match: (<li>, <li>)
+620 - Found Match: (<a>, <a>)
+621 - Found Match: (Zamrznjena in hlajena hrana, Zamrznjena in hlajena hrana)
+622 - Found Match: (</a>, </a>)
+623 - Found Match: (</li>, </li>)
+624 - Found Match: (<li>, <li>)
+625 - Found Match: (<a>, <a>)
+626 - Found Match: (Konzervirana in vložena hrana, Konzervirana in vložena hrana)
+627 - Found Match: (</a>, </a>)
+628 - Found Match: (</li>, </li>)
+629 - Found Match: (<li>, <li>)
+630 - Found Match: (<a>, <a>)
+631 - Found Match: (Vse za zajtrk in malico, Vse za zajtrk in malico)
+632 - Found Match: (</a>, </a>)
+633 - Found Match: (</li>, </li>)
+634 - Found Match: (<li>, <li>)
+635 - Found Match: (<a>, <a>)
+636 - Found Match: (Vse za peko, Vse za peko)
+637 - Found Match: (</a>, </a>)
+638 - Found Match: (</li>, </li>)
+639 - Found Match: (<li>, <li>)
+640 - Found Match: (<a>, <a>)
+641 - Found Match: (Slani prigrizki, Slani prigrizki)
+642 - Found Match: (</a>, </a>)
+643 - Found Match: (</li>, </li>)
+644 - Found Match: (<li>, <li>)
+645 - Found Match: (<a>, <a>)
+646 - Found Match: (Sladki program, Sladki program)
+647 - Found Match: (</a>, </a>)
+648 - Found Match: (</li>, </li>)
+649 - Found Match: (<li>, <li>)
+650 - Found Match: (<a>, <a>)
+651 - Found Match: (Brezalkoholne pijače, Brezalkoholne pijače)
+652 - Found Match: (</a>, </a>)
+653 - Found Match: (</li>, </li>)
+654 - Found Match: (<li>, <li>)
+655 - Found Match: (<a>, <a>)
+656 - Found Match: (Alkoholne pijače, Alkoholne pijače)
+657 - Found Match: (</a>, </a>)
+658 - Found Match: (</li>, </li>)
+659 - Found Match: (</ul>, </ul>)
+660 - Found Match: (</div>, </div>)
+661 - Found Match: (<div>, <div>)
+662 - Found Match: (<ul>, <ul>)
+663 - Found Match: (<li>, <li>)
+664 - Found Match: (<a>, <a>)
+665 - Found Match: (Zimski športi, Zimski športi)
+666 - Found Match: (</a>, </a>)
+667 - Found Match: (</li>, </li>)
+668 - Found Match: (<li>, <li>)
+669 - Found Match: (<a>, <a>)
+670 - Found Match: (Pohodništvo in plezanje, Pohodništvo in plezanje)
+671 - Found Match: (</a>, </a>)
+672 - Found Match: (</li>, </li>)
+673 - Found Match: (<li>, <li>)
+674 - Found Match: (<a>, <a>)
+675 - Found Match: (Fitnes in vadba, Fitnes in vadba)
+676 - Found Match: (</a>, </a>)
+677 - Found Match: (</li>, </li>)
+678 - Found Match: (<li>, <li>)
+679 - Found Match: (<a>, <a>)
+680 - Found Match: (Športi na prostem, Športi na prostem)
+681 - Found Match: (</a>, </a>)
+682 - Found Match: (</li>, </li>)
+683 - Found Match: (<li>, <li>)
+684 - Found Match: (<a>, <a>)
+685 - Found Match: (Športna oprema in prehrana, Športna oprema in prehrana)
+686 - Found Match: (</a>, </a>)
+687 - Found Match: (</li>, </li>)
+688 - Found Match: (<li>, <li>)
+689 - Found Match: (<a>, <a>)
+690 - Found Match: (Kolesarstvo, Kolesarstvo)
+691 - Found Match: (</a>, </a>)
+692 - Found Match: (</li>, </li>)
+693 - Found Match: (<li>, <li>)
+694 - Found Match: (<a>, <a>)
+695 - Found Match: (Prosti čas, Prosti čas)
+696 - Found Match: (</a>, </a>)
+697 - Found Match: (</li>, </li>)
+698 - Found Match: (<li>, <li>)
+699 - Found Match: (<a>, <a>)
+700 - Found Match: (Ekipni športi, Ekipni športi)
+701 - Found Match: (</a>, </a>)
+702 - Found Match: (</li>, </li>)
+703 - Found Match: (<li>, <li>)
+704 - Found Match: (<a>, <a>)
+705 - Found Match: (Vodni športi, Vodni športi)
+706 - Found Match: (</a>, </a>)
+707 - Found Match: (</li>, </li>)
+708 - Found Match: (<li>, <li>)
+709 - Found Match: (<a>, <a>)
+710 - Found Match: (Športi z loparjem, Športi z loparjem)
+711 - Found Match: (</a>, </a>)
+712 - Found Match: (</li>, </li>)
+713 - Found Match: (</ul>, </ul>)
+714 - Found Match: (</div>, </div>)
+715 - Found Match: (<div>, <div>)
+716 - Found Match: (<ul>, <ul>)
+717 - Found Match: (<li>, <li>)
+718 - Found Match: (<a>, <a>)
+719 - Found Match: (Mobilni telefoni in oprema, Mobilni telefoni in oprema)
+720 - Found Match: (</a>, </a>)
+721 - Found Match: (</li>, </li>)
+722 - Found Match: (<li>, <li>)
+723 - Found Match: (<a>, <a>)
+724 - Found Match: (GSM paketi, GSM paketi)
+725 - Found Match: (</a>, </a>)
+726 - Found Match: (</li>, </li>)
+727 - Found Match: (<li>, <li>)
+728 - Found Match: (<a>, <a>)
+729 - Found Match: (Stacionarna telefonija, Stacionarna telefonija)
+730 - Found Match: (</a>, </a>)
+731 - Found Match: (</li>, </li>)
+732 - Found Match: (<li>, <li>)
+733 - Found Match: (<a>, <a>)
+734 - Found Match: (VoIP telefonija, VoIP telefonija)
+735 - Found Match: (</a>, </a>)
+736 - Found Match: (</li>, </li>)
+737 - Found Match: (</ul>, </ul>)
+738 - Found Match: (</div>, </div>)
+739 - Found Match: (<div>, <div>)
+740 - Found Match: (<ul>, <ul>)
+741 - Found Match: (<li>, <li>)
+742 - Found Match: (<a>, <a>)
+743 - Found Match: (Otroški vozički in avtosedeži, Otroški vozički in avtosedeži)
+744 - Found Match: (</a>, </a>)
+745 - Found Match: (</li>, </li>)
+746 - Found Match: (<li>, <li>)
+747 - Found Match: (<a>, <a>)
+748 - Found Match: (Otroška oprema, Otroška oprema)
+749 - Found Match: (</a>, </a>)
+750 - Found Match: (</li>, </li>)
+751 - Found Match: (<li>, <li>)
+752 - Found Match: (<a>, <a>)
+753 - Found Match: (Igrače, Igrače)
+754 - Found Match: (</a>, </a>)
+755 - Found Match: (</li>, </li>)
+756 - Found Match: (<li>, <li>)
+757 - Found Match: (<a>, <a>)
+758 - Found Match: (Igrala in vozila, Igrala in vozila)
+759 - Found Match: (</a>, </a>)
+760 - Found Match: (</li>, </li>)
+761 - Found Match: (</ul>, </ul>)
+762 - Found Match: (</div>, </div>)
+763 - Found Match: (<div>, <div>)
+764 - Found Match: (</div>, </div>)
+765 - Found Match: (<div>, <div>)
+766 - Found Match: (</div>, </div>)
+767 - Found Match: (</div>, </div>)
+768 - Found Match: (</div>, </div>)
+769 - Found Match: (<div>, <div>)
+770 - Found Match: (</div>, </div>)
+771 - Found Match: (</div>, </div>)
+772 - Found Match: (</div>, </div>)
+773 - Found Match: (</div>, </div>)
+774 - Found Match: (</div>, </div>)
+775 - Found Match: (<div>, <div>)
+776 - Found Match: (<div>, <div>)
+777 - Found Match: (<div>, <div>)
+778 - Found Match: (</div>, </div>)
+779 - Found Match: (</div>, </div>)
+780 - Found Match: (<div>, <div>)
+781 - Found Match: (</div>, </div>)
+782 - Found Match: (<div>, <div>)
+783 - Found Match: (<div>, <div>)
+784 - Found Match: (<div>, <div>)
+785 - Found Match: (<div>, <div>)
+786 - Found Match: (<a>, <a>)
+787 - Found Match: (Domov, Domov)
+788 - Found Match: (</a>, </a>)
+789 - Found Match: (/ , / )
+790 - Found Match: (<a>, <a>)
+791 - Found Match: (Računalništvo, Računalništvo)
+792 - Found Match: (</a>, </a>)
+793 - Found Match: (/ , / )
+794 - Found Match: (<a>, <a>)
+795 - Found Match: (Prenosniki, Prenosniki)
+796 - Found Match: (</a>, </a>)
+797 - Found Match: (/ , / )
+798 - Found Match: (<a>, <a>)
+799 - Found Match: (Prenosniki, Prenosniki)
+800 - Found Match: (</a>, </a>)
+801 - Found Match: (/ , / )
+802 - Found Match: (<span>, <span>)
+803 - Matching string (a, b): (APPLE prenosnik MacBook Pro 13.3 M1 (8-CPU + 8-GPU) 8GB/256GB, Silver, Prenosnik ACER Nitro 5 AN517-52-577J i5-10300H/8GB/SSD 512GB/17.3 FHD IPS/GTX 1650 4GB/brez OS črn - 43,9 cm (17,3))
+804 - Found Match: (</span>, </span>)
+805 - Found Match: (</div>, </div>)
+806 - Found Match: (<div>, <div>)
+807 - Found Match: (</div>, </div>)
+808 - Found Match: (<div>, <div>)
+809 - Found Match: (</div>, </div>)
+810 - Found Match: (<div>, <div>)
+811 - Found Match: (<div>, <div>)
+812 - Found Match: (<div>, <div>)
+813 - Found Match: (<div>, <div>)
+814 - Found Match: (<img>, <img>)
+815 - Found Match: (</div>, </div>)
+816 - Found Match: (<div>, <div>)
+817 - Found Match: (<div>, <div>)
+818 - Matching iterator (a, b): (<div>, </div>)
+Search down failed
+Search down failed
+Failed to match iterator
+818 - Matching optional (a, b): (<div>, </div>)
+Opt match: <div>, <div>
+819 - Found Match: (<div>, <div>)
+820 - Found Match: (<div>, <div>)
+821 - Found Match: (<a>, <a>)
+822 - Found Match: (<img>, <img>)
+823 - Found Match: (</a>, </a>)
+824 - Found Match: (</div>, </div>)
+825 - Found Match: (<div>, <div>)
+826 - Found Match: (<a>, <a>)
+827 - Found Match: (<img>, <img>)
+828 - Found Match: (</a>, </a>)
+829 - Found Match: (</div>, </div>)
+830 - Matching iterator (a, b): (</div>, <div>)
+Search up failed
+Square 1:
+<div> <a> <img> </a> </div>
+Square 2:
+<div> <a> <img> </a> </div>
+0 - Found Match: (<div>, <div>)
+1 - Found Match: (<a>, <a>)
+2 - Found Match: (<img>, <img>)
+3 - Found Match: (</a>, </a>)
+4 - Found Match: (</div>, </div>)
+terminal: </div>
+Wrapper (old, new) (830, 820)
+831 - Found Match: (</div>, </div>)
+832 - Found Match: (</div>, </div>)
+833 - Matching iterator (a, b): (</div>, <div>)
+Search up failed
+Square 1:
+<div> </div>
+Square 2:
+<div> <div> <div> <a> <img> </a> </div> <div> <a> <img> </a> </div> <div> <a> <img> </a> </div> <div> <a> <img> </a> </div> <div> <a> <img> </a> </div> <div> <a> <img> </a> </div> <div> <a> <img> </a> </div> <div> <a> <img> </a> </div> <div> <a> <img> </a> </div> <div> <a> <img> </a> </div> <div> <a> <img> </a> </div> <div> <a> <img> </a> </div> </div> </div>
+0 - Found Match: (<div>, <div>)
+1 - Matching iterator (a, b): (</div>, <div>)
+Search down failed
+Search down failed
+Failed to match iterator
+1 - Matching optional (a, b): (</div>, <div>)
+Error: couldn't find optional match
+<div>
+Failed to match iterator
+833 - Matching optional (a, b): (</div>, <div>)
+Opt match: </div>, </div>
+834 - Found Match: (</div>, </div>)
+835 - Found Match: (</div>, </div>)
+836 - Found Match: (<div>, <div>)
+837 - Found Match: (<a>, <a>)
+838 - Found Match: (<i>, <i>)
+839 - Found Match: (</i>, </i>)
+840 - Found Match: (<span>, <span>)
+841 - Found Match: (Primerjaj s podobnimi izdelki, Primerjaj s podobnimi izdelki)
+842 - Found Match: (</span>, </span>)
+843 - Found Match: (</a>, </a>)
+844 - Found Match: (</div>, </div>)
+845 - Found Match: (<div>, <div>)
+846 - Found Match: (<div>, <div>)
+847 - Found Match: (<div>, <div>)
+848 - Found Match: (<div>, <div>)
+849 - Found Match: (<div>, <div>)
+850 - Found Match: (<div>, <div>)
+851 - Found Match: (Trend cene , Trend cene )
+852 - Found Match: (</div>, </div>)
+853 - Found Match: (</div>, </div>)
+854 - Found Match: (<div>, <div>)
+855 - Found Match: (<div>, <div>)
+856 - Found Match: (Najbližja trgovina, Najbližja trgovina)
+857 - Found Match: (</div>, </div>)
+858 - Found Match: (</div>, </div>)
+859 - Found Match: (</div>, </div>)
+860 - Found Match: (</div>, </div>)
+861 - Found Match: (<div>, <div>)
+862 - Found Match: (</div>, </div>)
+863 - Found Match: (</div>, </div>)
+864 - Found Match: (</div>, </div>)
+865 - Found Match: (<div>, <div>)
+866 - Found Match: (<div>, <div>)
+867 - Found Match: (<div>, <div>)
+868 - Found Match: (<a>, <a>)
+869 - Found Match: (Prijavi napako, Prijavi napako)
+870 - Found Match: (</a>, </a>)
+871 - Found Match: (</div>, </div>)
+872 - Found Match: (</div>, </div>)
+873 - Found Match: (</div>, </div>)
+874 - Found Match: (<div>, <div>)
+875 - Found Match: (<div>, <div>)
+876 - Found Match: (</div>, </div>)
+877 - Found Match: (</div>, </div>)
+878 - Found Match: (<div>, <div>)
+879 - Found Match: (</div>, </div>)
+880 - Found Match: (</div>, </div>)
+881 - Found Match: (<div>, <div>)
+882 - Found Match: (<div>, <div>)
+883 - Found Match: (<div>, <div>)
+884 - Found Match: (Top ponudba , Top ponudba )
+885 - Found Match: (</div>, </div>)
+886 - Found Match: (<div>, <div>)
+887 - Matching string (a, b): (še 5 drugih ponudb , še 13 drugih ponudb )
+888 - Found Match: (</div>, </div>)
+889 - Found Match: (</div>, </div>)
+890 - Found Match: (<div>, <div>)
+891 - Found Match: (<h1>, <h1>)
+892 - Matching string (a, b): (APPLE prenosnik MacBook Pro 13.3 M1 (8-CPU + 8-GPU) 8GB/256GB, Silver , Prenosnik ACER Nitro 5 AN517-52-577J i5-10300H/8GB/SSD 512GB/17.3 FHD IPS/GTX 1650 4GB/brez OS črn - 43,9 cm (17,3) )
+893 - Found Match: (</h1>, </h1>)
+894 - Found Match: (<div>, <div>)
+895 - Found Match: (<div>, <div>)
+896 - Found Match: (<div>, <div>)
+897 - Found Match: (<div>, <div>)
+898 - Found Match: (<span>, <span>)
+899 - Matching string (a, b): (1.539,99 €, 1.206,73 €)
+900 - Found Match: (</span>, </span>)
+901 - Found Match: (<span>, <span>)
+902 - Matching string (a, b): (-16 %, -34 %)
+903 - Found Match: (</span>, </span>)
+904 - Found Match: (</div>, </div>)
+905 - Found Match: (<div>, <div>)
+906 - Matching string (a, b): (1.299,99 € , 799,90 € )
+907 - Found Match: (</div>, </div>)
+908 - Found Match: (</div>, </div>)
+909 - Found Match: (</div>, </div>)
+910 - Found Match: (<div>, <div>)
+911 - Found Match: (<a>, <a>)
+912 - Found Match: (<span>, <span>)
+913 - Found Match: (Hitro na ponudbo , Hitro na ponudbo )
+914 - Found Match: (</span>, </span>)
+915 - Found Match: (<span>, <span>)
+916 - Found Match: (</span>, </span>)
+917 - Found Match: (</a>, </a>)
+918 - Found Match: (</div>, </div>)
+919 - Found Match: (</div>, </div>)
+920 - Found Match: (</div>, </div>)
+921 - Found Match: (<div>, <div>)
+922 - Found Match: (<div>, <div>)
+923 - Found Match: (<div>, <div>)
+924 - Found Match: (<div>, <div>)
+925 - Found Match: (<div>, <div>)
+926 - Found Match: (<img>, <img>)
+927 - Found Match: (<span>, <span>)
+928 - Found Match: (KUPI ZDAJ, PLAČAJ KASNEJE, KUPI ZDAJ, PLAČAJ KASNEJE)
+929 - Found Match: (</span>, </span>)
+930 - Found Match: (<span>, <span>)
+931 - Found Match: (že od , že od )
+932 - Found Match: (<span>, <span>)
+933 - Matching string (a, b): (58,17 € / mesec, 35,8 € / mesec)
+934 - Found Match: (</span>, </span>)
+935 - Found Match: (</span>, </span>)
+936 - Found Match: (</div>, </div>)
+937 - Found Match: (<div>, <div>)
+938 - Found Match: (<span>, <span>)
+939 - Found Match: (KUPI ZDAJ, PLAČAJ KASNEJE, KUPI ZDAJ, PLAČAJ KASNEJE)
+940 - Found Match: (</span>, </span>)
+941 - Found Match: (<span>, <span>)
+942 - Found Match: (že od , že od )
+943 - Found Match: (<span>, <span>)
+944 - Matching string (a, b): (58,17 € / mesec, 35,8 € / mesec)
+945 - Found Match: (</span>, </span>)
+946 - Found Match: (</span>, </span>)
+947 - Found Match: (<span>, <span>)
+948 - Matching string (a, b): (1 ponudba, 6 ponudb)
+949 - Found Match: (</span>, </span>)
+950 - Found Match: (</div>, </div>)
+951 - Found Match: (</div>, </div>)
+952 - Found Match: (<div>, <div>)
+953 - Found Match: (<button>, <button>)
+954 - Found Match: (Preveri ponudbe , Preveri ponudbe )
+955 - Found Match: (<svg>, <svg>)
+956 - Found Match: (<path>, <path>)
+957 - Found Match: (</path>, </path>)
+958 - Found Match: (</svg>, </svg>)
+959 - Found Match: (</button>, </button>)
+960 - Found Match: (</div>, </div>)
+961 - Found Match: (</div>, </div>)
+962 - Found Match: (<div>, <div>)
+963 - Found Match: (<p>, <p>)
+964 - Found Match: (V spletni trgovini dodaj izbran izdelek v košarico in izberi Leanpay način plačila., V spletni trgovini dodaj izbran izdelek v košarico in izberi Leanpay način plačila.)
+965 - Found Match: (</p>, </p>)
+966 - Found Match: (<table>, <table>)
+967 - Found Match: (<tbody>, <tbody>)
+968 - Found Match: (<tr>, <tr>)
+969 - Found Match: (<td>, <td>)
+970 - Found Match: (<a>, <a>)
+971 - Found Match: (<img>, <img>)
+972 - Found Match: (</a>, </a>)
+973 - Found Match: (</td>, </td>)
+974 - Found Match: (<td>, <td>)
+975 - Found Match: (<a>, <a>)
+976 - Found Match: (<span>, <span>)
+977 - Found Match: (že od , že od )
+978 - Found Match: (<span>, <span>)
+979 - Matching string (a, b): (58,17 € / mesec (24x), 35,8 € / mesec (24x))
+980 - Found Match: (</span>, </span>)
+981 - Found Match: (</span>, </span>)
+982 - Found Match: (</a>, </a>)
+983 - Found Match: (</td>, </td>)
+984 - Found Match: (<td>, <td>)
+985 - Found Match: (<a>, <a>)
+986 - Found Match: (<button>, <button>)
+987 - Found Match: (Več o ponudbi , Več o ponudbi )
+988 - Found Match: (<i>, <i>)
+989 - Found Match: (</i>, </i>)
+990 - Found Match: (</button>, </button>)
+991 - Found Match: (</a>, </a>)
+992 - Found Match: (</td>, </td>)
+993 - Found Match: (</tr>, </tr>)
+994 - Matching iterator (a, b): (</tbody>, <tr>)
+Search down failed
+Square 1:
+<tr> <td> <a> <img> </a> </td> <td> <a> <span> že od  <span> 36,65 € / mesec (24x) </span> </span> </a> </td> <td> <a> <button> Več o ponudbi  <i> </i> </button> </a> </td> </tr>
+Square 2:
+<tr> <td> <a> <img> </a> </td> <td> <a> <span> že od  <span> 35,8 € / mesec (24x) </span> </span> </a> </td> <td> <a> <button> Več o ponudbi  <i> </i> </button> </a> </td> </tr>
+0 - Found Match: (<tr>, <tr>)
+1 - Found Match: (<td>, <td>)
+2 - Found Match: (<a>, <a>)
+3 - Found Match: (<img>, <img>)
+4 - Found Match: (</a>, </a>)
+5 - Found Match: (</td>, </td>)
+6 - Found Match: (<td>, <td>)
+7 - Found Match: (<a>, <a>)
+8 - Found Match: (<span>, <span>)
+9 - Found Match: (že od , že od )
+10 - Found Match: (<span>, <span>)
+11 - Matching string (a, b): (36,65 € / mesec (24x), 35,8 € / mesec (24x))
+12 - Found Match: (</span>, </span>)
+13 - Found Match: (</span>, </span>)
+14 - Found Match: (</a>, </a>)
+15 - Found Match: (</td>, </td>)
+16 - Found Match: (<td>, <td>)
+17 - Found Match: (<a>, <a>)
+18 - Found Match: (<button>, <button>)
+19 - Found Match: (Več o ponudbi , Več o ponudbi )
+20 - Found Match: (<i>, <i>)
+21 - Found Match: (</i>, </i>)
+22 - Found Match: (</button>, </button>)
+23 - Found Match: (</a>, </a>)
+24 - Found Match: (</td>, </td>)
+25 - Found Match: (</tr>, </tr>)
+terminal: </tr>
+Wrapper (old, new) (984, 958)
+995 - Found Match: (</tbody>, </tbody>)
+996 - Found Match: (</table>, </table>)
+997 - Found Match: (</div>, </div>)
+998 - Found Match: (</div>, </div>)
+999 - Found Match: (<div>, <div>)
+1000 - Found Match: (</div>, </div>)
+1001 - Found Match: (<div>, <div>)
+1002 - Found Match: (<ul>, <ul>)
+1003 - Found Match: (<li>, <li>)
+1004 - Found Match: (<a>, <a>)
+1005 - Found Match: (Trgovine , Trgovine )
+1006 - Found Match: (<span>, <span>)
+1007 - Matching string (a, b): ((5), (12))
+1008 - Found Match: (</span>, </span>)
+1009 - Found Match: (</a>, </a>)
+1010 - Found Match: (</li>, </li>)
+1011 - Found Match: (<li>, <li>)
+1012 - Found Match: (<a>, <a>)
+1013 - Found Match: (Podatki, Podatki)
+1014 - Found Match: (</a>, </a>)
+1015 - Found Match: (</li>, </li>)
+1016 - Found Match: (<li>, <li>)
+1017 - Found Match: (<a>, <a>)
+1018 - Found Match: (Opis, Opis)
+1019 - Found Match: (</a>, </a>)
+1020 - Found Match: (</li>, </li>)
+1021 - Found Match: (<li>, <li>)
+1022 - Found Match: (<a>, <a>)
+1023 - Found Match: (Mnenja , Mnenja )
+1024 - Found Match: (</a>, </a>)
+1025 - Found Match: (</li>, </li>)
+1026 - Found Match: (</ul>, </ul>)
+1027 - Found Match: (<div>, <div>)
+1028 - Found Match: (<div>, <div>)
+1029 - Found Match: (<div>, <div>)
+1030 - Found Match: (<div>, <div>)
+1031 - Found Match: (<div>, <div>)
+1032 - Found Match: (<div>, <div>)
+1033 - Found Match: (<table>, <table>)
+1034 - Found Match: (<tbody>, <tbody>)
+1035 - Found Match: (<tr>, <tr>)
+1036 - Found Match: (<td>, <td>)
+1037 - Found Match: (<span>, <span>)
+1038 - Found Match: (Proizvajalec, Proizvajalec)
+1039 - Found Match: (</span>, </span>)
+1040 - Found Match: (</td>, </td>)
+1041 - Found Match: (<td>, <td>)
+1042 - Found Match: (<a>, <a>)
+1043 - Matching string (a, b): (APPLE, ACER)
+1044 - Found Match: (</a>, </a>)
+1045 - Found Match: (</td>, </td>)
+1046 - Found Match: (</tr>, </tr>)
+1047 - Found Match: (<tr>, <tr>)
+1048 - Found Match: (<td>, <td>)
+1049 - Found Match: (<span>, <span>)
+1050 - Found Match: (Barva, Barva)
+1051 - Found Match: (</span>, </span>)
+1052 - Found Match: (</td>, </td>)
+1053 - Found Match: (<td>, <td>)
+1054 - Found Match: (<a>, <a>)
+1055 - Matching string (a, b): (srebrna, črna)
+1056 - Found Match: (</a>, </a>)
+1057 - Found Match: (</td>, </td>)
+1058 - Found Match: (</tr>, </tr>)
+1059 - Found Match: (<tr>, <tr>)
+1060 - Found Match: (<td>, <td>)
+1061 - Found Match: (<span>, <span>)
+1062 - Found Match: (Dodan operacijski sistem, Dodan operacijski sistem)
+1063 - Found Match: (</span>, </span>)
+1064 - Found Match: (</td>, </td>)
+1065 - Found Match: (<td>, <td>)
+1066 - Found Match: (<a>, <a>)
+1067 - Matching string (a, b): (macOS, brez)
+1068 - Found Match: (</a>, </a>)
+1069 - Found Match: (</td>, </td>)
+1070 - Found Match: (</tr>, </tr>)
+1071 - Found Match: (<tr>, <tr>)
+1072 - Found Match: (<td>, <td>)
+1073 - Found Match: (<span>, <span>)
+1074 - Found Match: (Model grafične kartice, Model grafične kartice)
+1075 - Found Match: (</span>, </span>)
+1076 - Found Match: (</td>, </td>)
+1077 - Found Match: (<td>, <td>)
+1078 - Found Match: (<a>, <a>)
+1079 - Matching string (a, b): (APPLE M1, NVIDIA GeForce GTX 1650)
+1080 - Found Match: (</a>, </a>)
+1081 - Found Match: (</td>, </td>)
+1082 - Found Match: (</tr>, </tr>)
+1083 - Found Match: (<tr>, <tr>)
+1084 - Found Match: (<td>, <td>)
+1085 - Found Match: (<span>, <span>)
+1086 - Found Match: (Proizvajalec grafične kartice, Proizvajalec grafične kartice)
+1087 - Found Match: (</span>, </span>)
+1088 - Found Match: (</td>, </td>)
+1089 - Found Match: (<td>, <td>)
+1090 - Found Match: (<a>, <a>)
+1091 - Matching string (a, b): (APPLE, NVIDIA)
+1092 - Found Match: (</a>, </a>)
+1093 - Found Match: (</td>, </td>)
+1094 - Found Match: (</tr>, </tr>)
+1095 - Found Match: (<tr>, <tr>)
+1096 - Found Match: (<td>, <td>)
+1097 - Found Match: (<span>, <span>)
+1098 - Found Match: (Stanje, Stanje)
+1099 - Found Match: (</span>, </span>)
+1100 - Found Match: (</td>, </td>)
+1101 - Found Match: (<td>, <td>)
+1102 - Found Match: (<a>, <a>)
+1103 - Found Match: (nov, nov)
+1104 - Found Match: (</a>, </a>)
+1105 - Found Match: (</td>, </td>)
+1106 - Found Match: (</tr>, </tr>)
+1107 - Found Match: (<tr>, <tr>)
+1108 - Found Match: (<td>, <td>)
+1109 - Found Match: (<span>, <span>)
+1110 - Matching string (a, b): (Tip grafične kartice, Teža (v kg))
+1111 - Found Match: (</span>, </span>)
+1112 - Found Match: (</td>, </td>)
+1113 - Found Match: (<td>, <td>)
+1114 - Found Match: (<a>, <a>)
+1115 - Matching string (a, b): (integrirana, 2.7 kg)
+1116 - Found Match: (</a>, </a>)
+1117 - Found Match: (</td>, </td>)
+1118 - Found Match: (</tr>, </tr>)
+1119 - Found Match: (<tr>, <tr>)
+1120 - Found Match: (<td>, <td>)
+1121 - Found Match: (<span>, <span>)
+1122 - Matching string (a, b): (Tip procesorja, Tip grafične kartice)
+1123 - Found Match: (</span>, </span>)
+1124 - Found Match: (</td>, </td>)
+1125 - Found Match: (<td>, <td>)
+1126 - Found Match: (<a>, <a>)
+1127 - Matching string (a, b): (APPLE M1, ločena)
+1128 - Found Match: (</a>, </a>)
+1129 - Found Match: (</td>, </td>)
+1130 - Found Match: (</tr>, </tr>)
+1131 - Found Match: (<tr>, <tr>)
+1132 - Found Match: (<td>, <td>)
+1133 - Found Match: (<span>, <span>)
+1134 - Matching string (a, b): (Velikost delovnega spomina RAM (v GB), Tip procesorja)
+1135 - Found Match: (</span>, </span>)
+1136 - Found Match: (</td>, </td>)
+1137 - Found Match: (<td>, <td>)
+1138 - Found Match: (<a>, <a>)
+(STRING, TAG) - (</a>, INTEL Core i5) mismatch occured
+1140 - Matching iterator (a, b): (</td>, </a>)
+Search up failed
+Search down failed
+Failed to match iterator
+1140 - Matching optional (a, b): (</td>, </a>)
+Opt match: </td>, </td>
+1141 - Found Match: (</td>, </td>)
+1142 - Found Match: (</tr>, </tr>)
+1143 - Found Match: (<tr>, <tr>)
+1144 - Found Match: (<td>, <td>)
+1145 - Found Match: (<span>, <span>)
+1146 - Matching string (a, b): (Velikost SSD diska (v GB), Velikost delovnega spomina RAM (v GB))
+1147 - Found Match: (</span>, </span>)
+1148 - Found Match: (</td>, </td>)
+1149 - Found Match: (<td>, <td>)
+1150 - Found Match: (<a>, <a>)
+(STRING, TAG) - (256, </a>) mismatch occured
+1152 - Matching iterator (a, b): (</a>, </td>)
+Search down failed
+Search down failed
+Failed to match iterator
+1152 - Matching optional (a, b): (</a>, </td>)
+Opt match: </td>, </td>
+1153 - Found Match: (</td>, </td>)
+1154 - Found Match: (</tr>, </tr>)
+1155 - Found Match: (<tr>, <tr>)
+1156 - Found Match: (<td>, <td>)
+1157 - Found Match: (<span>, <span>)
+1158 - Matching string (a, b): (Velikost zaslona (v "), Velikost SSD diska (v GB))
+1159 - Found Match: (</span>, </span>)
+1160 - Found Match: (</td>, </td>)
+1161 - Found Match: (<td>, <td>)
+1162 - Found Match: (<a>, <a>)
+1163 - Matching string (a, b): (13.3 ", 512)
+1164 - Found Match: (</a>, </a>)
+1165 - Found Match: (</td>, </td>)
+1166 - Found Match: (</tr>, </tr>)
+1167 - Found Match: (<tr>, <tr>)
+1168 - Found Match: (<td>, <td>)
+1169 - Found Match: (<span>, <span>)
+1170 - Matching string (a, b): (Vrsta naprave, Velikost trdega diska (v GB))
+1171 - Found Match: (</span>, </span>)
+1172 - Found Match: (</td>, </td>)
+1173 - Found Match: (<td>, <td>)
+1174 - Found Match: (<a>, <a>)
+1175 - Matching string (a, b): (gaming, 0 GB)
+1176 - Found Match: (</a>, </a>)
+1177 - Found Match: (</td>, </td>)
+1178 - Found Match: (</tr>, </tr>)
+1179 - Found Match: (<tr>, <tr>)
+1180 - Found Match: (<td>, <td>)
+1181 - Matching iterator (a, b): (<abbr>, <span>)
+Search down failed
+Search down failed
+Failed to match iterator
+1181 - Matching optional (a, b): (<abbr>, <span>)
+Opt match: <abbr>, <abbr>
+1182 - Found Match: (<abbr>, <abbr>)
+1183 - Found Match: (Cuin, Cuin)
+1184 - Found Match: (</abbr>, </abbr>)
+1185 - Found Match: (</td>, </td>)
+1186 - Found Match: (<td>, <td>)
+1187 - Matching string (a, b): (CX014500E4, CX01CCF15B)
+1188 - Found Match: (</td>, </td>)
+1189 - Found Match: (</tr>, </tr>)
+1190 - Found Match: (</tbody>, </tbody>)
+1191 - Found Match: (</table>, </table>)
+1192 - Found Match: (<div>, <div>)
+(STRING, TAG) - (Diagonala zaslona.: 33,7 cm (13,3"), <br>) mismatch occured
+1194 - Matching iterator (a, b): (<br>, </div>)
+Search down failed
+Search down failed
+Failed to match iterator
+1194 - Matching optional (a, b): (<br>, </div>)
+Opt match: <br>, <br>
+1195 - Found Match: (<br>, <br>)
+(STRING, TAG) - (Ločljivost zaslona.: 2560 x 1600, <br>) mismatch occured
+1197 - Found Match: (<br>, <br>)
+(STRING, TAG) - (Serija: MacBook Pro, <br>) mismatch occured
+1199 - Matching iterator (a, b): (<br>, </p>)
+Failed to match iterator
+Terminal TAG: <br>
+1199 - Matching optional (a, b): (<br>, </p>)
+Error: couldn't find optional match
+<body>
+  <div>
+    <main>
+    </main>
+  </div>
+  <div>
+    <div>
+      <nav>
+        <div>
+          <span>
+            <a>
+              Akcije 
+            </a>
+          </span>
+          <span>
+            <a>
+              Prenesi Chrome dodatek 
+            </a>
+          </span>
+          <span>
+            <a>
+              Katalogi
+            </a>
+          </span>
+          <span>
+            <a>
+              Nasveti
+            </a>
+          </span>
+          <span>
+            <a>
+              Vpis spletne trgovine
+            </a>
+          </span>
+        </div>
+      </nav>
+    </div>
+    <header>
+      <nav>
+        <div>
+          <div>
+            <span>
+              3.300.351 izdelkov 
+              <span>
+              </span>
+              580 trgovin 
+              <span>
+              </span>
+              8.650 znamk 
+            </span>
+            <ul>
+              <li>
+                <a>
+                  Akcije 
+                </a>
+              </li>
+              <li>
+                <a>
+                  Prenesi Chrome dodatek 
+                </a>
+              </li>
+              <li>
+                <a>
+                  Katalogi
+                </a>
+                <span>
+                </span>
+              </li>
+              <li>
+                <a>
+                  Nasveti
+                </a>
+                <span>
+                </span>
+              </li>
+              <li>
+                <a>
+                  Vpis spletne trgovine
+                </a>
+              </li>
+            </ul>
+            <div>
+              <div>
+                <div>
+                  <div>
+                    <div>
+                    </div>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </nav>
+    </header>
+    <div>
+      <div>
+        <div>
+          <div>
+            <a>
+              <img>
+            </a>
+          </div>
+          <div>
+            <div>
+              <div>
+                <div>
+                  <img>
+                  <h6>
+                    Kategorije
+                  </h6>
+                </div>
+              </div>
+              <div>
+                <form>
+                  <input>
+                  <div>
+                    <div>
+                    </div>
+                    <img>
+                  </div>
+                </form>
+              </div>
+            </div>
+            <div>
+              <a>
+                <img>
+                <h6>
+                  Kategorije
+                </h6>
+              </a>
+            </div>
+            <div>
+              <div>
+                <ul>
+                  <li>
+                    <a>
+                      Avdio &amp; Video
+                    </a>
+                  </li>
+                  <li>
+                    <a>
+                      Avto Oprema
+                    </a>
+                  </li>
+                  <li>
+                    <a>
+                      Dom &amp; Vrt
+                    </a>
+                  </li>
+                  <li>
+                    <a>
+                      Erotika
+                    </a>
+                  </li>
+                  <li>
+                    <a>
+                      Foto
+                    </a>
+                  </li>
+                  <li>
+                    <a>
+                      Lepota in zdravje
+                    </a>
+                  </li>
+                  <li>
+                    <a>
+                      Oblačila in obutev
+                    </a>
+                  </li>
+                  <li>
+                    <a>
+                      Pisarna in šola
+                    </a>
+                  </li>
+                  <li>
+                    <a>
+                      Računalništvo
+                    </a>
+                  </li>
+                  <li>
+                    <a>
+                      Supermarket
+                    </a>
+                  </li>
+                  <li>
+                    <a>
+                      Šport
+                    </a>
+                  </li>
+                  <li>
+                    <a>
+                      Telefonija
+                    </a>
+                  </li>
+                  <li>
+                    <a>
+                      Vse za otroke
+                    </a>
+                  </li>
+                  <li>
+                    <a>
+                      Vse kategorije
+                    </a>
+                  </li>
+                </ul>
+              </div>
+              <div>
+                <div>
+                  <ul>
+                    <li>
+                      <a>
+                        Televizorji
+                      </a>
+                    </li>
+                    <li>
+                      <a>
+                        Glasbeni predvajalniki
+                      </a>
+                    </li>
+                    <li>
+                      <a>
+                        Hi-Fi
+                      </a>
+                    </li>
+                    <li>
+                      <a>
+                        Hišni kino
+                      </a>
+                    </li>
+                    <li>
+                      <a>
+                        Glasbila
+                      </a>
+                    </li>
+                    <li>
+                      <a>
+                        Glasbena oprema
+                      </a>
+                    </li>
+                    <li>
+                      <a>
+                        Dodatna oprema za avdio in video
+                      </a>
+                    </li>
+                    <li>
+                      <a>
+                        Glasba in film
+                      </a>
+                    </li>
+                  </ul>
+                </div>
+                <div>
+                  <ul>
+                    <li>
+                      <a>
+                        Pnevmatike
+                      </a>
+                    </li>
+                    <li>
+                      <a>
+                        Avto oprema in GPS
+                      </a>
+                    </li>
+                    <li>
+                      <a>
+                        Platišča
+                      </a>
+                    </li>
+                    <li>
+                      <a>
+                        Avto deli
+                      </a>
+                    </li>
+                    <li>
+                      <a>
+                        Avtoakustika
+                      </a>
+                    </li>
+                    <li>
+                      <a>
+                        Avtodomi, prikolice in oprema
+                      </a>
+                    </li>
+                    <li>
+                      <a>
+                        Motorni deli in oprema
+                      </a>
+                    </li>
+                    <li>
+                      <a>
+                        Nova vozila
+                      </a>
+                    </li>
+                  </ul>
+                </div>
+                <div>
+                  <ul>
+                    <li>
+                      <a>
+                        Bela tehnika
+                      </a>
+                    </li>
+                    <li>
+                      <a>
+                        Mali gospodinjski aparati
+                      </a>
+                    </li>
+                    <li>
+                      <a>
+                        V kuhinji
+                      </a>
+                    </li>
+                    <li>
+                      <a>
+                        Hlajenje in gretje
+                      </a>
+                    </li>
+                    <li>
+                      <a>
+                        Pohištvo
+                      </a>
+                    </li>
+                    <li>
+                      <a>
+                        Oprema za dom
+                      </a>
+                    </li>
+                    <li>
+                      <a>
+                        Orodje in stroji
+                      </a>
+                    </li>
+                    <li>
+                      <a>
+                        Male živali
+                      </a>
+                    </li>
+                    <li>
+                      <a>
+                        Gradbeništvo
+                      </a>
+                    </li>
+                    <li>
+                      <a>
+                        Vrt in okolica
+                      </a>
+                    </li>
+                  </ul>
+                </div>
+                <div>
+                  <ul>
+                    <li>
+                      <a>
+                        Erotični pripomočki
+                      </a>
+                    </li>
+                    <li>
+                      <a>
+                        Erotična oblačila in perilo
+                      </a>
+                    </li>
+                    <li>
+                      <a>
+                        Erotična drogerija in kozmetika
+                      </a>
+                    </li>
+                    <li>
+                      <a>
+                        Erotični filmi in revije
+                      </a>
+                    </li>
+                    <li>
+                      <a>
+                        Erotične igre in darila
+                      </a>
+                    </li>
+                  </ul>
+                </div>
+                <div>
+                  <ul>
+                    <li>
+                      <a>
+                        Digitalni fotoaparati
+                      </a>
+                    </li>
+                    <li>
+                      <a>
+                        Video kamere
+                      </a>
+                    </li>
+                    <li>
+                      <a>
+                        Spominske kartice in čitalci
+                      </a>
+                    </li>
+                    <li>
+                      <a>
+                        Foto oprema
+                      </a>
+                    </li>
+                  </ul>
+                </div>
+                <div>
+                  <ul>
+                    <li>
+                      <a>
+                        Aparati za osebno nego
+                      </a>
+                    </li>
+                    <li>
+                      <a>
+                        Aparati za zdravje
+                      </a>
+                    </li>
+                    <li>
+                      <a>
+                        Hrana in pijača
+                      </a>
+                    </li>
+                    <li>
+                      <a>
+                        Kozmetika in higiena
+                      </a>
+                    </li>
+                    <li>
+                      <a>
+                        Lekarna
+                      </a>
+                    </li>
+                    <li>
+                      <a>
+                        Ličila
+                      </a>
+                    </li>
+                    <li>
+                      <a>
+                        Optika
+                      </a>
+                    </li>
+                    <li>
+                      <a>
+                        Parfumerija
+                      </a>
+                    </li>
+                    <li>
+                      <a>
+                        Prehranska dopolnila
+                      </a>
+                    </li>
+                  </ul>
+                </div>
+                <div>
+                  <ul>
+                    <li>
+                      <a>
+                        Ženska oblačila
+                      </a>
+                    </li>
+                    <li>
+                      <a>
+                        Ženska obutev
+                      </a>
+                    </li>
+                    <li>
+                      <a>
+                        Moška oblačila
+                      </a>
+                    </li>
+                    <li>
+                      <a>
+                        Moška obutev
+                      </a>
+                    </li>
+                    <li>
+                      <a>
+                        Otroška oblačila in obutev
+                      </a>
+                    </li>
+                    <li>
+                      <a>
+                        Modni dodatki
+                      </a>
+                    </li>
+                  </ul>
+                </div>
+                <div>
+                  <ul>
+                    <li>
+                      <a>
+                        Šolske potrebščine
+                      </a>
+                    </li>
+                    <li>
+                      <a>
+                        Pisarniški pripomočki
+                      </a>
+                    </li>
+                    <li>
+                      <a>
+                        Pisala
+                      </a>
+                    </li>
+                    <li>
+                      <a>
+                        Papir in papirna galanterija
+                      </a>
+                    </li>
+                    <li>
+                      <a>
+                        Knjige in literatura
+                      </a>
+                    </li>
+                    <li>
+                      <a>
+                        Pisarniški aparati
+                      </a>
+                    </li>
+                    <li>
+                      <a>
+                        Pisarniško pohištvo
+                      </a>
+                    </li>
+                    <li>
+                      <a>
+                        Arhiviranje
+                      </a>
+                    </li>
+                    <li>
+                      <a>
+                        Obrazci in dokumenti
+                      </a>
+                    </li>
+                  </ul>
+                </div>
+                <div>
+                  <ul>
+                    <li>
+                      <a>
+                        Prenosniki
+                      </a>
+                    </li>
+                    <li>
+                      <a>
+                        Računalniki
+                      </a>
+                    </li>
+                    <li>
+                      <a>
+                        Tablični računalniki
+                      </a>
+                    </li>
+                    <li>
+                      <a>
+                        Slika in zvok
+                      </a>
+                    </li>
+                    <li>
+                      <a>
+                        Računalniška oprema
+                      </a>
+                    </li>
+                    <li>
+                      <a>
+                        Računalniške komponente
+                      </a>
+                    </li>
+                    <li>
+                      <a>
+                        Mrežna oprema
+                      </a>
+                    </li>
+                    <li>
+                      <a>
+                        Tiskalniki, skenerji
+                      </a>
+                    </li>
+                    <li>
+                      <a>
+                        Kartuše in tonerji
+                      </a>
+                    </li>
+                  </ul>
+                </div>
+                <div>
+                  <ul>
+                    <li>
+                      PONUDBA SPLETNIH TRGOVIN
+                    </li>
+                    <li>
+                      <a>
+                        Kruh in pekovski izdelki
+                      </a>
+                    </li>
+                    <li>
+                      <a>
+                        Mleko, mlečni izdelki in jajca
+                      </a>
+                    </li>
+                    <li>
+                      <a>
+                        Sadje in zelenjava
+                      </a>
+                    </li>
+                    <li>
+                      <a>
+                        Meso in ribe
+                      </a>
+                    </li>
+                    <li>
+                      <a>
+                        Testenine, riž in juhe
+                      </a>
+                    </li>
+                    <li>
+                      <a>
+                        Osnovna živila
+                      </a>
+                    </li>
+                    <li>
+                      <a>
+                        Zamrznjena in hlajena hrana
+                      </a>
+                    </li>
+                    <li>
+                      <a>
+                        Konzervirana in vložena hrana
+                      </a>
+                    </li>
+                    <li>
+                      <a>
+                        Vse za zajtrk in malico
+                      </a>
+                    </li>
+                    <li>
+                      <a>
+                        Vse za peko
+                      </a>
+                    </li>
+                    <li>
+                      <a>
+                        Slani prigrizki
+                      </a>
+                    </li>
+                    <li>
+                      <a>
+                        Sladki program
+                      </a>
+                    </li>
+                    <li>
+                      <a>
+                        Brezalkoholne pijače
+                      </a>
+                    </li>
+                    <li>
+                      <a>
+                        Alkoholne pijače
+                      </a>
+                    </li>
+                  </ul>
+                </div>
+                <div>
+                  <ul>
+                    <li>
+                      <a>
+                        Zimski športi
+                      </a>
+                    </li>
+                    <li>
+                      <a>
+                        Pohodništvo in plezanje
+                      </a>
+                    </li>
+                    <li>
+                      <a>
+                        Fitnes in vadba
+                      </a>
+                    </li>
+                    <li>
+                      <a>
+                        Športi na prostem
+                      </a>
+                    </li>
+                    <li>
+                      <a>
+                        Športna oprema in prehrana
+                      </a>
+                    </li>
+                    <li>
+                      <a>
+                        Kolesarstvo
+                      </a>
+                    </li>
+                    <li>
+                      <a>
+                        Prosti čas
+                      </a>
+                    </li>
+                    <li>
+                      <a>
+                        Ekipni športi
+                      </a>
+                    </li>
+                    <li>
+                      <a>
+                        Vodni športi
+                      </a>
+                    </li>
+                    <li>
+                      <a>
+                        Športi z loparjem
+                      </a>
+                    </li>
+                  </ul>
+                </div>
+                <div>
+                  <ul>
+                    <li>
+                      <a>
+                        Mobilni telefoni in oprema
+                      </a>
+                    </li>
+                    <li>
+                      <a>
+                        GSM paketi
+                      </a>
+                    </li>
+                    <li>
+                      <a>
+                        Stacionarna telefonija
+                      </a>
+                    </li>
+                    <li>
+                      <a>
+                        VoIP telefonija
+                      </a>
+                    </li>
+                  </ul>
+                </div>
+                <div>
+                  <ul>
+                    <li>
+                      <a>
+                        Otroški vozički in avtosedeži
+                      </a>
+                    </li>
+                    <li>
+                      <a>
+                        Otroška oprema
+                      </a>
+                    </li>
+                    <li>
+                      <a>
+                        Igrače
+                      </a>
+                    </li>
+                    <li>
+                      <a>
+                        Igrala in vozila
+                      </a>
+                    </li>
+                  </ul>
+                </div>
+                <div>
+                </div>
+                <div>
+                </div>
+              </div>
+            </div>
+            <div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+    <div>
+      <div>
+        <div>
+        </div>
+      </div>
+      <div>
+      </div>
+      <div>
+        <div>
+          <div>
+            <div>
+              <a>
+                Domov
+              </a>
+              / 
+              <a>
+                Računalništvo
+              </a>
+              / 
+              <a>
+                Prenosniki
+              </a>
+              / 
+              <a>
+                Prenosniki
+              </a>
+              / 
+              <span>
+                #PCDATA
+              </span>
+            </div>
+            <div>
+            </div>
+            <div>
+            </div>
+            <div>
+              <div>
+                <div>
+                  <div>
+                    <img>
+                  </div>
+                  <div>
+                    <div>
+                      ( </div><div> )?
+                      <div>
+                        ( <div><a><img></a></div> )+
+                      </div>
+                    </div>
+                    ( <div></div> )?
+                  </div>
+                </div>
+                <div>
+                  <a>
+                    <i>
+                    </i>
+                    <span>
+                      Primerjaj s podobnimi izdelki
+                    </span>
+                  </a>
+                </div>
+                <div>
+                  <div>
+                    <div>
+                      <div>
+                        <div>
+                          <div>
+                            Trend cene 
+                          </div>
+                        </div>
+                        <div>
+                          <div>
+                            Najbližja trgovina
+                          </div>
+                        </div>
+                      </div>
+                    </div>
+                    <div>
+                    </div>
+                  </div>
+                </div>
+                <div>
+                  <div>
+                    <div>
+                      <a>
+                        Prijavi napako
+                      </a>
+                    </div>
+                  </div>
+                </div>
+                <div>
+                  <div>
+                  </div>
+                </div>
+                <div>
+                </div>
+              </div>
+              <div>
+                <div>
+                  <div>
+                    Top ponudba 
+                  </div>
+                  <div>
+                    #PCDATA
+                  </div>
+                </div>
+                <div>
+                  <h1>
+                    #PCDATA
+                  </h1>
+                  <div>
+                    <div>
+                      <div>
+                        <div>
+                          <span>
+                            #PCDATA
+                          </span>
+                          <span>
+                            #PCDATA
+                          </span>
+                        </div>
+                        <div>
+                          #PCDATA
+                        </div>
+                      </div>
+                    </div>
+                    <div>
+                      <a>
+                        <span>
+                          Hitro na ponudbo 
+                        </span>
+                        <span>
+                        </span>
+                      </a>
+                    </div>
+                  </div>
+                </div>
+                <div>
+                  <div>
+                    <div>
+                      <div>
+                        <div>
+                          <img>
+                          <span>
+                            KUPI ZDAJ, PLAČAJ KASNEJE
+                          </span>
+                          <span>
+                            že od 
+                            <span>
+                              #PCDATA
+                            </span>
+                          </span>
+                        </div>
+                        <div>
+                          <span>
+                            KUPI ZDAJ, PLAČAJ KASNEJE
+                          </span>
+                          <span>
+                            že od 
+                            <span>
+                              #PCDATA
+                            </span>
+                          </span>
+                          <span>
+                            #PCDATA
+                          </span>
+                        </div>
+                      </div>
+                      <div>
+                        <button>
+                          Preveri ponudbe 
+                          <svg>
+                            <path>
+                            </path>
+                          </svg>
+                        </button>
+                      </div>
+                    </div>
+                    <div>
+                      <p>
+                        V spletni trgovini dodaj izbran izdelek v košarico in izberi Leanpay način plačila.
+                      </p>
+                      <table>
+                        <tbody>
+                          ( <tr><td><a><img></a></td><td><a><span>že od <span>#PCDATA</span></span></a></td><td><a><button>Več o ponudbi <i></i></button></a></td></tr> )+
+                        </tbody>
+                      </table>
+                    </div>
+                  </div>
+                  <div>
+                  </div>
+                  <div>
+                    <ul>
+                      <li>
+                        <a>
+                          Trgovine 
+                          <span>
+                            #PCDATA
+                          </span>
+                        </a>
+                      </li>
+                      <li>
+                        <a>
+                          Podatki
+                        </a>
+                      </li>
+                      <li>
+                        <a>
+                          Opis
+                        </a>
+                      </li>
+                      <li>
+                        <a>
+                          Mnenja 
+                        </a>
+                      </li>
+                    </ul>
+                    <div>
+                      <div>
+                        <div>
+                          <div>
+                            <div>
+                              <div>
+                                <table>
+                                  <tbody>
+                                    <tr>
+                                      <td>
+                                        <span>
+                                          Proizvajalec
+                                        </span>
+                                      </td>
+                                      <td>
+                                        <a>
+                                          #PCDATA
+                                        </a>
+                                      </td>
+                                    </tr>
+                                    <tr>
+                                      <td>
+                                        <span>
+                                          Barva
+                                        </span>
+                                      </td>
+                                      <td>
+                                        <a>
+                                          #PCDATA
+                                        </a>
+                                      </td>
+                                    </tr>
+                                    <tr>
+                                      <td>
+                                        <span>
+                                          Dodan operacijski sistem
+                                        </span>
+                                      </td>
+                                      <td>
+                                        <a>
+                                          #PCDATA
+                                        </a>
+                                      </td>
+                                    </tr>
+                                    <tr>
+                                      <td>
+                                        <span>
+                                          Model grafične kartice
+                                        </span>
+                                      </td>
+                                      <td>
+                                        <a>
+                                          #PCDATA
+                                        </a>
+                                      </td>
+                                    </tr>
+                                    <tr>
+                                      <td>
+                                        <span>
+                                          Proizvajalec grafične kartice
+                                        </span>
+                                      </td>
+                                      <td>
+                                        <a>
+                                          #PCDATA
+                                        </a>
+                                      </td>
+                                    </tr>
+                                    <tr>
+                                      <td>
+                                        <span>
+                                          Stanje
+                                        </span>
+                                      </td>
+                                      <td>
+                                        <a>
+                                          nov
+                                        </a>
+                                      </td>
+                                    </tr>
+                                    <tr>
+                                      <td>
+                                        <span>
+                                          #PCDATA
+                                        </span>
+                                      </td>
+                                      <td>
+                                        <a>
+                                          #PCDATA
+                                        </a>
+                                      </td>
+                                    </tr>
+                                    <tr>
+                                      <td>
+                                        <span>
+                                          #PCDATA
+                                        </span>
+                                      </td>
+                                      <td>
+                                        <a>
+                                          #PCDATA
+                                        </a>
+                                      </td>
+                                    </tr>
+                                    <tr>
+                                      <td>
+                                        <span>
+                                          #PCDATA
+                                        </span>
+                                      </td>
+                                      <td>
+                                        <a>
+                                          ( </a> )?
+                                          ( </a> )?
+                                        </td>
+                                      </tr>
+                                      <tr>
+                                        <td>
+                                          <span>
+                                            #PCDATA
+                                          </span>
+                                        </td>
+                                        <td>
+                                          <a>
+                                            ( </a> )?
+                                            ( </a> )?
+                                          </td>
+                                        </tr>
+                                        <tr>
+                                          <td>
+                                            <span>
+                                              #PCDATA
+                                            </span>
+                                          </td>
+                                          <td>
+                                            <a>
+                                              #PCDATA
+                                            </a>
+                                          </td>
+                                        </tr>
+                                        <tr>
+                                          <td>
+                                            <span>
+                                              #PCDATA
+                                            </span>
+                                          </td>
+                                          <td>
+                                            <a>
+                                              #PCDATA
+                                            </a>
+                                          </td>
+                                        </tr>
+                                        <tr>
+                                          <td>
+                                            ( <span>Velikost zaslona (v ")</span></td><td><a>17.3 "</a></td></tr><tr><td><span>Vrsta naprave</span></td><td><a>gaming</a></td></tr><tr><td> )?
+                                            <abbr>
+                                              Cuin
+                                            </abbr>
+                                          </td>
+                                          <td>
+                                            #PCDATA
+                                          </td>
+                                        </tr>
+                                      </tbody>
+                                    </table>
+                                    <div>
+                                      ( <br> )?
+                                      ( </div><div><span><a><b>Prijavi napako</b></a></span></div><p>Ceneje.si je vodilni portal za primerjalno nakupovanje v Sloveniji, ki potrošnikom omogoča preudarne nakupe. Primerjaj ponudbe trgovin za Prenosnik ACER Nitro 5 AN517-52-577J i5-10300H/8GB/SSD 512GB/17.3 FHD IPS/GTX 1650 4GB/brez OS črn - 43,9 cm (17,3) in izberi najboljšo. Prenosniki iz kategorije Prenosniki so najboljši nakup, če želiš kvaliteten izdelek po najboljši ceni. )?
+                                      <br>
+                                      ( <br> )?
+                                      <br>
+                                      ( <br> )?

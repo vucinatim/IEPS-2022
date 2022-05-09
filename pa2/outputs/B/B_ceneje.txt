@@ -1,0 +1,117 @@
+---- ceneje.si\APPLE prenosnik MacBook Pro 13.3 M1 (8-CPU + 8-GPU) 8GB_256GB, Silver - Ceneje.si.html ----
+{
+  "Title": "APPLE prenosnik MacBook Pro 13.3 M1 (8-CPU + 8-GPU) 8GB/256GB, Silver",
+  "TopPrice": "1.299,99 €",
+  "TopDiscount": "1.539,99 € -16 %",
+  "Offers": [
+    {
+      "Seller": "Big Bang",
+      "Price": "1.299,99 €",
+      "Discount": "-16 % 1.539,99 €"
+    },
+    {
+      "Seller": "Si.mobileshop.eu",
+      "Price": "1.230,00 €",
+      "Discount": ""
+    },
+    {
+      "Seller": "Harvey Norman",
+      "Price": "1.299,99 €",
+      "Discount": ""
+    },
+    {
+      "Seller": "Big Bang",
+      "Price": "1.299,99 €",
+      "Discount": "-16 % 1.539,99 €"
+    },
+    {
+      "Seller": "isistemi.si",
+      "Price": "1.586,00 €",
+      "Discount": ""
+    },
+    {
+      "Seller": "Senetic",
+      "Price": "1.661,66 €",
+      "Discount": ""
+    }
+  ]
+}
+
+---- ceneje.si\Prenosnik ACER Nitro 5 AN517-52-577J i5-10300H_8GB_SSD 512GB_17.3 FHD IPS_GTX 1650 4GB_brez OS crn - 43,9 cm (17,3) - Ceneje.si.html ----
+{
+  "Title": "Prenosnik ACER Nitro 5 AN517-52-577J i5-10300H/8GB/SSD 512GB/17.3 FHD IPS/GTX 1650 4GB/brez OS črn - 43,9 cm (17,3)",
+  "TopPrice": "799,90 €",
+  "TopDiscount": "1.206,73 € -34 %",
+  "Offers": [
+    {
+      "Seller": "Shoppster",
+      "Price": "799,90 €",
+      "Discount": "-34 % 1.206,73 €"
+    },
+    {
+      "Seller": "Big Bang",
+      "Price": "1.037,99 €",
+      "Discount": ""
+    },
+    {
+      "Seller": "Shoppster",
+      "Price": "799,90 €",
+      "Discount": "-34 % 1.206,73 €"
+    },
+    {
+      "Seller": "anni.si",
+      "Price": "819,00 €",
+      "Discount": "-32 % 1.206,73 €"
+    },
+    {
+      "Seller": "Tehnox.si",
+      "Price": "967,67 €",
+      "Discount": "-20 % 1.206,73 €"
+    },
+    {
+      "Seller": "Balix",
+      "Price": "970,68 €",
+      "Discount": ""
+    },
+    {
+      "Seller": "parcom.shop",
+      "Price": "997,00 €",
+      "Discount": "-17 % 1.206,73 €"
+    },
+    {
+      "Seller": "eMundia.si",
+      "Price": "1.000,34 €",
+      "Discount": "-17 % 1.206,73 €"
+    },
+    {
+      "Seller": "Big Bang",
+      "Price": "1.037,99 €",
+      "Discount": ""
+    },
+    {
+      "Seller": "BIRO.si",
+      "Price": "1.077,00 €",
+      "Discount": ""
+    },
+    {
+      "Seller": "Akcija.si",
+      "Price": "1.098,24 €",
+      "Discount": ""
+    },
+    {
+      "Seller": "ECE",
+      "Price": "1.206,73 €",
+      "Discount": ""
+    },
+    {
+      "Seller": "Najnakupi.si",
+      "Price": "1.206,73 €",
+      "Discount": ""
+    },
+    {
+      "Seller": "Kupčič",
+      "Price": "1.107,77 €",
+      "Discount": ""
+    }
+  ]
+}

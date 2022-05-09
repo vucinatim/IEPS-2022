@@ -1,0 +1,2039 @@
+---- overstock.com\jewelry01.html ----
+TOKENS: <body> <input> <form> </form> <table> <tbody> <tr> <td> </td> <td> <table> <tbody> <tr> <td> <table> <tbody> <tr> <td> <a> <img> ...
+
+---- overstock.com\jewelry02.html ----
+TOKENS: <body> <input> <table> <tbody> <tr> <td> </td> <td> <table> <tbody> <tr> <td> <table> <tbody> <tr> <td> <a> <img> </a> </td> ...
+
+0 - Found Match: (<body>, <body>)
+1 - Found Match: (<input>, <input>)
+2 - Matching iterator (a, b): (<form>, <table>)
+Failed to match iterator
+Terminal TAG: <input>
+2 - Matching optional (a, b): (<form>, <table>)
+opt match: <table>, <table>
+3 - Found Match: (<table>, <table>)
+4 - Found Match: (<tbody>, <tbody>)
+5 - Found Match: (<tr>, <tr>)
+6 - Found Match: (<td>, <td>)
+7 - Found Match: (</td>, </td>)
+8 - Found Match: (<td>, <td>)
+9 - Found Match: (<table>, <table>)
+10 - Found Match: (<tbody>, <tbody>)
+11 - Found Match: (<tr>, <tr>)
+12 - Found Match: (<td>, <td>)
+13 - Found Match: (<table>, <table>)
+14 - Found Match: (<tbody>, <tbody>)
+15 - Found Match: (<tr>, <tr>)
+16 - Found Match: (<td>, <td>)
+17 - Found Match: (<a>, <a>)
+18 - Found Match: (<img>, <img>)
+19 - Found Match: (</a>, </a>)
+20 - Found Match: (</td>, </td>)
+21 - Found Match: (<td>, <td>)
+22 - Found Match: (<img>, <img>)
+23 - Found Match: (</td>, </td>)
+24 - Found Match: (<td>, <td>)
+25 - Found Match: (<a>, <a>)
+26 - Found Match: (<img>, <img>)
+27 - Found Match: (</a>, </a>)
+28 - Found Match: (</td>, </td>)
+29 - Found Match: (</tr>, </tr>)
+30 - Found Match: (</tbody>, </tbody>)
+31 - Found Match: (</table>, </table>)
+32 - Found Match: (<map>, <map>)
+33 - Found Match: (<area>, <area>)
+34 - Found Match: (<area>, <area>)
+35 - Found Match: (<area>, <area>)
+36 - Found Match: (<area>, <area>)
+37 - Found Match: (<area>, <area>)
+38 - Found Match: (</map>, </map>)
+39 - Found Match: (</td>, </td>)
+40 - Found Match: (</tr>, </tr>)
+41 - Found Match: (<tr>, <tr>)
+42 - Found Match: (<td>, <td>)
+43 - Found Match: (<a>, <a>)
+44 - Found Match: (<img>, <img>)
+45 - Found Match: (</a>, </a>)
+46 - Found Match: (<a>, <a>)
+47 - Found Match: (<img>, <img>)
+48 - Found Match: (</a>, </a>)
+49 - Found Match: (<a>, <a>)
+50 - Found Match: (<img>, <img>)
+51 - Found Match: (</a>, </a>)
+52 - Found Match: (<a>, <a>)
+53 - Found Match: (<img>, <img>)
+54 - Found Match: (</a>, </a>)
+55 - Found Match: (<a>, <a>)
+56 - Found Match: (<img>, <img>)
+57 - Found Match: (</a>, </a>)
+58 - Found Match: (<a>, <a>)
+59 - Found Match: (<img>, <img>)
+60 - Found Match: (</a>, </a>)
+61 - Found Match: (<a>, <a>)
+62 - Found Match: (<img>, <img>)
+63 - Found Match: (</a>, </a>)
+64 - Found Match: (</td>, </td>)
+65 - Found Match: (</tr>, </tr>)
+66 - Found Match: (</tbody>, </tbody>)
+67 - Found Match: (</table>, </table>)
+68 - Found Match: (</td>, </td>)
+69 - Found Match: (</tr>, </tr>)
+70 - Found Match: (<tr>, <tr>)
+71 - Found Match: (<td>, <td>)
+72 - Found Match: (<img>, <img>)
+73 - Found Match: (</td>, </td>)
+74 - Found Match: (</tr>, </tr>)
+75 - Matching iterator (a, b): (<tr>, <form>)
+! Length difference too great !
+Square 1:
+<tr> <td> <table> <tbody> <tr> <td> <table> <tbody> <tr> <td> <span> Search: </span> <select> <option> All Stores  </option> <option> Home & Garden  </option> <option> Electronics & Computers  </option> <option> Books, Movies, CDs, Games  </option> <option> Jewelry, Watches & Gifts  </option> <option> Sports, Travel & Toys  </option> <option> Worldstock  </option> <option> Apparel, Shoes & Access.  </option> </select> </td> <td> </td> <td> <input> </td> <td> <input> �� </td> </tr> </tbody> </table> </td> <td> <img> <br> <a> <img> </a> ��  </td> <td> <img> </td> </tr> </tbody> </table> </td> </tr>
+Square 2:
+<tr> <td> </td> <td> <table> <tbody> <tr> <td> <table> <tbody> <tr> <td> <a> <img> </a> </td> <td> <img> </td> <td> <a> <img> </a> </td> </tr> </tbody> </table> <map> <area> <area> <area> <area> <area> </map> </td> </tr> <tr> <td> <a> <img> </a> <a> <img> </a> <a> <img> </a> <a> <img> </a> <a> <img> </a> <a> <img> </a> <a> <img> </a> </td> </tr> </tbody> </table> </td> </tr> <tr> <td> <img> </td> </tr>
+0 - Found Match: (<tr>, <tr>)
+1 - Found Match: (<td>, <td>)
+2 - Matching iterator (a, b): (<table>, </td>)
+Search down failed
+Search down failed
+Failed to match iterator
+2 - Matching optional (a, b): (<table>, </td>)
+opt match: <table>, <table>
+3 - Found Match: (<table>, <table>)
+4 - Found Match: (<tbody>, <tbody>)
+5 - Found Match: (<tr>, <tr>)
+6 - Found Match: (<td>, <td>)
+7 - Found Match: (<table>, <table>)
+8 - Found Match: (<tbody>, <tbody>)
+9 - Found Match: (<tr>, <tr>)
+10 - Found Match: (<td>, <td>)
+11 - Matching iterator (a, b): (<span>, <a>)
+Search down failed
+Search down failed
+Failed to match iterator
+11 - Matching optional (a, b): (<span>, <a>)
+Error: couldn't find optional match
+Failed to match iterator
+75 - Matching optional (a, b): (<tr>, <form>)
+opt match: <tr>, <tr>
+76 - Found Match: (<tr>, <tr>)
+77 - Found Match: (<td>, <td>)
+78 - Found Match: (<table>, <table>)
+79 - Found Match: (<tbody>, <tbody>)
+80 - Found Match: (<tr>, <tr>)
+81 - Found Match: (<td>, <td>)
+82 - Found Match: (<table>, <table>)
+83 - Found Match: (<tbody>, <tbody>)
+84 - Found Match: (<tr>, <tr>)
+85 - Found Match: (<td>, <td>)
+86 - Found Match: (<span>, <span>)
+87 - Found Match: (Search:, Search:)
+88 - Found Match: (</span>, </span>)
+89 - Found Match: (<select>, <select>)
+90 - Found Match: (<option>, <option>)
+91 - Matching string (a, b): (All Stores , All Stores)
+92 - Found Match: (</option>, </option>)
+93 - Found Match: (<option>, <option>)
+94 - Matching string (a, b): (Home & Garden , Home &amp; Garden)
+95 - Found Match: (</option>, </option>)
+96 - Found Match: (<option>, <option>)
+97 - Matching string (a, b): (Electronics & Computers , Electronics &amp; Computers)
+98 - Found Match: (</option>, </option>)
+99 - Found Match: (<option>, <option>)
+100 - Matching string (a, b): (Books, Movies, CDs, Games , Books, Movies, CDs, Games)
+101 - Found Match: (</option>, </option>)
+102 - Found Match: (<option>, <option>)
+103 - Matching string (a, b): (Jewelry, Watches & Gifts , Jewelry, Watches &amp; Gifts)
+104 - Found Match: (</option>, </option>)
+105 - Found Match: (<option>, <option>)
+106 - Matching string (a, b): (Sports, Travel & Toys , Sports, Travel &amp; Toys)
+107 - Found Match: (</option>, </option>)
+108 - Found Match: (<option>, <option>)
+109 - Matching string (a, b): (Worldstock , Worldstock)
+110 - Found Match: (</option>, </option>)
+111 - Found Match: (<option>, <option>)
+112 - Matching string (a, b): (Apparel, Shoes & Access. , Apparel, Shoes &amp; Access.)
+113 - Found Match: (</option>, </option>)
+114 - Found Match: (</select>, </select>)
+115 - Found Match: (</td>, </td>)
+116 - Found Match: (<td>, <td>)
+117 - Found Match: (</td>, </td>)
+118 - Found Match: (<td>, <td>)
+119 - Found Match: (<input>, <input>)
+120 - Found Match: (</td>, </td>)
+121 - Found Match: (<td>, <td>)
+122 - Found Match: (<input>, <input>)
+123 - Found Match: (��, ��)
+124 - Found Match: (</td>, </td>)
+125 - Found Match: (</tr>, </tr>)
+126 - Found Match: (</tbody>, </tbody>)
+127 - Found Match: (</table>, </table>)
+128 - Found Match: (</td>, </td>)
+129 - Found Match: (<td>, <td>)
+130 - Found Match: (<img>, <img>)
+131 - Found Match: (<br>, <br>)
+132 - Found Match: (<a>, <a>)
+133 - Found Match: (<img>, <img>)
+134 - Found Match: (</a>, </a>)
+135 - Found Match: (�� , �� )
+136 - Found Match: (</td>, </td>)
+137 - Found Match: (<td>, <td>)
+138 - Found Match: (<img>, <img>)
+139 - Found Match: (</td>, </td>)
+140 - Found Match: (</tr>, </tr>)
+141 - Found Match: (</tbody>, </tbody>)
+142 - Found Match: (</table>, </table>)
+143 - Found Match: (</td>, </td>)
+144 - Found Match: (</tr>, </tr>)
+145 - Found Match: (<tr>, <tr>)
+146 - Found Match: (<td>, <td>)
+147 - Found Match: (<img>, <img>)
+148 - Found Match: (</td>, </td>)
+149 - Found Match: (</tr>, </tr>)
+150 - Found Match: (</tbody>, </tbody>)
+151 - Found Match: (</table>, </table>)
+152 - Found Match: (<table>, <table>)
+153 - Found Match: (<tbody>, <tbody>)
+154 - Found Match: (<tr>, <tr>)
+155 - Found Match: (<td>, <td>)
+156 - Found Match: (<img>, <img>)
+157 - Found Match: (</td>, </td>)
+158 - Found Match: (<td>, <td>)
+159 - Found Match: (<br>, <br>)
+160 - Found Match: (<table>, <table>)
+161 - Found Match: (<tbody>, <tbody>)
+162 - Found Match: (<tr>, <tr>)
+163 - Found Match: (<td>, <td>)
+164 - Found Match: (<table>, <table>)
+165 - Found Match: (<tbody>, <tbody>)
+166 - Found Match: (<tr>, <tr>)
+167 - Found Match: (<td>, <td>)
+168 - Found Match: (</td>, </td>)
+169 - Found Match: (<td>, <td>)
+170 - Found Match: (<span>, <span>)
+171 - Found Match: (<b>, <b>)
+172 - Matching string (a, b): (Diamonds, Jade)
+173 - Found Match: (</b>, </b>)
+174 - Found Match: (</span>, </span>)
+175 - Found Match: (</td>, </td>)
+176 - Found Match: (</tr>, </tr>)
+177 - Found Match: (<tr>, <tr>)
+178 - Found Match: (<td>, <td>)
+179 - Found Match: (</td>, </td>)
+180 - Found Match: (<td>, <td>)
+181 - Found Match: (<a>, <a>)
+182 - Matching string (a, b): (Bracelets, Jade - Bracelets)
+183 - Found Match: (</a>, </a>)
+184 - Found Match: (</td>, </td>)
+185 - Found Match: (</tr>, </tr>)
+186 - Found Match: (<tr>, <tr>)
+187 - Found Match: (<td>, <td>)
+188 - Found Match: (</td>, </td>)
+189 - Found Match: (<td>, <td>)
+190 - Found Match: (<a>, <a>)
+191 - Matching string (a, b): (Bridal Sets, Jade - Earrings)
+192 - Found Match: (</a>, </a>)
+193 - Found Match: (</td>, </td>)
+194 - Found Match: (</tr>, </tr>)
+195 - Found Match: (<tr>, <tr>)
+196 - Found Match: (<td>, <td>)
+197 - Found Match: (</td>, </td>)
+198 - Found Match: (<td>, <td>)
+199 - Found Match: (<a>, <a>)
+200 - Matching string (a, b): (Earrings, Jade - Pendants)
+201 - Found Match: (</a>, </a>)
+202 - Found Match: (</td>, </td>)
+203 - Found Match: (</tr>, </tr>)
+204 - Found Match: (<tr>, <tr>)
+205 - Found Match: (<td>, <td>)
+206 - Found Match: (</td>, </td>)
+207 - Found Match: (<td>, <td>)
+208 - Found Match: (<a>, <a>)
+209 - Matching string (a, b): (Engagement Rings, Jade - Rings)
+210 - Found Match: (</a>, </a>)
+211 - Found Match: (</td>, </td>)
+212 - Found Match: (</tr>, </tr>)
+213 - Found Match: (<tr>, <tr>)
+214 - Found Match: (<td>, <td>)
+215 - Found Match: (</td>, </td>)
+216 - Found Match: (<td>, <td>)
+217 - Found Match: (<a>, <a>)
+(STRING, TAG) - (Fashion Rings, <b>) mismatch occured
+219 - Found Match: (</a>, </a>)
+220 - Found Match: (</td>, </td>)
+221 - Found Match: (</tr>, </tr>)
+222 - Matching iterator (a, b): (<tr>, </tbody>)
+Square 1:
+<tr> <td> </td> <td> <a> Necklaces </a> </td> </tr>
+Square 2:
+<tr> <td> </td> <td> <a> Fashion Rings </a> </td> </tr>
+0 - Found Match: (<tr>, <tr>)
+1 - Found Match: (<td>, <td>)
+2 - Found Match: (</td>, </td>)
+3 - Found Match: (<td>, <td>)
+4 - Found Match: (<a>, <a>)
+5 - Matching string (a, b): (Necklaces, Fashion Rings)
+6 - Found Match: (</a>, </a>)
+7 - Found Match: (</td>, </td>)
+8 - Found Match: (</tr>, </tr>)
+terminal: </tr>
+Wrapper (old, new) (222, 166)
+223 - Found Match: (</tbody>, </tbody>)
+224 - Found Match: (</table>, </table>)
+225 - Found Match: (</td>, </td>)
+226 - Found Match: (</tr>, </tr>)
+227 - Found Match: (</tbody>, </tbody>)
+228 - Found Match: (</table>, </table>)
+229 - Found Match: (<br>, <br>)
+230 - Found Match: (<span>, <span>)
+231 - Found Match: (<b>, <b>)
+232 - Found Match: (Stores, Stores)
+233 - Found Match: (</b>, </b>)
+234 - Found Match: (</span>, </span>)
+235 - Found Match: (<br>, <br>)
+236 - Found Match: (<table>, <table>)
+237 - Found Match: (<tbody>, <tbody>)
+238 - Found Match: (<tr>, <tr>)
+239 - Found Match: (<td>, <td>)
+240 - Found Match: (<a>, <a>)
+241 - Matching string (a, b): (Apparel, Shoes & Access., Apparel, Shoes &amp; Access.)
+242 - Found Match: (</a>, </a>)
+243 - Found Match: (</td>, </td>)
+244 - Found Match: (</tr>, </tr>)
+245 - Found Match: (<tr>, <tr>)
+246 - Found Match: (<td>, <td>)
+247 - Found Match: (<a>, <a>)
+248 - Found Match: (Books, Movies, CDs, Games, Books, Movies, CDs, Games)
+249 - Found Match: (</a>, </a>)
+250 - Found Match: (</td>, </td>)
+251 - Found Match: (</tr>, </tr>)
+252 - Found Match: (<tr>, <tr>)
+253 - Found Match: (<td>, <td>)
+254 - Found Match: (<a>, <a>)
+255 - Matching string (a, b): (Electronics & Computers, Electronics &amp; Computers)
+256 - Found Match: (</a>, </a>)
+257 - Found Match: (</td>, </td>)
+258 - Found Match: (</tr>, </tr>)
+259 - Found Match: (<tr>, <tr>)
+260 - Found Match: (<td>, <td>)
+261 - Found Match: (<a>, <a>)
+262 - Matching string (a, b): (Home & Garden, Home &amp; Garden)
+263 - Found Match: (</a>, </a>)
+264 - Found Match: (</td>, </td>)
+265 - Found Match: (</tr>, </tr>)
+266 - Found Match: (<tr>, <tr>)
+267 - Found Match: (<td>, <td>)
+268 - Found Match: (<a>, <a>)
+269 - Found Match: (<b>, <b>)
+270 - Matching string (a, b): (Jewelry, Watches & Gifts, Jewelry, Watches &amp; Gifts)
+271 - Found Match: (</b>, </b>)
+272 - Found Match: (</a>, </a>)
+273 - Found Match: (</td>, </td>)
+274 - Found Match: (</tr>, </tr>)
+275 - Found Match: (<tr>, <tr>)
+276 - Found Match: (<td>, <td>)
+277 - Found Match: (<a>, <a>)
+278 - Matching string (a, b): (Sports, Travel & Toys, Sports, Travel &amp; Toys)
+279 - Found Match: (</a>, </a>)
+280 - Found Match: (</td>, </td>)
+281 - Found Match: (</tr>, </tr>)
+282 - Found Match: (<tr>, <tr>)
+283 - Found Match: (<td>, <td>)
+284 - Found Match: (<a>, <a>)
+285 - Found Match: (Worldstock, Worldstock)
+286 - Found Match: (</a>, </a>)
+287 - Found Match: (</td>, </td>)
+288 - Found Match: (</tr>, </tr>)
+289 - Found Match: (</tbody>, </tbody>)
+290 - Found Match: (</table>, </table>)
+291 - Found Match: (<br>, <br>)
+292 - Found Match: (<span>, <span>)
+293 - Found Match: (<b>, <b>)
+294 - Found Match: (New Stock, New Stock)
+295 - Found Match: (</b>, </b>)
+296 - Found Match: (</span>, </span>)
+297 - Found Match: (<br>, <br>)
+298 - Found Match: (<table>, <table>)
+299 - Found Match: (<tbody>, <tbody>)
+300 - Found Match: (<tr>, <tr>)
+301 - Found Match: (<td>, <td>)
+302 - Found Match: (<a>, <a>)
+303 - Found Match: (Ralph Lauren $29.95, Ralph Lauren $29.95)
+304 - Found Match: (</a>, </a>)
+305 - Found Match: (</td>, </td>)
+306 - Found Match: (</tr>, </tr>)
+307 - Found Match: (<tr>, <tr>)
+308 - Found Match: (<td>, <td>)
+309 - Found Match: (<a>, <a>)
+310 - Found Match: (Ben Sherman 53% off, Ben Sherman 53% off)
+311 - Found Match: (</a>, </a>)
+312 - Found Match: (</td>, </td>)
+313 - Found Match: (</tr>, </tr>)
+314 - Found Match: (<tr>, <tr>)
+315 - Found Match: (<td>, <td>)
+316 - Found Match: (<a>, <a>)
+317 - Found Match: (Pre-order Harry Potter DVD, Pre-order Harry Potter DVD)
+318 - Found Match: (</a>, </a>)
+319 - Found Match: (</td>, </td>)
+320 - Found Match: (</tr>, </tr>)
+321 - Found Match: (<tr>, <tr>)
+322 - Found Match: (<td>, <td>)
+323 - Found Match: (<a>, <a>)
+324 - Found Match: (HP 2GHz System $499, HP 2GHz System $499)
+325 - Found Match: (</a>, </a>)
+326 - Found Match: (</td>, </td>)
+327 - Found Match: (</tr>, </tr>)
+328 - Found Match: (<tr>, <tr>)
+329 - Found Match: (<td>, <td>)
+330 - Found Match: (<a>, <a>)
+331 - Found Match: (New Items within 7 Days, New Items within 7 Days)
+332 - Found Match: (</a>, </a>)
+333 - Found Match: (</td>, </td>)
+334 - Found Match: (</tr>, </tr>)
+335 - Found Match: (</tbody>, </tbody>)
+336 - Found Match: (</table>, </table>)
+337 - Found Match: (<br>, <br>)
+338 - Found Match: (<span>, <span>)
+339 - Found Match: (<b>, <b>)
+340 - Found Match: (Customer Service, Customer Service)
+341 - Found Match: (</b>, </b>)
+342 - Found Match: (</span>, </span>)
+343 - Found Match: (<br>, <br>)
+344 - Found Match: (<table>, <table>)
+345 - Found Match: (<tbody>, <tbody>)
+346 - Found Match: (<tr>, <tr>)
+347 - Found Match: (<td>, <td>)
+348 - Found Match: (<a>, <a>)
+349 - Matching string (a, b): (Shopping Cart & Checkout, Shopping Cart &amp; Checkout)
+350 - Found Match: (</a>, </a>)
+351 - Found Match: (</td>, </td>)
+352 - Found Match: (</tr>, </tr>)
+353 - Found Match: (<tr>, <tr>)
+354 - Found Match: (<td>, <td>)
+355 - Found Match: (<a>, <a>)
+356 - Found Match: (Track Your Order, Track Your Order)
+357 - Found Match: (</a>, </a>)
+358 - Found Match: (</td>, </td>)
+359 - Found Match: (</tr>, </tr>)
+360 - Found Match: (<tr>, <tr>)
+361 - Found Match: (<td>, <td>)
+362 - Found Match: (<a>, <a>)
+363 - Found Match: (Your Account, Your Account)
+364 - Found Match: (</a>, </a>)
+365 - Found Match: (</td>, </td>)
+366 - Found Match: (</tr>, </tr>)
+367 - Found Match: (<tr>, <tr>)
+368 - Found Match: (<td>, <td>)
+369 - Found Match: (<a>, <a>)
+370 - Matching string (a, b): (Help & FAQ, Help &amp; FAQ)
+371 - Found Match: (</a>, </a>)
+372 - Found Match: (</td>, </td>)
+373 - Found Match: (</tr>, </tr>)
+374 - Found Match: (<tr>, <tr>)
+375 - Found Match: (<td>, <td>)
+376 - Found Match: (<a>, <a>)
+377 - Found Match: (Best Price Guarantee, Best Price Guarantee)
+378 - Found Match: (</a>, </a>)
+379 - Found Match: (</td>, </td>)
+380 - Found Match: (</tr>, </tr>)
+381 - Found Match: (</tbody>, </tbody>)
+382 - Found Match: (</table>, </table>)
+383 - Found Match: (<br>, <br>)
+384 - Found Match: (<span>, <span>)
+385 - Found Match: (<b>, <b>)
+386 - Found Match: (About Us, About Us)
+387 - Found Match: (</b>, </b>)
+388 - Found Match: (</span>, </span>)
+389 - Found Match: (<br>, <br>)
+390 - Found Match: (<table>, <table>)
+391 - Found Match: (<tbody>, <tbody>)
+392 - Found Match: (<tr>, <tr>)
+393 - Found Match: (<td>, <td>)
+394 - Found Match: (<a>, <a>)
+395 - Found Match: (About Us, About Us)
+396 - Found Match: (</a>, </a>)
+397 - Found Match: (</td>, </td>)
+398 - Found Match: (</tr>, </tr>)
+399 - Found Match: (<tr>, <tr>)
+400 - Found Match: (<td>, <td>)
+401 - Found Match: (<a>, <a>)
+402 - Matching string (a, b): (Privacy & Security, Privacy &amp; Security)
+403 - Found Match: (</a>, </a>)
+404 - Found Match: (</td>, </td>)
+405 - Found Match: (</tr>, </tr>)
+406 - Found Match: (<tr>, <tr>)
+407 - Found Match: (<td>, <td>)
+408 - Found Match: (<a>, <a>)
+409 - Matching string (a, b): (Terms & Conditions, Terms &amp; Conditions)
+410 - Found Match: (</a>, </a>)
+411 - Found Match: (</td>, </td>)
+412 - Found Match: (</tr>, </tr>)
+413 - Found Match: (<tr>, <tr>)
+414 - Found Match: (<td>, <td>)
+415 - Found Match: (<a>, <a>)
+416 - Found Match: (Become An Affiliate, Become An Affiliate)
+417 - Found Match: (</a>, </a>)
+418 - Found Match: (</td>, </td>)
+419 - Found Match: (</tr>, </tr>)
+420 - Found Match: (<tr>, <tr>)
+421 - Found Match: (<td>, <td>)
+422 - Found Match: (<a>, <a>)
+423 - Found Match: (Business Purchases, Business Purchases)
+424 - Found Match: (</a>, </a>)
+425 - Found Match: (</td>, </td>)
+426 - Found Match: (</tr>, </tr>)
+427 - Found Match: (<tr>, <tr>)
+428 - Found Match: (<td>, <td>)
+429 - Found Match: (<a>, <a>)
+430 - Found Match: (Have Products to Sell?, Have Products to Sell?)
+431 - Found Match: (</a>, </a>)
+432 - Found Match: (</td>, </td>)
+433 - Found Match: (</tr>, </tr>)
+434 - Found Match: (<tr>, <tr>)
+435 - Found Match: (<td>, <td>)
+436 - Found Match: (<a>, <a>)
+437 - Found Match: (Investor Relations, Investor Relations)
+438 - Found Match: (</a>, </a>)
+439 - Found Match: (</td>, </td>)
+440 - Found Match: (</tr>, </tr>)
+441 - Found Match: (</tbody>, </tbody>)
+442 - Found Match: (</table>, </table>)
+443 - Found Match: (<img>, <img>)
+444 - Found Match: (<br>, <br>)
+445 - Found Match: (</td>, </td>)
+446 - Found Match: (<td>, <td>)
+447 - Found Match: (<img>, <img>)
+448 - Found Match: (</td>, </td>)
+449 - Found Match: (<td>, <td>)
+450 - Found Match: (<img>, <img>)
+451 - Found Match: (</td>, </td>)
+452 - Found Match: (<td>, <td>)
+453 - Found Match: (<br>, <br>)
+454 - Found Match: (<b>, <b>)
+455 - Found Match: (<a>, <a>)
+456 - Matching string (a, b): (Jewelry, Watches & Gifts, Jewelry, Watches &amp; Gifts)
+457 - Found Match: (</a>, </a>)
+458 - Found Match: (&gt; , &gt; )
+459 - Found Match: (<a>, <a>)
+460 - Found Match: (Jewelry, Jewelry)
+461 - Found Match: (</a>, </a>)
+462 - Found Match: (&gt; , &gt; )
+463 - Found Match: (<a>, <a>)
+464 - Matching string (a, b): (Diamonds, Jade)
+465 - Found Match: (</a>, </a>)
+466 - Matching string (a, b): (&gt; View All, &gt; View All )
+467 - Found Match: (</b>, </b>)
+468 - Found Match: (<br>, <br>)
+469 - Found Match: (<table>, <table>)
+470 - Found Match: (<tbody>, <tbody>)
+471 - Found Match: (<tr>, <tr>)
+472 - Found Match: (<td>, <td>)
+473 - Found Match: (<br>, <br>)
+474 - Found Match: (<table>, <table>)
+475 - Found Match: (<tbody>, <tbody>)
+476 - Found Match: (<tr>, <tr>)
+477 - Found Match: (<td>, <td>)
+478 - Found Match: (<table>, <table>)
+479 - Found Match: (<tbody>, <tbody>)
+480 - Found Match: (<tr>, <tr>)
+481 - Found Match: (<td>, <td>)
+482 - Found Match: (<span>, <span>)
+483 - Found Match: (<b>, <b>)
+484 - Found Match: (List Sorted By:, List Sorted By:)
+485 - Found Match: (</b>, </b>)
+486 - Found Match: (</span>, </span>)
+487 - Found Match: (</td>, </td>)
+488 - Found Match: (<td>, <td>)
+489 - Found Match: (<b>, <b>)
+490 - Found Match: (Top Sellers, Top Sellers)
+491 - Found Match: (</b>, </b>)
+492 - Found Match: (| , | )
+493 - Found Match: (<a>, <a>)
+494 - Found Match: (Discount, Discount)
+495 - Found Match: (</a>, </a>)
+496 - Found Match: (| , | )
+497 - Found Match: (<a>, <a>)
+498 - Found Match: (Newest First, Newest First)
+499 - Found Match: (</a>, </a>)
+500 - Found Match: (| , | )
+501 - Found Match: (<a>, <a>)
+502 - Found Match: (Price, Price)
+503 - Found Match: (</a>, </a>)
+504 - Found Match: (| , | )
+505 - Found Match: (<a>, <a>)
+506 - Found Match: (Quantity, Quantity)
+507 - Found Match: (</a>, </a>)
+508 - Found Match: (| , | )
+509 - Found Match: (<a>, <a>)
+510 - Found Match: (Markdowns, Markdowns)
+511 - Found Match: (</a>, </a>)
+512 - Found Match: (</td>, </td>)
+513 - Found Match: (</tr>, </tr>)
+514 - Matching iterator (a, b): (<tr>, </tbody>)
+Square 1:
+<tr> <td> <span> <b> Items: </b> </span> </td> <td> <b> 16 </b> -  <b> 30 </b> of  <b> 296 </b> ��|�� <a> First Page </a> ��|�� <a> Previous 15 </a> ��|�� <a> Next 15 </a> ��  </td> </tr>
+Square 2:
+<tr> <td> <span> <b> List Sorted By: </b> </span> </td> <td> <b> Top Sellers </b> |  <a> Discount </a> |  <a> Newest First </a> |  <a> Price </a> |  <a> Quantity </a> |  <a> Markdowns </a> </td> </tr>
+0 - Found Match: (<tr>, <tr>)
+1 - Found Match: (<td>, <td>)
+2 - Found Match: (<span>, <span>)
+3 - Found Match: (<b>, <b>)
+4 - Matching string (a, b): (Items:, List Sorted By:)
+5 - Found Match: (</b>, </b>)
+6 - Found Match: (</span>, </span>)
+7 - Found Match: (</td>, </td>)
+8 - Found Match: (<td>, <td>)
+9 - Found Match: (<b>, <b>)
+10 - Matching string (a, b): (16, Top Sellers)
+11 - Found Match: (</b>, </b>)
+12 - Matching string (a, b): (- , | )
+13 - Matching iterator (a, b): (<b>, <a>)
+Square 1:
+<b> 30 </b>
+Square 2:
+<b> 16 </b> - 
+0 - Found Match: (<b>, <b>)
+1 - Matching string (a, b): (30, 16)
+2 - Found Match: (</b>, </b>)
+terminal: </b>
+Wrapper (old, new) (13, 13)
+(STRING, TAG) - (of , <a>) mismatch occured
+(STRING, TAG) - (<b>, | ) mismatch occured
+(STRING, TAG) - (��|��, <a>) mismatch occured
+(STRING, TAG) - (<a>, | ) mismatch occured
+(STRING, TAG) - (��|��, <a>) mismatch occured
+(STRING, TAG) - (<a>, | ) mismatch occured
+(STRING, TAG) - (��|��, <a>) mismatch occured
+(STRING, TAG) - (<a>, | ) mismatch occured
+(STRING, TAG) - (�� , <a>) mismatch occured
+23 - Found Match: (</td>, </td>)
+24 - Found Match: (</tr>, </tr>)
+terminal: </tr>
+Wrapper (old, new) (458, 424)
+515 - Found Match: (</tbody>, </tbody>)
+516 - Found Match: (</table>, </table>)
+517 - Found Match: (</td>, </td>)
+518 - Found Match: (</tr>, </tr>)
+519 - Found Match: (</tbody>, </tbody>)
+520 - Found Match: (</table>, </table>)
+521 - Found Match: (</td>, </td>)
+522 - Found Match: (</tr>, </tr>)
+523 - Found Match: (<tr>, <tr>)
+524 - Found Match: (<td>, <td>)
+525 - Found Match: (<table>, <table>)
+526 - Found Match: (<tbody>, <tbody>)
+527 - Found Match: (<tr>, <tr>)
+528 - Found Match: (<td>, <td>)
+529 - Found Match: (<table>, <table>)
+530 - Found Match: (<tbody>, <tbody>)
+531 - Found Match: (<tr>, <tr>)
+532 - Found Match: (<td>, <td>)
+533 - Found Match: (<table>, <table>)
+534 - Found Match: (<tbody>, <tbody>)
+535 - Found Match: (<tr>, <tr>)
+536 - Found Match: (<td>, <td>)
+537 - Found Match: (<a>, <a>)
+538 - Found Match: (<img>, <img>)
+539 - Found Match: (</a>, </a>)
+540 - Found Match: (</td>, </td>)
+541 - Found Match: (</tr>, </tr>)
+542 - Found Match: (<tr>, <tr>)
+543 - Found Match: (<td>, <td>)
+544 - Found Match: (<a>, <a>)
+545 - Found Match: (More Info..., More Info...)
+546 - Found Match: (</a>, </a>)
+547 - Found Match: (</td>, </td>)
+548 - Found Match: (</tr>, </tr>)
+549 - Found Match: (</tbody>, </tbody>)
+550 - Found Match: (</table>, </table>)
+551 - Found Match: (</td>, </td>)
+552 - Found Match: (<td>, <td>)
+553 - Found Match: (<a>, <a>)
+554 - Found Match: (<b>, <b>)
+555 - Matching string (a, b): (10-kt. Seven Diamond Ladies Heart Ring (0.08 TW), 14-kt. Green Jade Hoops)
+556 - Found Match: (</b>, </b>)
+557 - Found Match: (</a>, </a>)
+558 - Found Match: (<br>, <br>)
+559 - Found Match: (<table>, <table>)
+560 - Found Match: (<tbody>, <tbody>)
+561 - Found Match: (<tr>, <tr>)
+562 - Found Match: (<td>, <td>)
+563 - Found Match: (<table>, <table>)
+564 - Found Match: (<tbody>, <tbody>)
+565 - Found Match: (<tr>, <tr>)
+566 - Found Match: (<td>, <td>)
+567 - Found Match: (<b>, <b>)
+568 - Found Match: (List Price:, List Price:)
+569 - Found Match: (</b>, </b>)
+570 - Found Match: (</td>, </td>)
+571 - Found Match: (<td>, <td>)
+572 - Found Match: (<s>, <s>)
+573 - Matching string (a, b): ($149.00, $90.00)
+574 - Found Match: (</s>, </s>)
+575 - Found Match: (</td>, </td>)
+576 - Found Match: (</tr>, </tr>)
+577 - Found Match: (<tr>, <tr>)
+578 - Found Match: (<td>, <td>)
+579 - Found Match: (<b>, <b>)
+580 - Found Match: (Price:, Price:)
+581 - Found Match: (</b>, </b>)
+582 - Found Match: (</td>, </td>)
+583 - Found Match: (<td>, <td>)
+584 - Found Match: (<span>, <span>)
+585 - Found Match: (<b>, <b>)
+586 - Matching string (a, b): ($69.99, $46.99)
+587 - Found Match: (</b>, </b>)
+588 - Found Match: (</span>, </span>)
+589 - Found Match: (</td>, </td>)
+590 - Found Match: (</tr>, </tr>)
+591 - Found Match: (<tr>, <tr>)
+592 - Found Match: (<td>, <td>)
+593 - Found Match: (<b>, <b>)
+594 - Found Match: (You Save:, You Save:)
+595 - Found Match: (</b>, </b>)
+596 - Found Match: (</td>, </td>)
+597 - Found Match: (<td>, <td>)
+598 - Found Match: (<span>, <span>)
+599 - Matching string (a, b): ($79.01 (53%), $43.01 (47%))
+600 - Found Match: (</span>, </span>)
+601 - Found Match: (</td>, </td>)
+602 - Found Match: (</tr>, </tr>)
+603 - Found Match: (</tbody>, </tbody>)
+604 - Found Match: (</table>, </table>)
+605 - Found Match: (</td>, </td>)
+606 - Found Match: (<td>, <td>)
+607 - Found Match: (<span>, <span>)
+608 - Matching string (a, b): (This ladies fashion ring dazzles with hearts and diamonds. The gold band is crafted into delicate, open hearts. Seven brilliant-cut diamonds add a bit of sparkle., Hoops of cool green jade rest between 14-karat yellow gold endpieces. The hoops graduate in thickness from 3 mm at the ends to 6 mm in the center, with approximately 29 mm overall diameter.)
+609 - Found Match: (<br>, <br>)
+610 - Found Match: (<a>, <a>)
+611 - Found Match: (<span>, <span>)
+612 - Found Match: (<b>, <b>)
+613 - Found Match: (Click here to purchase., Click here to purchase.)
+614 - Found Match: (</b>, </b>)
+615 - Found Match: (</span>, </span>)
+616 - Found Match: (</a>, </a>)
+617 - Found Match: (</span>, </span>)
+618 - Found Match: (<br>, <br>)
+619 - Matching iterator (a, b): (</td>, <table>)
+Failed to match iterator
+Terminal TAG: <br>
+619 - Matching optional (a, b): (</td>, <table>)
+opt match: <table>, <table>
+620 - Found Match: (<table>, <table>)
+621 - Found Match: (<tbody>, <tbody>)
+622 - Found Match: (<tr>, <tr>)
+623 - Found Match: (<td>, <td>)
+624 - Matching iterator (a, b): (<b>, <a>)
+Search down failed
+Search down failed
+Failed to match iterator
+624 - Matching optional (a, b): (<b>, <a>)
+opt match: <b>, <b>
+625 - Found Match: (<b>, <b>)
+626 - Found Match: (List Price:, List Price:)
+627 - Found Match: (</b>, </b>)
+628 - Found Match: (</td>, </td>)
+629 - Found Match: (<td>, <td>)
+630 - Found Match: (<s>, <s>)
+631 - Matching string (a, b): ($250.00, $150.00)
+632 - Found Match: (</s>, </s>)
+633 - Found Match: (</td>, </td>)
+634 - Found Match: (</tr>, </tr>)
+635 - Found Match: (<tr>, <tr>)
+636 - Found Match: (<td>, <td>)
+637 - Found Match: (<b>, <b>)
+638 - Found Match: (Price:, Price:)
+639 - Found Match: (</b>, </b>)
+640 - Found Match: (</td>, </td>)
+641 - Found Match: (<td>, <td>)
+642 - Found Match: (<span>, <span>)
+643 - Found Match: (<b>, <b>)
+644 - Matching string (a, b): ($74.90, $48.99)
+645 - Found Match: (</b>, </b>)
+646 - Found Match: (</span>, </span>)
+647 - Found Match: (</td>, </td>)
+648 - Found Match: (</tr>, </tr>)
+649 - Found Match: (<tr>, <tr>)
+650 - Found Match: (<td>, <td>)
+651 - Found Match: (<b>, <b>)
+652 - Found Match: (You Save:, You Save:)
+653 - Found Match: (</b>, </b>)
+654 - Found Match: (</td>, </td>)
+655 - Found Match: (<td>, <td>)
+656 - Found Match: (<span>, <span>)
+657 - Matching string (a, b): ($175.10 (70%), $101.01 (67%))
+658 - Found Match: (</span>, </span>)
+659 - Found Match: (</td>, </td>)
+660 - Found Match: (</tr>, </tr>)
+661 - Found Match: (</tbody>, </tbody>)
+662 - Found Match: (</table>, </table>)
+663 - Found Match: (</td>, </td>)
+664 - Found Match: (<td>, <td>)
+665 - Found Match: (<span>, <span>)
+666 - Matching string (a, b): (Nineteen round diamonds accent this 10-karat yellow gold ring with filigree accents., The 25-mm disk hangs delicately from a 14-karat gold chain. The disk features a dramatic gold Chinese character in the center, accompanied by four stylized gold bees.)
+667 - Found Match: (<br>, <br>)
+668 - Found Match: (<a>, <a>)
+669 - Found Match: (<span>, <span>)
+670 - Found Match: (<b>, <b>)
+671 - Found Match: (Click here to purchase., Click here to purchase.)
+672 - Found Match: (</b>, </b>)
+673 - Found Match: (</span>, </span>)
+674 - Found Match: (</a>, </a>)
+675 - Found Match: (</span>, </span>)
+676 - Found Match: (<br>, <br>)
+677 - Found Match: (</td>, </td>)
+678 - Found Match: (</tr>, </tr>)
+679 - Found Match: (</tbody>, </tbody>)
+680 - Found Match: (</table>, </table>)
+681 - Found Match: (</td>, </td>)
+682 - Found Match: (</tr>, </tr>)
+683 - Found Match: (<tr>, <tr>)
+684 - Found Match: (<td>, <td>)
+685 - Found Match: (<img>, <img>)
+686 - Found Match: (</td>, </td>)
+687 - Found Match: (</tr>, </tr>)
+688 - Found Match: (<tr>, <tr>)
+689 - Found Match: (<td>, <td>)
+690 - Found Match: (<table>, <table>)
+691 - Found Match: (<tbody>, <tbody>)
+692 - Found Match: (<tr>, <tr>)
+693 - Found Match: (<td>, <td>)
+694 - Found Match: (<a>, <a>)
+695 - Found Match: (<img>, <img>)
+696 - Found Match: (</a>, </a>)
+697 - Found Match: (</td>, </td>)
+698 - Found Match: (</tr>, </tr>)
+699 - Found Match: (<tr>, <tr>)
+700 - Found Match: (<td>, <td>)
+701 - Found Match: (<a>, <a>)
+702 - Found Match: (More Info..., More Info...)
+703 - Found Match: (</a>, </a>)
+704 - Found Match: (</td>, </td>)
+705 - Found Match: (</tr>, </tr>)
+706 - Found Match: (</tbody>, </tbody>)
+707 - Found Match: (</table>, </table>)
+708 - Found Match: (</td>, </td>)
+709 - Found Match: (<td>, <td>)
+710 - Found Match: (<a>, <a>)
+711 - Found Match: (<b>, <b>)
+712 - Matching string (a, b): (10-kt. Pearl and Diamond Butterfly Earrings, 14-kt. Charcoal Jade and Ruby Elephant Pendant)
+713 - Found Match: (</b>, </b>)
+714 - Found Match: (</a>, </a>)
+715 - Found Match: (<br>, <br>)
+716 - Found Match: (<table>, <table>)
+717 - Found Match: (<tbody>, <tbody>)
+718 - Found Match: (<tr>, <tr>)
+719 - Found Match: (<td>, <td>)
+720 - Found Match: (<table>, <table>)
+721 - Found Match: (<tbody>, <tbody>)
+722 - Found Match: (<tr>, <tr>)
+723 - Found Match: (<td>, <td>)
+724 - Found Match: (<b>, <b>)
+725 - Found Match: (List Price:, List Price:)
+726 - Found Match: (</b>, </b>)
+727 - Found Match: (</td>, </td>)
+728 - Found Match: (<td>, <td>)
+729 - Found Match: (<s>, <s>)
+730 - Matching string (a, b): ($149.00, $100.00)
+731 - Found Match: (</s>, </s>)
+732 - Found Match: (</td>, </td>)
+733 - Found Match: (</tr>, </tr>)
+734 - Found Match: (<tr>, <tr>)
+735 - Found Match: (<td>, <td>)
+736 - Found Match: (<b>, <b>)
+737 - Found Match: (Price:, Price:)
+738 - Found Match: (</b>, </b>)
+739 - Found Match: (</td>, </td>)
+740 - Found Match: (<td>, <td>)
+741 - Found Match: (<span>, <span>)
+742 - Found Match: (<b>, <b>)
+743 - Matching string (a, b): ($42.99, $28.99)
+744 - Found Match: (</b>, </b>)
+745 - Found Match: (</span>, </span>)
+746 - Found Match: (</td>, </td>)
+747 - Found Match: (</tr>, </tr>)
+748 - Found Match: (<tr>, <tr>)
+749 - Found Match: (<td>, <td>)
+750 - Found Match: (<b>, <b>)
+751 - Found Match: (You Save:, You Save:)
+752 - Found Match: (</b>, </b>)
+753 - Found Match: (</td>, </td>)
+754 - Found Match: (<td>, <td>)
+755 - Found Match: (<span>, <span>)
+756 - Matching string (a, b): ($106.01 (71%), $71.01 (71%))
+757 - Found Match: (</span>, </span>)
+758 - Found Match: (</td>, </td>)
+759 - Found Match: (</tr>, </tr>)
+760 - Found Match: (</tbody>, </tbody>)
+761 - Found Match: (</table>, </table>)
+762 - Found Match: (</td>, </td>)
+763 - Found Match: (<td>, <td>)
+764 - Found Match: (<span>, <span>)
+765 - Matching string (a, b): (Perfectly proportioned 5.5- to 6-mm cultured pearls on 10-karat yellow gold settings highlight these petite earrings. A dainty rhodium-plated gold butterfly studded with a diamond (0.02 total carat weight, J-K color, I-2 clarity) rests atop each pearl., Carved of rich dark grey jade, this elephant pendant has 14-karat yellow gold applied to mark the feet, tusk, tail, and blanket. A 2-mm round faceted ruby in a gold bezel setting forms the eye. The pendant hangs from an 18-inch chain.)
+766 - Found Match: (<br>, <br>)
+767 - Found Match: (<a>, <a>)
+768 - Found Match: (<span>, <span>)
+769 - Found Match: (<b>, <b>)
+770 - Found Match: (Click here to purchase., Click here to purchase.)
+771 - Found Match: (</b>, </b>)
+772 - Found Match: (</span>, </span>)
+773 - Found Match: (</a>, </a>)
+774 - Found Match: (</span>, </span>)
+775 - Found Match: (<br>, <br>)
+776 - Found Match: (</td>, </td>)
+777 - Found Match: (</tr>, </tr>)
+778 - Found Match: (</tbody>, </tbody>)
+779 - Found Match: (</table>, </table>)
+780 - Found Match: (</td>, </td>)
+781 - Found Match: (</tr>, </tr>)
+782 - Found Match: (<tr>, <tr>)
+783 - Found Match: (<td>, <td>)
+784 - Found Match: (<img>, <img>)
+785 - Found Match: (</td>, </td>)
+786 - Found Match: (</tr>, </tr>)
+787 - Found Match: (<tr>, <tr>)
+788 - Found Match: (<td>, <td>)
+789 - Found Match: (<table>, <table>)
+790 - Found Match: (<tbody>, <tbody>)
+791 - Found Match: (<tr>, <tr>)
+792 - Found Match: (<td>, <td>)
+793 - Found Match: (<a>, <a>)
+794 - Found Match: (<img>, <img>)
+795 - Found Match: (</a>, </a>)
+796 - Found Match: (</td>, </td>)
+797 - Found Match: (</tr>, </tr>)
+798 - Found Match: (<tr>, <tr>)
+799 - Found Match: (<td>, <td>)
+800 - Found Match: (<a>, <a>)
+801 - Found Match: (More Info..., More Info...)
+802 - Found Match: (</a>, </a>)
+803 - Found Match: (</td>, </td>)
+804 - Found Match: (</tr>, </tr>)
+805 - Found Match: (</tbody>, </tbody>)
+806 - Found Match: (</table>, </table>)
+807 - Found Match: (</td>, </td>)
+808 - Found Match: (<td>, <td>)
+809 - Found Match: (<a>, <a>)
+810 - Found Match: (<b>, <b>)
+811 - Matching string (a, b): (14-kt. Diamond 'S' Tennis Bracelet (2.00 TW), 14-kt. Carved Lavender Jade Earrings)
+812 - Found Match: (</b>, </b>)
+813 - Found Match: (</a>, </a>)
+814 - Found Match: (<br>, <br>)
+815 - Found Match: (<table>, <table>)
+816 - Found Match: (<tbody>, <tbody>)
+817 - Found Match: (<tr>, <tr>)
+818 - Found Match: (<td>, <td>)
+819 - Found Match: (<table>, <table>)
+820 - Found Match: (<tbody>, <tbody>)
+821 - Found Match: (<tr>, <tr>)
+822 - Found Match: (<td>, <td>)
+823 - Found Match: (<b>, <b>)
+824 - Found Match: (List Price:, List Price:)
+825 - Found Match: (</b>, </b>)
+826 - Found Match: (</td>, </td>)
+827 - Found Match: (<td>, <td>)
+828 - Found Match: (<s>, <s>)
+829 - Matching string (a, b): ($1,539.99, $80.00)
+830 - Found Match: (</s>, </s>)
+831 - Found Match: (</td>, </td>)
+832 - Found Match: (</tr>, </tr>)
+833 - Found Match: (<tr>, <tr>)
+834 - Found Match: (<td>, <td>)
+835 - Found Match: (<b>, <b>)
+836 - Found Match: (Price:, Price:)
+837 - Found Match: (</b>, </b>)
+838 - Found Match: (</td>, </td>)
+839 - Found Match: (<td>, <td>)
+840 - Found Match: (<span>, <span>)
+841 - Found Match: (<b>, <b>)
+842 - Matching string (a, b): ($499.99, $39.99)
+843 - Found Match: (</b>, </b>)
+844 - Found Match: (</span>, </span>)
+845 - Found Match: (</td>, </td>)
+846 - Found Match: (</tr>, </tr>)
+847 - Found Match: (<tr>, <tr>)
+848 - Found Match: (<td>, <td>)
+849 - Found Match: (<b>, <b>)
+850 - Found Match: (You Save:, You Save:)
+851 - Found Match: (</b>, </b>)
+852 - Found Match: (</td>, </td>)
+853 - Found Match: (<td>, <td>)
+854 - Found Match: (<span>, <span>)
+855 - Matching string (a, b): ($1,040.00 (67%), $40.01 (50%))
+856 - Found Match: (</span>, </span>)
+857 - Found Match: (</td>, </td>)
+858 - Found Match: (</tr>, </tr>)
+859 - Found Match: (</tbody>, </tbody>)
+860 - Found Match: (</table>, </table>)
+861 - Found Match: (</td>, </td>)
+862 - Found Match: (<td>, <td>)
+863 - Found Match: (<span>, <span>)
+864 - Matching string (a, b): (Invest in a swirl of light with this diamond 'S' tennis bracelet. Crafted in 14-karat gold, the piece features 49 diamonds for two full carats. The 7.25-inch bracelet closes with a pressure clasp., Luscious 8-mm lavender jade balls, carved with intricate Asian style, dangle from a 14-karat yellow gold French hook.)
+865 - Found Match: (<br>, <br>)
+866 - Found Match: (<a>, <a>)
+867 - Found Match: (<span>, <span>)
+868 - Found Match: (<b>, <b>)
+869 - Found Match: (Click here to purchase., Click here to purchase.)
+870 - Found Match: (</b>, </b>)
+871 - Found Match: (</span>, </span>)
+872 - Found Match: (</a>, </a>)
+873 - Found Match: (</span>, </span>)
+874 - Found Match: (<br>, <br>)
+875 - Matching iterator (a, b): (<table>, </td>)
+Failed to match iterator
+Terminal TAG: <br>
+875 - Matching optional (a, b): (<table>, </td>)
+opt match: <table>, <table>
+876 - Found Match: (<table>, <table>)
+877 - Found Match: (<tbody>, <tbody>)
+878 - Found Match: (<tr>, <tr>)
+879 - Found Match: (<td>, <td>)
+880 - Matching iterator (a, b): (<a>, <b>)
+Search down failed
+Search down failed
+Failed to match iterator
+880 - Matching optional (a, b): (<a>, <b>)
+opt match: <b>, <b>
+881 - Found Match: (<b>, <b>)
+882 - Found Match: (List Price:, List Price:)
+883 - Found Match: (</b>, </b>)
+884 - Found Match: (</td>, </td>)
+885 - Found Match: (<td>, <td>)
+886 - Found Match: (<s>, <s>)
+887 - Matching string (a, b): ($179.99, $150.00)
+888 - Found Match: (</s>, </s>)
+889 - Found Match: (</td>, </td>)
+890 - Found Match: (</tr>, </tr>)
+891 - Found Match: (<tr>, <tr>)
+892 - Found Match: (<td>, <td>)
+893 - Found Match: (<b>, <b>)
+894 - Found Match: (Price:, Price:)
+895 - Found Match: (</b>, </b>)
+896 - Found Match: (</td>, </td>)
+897 - Found Match: (<td>, <td>)
+898 - Found Match: (<span>, <span>)
+899 - Found Match: (<b>, <b>)
+900 - Matching string (a, b): ($79.99, $49.99)
+901 - Found Match: (</b>, </b>)
+902 - Found Match: (</span>, </span>)
+903 - Found Match: (</td>, </td>)
+904 - Found Match: (</tr>, </tr>)
+905 - Found Match: (<tr>, <tr>)
+906 - Found Match: (<td>, <td>)
+907 - Found Match: (<b>, <b>)
+908 - Found Match: (You Save:, You Save:)
+909 - Found Match: (</b>, </b>)
+910 - Found Match: (</td>, </td>)
+911 - Found Match: (<td>, <td>)
+912 - Found Match: (<span>, <span>)
+913 - Matching string (a, b): ($100.00 (55%), $100.01 (66%))
+914 - Found Match: (</span>, </span>)
+915 - Found Match: (</td>, </td>)
+916 - Found Match: (</tr>, </tr>)
+917 - Found Match: (</tbody>, </tbody>)
+918 - Found Match: (</table>, </table>)
+919 - Found Match: (</td>, </td>)
+920 - Found Match: (<td>, <td>)
+921 - Found Match: (<span>, <span>)
+922 - Matching string (a, b): (Crafted in white and yellow gold, this ring displays a band of seven round diamonds. Order your new gold and diamond fashion ring today at our low, online price., Green jade and gold create this beautiful cross pendant. Cylindrical bars of green jade feature caps and center of 14-karat yellow gold.)
+923 - Found Match: (<br>, <br>)
+924 - Found Match: (<a>, <a>)
+925 - Found Match: (<span>, <span>)
+926 - Found Match: (<b>, <b>)
+927 - Found Match: (Click here to purchase., Click here to purchase.)
+928 - Found Match: (</b>, </b>)
+929 - Found Match: (</span>, </span>)
+930 - Found Match: (</a>, </a>)
+931 - Found Match: (</span>, </span>)
+932 - Found Match: (<br>, <br>)
+933 - Matching iterator (a, b): (</td>, <table>)
+Failed to match iterator
+Terminal TAG: <br>
+933 - Matching optional (a, b): (</td>, <table>)
+opt match: <table>, <table>
+934 - Found Match: (<table>, <table>)
+935 - Found Match: (<tbody>, <tbody>)
+936 - Found Match: (<tr>, <tr>)
+937 - Found Match: (<td>, <td>)
+938 - Matching iterator (a, b): (<b>, <a>)
+Search down failed
+Search down failed
+Failed to match iterator
+938 - Matching optional (a, b): (<b>, <a>)
+opt match: <b>, <b>
+939 - Found Match: (<b>, <b>)
+940 - Found Match: (List Price:, List Price:)
+941 - Found Match: (</b>, </b>)
+942 - Found Match: (</td>, </td>)
+943 - Found Match: (<td>, <td>)
+944 - Found Match: (<s>, <s>)
+945 - Matching string (a, b): ($419.99, $375.00)
+946 - Found Match: (</s>, </s>)
+947 - Found Match: (</td>, </td>)
+948 - Found Match: (</tr>, </tr>)
+949 - Found Match: (<tr>, <tr>)
+950 - Found Match: (<td>, <td>)
+951 - Found Match: (<b>, <b>)
+952 - Found Match: (Price:, Price:)
+953 - Found Match: (</b>, </b>)
+954 - Found Match: (</td>, </td>)
+955 - Found Match: (<td>, <td>)
+956 - Found Match: (<span>, <span>)
+957 - Found Match: (<b>, <b>)
+958 - Matching string (a, b): ($149.99, $99.99)
+959 - Found Match: (</b>, </b>)
+960 - Found Match: (</span>, </span>)
+961 - Found Match: (</td>, </td>)
+962 - Found Match: (</tr>, </tr>)
+963 - Found Match: (<tr>, <tr>)
+964 - Found Match: (<td>, <td>)
+965 - Found Match: (<b>, <b>)
+966 - Found Match: (You Save:, You Save:)
+967 - Found Match: (</b>, </b>)
+968 - Found Match: (</td>, </td>)
+969 - Found Match: (<td>, <td>)
+970 - Found Match: (<span>, <span>)
+971 - Matching string (a, b): ($270.00 (64%), $275.01 (73%))
+972 - Found Match: (</span>, </span>)
+973 - Found Match: (</td>, </td>)
+974 - Found Match: (</tr>, </tr>)
+975 - Found Match: (</tbody>, </tbody>)
+976 - Found Match: (</table>, </table>)
+977 - Found Match: (</td>, </td>)
+978 - Found Match: (<td>, <td>)
+979 - Found Match: (<span>, <span>)
+980 - Matching string (a, b): (Show your romantic side with this 14-karat diamond and pearl ring. Set in a domed band of 14-karat white gold, the ring features a 7-mm cultured pearl. Curved rows of diamonds flank the pearl., A delicate wrapping of 14-karat yellow gold wire holds six 6 x 4 pear shapes of jade in various shades: brilliant green, orange, lavender, black, pale yellow, and white. The post earrings have butterfly backs.)
+981 - Found Match: (<br>, <br>)
+982 - Found Match: (<a>, <a>)
+983 - Found Match: (<span>, <span>)
+984 - Found Match: (<b>, <b>)
+985 - Found Match: (Click here to purchase., Click here to purchase.)
+986 - Found Match: (</b>, </b>)
+987 - Found Match: (</span>, </span>)
+988 - Found Match: (</a>, </a>)
+989 - Found Match: (</span>, </span>)
+990 - Found Match: (<br>, <br>)
+991 - Found Match: (</td>, </td>)
+992 - Found Match: (</tr>, </tr>)
+993 - Found Match: (</tbody>, </tbody>)
+994 - Found Match: (</table>, </table>)
+995 - Found Match: (</td>, </td>)
+996 - Found Match: (</tr>, </tr>)
+997 - Found Match: (<tr>, <tr>)
+998 - Found Match: (<td>, <td>)
+999 - Found Match: (<img>, <img>)
+1000 - Found Match: (</td>, </td>)
+1001 - Found Match: (</tr>, </tr>)
+1002 - Found Match: (<tr>, <tr>)
+1003 - Found Match: (<td>, <td>)
+1004 - Found Match: (<table>, <table>)
+1005 - Found Match: (<tbody>, <tbody>)
+1006 - Found Match: (<tr>, <tr>)
+1007 - Found Match: (<td>, <td>)
+1008 - Found Match: (<a>, <a>)
+1009 - Found Match: (<img>, <img>)
+1010 - Found Match: (</a>, </a>)
+1011 - Found Match: (</td>, </td>)
+1012 - Found Match: (</tr>, </tr>)
+1013 - Found Match: (<tr>, <tr>)
+1014 - Found Match: (<td>, <td>)
+1015 - Found Match: (<a>, <a>)
+1016 - Found Match: (More Info..., More Info...)
+1017 - Found Match: (</a>, </a>)
+1018 - Found Match: (</td>, </td>)
+1019 - Found Match: (</tr>, </tr>)
+1020 - Found Match: (</tbody>, </tbody>)
+1021 - Found Match: (</table>, </table>)
+1022 - Found Match: (</td>, </td>)
+1023 - Found Match: (<td>, <td>)
+1024 - Found Match: (<a>, <a>)
+1025 - Found Match: (<b>, <b>)
+1026 - Matching string (a, b): (14-kt. Gold Diamond Present Future Pendant (.25TW), 14-kt. Multicolored Jade Ring)
+1027 - Found Match: (</b>, </b>)
+1028 - Found Match: (</a>, </a>)
+1029 - Found Match: (<br>, <br>)
+1030 - Found Match: (<table>, <table>)
+1031 - Found Match: (<tbody>, <tbody>)
+1032 - Found Match: (<tr>, <tr>)
+1033 - Found Match: (<td>, <td>)
+1034 - Found Match: (<table>, <table>)
+1035 - Found Match: (<tbody>, <tbody>)
+1036 - Found Match: (<tr>, <tr>)
+1037 - Found Match: (<td>, <td>)
+1038 - Found Match: (<b>, <b>)
+1039 - Found Match: (List Price:, List Price:)
+1040 - Found Match: (</b>, </b>)
+1041 - Found Match: (</td>, </td>)
+1042 - Found Match: (<td>, <td>)
+1043 - Found Match: (<s>, <s>)
+1044 - Matching string (a, b): ($299.00, $250.00)
+1045 - Found Match: (</s>, </s>)
+1046 - Found Match: (</td>, </td>)
+1047 - Found Match: (</tr>, </tr>)
+1048 - Found Match: (<tr>, <tr>)
+1049 - Found Match: (<td>, <td>)
+1050 - Found Match: (<b>, <b>)
+1051 - Found Match: (Price:, Price:)
+1052 - Found Match: (</b>, </b>)
+1053 - Found Match: (</td>, </td>)
+1054 - Found Match: (<td>, <td>)
+1055 - Found Match: (<span>, <span>)
+1056 - Found Match: (<b>, <b>)
+1057 - Matching string (a, b): ($149.99, $56.99)
+1058 - Found Match: (</b>, </b>)
+1059 - Found Match: (</span>, </span>)
+1060 - Found Match: (</td>, </td>)
+1061 - Found Match: (</tr>, </tr>)
+1062 - Found Match: (<tr>, <tr>)
+1063 - Found Match: (<td>, <td>)
+1064 - Found Match: (<b>, <b>)
+1065 - Found Match: (You Save:, You Save:)
+1066 - Found Match: (</b>, </b>)
+1067 - Found Match: (</td>, </td>)
+1068 - Found Match: (<td>, <td>)
+1069 - Found Match: (<span>, <span>)
+1070 - Matching string (a, b): ($149.01 (49%), $193.01 (77%))
+1071 - Found Match: (</span>, </span>)
+1072 - Found Match: (</td>, </td>)
+1073 - Found Match: (</tr>, </tr>)
+1074 - Found Match: (</tbody>, </tbody>)
+1075 - Found Match: (</table>, </table>)
+1076 - Found Match: (</td>, </td>)
+1077 - Found Match: (<td>, <td>)
+1078 - Found Match: (<span>, <span>)
+1079 - Matching string (a, b): (Designed with three large, sparkling diamonds to represent past, present, and future, this stunning pendant is set in gleaming 14-karat gold. It incorporates a total of nine diamonds (0.25 total carat weight, K color, I-2 to I-3 clarity)., A delicate wrapping of 14-karat yellow gold wire holds six 6 x 4 ovals of jade in various shades: brilliant green, orange, lavender, black, pale yellow, and white. A narrow gold band divides to support the setting.)
+1080 - Found Match: (<br>, <br>)
+1081 - Found Match: (<a>, <a>)
+1082 - Found Match: (<span>, <span>)
+1083 - Found Match: (<b>, <b>)
+1084 - Found Match: (Click here to purchase., Click here to purchase.)
+1085 - Found Match: (</b>, </b>)
+1086 - Found Match: (</span>, </span>)
+1087 - Found Match: (</a>, </a>)
+1088 - Found Match: (</span>, </span>)
+1089 - Found Match: (<br>, <br>)
+1090 - Matching iterator (a, b): (<table>, </td>)
+Failed to match iterator
+Terminal TAG: <br>
+1090 - Matching optional (a, b): (<table>, </td>)
+opt match: <table>, <table>
+1091 - Found Match: (<table>, <table>)
+1092 - Found Match: (<tbody>, <tbody>)
+1093 - Found Match: (<tr>, <tr>)
+1094 - Found Match: (<td>, <td>)
+1095 - Matching iterator (a, b): (<a>, <b>)
+Search down failed
+Search down failed
+Failed to match iterator
+1095 - Matching optional (a, b): (<a>, <b>)
+opt match: <b>, <b>
+1096 - Found Match: (<b>, <b>)
+1097 - Found Match: (List Price:, List Price:)
+1098 - Found Match: (</b>, </b>)
+1099 - Found Match: (</td>, </td>)
+1100 - Found Match: (<td>, <td>)
+1101 - Found Match: (<s>, <s>)
+1102 - Matching string (a, b): ($1,019.99, $100.00)
+1103 - Found Match: (</s>, </s>)
+1104 - Found Match: (</td>, </td>)
+1105 - Found Match: (</tr>, </tr>)
+1106 - Found Match: (<tr>, <tr>)
+1107 - Found Match: (<td>, <td>)
+1108 - Found Match: (<b>, <b>)
+1109 - Found Match: (Price:, Price:)
+1110 - Found Match: (</b>, </b>)
+1111 - Found Match: (</td>, </td>)
+1112 - Found Match: (<td>, <td>)
+1113 - Found Match: (<span>, <span>)
+1114 - Found Match: (<b>, <b>)
+1115 - Matching string (a, b): ($319.99, $35.99)
+1116 - Found Match: (</b>, </b>)
+1117 - Found Match: (</span>, </span>)
+1118 - Found Match: (</td>, </td>)
+1119 - Found Match: (</tr>, </tr>)
+1120 - Found Match: (<tr>, <tr>)
+1121 - Found Match: (<td>, <td>)
+1122 - Found Match: (<b>, <b>)
+1123 - Found Match: (You Save:, You Save:)
+1124 - Found Match: (</b>, </b>)
+1125 - Found Match: (</td>, </td>)
+1126 - Found Match: (<td>, <td>)
+1127 - Found Match: (<span>, <span>)
+1128 - Matching string (a, b): ($700.00 (68%), $64.01 (64%))
+1129 - Found Match: (</span>, </span>)
+1130 - Found Match: (</td>, </td>)
+1131 - Found Match: (</tr>, </tr>)
+1132 - Found Match: (</tbody>, </tbody>)
+1133 - Found Match: (</table>, </table>)
+1134 - Found Match: (</td>, </td>)
+1135 - Found Match: (<td>, <td>)
+1136 - Found Match: (<span>, <span>)
+1137 - Matching string (a, b): (In this simple, yet elegant pendant, a round brilliant diamond (0.33 total carat weight, H-J color, I-1 to I-2 clarity) is prong-set in 14-karat white gold., Carved of rich black onyx, this elephant pendant has 14-karat yellow gold applied to mark the feet, tusk, tail, and blanket. A 2-mm round faceted ruby in a gold bezel setting forms the eye. The pendant hangs from an 18-inch chain.)
+1138 - Found Match: (<br>, <br>)
+1139 - Found Match: (<a>, <a>)
+1140 - Found Match: (<span>, <span>)
+1141 - Found Match: (<b>, <b>)
+1142 - Found Match: (Click here to purchase., Click here to purchase.)
+1143 - Found Match: (</b>, </b>)
+1144 - Found Match: (</span>, </span>)
+1145 - Found Match: (</a>, </a>)
+1146 - Found Match: (</span>, </span>)
+1147 - Found Match: (<br>, <br>)
+1148 - Found Match: (</td>, </td>)
+1149 - Found Match: (</tr>, </tr>)
+1150 - Found Match: (</tbody>, </tbody>)
+1151 - Found Match: (</table>, </table>)
+1152 - Found Match: (</td>, </td>)
+1153 - Found Match: (</tr>, </tr>)
+1154 - Found Match: (<tr>, <tr>)
+1155 - Found Match: (<td>, <td>)
+1156 - Found Match: (<img>, <img>)
+1157 - Found Match: (</td>, </td>)
+1158 - Found Match: (</tr>, </tr>)
+1159 - Matching iterator (a, b): (<tr>, </tbody>)
+! Length difference too great !
+Square 1:
+<tr> <td> <table> <tbody> <tr> <td> <a> <img> </a> </td> </tr> <tr> <td> <a> More Info... </a> </td> </tr> </tbody> </table> </td> <td> <a> <b> 14-kt. Diamond Solitaire Earrings (0.33 TW) </b> </a> <br> <table> <tbody> <tr> <td> <table> <tbody> <tr> <td> <b> List Price: </b> </td> <td> <s> $639.99 </s> </td> </tr> <tr> <td> <b> Price: </b> </td> <td> <span> <b> $199.99 </b> </span> </td> </tr> <tr> <td> <b> You Save: </b> </td> <td> <span> $440.00 (68%) </span> </td> </tr> </tbody> </table> </td> <td> <span> Dazzle your way into her heart, with these classic diamond solitaire earrings. Two brilliant-cut diamonds (0.33 total carat weight, G-H color, I-1 to I-2 clarity) are set in four prongs of 14-karat white gold. <br> <a> <span> <b> Click here to purchase. </b> </span> </a> </span> <br> </td> </tr> </tbody> </table> </td> </tr>
+Square 2:
+<tr> <td> <table> <tbody> <tr> <td> <a> <img> </a> </td> </tr> <tr> <td> <a> More Info... </a> </td> </tr> </tbody> </table> </td> <td> <a> <b> 14-kt. Diamond Solitaire Pendant (.33 TW) </b> </a> <br> <table> <tbody> <tr> <td> <table> <tbody> <tr> <td> <b> List Price: </b> </td> <td> <s> $1,019.99 </s> </td> </tr> <tr> <td> <b> Price: </b> </td> <td> <span> <b> $319.99 </b> </span> </td> </tr> <tr> <td> <b> You Save: </b> </td> <td> <span> $700.00 (68%) </span> </td> </tr> </tbody> </table> </td> <td> <span> In this simple, yet elegant pendant, a round brilliant diamond (0.33 total carat weight, H-J color, I-1 to I-2 clarity) is prong-set in 14-karat white gold. <br> <a> <span> <b> Click here to purchase. </b> </span> </a> </span> <br> </td> </tr> </tbody> </table> </td> </tr> <tr> <td> <img> </td> </tr>
+0 - Found Match: (<tr>, <tr>)
+1 - Found Match: (<td>, <td>)
+2 - Found Match: (<table>, <table>)
+3 - Found Match: (<tbody>, <tbody>)
+4 - Found Match: (<tr>, <tr>)
+5 - Found Match: (<td>, <td>)
+6 - Found Match: (<a>, <a>)
+7 - Found Match: (<img>, <img>)
+8 - Found Match: (</a>, </a>)
+9 - Found Match: (</td>, </td>)
+10 - Found Match: (</tr>, </tr>)
+11 - Found Match: (<tr>, <tr>)
+12 - Found Match: (<td>, <td>)
+13 - Found Match: (<a>, <a>)
+14 - Found Match: (More Info..., More Info...)
+15 - Found Match: (</a>, </a>)
+16 - Found Match: (</td>, </td>)
+17 - Found Match: (</tr>, </tr>)
+18 - Found Match: (</tbody>, </tbody>)
+19 - Found Match: (</table>, </table>)
+20 - Found Match: (</td>, </td>)
+21 - Found Match: (<td>, <td>)
+22 - Found Match: (<a>, <a>)
+23 - Found Match: (<b>, <b>)
+24 - Matching string (a, b): (14-kt. Diamond Solitaire Earrings (0.33 TW), 14-kt. Diamond Solitaire Pendant (.33 TW))
+25 - Found Match: (</b>, </b>)
+26 - Found Match: (</a>, </a>)
+27 - Found Match: (<br>, <br>)
+28 - Found Match: (<table>, <table>)
+29 - Found Match: (<tbody>, <tbody>)
+30 - Found Match: (<tr>, <tr>)
+31 - Found Match: (<td>, <td>)
+32 - Found Match: (<table>, <table>)
+33 - Found Match: (<tbody>, <tbody>)
+34 - Found Match: (<tr>, <tr>)
+35 - Found Match: (<td>, <td>)
+36 - Found Match: (<b>, <b>)
+37 - Found Match: (List Price:, List Price:)
+38 - Found Match: (</b>, </b>)
+39 - Found Match: (</td>, </td>)
+40 - Found Match: (<td>, <td>)
+41 - Found Match: (<s>, <s>)
+42 - Matching string (a, b): ($639.99, $1,019.99)
+43 - Found Match: (</s>, </s>)
+44 - Found Match: (</td>, </td>)
+45 - Found Match: (</tr>, </tr>)
+46 - Found Match: (<tr>, <tr>)
+47 - Found Match: (<td>, <td>)
+48 - Found Match: (<b>, <b>)
+49 - Found Match: (Price:, Price:)
+50 - Found Match: (</b>, </b>)
+51 - Found Match: (</td>, </td>)
+52 - Found Match: (<td>, <td>)
+53 - Found Match: (<span>, <span>)
+54 - Found Match: (<b>, <b>)
+55 - Matching string (a, b): ($199.99, $319.99)
+56 - Found Match: (</b>, </b>)
+57 - Found Match: (</span>, </span>)
+58 - Found Match: (</td>, </td>)
+59 - Found Match: (</tr>, </tr>)
+60 - Found Match: (<tr>, <tr>)
+61 - Found Match: (<td>, <td>)
+62 - Found Match: (<b>, <b>)
+63 - Found Match: (You Save:, You Save:)
+64 - Found Match: (</b>, </b>)
+65 - Found Match: (</td>, </td>)
+66 - Found Match: (<td>, <td>)
+67 - Found Match: (<span>, <span>)
+68 - Matching string (a, b): ($440.00 (68%), $700.00 (68%))
+69 - Found Match: (</span>, </span>)
+70 - Found Match: (</td>, </td>)
+71 - Found Match: (</tr>, </tr>)
+72 - Found Match: (</tbody>, </tbody>)
+73 - Found Match: (</table>, </table>)
+74 - Found Match: (</td>, </td>)
+75 - Found Match: (<td>, <td>)
+76 - Found Match: (<span>, <span>)
+77 - Matching string (a, b): (Dazzle your way into her heart, with these classic diamond solitaire earrings. Two brilliant-cut diamonds (0.33 total carat weight, G-H color, I-1 to I-2 clarity) are set in four prongs of 14-karat white gold., In this simple, yet elegant pendant, a round brilliant diamond (0.33 total carat weight, H-J color, I-1 to I-2 clarity) is prong-set in 14-karat white gold.)
+78 - Found Match: (<br>, <br>)
+79 - Found Match: (<a>, <a>)
+80 - Found Match: (<span>, <span>)
+81 - Found Match: (<b>, <b>)
+82 - Found Match: (Click here to purchase., Click here to purchase.)
+83 - Found Match: (</b>, </b>)
+84 - Found Match: (</span>, </span>)
+85 - Found Match: (</a>, </a>)
+86 - Found Match: (</span>, </span>)
+87 - Found Match: (<br>, <br>)
+88 - Found Match: (</td>, </td>)
+89 - Found Match: (</tr>, </tr>)
+90 - Found Match: (</tbody>, </tbody>)
+91 - Found Match: (</table>, </table>)
+92 - Found Match: (</td>, </td>)
+93 - Found Match: (</tr>, </tr>)
+terminal: </tr>
+Wrapper (old, new) (1069, 441)
+1160 - Found Match: (</tbody>, </tbody>)
+1161 - Found Match: (</table>, </table>)
+1162 - Found Match: (</td>, </td>)
+1163 - Found Match: (</tr>, </tr>)
+1164 - Found Match: (</tbody>, </tbody>)
+1165 - Found Match: (</table>, </table>)
+1166 - Found Match: (</td>, </td>)
+1167 - Found Match: (</tr>, </tr>)
+1168 - Found Match: (<tr>, <tr>)
+1169 - Found Match: (<td>, <td>)
+1170 - Found Match: (<br>, <br>)
+1171 - Found Match: (<table>, <table>)
+1172 - Found Match: (<tbody>, <tbody>)
+1173 - Found Match: (<tr>, <tr>)
+1174 - Found Match: (<td>, <td>)
+1175 - Found Match: (<table>, <table>)
+1176 - Found Match: (<tbody>, <tbody>)
+1177 - Found Match: (<tr>, <tr>)
+1178 - Found Match: (<td>, <td>)
+1179 - Found Match: (<span>, <span>)
+1180 - Found Match: (<b>, <b>)
+1181 - Found Match: (List Sorted By:, List Sorted By:)
+1182 - Found Match: (</b>, </b>)
+1183 - Found Match: (</span>, </span>)
+1184 - Found Match: (</td>, </td>)
+1185 - Found Match: (<td>, <td>)
+1186 - Found Match: (<b>, <b>)
+1187 - Found Match: (Top Sellers, Top Sellers)
+1188 - Found Match: (</b>, </b>)
+1189 - Found Match: (| , | )
+1190 - Found Match: (<a>, <a>)
+1191 - Found Match: (Discount, Discount)
+1192 - Found Match: (</a>, </a>)
+1193 - Found Match: (| , | )
+1194 - Found Match: (<a>, <a>)
+1195 - Found Match: (Newest First, Newest First)
+1196 - Found Match: (</a>, </a>)
+1197 - Found Match: (| , | )
+1198 - Found Match: (<a>, <a>)
+1199 - Found Match: (Price, Price)
+1200 - Found Match: (</a>, </a>)
+1201 - Found Match: (| , | )
+1202 - Found Match: (<a>, <a>)
+1203 - Found Match: (Quantity, Quantity)
+1204 - Found Match: (</a>, </a>)
+1205 - Found Match: (| , | )
+1206 - Found Match: (<a>, <a>)
+1207 - Found Match: (Markdowns, Markdowns)
+1208 - Found Match: (</a>, </a>)
+1209 - Found Match: (</td>, </td>)
+1210 - Found Match: (</tr>, </tr>)
+1211 - Matching iterator (a, b): (<tr>, </tbody>)
+Square 1:
+<tr> <td> <span> <b> Items: </b> </span> </td> <td> <b> 16 </b> -  <b> 30 </b> of  <b> 296 </b> ��|�� <a> First Page </a> ��|�� <a> Previous 15 </a> ��|�� <a> Next 15 </a> ��  </td> </tr>
+Square 2:
+<tr> <td> <span> <b> List Sorted By: </b> </span> </td> <td> <b> Top Sellers </b> |  <a> Discount </a> |  <a> Newest First </a> |  <a> Price </a> |  <a> Quantity </a> |  <a> Markdowns </a> </td> </tr>
+0 - Found Match: (<tr>, <tr>)
+1 - Found Match: (<td>, <td>)
+2 - Found Match: (<span>, <span>)
+3 - Found Match: (<b>, <b>)
+4 - Matching string (a, b): (Items:, List Sorted By:)
+5 - Found Match: (</b>, </b>)
+6 - Found Match: (</span>, </span>)
+7 - Found Match: (</td>, </td>)
+8 - Found Match: (<td>, <td>)
+9 - Found Match: (<b>, <b>)
+10 - Matching string (a, b): (16, Top Sellers)
+11 - Found Match: (</b>, </b>)
+12 - Matching string (a, b): (- , | )
+13 - Matching iterator (a, b): (<b>, <a>)
+Square 1:
+<b> 30 </b>
+Square 2:
+<b> 16 </b> - 
+0 - Found Match: (<b>, <b>)
+1 - Matching string (a, b): (30, 16)
+2 - Found Match: (</b>, </b>)
+terminal: </b>
+Wrapper (old, new) (13, 13)
+(STRING, TAG) - (of , <a>) mismatch occured
+(STRING, TAG) - (<b>, | ) mismatch occured
+(STRING, TAG) - (��|��, <a>) mismatch occured
+(STRING, TAG) - (<a>, | ) mismatch occured
+(STRING, TAG) - (��|��, <a>) mismatch occured
+(STRING, TAG) - (<a>, | ) mismatch occured
+(STRING, TAG) - (��|��, <a>) mismatch occured
+(STRING, TAG) - (<a>, | ) mismatch occured
+(STRING, TAG) - (�� , <a>) mismatch occured
+23 - Found Match: (</td>, </td>)
+24 - Found Match: (</tr>, </tr>)
+terminal: </tr>
+Wrapper (old, new) (493, 459)
+1212 - Found Match: (</tbody>, </tbody>)
+1213 - Found Match: (</table>, </table>)
+1214 - Found Match: (</td>, </td>)
+1215 - Found Match: (</tr>, </tr>)
+1216 - Found Match: (</tbody>, </tbody>)
+1217 - Found Match: (</table>, </table>)
+1218 - Found Match: (</td>, </td>)
+1219 - Found Match: (</tr>, </tr>)
+1220 - Found Match: (</tbody>, </tbody>)
+1221 - Found Match: (</table>, </table>)
+1222 - Found Match: (</td>, </td>)
+1223 - Found Match: (</tr>, </tr>)
+1224 - Found Match: (<tr>, <tr>)
+1225 - Found Match: (<td>, <td>)
+1226 - Found Match: (<img>, <img>)
+1227 - Found Match: (</td>, </td>)
+1228 - Found Match: (<td>, <td>)
+1229 - Found Match: (� 2003, � 2003)
+1230 - Found Match: (<br>, <br>)
+1231 - Found Match: (Overstock.com, Overstock.com)
+1232 - Found Match: (</td>, </td>)
+1233 - Found Match: (<td>, <td>)
+1234 - Found Match: (<img>, <img>)
+1235 - Found Match: (</td>, </td>)
+1236 - Found Match: (<td>, <td>)
+1237 - Found Match: (<br>, <br>)
+1238 - Found Match: (<span>, <span>)
+1239 - Found Match: (* $2.95 flat rate shipping to the lower 48 states only. Some items excluded due to size and/or weight., * $2.95 flat rate shipping to the lower 48 states only. Some items excluded due to size and/or weight.)
+1240 - Found Match: (</span>, </span>)
+1241 - Found Match: (<img>, <img>)
+1242 - Found Match: (<br>, <br>)
+1243 - Found Match: (<img>, <img>)
+1244 - Found Match: (</td>, </td>)
+1245 - Found Match: (</tr>, </tr>)
+1246 - Found Match: (<tr>, <tr>)
+1247 - Found Match: (<td>, <td>)
+1248 - Found Match: (<img>, <img>)
+1249 - Found Match: (</td>, </td>)
+1250 - Found Match: (</tr>, </tr>)
+1251 - Found Match: (</tbody>, </tbody>)
+1252 - Found Match: (</table>, </table>)
+1253 - Found Match: (<map>, <map>)
+1254 - Found Match: (<area>, <area>)
+1255 - Found Match: (<area>, <area>)
+1256 - Found Match: (<area>, <area>)
+1257 - Found Match: (</map>, </map>)
+1258 - Found Match: (</body>, </body>)
+---- overstock.com\jewelry01.html ----
+<body>
+  <input>
+  ( <form></form> )?
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        </td>
+        <td>
+          <table>
+            <tbody>
+              <tr>
+                <td>
+                  <table>
+                    <tbody>
+                      <tr>
+                        <td>
+                          <a>
+                            <img>
+                          </a>
+                        </td>
+                        <td>
+                          <img>
+                        </td>
+                        <td>
+                          <a>
+                            <img>
+                          </a>
+                        </td>
+                      </tr>
+                    </tbody>
+                  </table>
+                  <map>
+                    <area>
+                    <area>
+                    <area>
+                    <area>
+                    <area>
+                  </map>
+                </td>
+              </tr>
+              <tr>
+                <td>
+                  <a>
+                    <img>
+                  </a>
+                  <a>
+                    <img>
+                  </a>
+                  <a>
+                    <img>
+                  </a>
+                  <a>
+                    <img>
+                  </a>
+                  <a>
+                    <img>
+                  </a>
+                  <a>
+                    <img>
+                  </a>
+                  <a>
+                    <img>
+                  </a>
+                </td>
+              </tr>
+            </tbody>
+          </table>
+        </td>
+      </tr>
+      <tr>
+        <td>
+          <img>
+        </td>
+      </tr>
+      ( <form></form> )?
+      <tr>
+        <td>
+          <table>
+            <tbody>
+              <tr>
+                <td>
+                  <table>
+                    <tbody>
+                      <tr>
+                        <td>
+                          <span>
+                            Search:
+                          </span>
+                          <select>
+                            <option>
+                              #PCDATA
+                            </option>
+                            <option>
+                              #PCDATA
+                            </option>
+                            <option>
+                              #PCDATA
+                            </option>
+                            <option>
+                              #PCDATA
+                            </option>
+                            <option>
+                              #PCDATA
+                            </option>
+                            <option>
+                              #PCDATA
+                            </option>
+                            <option>
+                              #PCDATA
+                            </option>
+                            <option>
+                              #PCDATA
+                            </option>
+                          </select>
+                        </td>
+                        <td>
+                        </td>
+                        <td>
+                          <input>
+                        </td>
+                        <td>
+                          <input>
+                          ��
+                        </td>
+                      </tr>
+                    </tbody>
+                  </table>
+                </td>
+                <td>
+                  <img>
+                  <br>
+                  <a>
+                    <img>
+                  </a>
+                  �� 
+                </td>
+                <td>
+                  <img>
+                </td>
+              </tr>
+            </tbody>
+          </table>
+        </td>
+      </tr>
+      <tr>
+        <td>
+          <img>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+  <table>
+    <tbody>
+      <tr>
+        <td>
+          <img>
+        </td>
+        <td>
+          <br>
+          <table>
+            <tbody>
+              <tr>
+                <td>
+                  <table>
+                    <tbody>
+                      ( <tr><td></td><td><a>#PCDATA</a></td></tr> )+
+                    </tbody>
+                  </table>
+                </td>
+              </tr>
+            </tbody>
+          </table>
+          <br>
+          <span>
+            <b>
+              Stores
+            </b>
+          </span>
+          <br>
+          <table>
+            <tbody>
+              <tr>
+                <td>
+                  <a>
+                    #PCDATA
+                  </a>
+                </td>
+              </tr>
+              <tr>
+                <td>
+                  <a>
+                    Books, Movies, CDs, Games
+                  </a>
+                </td>
+              </tr>
+              <tr>
+                <td>
+                  <a>
+                    #PCDATA
+                  </a>
+                </td>
+              </tr>
+              <tr>
+                <td>
+                  <a>
+                    #PCDATA
+                  </a>
+                </td>
+              </tr>
+              <tr>
+                <td>
+                  <a>
+                    <b>
+                      #PCDATA
+                    </b>
+                  </a>
+                </td>
+              </tr>
+              <tr>
+                <td>
+                  <a>
+                    #PCDATA
+                  </a>
+                </td>
+              </tr>
+              <tr>
+                <td>
+                  <a>
+                    Worldstock
+                  </a>
+                </td>
+              </tr>
+            </tbody>
+          </table>
+          <br>
+          <span>
+            <b>
+              New Stock
+            </b>
+          </span>
+          <br>
+          <table>
+            <tbody>
+              <tr>
+                <td>
+                  <a>
+                    Ralph Lauren $29.95
+                  </a>
+                </td>
+              </tr>
+              <tr>
+                <td>
+                  <a>
+                    Ben Sherman 53% off
+                  </a>
+                </td>
+              </tr>
+              <tr>
+                <td>
+                  <a>
+                    Pre-order Harry Potter DVD
+                  </a>
+                </td>
+              </tr>
+              <tr>
+                <td>
+                  <a>
+                    HP 2GHz System $499
+                  </a>
+                </td>
+              </tr>
+              <tr>
+                <td>
+                  <a>
+                    New Items within 7 Days
+                  </a>
+                </td>
+              </tr>
+            </tbody>
+          </table>
+          <br>
+          <span>
+            <b>
+              Customer Service
+            </b>
+          </span>
+          <br>
+          <table>
+            <tbody>
+              <tr>
+                <td>
+                  <a>
+                    #PCDATA
+                  </a>
+                </td>
+              </tr>
+              <tr>
+                <td>
+                  <a>
+                    Track Your Order
+                  </a>
+                </td>
+              </tr>
+              <tr>
+                <td>
+                  <a>
+                    Your Account
+                  </a>
+                </td>
+              </tr>
+              <tr>
+                <td>
+                  <a>
+                    #PCDATA
+                  </a>
+                </td>
+              </tr>
+              <tr>
+                <td>
+                  <a>
+                    Best Price Guarantee
+                  </a>
+                </td>
+              </tr>
+            </tbody>
+          </table>
+          <br>
+          <span>
+            <b>
+              About Us
+            </b>
+          </span>
+          <br>
+          <table>
+            <tbody>
+              <tr>
+                <td>
+                  <a>
+                    About Us
+                  </a>
+                </td>
+              </tr>
+              <tr>
+                <td>
+                  <a>
+                    #PCDATA
+                  </a>
+                </td>
+              </tr>
+              <tr>
+                <td>
+                  <a>
+                    #PCDATA
+                  </a>
+                </td>
+              </tr>
+              <tr>
+                <td>
+                  <a>
+                    Become An Affiliate
+                  </a>
+                </td>
+              </tr>
+              <tr>
+                <td>
+                  <a>
+                    Business Purchases
+                  </a>
+                </td>
+              </tr>
+              <tr>
+                <td>
+                  <a>
+                    Have Products to Sell?
+                  </a>
+                </td>
+              </tr>
+              <tr>
+                <td>
+                  <a>
+                    Investor Relations
+                  </a>
+                </td>
+              </tr>
+            </tbody>
+          </table>
+          <img>
+          <br>
+        </td>
+        <td>
+          <img>
+        </td>
+        <td>
+          <img>
+        </td>
+        <td>
+          <br>
+          <b>
+            <a>
+              #PCDATA
+            </a>
+            &gt; 
+            <a>
+              Jewelry
+            </a>
+            &gt; 
+            <a>
+              #PCDATA
+            </a>
+            #PCDATA
+          </b>
+          <br>
+          <table>
+            <tbody>
+              <tr>
+                <td>
+                  <br>
+                  <table>
+                    <tbody>
+                      <tr>
+                        <td>
+                          <table>
+                            <tbody>
+                              ( <tr><td><span><b>#PCDATA</b></span></td><td><b>#PCDATA</b>#PCDATA( <b>#PCDATA</b> )+( <a>Discount</a> )?( <b>296</b> )?( <a>Newest First</a> )?( <a>First Page</a> )?( <a>Price</a> )?( <a>Previous 15</a> )?( <a>Quantity</a> )?( <a>Next 15</a> )?( <a>Markdowns</a> )?</td></tr> )+
+                            </tbody>
+                          </table>
+                        </td>
+                      </tr>
+                    </tbody>
+                  </table>
+                </td>
+              </tr>
+              <tr>
+                <td>
+                  <table>
+                    <tbody>
+                      <tr>
+                        <td>
+                          <table>
+                            <tbody>
+                              ( <tr><td><table><tbody><tr><td><a><img></a></td></tr><tr><td><a>More Info...</a></td></tr></tbody></table></td><td><a><b>#PCDATA</b></a><br><table><tbody><tr><td><table><tbody><tr><td><b>List Price:</b></td><td><s>#PCDATA</s></td></tr><tr><td><b>Price:</b></td><td><span><b>#PCDATA</b></span></td></tr><tr><td><b>You Save:</b></td><td><span>#PCDATA</span></td></tr></tbody></table></td><td><span>#PCDATA<br><a><span><b>Click here to purchase.</b></span></a></span><br></td></tr></tbody></table></td></tr> )+
+                            </tbody>
+                          </table>
+                        </td>
+                      </tr>
+                    </tbody>
+                  </table>
+                </td>
+              </tr>
+              <tr>
+                <td>
+                  <br>
+                  <table>
+                    <tbody>
+                      <tr>
+                        <td>
+                          <table>
+                            <tbody>
+                              ( <tr><td><span><b>#PCDATA</b></span></td><td><b>#PCDATA</b>#PCDATA( <b>#PCDATA</b> )+( <a>Discount</a> )?( <b>296</b> )?( <a>Newest First</a> )?( <a>First Page</a> )?( <a>Price</a> )?( <a>Previous 15</a> )?( <a>Quantity</a> )?( <a>Next 15</a> )?( <a>Markdowns</a> )?</td></tr> )+
+                            </tbody>
+                          </table>
+                        </td>
+                      </tr>
+                    </tbody>
+                  </table>
+                </td>
+              </tr>
+            </tbody>
+          </table>
+        </td>
+      </tr>
+      <tr>
+        <td>
+          <img>
+        </td>
+        <td>
+          � 2003
+          <br>
+          Overstock.com
+        </td>
+        <td>
+          <img>
+        </td>
+        <td>
+          <br>
+          <span>
+            * $2.95 flat rate shipping to the lower 48 states only. Some items excluded due to size and/or weight.
+          </span>
+          <img>
+          <br>
+          <img>
+        </td>
+      </tr>
+      <tr>
+        <td>
+          <img>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+  <map>
+    <area>
+    <area>
+    <area>
+  </map>
+</body>

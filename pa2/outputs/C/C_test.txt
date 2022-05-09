@@ -1,0 +1,57 @@
+---- test\test1.html ----
+TOKENS: <body> Books of:  <B> John Smith  </B> <UL> <LI> <I> Title: </I> DB Primer  </LI> <LI> <I> Title: </I> Comp. Sys.  </LI> </UL> </body> ...
+
+---- test\test2.html ----
+TOKENS: <body> Books of:  <B> Paul Jones  </B> <IMG> <UL> <LI> <I> Title: </I> XML at Work  </LI> <LI> <I> Title: </I> HTML Scripts  </LI> <LI> ...
+
+0 - Found Match: (<body>, <body>)
+1 - Found Match: (Books of: , Books of: )
+2 - Found Match: (<B>, <B>)
+3 - Matching string (a, b): (John Smith , Paul Jones )
+4 - Found Match: (</B>, </B>)
+5 - Matching iterator (a, b): (<UL>, <IMG>)
+Search down failed
+Search down failed
+Failed to match iterator
+5 - Matching optional (a, b): (<UL>, <IMG>)
+Opt match: <UL>, <UL>
+6 - Found Match: (<UL>, <UL>)
+7 - Found Match: (<LI>, <LI>)
+8 - Found Match: (<I>, <I>)
+9 - Found Match: (Title:, Title:)
+10 - Found Match: (</I>, </I>)
+11 - Matching string (a, b): (DB Primer , XML at Work )
+12 - Found Match: (</LI>, </LI>)
+13 - Found Match: (<LI>, <LI>)
+14 - Found Match: (<I>, <I>)
+15 - Found Match: (Title:, Title:)
+16 - Found Match: (</I>, </I>)
+17 - Matching string (a, b): (Comp. Sys. , HTML Scripts )
+18 - Found Match: (</LI>, </LI>)
+19 - Matching iterator (a, b): (</UL>, <LI>)
+Search down failed
+Square 1:
+<LI> <I> Title: </I> Javascript  </LI>
+Square 2:
+<LI> <I> Title: </I> HTML Scripts  </LI>
+0 - Found Match: (<LI>, <LI>)
+1 - Found Match: (<I>, <I>)
+2 - Found Match: (Title:, Title:)
+3 - Found Match: (</I>, </I>)
+4 - Matching string (a, b): (Javascript , HTML Scripts )
+5 - Found Match: (</LI>, </LI>)
+terminal: </LI>
+Wrapper (old, new) (19, 7)
+20 - Found Match: (</UL>, </UL>)
+21 - Found Match: (</body>, </body>)
+---- test\test1.html ----
+<body>
+  Books of: 
+  <B>
+    #PCDATA
+  </B>
+  ( <IMG> )?
+  <UL>
+    ( <LI><I>Title:</I>#PCDATA</LI> )+
+  </UL>
+</body>

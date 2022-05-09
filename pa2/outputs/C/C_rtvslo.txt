@@ -1,0 +1,4159 @@
+---- rtvslo.si\Audi A6 50 TDI quattro_ nemir v premijskem razredu - RTVSLO.si.html ----
+TOKENS: <body> <div> <div> <div> <iframe> </iframe> </div> <div> </div> </div> </div> <div> <div> <div> <div> <div> <a> RTV SLO </a> </div> ...
+
+---- rtvslo.si\Volvo XC 40 D4 AWD momentum_ suvereno med najboljse v razredu - RTVSLO.si.html ----
+TOKENS: <body> <div> <div> <div> <iframe> </iframe> </div> <div> </div> </div> </div> <div> <div> <div> <div> <div> <a> RTV SLO </a> </div> ...
+
+0 - Found Match: (<body>, <body>)
+1 - Found Match: (<div>, <div>)
+2 - Found Match: (<div>, <div>)
+3 - Found Match: (<div>, <div>)
+4 - Found Match: (<iframe>, <iframe>)
+5 - Found Match: (</iframe>, </iframe>)
+6 - Found Match: (</div>, </div>)
+7 - Found Match: (<div>, <div>)
+8 - Found Match: (</div>, </div>)
+9 - Found Match: (</div>, </div>)
+10 - Found Match: (</div>, </div>)
+11 - Found Match: (<div>, <div>)
+12 - Found Match: (<div>, <div>)
+13 - Found Match: (<div>, <div>)
+14 - Found Match: (<div>, <div>)
+15 - Found Match: (<div>, <div>)
+16 - Found Match: (<a>, <a>)
+17 - Found Match: (RTV SLO, RTV SLO)
+18 - Found Match: (</a>, </a>)
+19 - Found Match: (</div>, </div>)
+20 - Found Match: (<ul>, <ul>)
+21 - Found Match: (<li>, <li>)
+22 - Found Match: (<a>, <a>)
+23 - Found Match: (Radio, Radio)
+24 - Found Match: (<span>, <span>)
+25 - Found Match: (</span>, </span>)
+26 - Found Match: (</a>, </a>)
+27 - Found Match: (<div>, <div>)
+28 - Found Match: (<div>, <div>)
+29 - Found Match: (<a>, <a>)
+30 - Found Match: (<img>, <img>)
+31 - Found Match: (</a>, </a>)
+32 - Found Match: (<a>, <a>)
+33 - Found Match: (<img>, <img>)
+34 - Found Match: (</a>, </a>)
+35 - Found Match: (<a>, <a>)
+36 - Found Match: (<img>, <img>)
+37 - Found Match: (</a>, </a>)
+38 - Found Match: (<a>, <a>)
+39 - Found Match: (<img>, <img>)
+40 - Found Match: (</a>, </a>)
+41 - Found Match: (<a>, <a>)
+42 - Found Match: (<img>, <img>)
+43 - Found Match: (</a>, </a>)
+44 - Found Match: (<a>, <a>)
+45 - Found Match: (<img>, <img>)
+46 - Found Match: (</a>, </a>)
+47 - Found Match: (<a>, <a>)
+48 - Found Match: (<img>, <img>)
+49 - Found Match: (</a>, </a>)
+50 - Found Match: (<a>, <a>)
+51 - Found Match: (<img>, <img>)
+52 - Found Match: (</a>, </a>)
+53 - Found Match: (</div>, </div>)
+54 - Found Match: (</div>, </div>)
+55 - Found Match: (</li>, </li>)
+56 - Found Match: (<li>, <li>)
+57 - Found Match: (<a>, <a>)
+58 - Found Match: (Televizija, Televizija)
+59 - Found Match: (</a>, </a>)
+60 - Found Match: (</li>, </li>)
+61 - Found Match: (<li>, <li>)
+62 - Found Match: (<a>, <a>)
+63 - Found Match: (O RTV, O RTV)
+64 - Found Match: (</a>, </a>)
+65 - Found Match: (</li>, </li>)
+66 - Found Match: (</ul>, </ul>)
+67 - Found Match: (</div>, </div>)
+68 - Found Match: (<div>, <div>)
+69 - Found Match: (<div>, <div>)
+70 - Found Match: (<a>, <a>)
+71 - Found Match: (4D, 4D)
+72 - Found Match: (</a>, </a>)
+73 - Found Match: (<ul>, <ul>)
+74 - Found Match: (<li>, <li>)
+75 - Found Match: (<a>, <a>)
+76 - Found Match: (Spored, Spored)
+77 - Found Match: (</a>, </a>)
+78 - Found Match: (</li>, </li>)
+79 - Found Match: (<li>, <li>)
+80 - Found Match: (<a>, <a>)
+81 - Found Match: (V živo, V živo)
+82 - Found Match: (</a>, </a>)
+83 - Found Match: (<div>, <div>)
+84 - Found Match: (<div>, <div>)
+85 - Found Match: (<div>, <div>)
+86 - Found Match: (<a>, <a>)
+87 - Found Match: (<img>, <img>)
+88 - Found Match: (</a>, </a>)
+89 - Found Match: (</div>, </div>)
+90 - Found Match: (<div>, <div>)
+91 - Found Match: (<a>, <a>)
+92 - Found Match: (<img>, <img>)
+93 - Found Match: (</a>, </a>)
+94 - Found Match: (</div>, </div>)
+95 - Found Match: (<div>, <div>)
+96 - Found Match: (<a>, <a>)
+97 - Found Match: (<img>, <img>)
+98 - Found Match: (</a>, </a>)
+99 - Found Match: (</div>, </div>)
+100 - Found Match: (<div>, <div>)
+101 - Found Match: (<a>, <a>)
+102 - Found Match: (<img>, <img>)
+103 - Found Match: (</a>, </a>)
+104 - Found Match: (</div>, </div>)
+105 - Found Match: (<div>, <div>)
+106 - Found Match: (<a>, <a>)
+107 - Found Match: (<img>, <img>)
+108 - Found Match: (</a>, </a>)
+109 - Found Match: (</div>, </div>)
+110 - Found Match: (<div>, <div>)
+111 - Found Match: (<a>, <a>)
+112 - Found Match: (<img>, <img>)
+113 - Found Match: (</a>, </a>)
+114 - Found Match: (</div>, </div>)
+115 - Found Match: (<div>, <div>)
+116 - Found Match: (<a>, <a>)
+117 - Found Match: (<img>, <img>)
+118 - Found Match: (</a>, </a>)
+119 - Found Match: (</div>, </div>)
+120 - Found Match: (<div>, <div>)
+121 - Found Match: (<a>, <a>)
+122 - Found Match: (<img>, <img>)
+123 - Found Match: (</a>, </a>)
+124 - Found Match: (</div>, </div>)
+125 - Found Match: (<div>, <div>)
+126 - Found Match: (<a>, <a>)
+127 - Found Match: (<img>, <img>)
+128 - Found Match: (</a>, </a>)
+129 - Found Match: (</div>, </div>)
+130 - Found Match: (<div>, <div>)
+131 - Found Match: (<a>, <a>)
+132 - Found Match: (<img>, <img>)
+133 - Found Match: (</a>, </a>)
+134 - Found Match: (</div>, </div>)
+135 - Found Match: (<div>, <div>)
+136 - Found Match: (<a>, <a>)
+137 - Found Match: (<img>, <img>)
+138 - Found Match: (</a>, </a>)
+139 - Found Match: (</div>, </div>)
+140 - Found Match: (<div>, <div>)
+141 - Found Match: (<a>, <a>)
+142 - Found Match: (<img>, <img>)
+143 - Found Match: (</a>, </a>)
+144 - Found Match: (</div>, </div>)
+145 - Found Match: (<div>, <div>)
+146 - Found Match: (<a>, <a>)
+147 - Found Match: (<img>, <img>)
+148 - Found Match: (</a>, </a>)
+149 - Found Match: (</div>, </div>)
+150 - Found Match: (<div>, <div>)
+151 - Found Match: (<a>, <a>)
+152 - Found Match: (<img>, <img>)
+153 - Found Match: (</a>, </a>)
+154 - Found Match: (</div>, </div>)
+155 - Found Match: (</div>, </div>)
+156 - Found Match: (</div>, </div>)
+157 - Found Match: (</li>, </li>)
+158 - Found Match: (<li>, <li>)
+159 - Found Match: (<a>, <a>)
+160 - Found Match: (Arhiv, Arhiv)
+161 - Found Match: (</a>, </a>)
+162 - Found Match: (</li>, </li>)
+163 - Found Match: (</ul>, </ul>)
+164 - Found Match: (</div>, </div>)
+165 - Found Match: (</div>, </div>)
+166 - Found Match: (<div>, <div>)
+167 - Found Match: (<ul>, <ul>)
+168 - Found Match: (<li>, <li>)
+169 - Found Match: (<a>, <a>)
+170 - Found Match: (<img>, <img>)
+171 - Found Match: (<img>, <img>)
+172 - Found Match: (</a>, </a>)
+173 - Found Match: (</li>, </li>)
+174 - Found Match: (<li>, <li>)
+175 - Found Match: (<a>, <a>)
+176 - Found Match: (<img>, <img>)
+177 - Found Match: (<img>, <img>)
+178 - Found Match: (</a>, </a>)
+179 - Found Match: (</li>, </li>)
+180 - Found Match: (<li>, <li>)
+181 - Found Match: (<a>, <a>)
+182 - Found Match: (<img>, <img>)
+183 - Found Match: (<img>, <img>)
+184 - Found Match: (</a>, </a>)
+185 - Found Match: (</li>, </li>)
+186 - Found Match: (<li>, <li>)
+187 - Found Match: (<a>, <a>)
+188 - Found Match: (<img>, <img>)
+189 - Found Match: (<img>, <img>)
+190 - Found Match: (</a>, </a>)
+191 - Found Match: (</li>, </li>)
+192 - Found Match: (<li>, <li>)
+193 - Found Match: (<a>, <a>)
+194 - Found Match: (<img>, <img>)
+195 - Found Match: (<img>, <img>)
+196 - Found Match: (</a>, </a>)
+197 - Found Match: (</li>, </li>)
+198 - Found Match: (</ul>, </ul>)
+199 - Found Match: (<form>, <form>)
+200 - Found Match: (<input>, <input>)
+201 - Found Match: (</form>, </form>)
+202 - Found Match: (<div>, <div>)
+203 - Found Match: (<a>, <a>)
+204 - Found Match: (<span>, <span>)
+205 - Found Match: (Prijava, Prijava)
+206 - Found Match: (</span>, </span>)
+207 - Found Match: (</a>, </a>)
+208 - Found Match: (<div>, <div>)
+209 - Found Match: (<form>, <form>)
+210 - Found Match: (<input>, <input>)
+211 - Found Match: (<div>, <div>)
+212 - Found Match: (<label>, <label>)
+213 - Found Match: (Uporabniško ime:, Uporabniško ime:)
+214 - Found Match: (</label>, </label>)
+215 - Found Match: (<input>, <input>)
+216 - Found Match: (</div>, </div>)
+217 - Found Match: (<div>, <div>)
+218 - Found Match: (<label>, <label>)
+219 - Found Match: (Geslo:, Geslo:)
+220 - Found Match: (</label>, </label>)
+221 - Found Match: (<input>, <input>)
+222 - Found Match: (</div>, </div>)
+223 - Found Match: (<div>, <div>)
+224 - Found Match: (<button>, <button>)
+225 - Found Match: (Prijavi, Prijavi)
+226 - Found Match: (</button>, </button>)
+227 - Found Match: (<a>, <a>)
+228 - Found Match: (Registracija, Registracija)
+229 - Found Match: (</a>, </a>)
+230 - Found Match: (</div>, </div>)
+231 - Found Match: (</form>, </form>)
+232 - Found Match: (<a>, <a>)
+233 - Found Match: (Pozabljeno geslo?, Pozabljeno geslo?)
+234 - Found Match: (</a>, </a>)
+235 - Found Match: (<div>, <div>)
+236 - Found Match: (<div>, <div>)
+237 - Found Match: (<span>, <span>)
+238 - Found Match: (Temni način , Temni način )
+239 - Found Match: (<span>, <span>)
+240 - Found Match: (BETA, BETA)
+241 - Found Match: (</span>, </span>)
+242 - Found Match: (</span>, </span>)
+243 - Found Match: (<label>, <label>)
+244 - Found Match: (<input>, <input>)
+245 - Found Match: (<span>, <span>)
+246 - Found Match: (</span>, </span>)
+247 - Found Match: (</label>, </label>)
+248 - Found Match: (</div>, </div>)
+249 - Found Match: (</div>, </div>)
+250 - Found Match: (</div>, </div>)
+251 - Found Match: (</div>, </div>)
+252 - Found Match: (<div>, <div>)
+253 - Found Match: (<a>, <a>)
+254 - Found Match: (</a>, </a>)
+255 - Found Match: (<div>, <div>)
+256 - Found Match: (<h2>, <h2>)
+257 - Found Match: (</h2>, </h2>)
+258 - Found Match: (<a>, <a>)
+259 - Found Match: (Odjava, Odjava)
+260 - Found Match: (</a>, </a>)
+261 - Found Match: (<a>, <a>)
+262 - Found Match: (Uporabniški račun, Uporabniški račun)
+263 - Found Match: (</a>, </a>)
+264 - Found Match: (<div>, <div>)
+265 - Found Match: (<div>, <div>)
+266 - Found Match: (<span>, <span>)
+267 - Found Match: (Temni način , Temni način )
+268 - Found Match: (<span>, <span>)
+269 - Found Match: (BETA, BETA)
+270 - Found Match: (</span>, </span>)
+271 - Found Match: (</span>, </span>)
+272 - Found Match: (<label>, <label>)
+273 - Found Match: (<input>, <input>)
+274 - Found Match: (<span>, <span>)
+275 - Found Match: (</span>, </span>)
+276 - Found Match: (</label>, </label>)
+277 - Found Match: (</div>, </div>)
+278 - Found Match: (</div>, </div>)
+279 - Found Match: (</div>, </div>)
+280 - Found Match: (</div>, </div>)
+281 - Found Match: (</div>, </div>)
+282 - Found Match: (</div>, </div>)
+283 - Found Match: (</div>, </div>)
+284 - Found Match: (</div>, </div>)
+285 - Found Match: (<div>, <div>)
+286 - Found Match: (<div>, <div>)
+287 - Found Match: (<div>, <div>)
+288 - Found Match: (<div>, <div>)
+289 - Found Match: (<div>, <div>)
+290 - Found Match: (<div>, <div>)
+291 - Found Match: (</div>, </div>)
+292 - Found Match: (<div>, <div>)
+293 - Found Match: (</div>, </div>)
+294 - Found Match: (<div>, <div>)
+295 - Found Match: (</div>, </div>)
+296 - Found Match: (</div>, </div>)
+297 - Found Match: (<div>, <div>)
+298 - Found Match: (<a>, <a>)
+299 - Found Match: (RTVSLO.si, RTVSLO.si)
+300 - Found Match: (</a>, </a>)
+301 - Found Match: (</div>, </div>)
+302 - Found Match: (<ul>, <ul>)
+303 - Found Match: (<li>, <li>)
+304 - Found Match: (<a>, <a>)
+305 - Found Match: (Slovenija, Slovenija)
+306 - Found Match: (</a>, </a>)
+307 - Found Match: (</li>, </li>)
+308 - Found Match: (<li>, <li>)
+309 - Found Match: (<a>, <a>)
+310 - Found Match: (Svet, Svet)
+311 - Found Match: (</a>, </a>)
+312 - Found Match: (</li>, </li>)
+313 - Found Match: (<li>, <li>)
+314 - Found Match: (<a>, <a>)
+315 - Found Match: (Šport, Šport)
+316 - Found Match: (</a>, </a>)
+317 - Found Match: (</li>, </li>)
+318 - Found Match: (<li>, <li>)
+319 - Found Match: (<a>, <a>)
+320 - Found Match: (Kultura, Kultura)
+321 - Found Match: (</a>, </a>)
+322 - Found Match: (</li>, </li>)
+323 - Found Match: (<li>, <li>)
+324 - Found Match: (<a>, <a>)
+325 - Found Match: (Življenjski slog, Življenjski slog)
+326 - Found Match: (</a>, </a>)
+327 - Found Match: (</li>, </li>)
+328 - Found Match: (<li>, <li>)
+329 - Found Match: (<a>, <a>)
+330 - Found Match: (Svet zabave, Svet zabave)
+331 - Found Match: (</a>, </a>)
+332 - Found Match: (</li>, </li>)
+333 - Found Match: (</ul>, </ul>)
+334 - Found Match: (<div>, <div>)
+335 - Found Match: (<div>, <div>)
+336 - Found Match: (Iskanje, Iskanje)
+337 - Found Match: (</div>, </div>)
+338 - Found Match: (<form>, <form>)
+339 - Found Match: (<input>, <input>)
+340 - Found Match: (<button>, <button>)
+341 - Found Match: (</button>, </button>)
+342 - Found Match: (<div>, <div>)
+343 - Found Match: (</div>, </div>)
+344 - Found Match: (</form>, </form>)
+345 - Found Match: (</div>, </div>)
+346 - Found Match: (<div>, <div>)
+347 - Found Match: (<div>, <div>)
+348 - Found Match: (<span>, <span>)
+349 - Found Match: (</span>, </span>)
+350 - Found Match: (</div>, </div>)
+351 - Found Match: (<div>, <div>)
+352 - Found Match: (<a>, <a>)
+353 - Found Match: (</a>, </a>)
+354 - Found Match: (</div>, </div>)
+355 - Found Match: (<div>, <div>)
+356 - Found Match: (<a>, <a>)
+357 - Found Match: (</a>, </a>)
+358 - Found Match: (</div>, </div>)
+359 - Found Match: (<div>, <div>)
+360 - Found Match: (<div>, <div>)
+361 - Found Match: (<span>, <span>)
+362 - Found Match: (</span>, </span>)
+363 - Found Match: (<span>, <span>)
+364 - Found Match: (</span>, </span>)
+365 - Found Match: (<span>, <span>)
+366 - Found Match: (</span>, </span>)
+367 - Found Match: (<span>, <span>)
+368 - Found Match: (</span>, </span>)
+369 - Found Match: (</div>, </div>)
+370 - Found Match: (<span>, <span>)
+371 - Found Match: (Kazalo, Kazalo)
+372 - Found Match: (</span>, </span>)
+373 - Found Match: (</div>, </div>)
+374 - Found Match: (</div>, </div>)
+375 - Found Match: (</div>, </div>)
+376 - Found Match: (</div>, </div>)
+377 - Found Match: (</div>, </div>)
+378 - Found Match: (<div>, <div>)
+379 - Found Match: (<div>, <div>)
+380 - Found Match: (<div>, <div>)
+381 - Found Match: (<div>, <div>)
+382 - Found Match: (<div>, <div>)
+383 - Found Match: (</div>, </div>)
+384 - Found Match: (<div>, <div>)
+385 - Found Match: (<div>, <div>)
+386 - Found Match: (<div>, <div>)
+387 - Found Match: (<h3>, <h3>)
+388 - Found Match: (Predlogi, Predlogi)
+389 - Found Match: (</h3>, </h3>)
+390 - Found Match: (<div>, <div>)
+391 - Found Match: (<div>, <div>)
+392 - Found Match: (Odbojka, Odbojka)
+393 - Found Match: (</div>, </div>)
+394 - Found Match: (<div>, <div>)
+395 - Found Match: (Hokej, Hokej)
+396 - Found Match: (</div>, </div>)
+397 - Found Match: (<div>, <div>)
+398 - Found Match: (Tenis, Tenis)
+399 - Found Match: (</div>, </div>)
+400 - Found Match: (</div>, </div>)
+401 - Found Match: (</div>, </div>)
+402 - Found Match: (<div>, <div>)
+403 - Found Match: (<h3>, <h3>)
+404 - Found Match: (Rezultati iskanja, Rezultati iskanja)
+405 - Found Match: (</h3>, </h3>)
+406 - Found Match: (<div>, <div>)
+407 - Found Match: (</div>, </div>)
+408 - Found Match: (</div>, </div>)
+409 - Found Match: (</div>, </div>)
+410 - Found Match: (<p>, <p>)
+411 - Found Match: (Zaradi testiranja je dodanih umetnih 2 sekunde delaya., Zaradi testiranja je dodanih umetnih 2 sekunde delaya.)
+412 - Found Match: (</p>, </p>)
+413 - Found Match: (</div>, </div>)
+414 - Found Match: (</div>, </div>)
+415 - Found Match: (</div>, </div>)
+416 - Found Match: (</div>, </div>)
+417 - Found Match: (</div>, </div>)
+418 - Found Match: (<div>, <div>)
+419 - Found Match: (<div>, <div>)
+420 - Found Match: (<div>, <div>)
+421 - Found Match: (<div>, <div>)
+422 - Found Match: (<a>, <a>)
+423 - Found Match: (<img>, <img>)
+424 - Found Match: (</a>, </a>)
+425 - Found Match: (</div>, </div>)
+426 - Found Match: (<div>, <div>)
+427 - Found Match: (<h5>, <h5>)
+428 - Found Match: (<span>, <span>)
+429 - Found Match: (</span>, </span>)
+430 - Found Match: (<span>, <span>)
+431 - Found Match: (<a>, <a>)
+432 - Found Match: (</a>, </a>)
+433 - Found Match: (</span>, </span>)
+434 - Found Match: (<a>, <a>)
+435 - Found Match: (</a>, </a>)
+436 - Found Match: (</h5>, </h5>)
+437 - Found Match: (<p>, <p>)
+438 - Found Match: (</p>, </p>)
+439 - Found Match: (</div>, </div>)
+440 - Found Match: (</div>, </div>)
+441 - Found Match: (</div>, </div>)
+442 - Found Match: (</div>, </div>)
+443 - Found Match: (</div>, </div>)
+444 - Found Match: (<div>, <div>)
+445 - Found Match: (<div>, <div>)
+446 - Matching iterator (a, b): (<span>, <div>)
+Search down failed
+Search down failed
+Failed to match iterator
+446 - Matching optional (a, b): (<span>, <div>)
+Opt match: <div>, <div>
+447 - Found Match: (<div>, <div>)
+448 - Found Match: (<div>, <div>)
+449 - Matching iterator (a, b): (<ul>, </div>)
+Search down failed
+Search down failed
+Failed to match iterator
+449 - Matching optional (a, b): (<ul>, </div>)
+Opt match: <ul>, <ul>
+450 - Found Match: (<ul>, <ul>)
+451 - Found Match: (<li>, <li>)
+452 - Found Match: (<a>, <a>)
+453 - Found Match: (Slovenija , Slovenija )
+454 - Found Match: (</a>, </a>)
+455 - Found Match: (<ul>, <ul>)
+456 - Found Match: (<li>, <li>)
+457 - Found Match: (<a>, <a>)
+458 - Found Match: (Gospodarstvo, Gospodarstvo)
+459 - Found Match: (</a>, </a>)
+460 - Found Match: (</li>, </li>)
+461 - Found Match: (<li>, <li>)
+462 - Found Match: (<a>, <a>)
+463 - Found Match: (Lokalne novice, Lokalne novice)
+464 - Found Match: (</a>, </a>)
+465 - Found Match: (</li>, </li>)
+466 - Found Match: (<li>, <li>)
+467 - Found Match: (<a>, <a>)
+468 - Found Match: (Črna kronika, Črna kronika)
+469 - Found Match: (</a>, </a>)
+470 - Found Match: (</li>, </li>)
+471 - Found Match: (<li>, <li>)
+472 - Found Match: (<a>, <a>)
+473 - Found Match: (Zdravje, Zdravje)
+474 - Found Match: (</a>, </a>)
+475 - Found Match: (</li>, </li>)
+476 - Found Match: (<li>, <li>)
+477 - Found Match: (<a>, <a>)
+478 - Found Match: (Okolje, Okolje)
+479 - Found Match: (</a>, </a>)
+480 - Found Match: (</li>, </li>)
+481 - Found Match: (<li>, <li>)
+482 - Found Match: (<a>, <a>)
+483 - Found Match: (Znanost in tehnologija, Znanost in tehnologija)
+484 - Found Match: (</a>, </a>)
+485 - Found Match: (</li>, </li>)
+486 - Found Match: (<li>, <li>)
+487 - Found Match: (<a>, <a>)
+488 - Found Match: (Slovenci v sosednjih državah , Slovenci v sosednjih državah )
+489 - Found Match: (</a>, </a>)
+490 - Found Match: (</li>, </li>)
+491 - Found Match: (</ul>, </ul>)
+492 - Found Match: (</li>, </li>)
+493 - Found Match: (<li>, <li>)
+494 - Found Match: (<a>, <a>)
+495 - Found Match: (Svet , Svet )
+496 - Found Match: (</a>, </a>)
+497 - Found Match: (<ul>, <ul>)
+498 - Found Match: (<li>, <li>)
+499 - Found Match: (<a>, <a>)
+500 - Found Match: (Evropska unija, Evropska unija)
+501 - Found Match: (</a>, </a>)
+502 - Found Match: (</li>, </li>)
+503 - Found Match: (<li>, <li>)
+504 - Found Match: (<a>, <a>)
+505 - Found Match: (Evropa, Evropa)
+506 - Found Match: (</a>, </a>)
+507 - Found Match: (</li>, </li>)
+508 - Found Match: (<li>, <li>)
+509 - Found Match: (<a>, <a>)
+510 - Found Match: (S. in J. Amerika, S. in J. Amerika)
+511 - Found Match: (</a>, </a>)
+512 - Found Match: (</li>, </li>)
+513 - Found Match: (<li>, <li>)
+514 - Found Match: (<a>, <a>)
+515 - Found Match: (Bližnji vzhod, Bližnji vzhod)
+516 - Found Match: (</a>, </a>)
+517 - Found Match: (</li>, </li>)
+518 - Found Match: (<li>, <li>)
+519 - Found Match: (<a>, <a>)
+520 - Found Match: (Afrika, Afrika)
+521 - Found Match: (</a>, </a>)
+522 - Found Match: (</li>, </li>)
+523 - Found Match: (<li>, <li>)
+524 - Found Match: (<a>, <a>)
+525 - Found Match: (Azija z Oceanijo, Azija z Oceanijo)
+526 - Found Match: (</a>, </a>)
+527 - Found Match: (</li>, </li>)
+528 - Found Match: (</ul>, </ul>)
+529 - Found Match: (</li>, </li>)
+530 - Found Match: (<li>, <li>)
+531 - Found Match: (<a>, <a>)
+532 - Found Match: (Šport , Šport )
+533 - Found Match: (</a>, </a>)
+534 - Found Match: (<ul>, <ul>)
+535 - Found Match: (<li>, <li>)
+536 - Found Match: (<a>, <a>)
+537 - Found Match: (Nogomet, Nogomet)
+538 - Found Match: (</a>, </a>)
+539 - Found Match: (</li>, </li>)
+540 - Found Match: (<li>, <li>)
+541 - Found Match: (<a>, <a>)
+542 - Found Match: (Košarka, Košarka)
+543 - Found Match: (</a>, </a>)
+544 - Found Match: (</li>, </li>)
+545 - Found Match: (<li>, <li>)
+546 - Found Match: (<a>, <a>)
+547 - Found Match: (Rokomet, Rokomet)
+548 - Found Match: (</a>, </a>)
+549 - Found Match: (</li>, </li>)
+550 - Found Match: (<li>, <li>)
+551 - Found Match: (<a>, <a>)
+552 - Found Match: (Odbojka, Odbojka)
+553 - Found Match: (</a>, </a>)
+554 - Found Match: (</li>, </li>)
+555 - Found Match: (<li>, <li>)
+556 - Found Match: (<a>, <a>)
+557 - Found Match: (Hokej, Hokej)
+558 - Found Match: (</a>, </a>)
+559 - Found Match: (</li>, </li>)
+560 - Found Match: (<li>, <li>)
+561 - Found Match: (<a>, <a>)
+562 - Found Match: (Tenis, Tenis)
+563 - Found Match: (</a>, </a>)
+564 - Found Match: (</li>, </li>)
+565 - Found Match: (<li>, <li>)
+566 - Found Match: (<a>, <a>)
+567 - Found Match: (Atletika, Atletika)
+568 - Found Match: (</a>, </a>)
+569 - Found Match: (</li>, </li>)
+570 - Found Match: (<li>, <li>)
+571 - Found Match: (<a>, <a>)
+572 - Found Match: (Zimski športi, Zimski športi)
+573 - Found Match: (</a>, </a>)
+574 - Found Match: (</li>, </li>)
+575 - Found Match: (<li>, <li>)
+576 - Found Match: (<a>, <a>)
+577 - Found Match: (Motošporti, Motošporti)
+578 - Found Match: (</a>, </a>)
+579 - Found Match: (</li>, </li>)
+580 - Found Match: (<li>, <li>)
+581 - Found Match: (<a>, <a>)
+582 - Found Match: (F1, F1)
+583 - Found Match: (</a>, </a>)
+584 - Found Match: (</li>, </li>)
+585 - Found Match: (<li>, <li>)
+586 - Found Match: (<a>, <a>)
+587 - Found Match: (Kolesarstvo, Kolesarstvo)
+588 - Found Match: (</a>, </a>)
+589 - Found Match: (</li>, </li>)
+590 - Found Match: (<li>, <li>)
+591 - Found Match: (<a>, <a>)
+592 - Found Match: (Preostali športi, Preostali športi)
+593 - Found Match: (</a>, </a>)
+594 - Found Match: (</li>, </li>)
+595 - Found Match: (<li>, <li>)
+596 - Found Match: (<a>, <a>)
+597 - Found Match: (Rekreacija, Rekreacija)
+598 - Found Match: (</a>, </a>)
+599 - Found Match: (</li>, </li>)
+600 - Found Match: (<li>, <li>)
+601 - Found Match: (<a>, <a>)
+602 - Found Match: (Športni SOS, Športni SOS)
+603 - Found Match: (</a>, </a>)
+604 - Found Match: (</li>, </li>)
+605 - Found Match: (</ul>, </ul>)
+606 - Found Match: (</li>, </li>)
+607 - Found Match: (<li>, <li>)
+608 - Found Match: (<a>, <a>)
+609 - Found Match: (Kultura , Kultura )
+610 - Found Match: (</a>, </a>)
+611 - Found Match: (<ul>, <ul>)
+612 - Found Match: (<li>, <li>)
+613 - Found Match: (<a>, <a>)
+614 - Found Match: (Film in TV, Film in TV)
+615 - Found Match: (</a>, </a>)
+616 - Found Match: (</li>, </li>)
+617 - Found Match: (<li>, <li>)
+618 - Found Match: (<a>, <a>)
+619 - Found Match: (Glasba, Glasba)
+620 - Found Match: (</a>, </a>)
+621 - Found Match: (</li>, </li>)
+622 - Found Match: (<li>, <li>)
+623 - Found Match: (<a>, <a>)
+624 - Found Match: (Knjige, Knjige)
+625 - Found Match: (</a>, </a>)
+626 - Found Match: (</li>, </li>)
+627 - Found Match: (<li>, <li>)
+628 - Found Match: (<a>, <a>)
+629 - Found Match: (Oder, Oder)
+630 - Found Match: (</a>, </a>)
+631 - Found Match: (</li>, </li>)
+632 - Found Match: (<li>, <li>)
+633 - Found Match: (<a>, <a>)
+634 - Found Match: (Vizualna umetnost, Vizualna umetnost)
+635 - Found Match: (</a>, </a>)
+636 - Found Match: (</li>, </li>)
+637 - Found Match: (<li>, <li>)
+638 - Found Match: (<a>, <a>)
+639 - Found Match: (Arhitektura in oblikovanje, Arhitektura in oblikovanje)
+640 - Found Match: (</a>, </a>)
+641 - Found Match: (</li>, </li>)
+642 - Found Match: (<li>, <li>)
+643 - Found Match: (<a>, <a>)
+644 - Found Match: (Dediščina, Dediščina)
+645 - Found Match: (</a>, </a>)
+646 - Found Match: (</li>, </li>)
+647 - Found Match: (<li>, <li>)
+648 - Found Match: (<a>, <a>)
+649 - Found Match: (Recenzije, Recenzije)
+650 - Found Match: (</a>, </a>)
+651 - Found Match: (</li>, </li>)
+652 - Found Match: (<li>, <li>)
+653 - Found Match: (<a>, <a>)
+654 - Found Match: (Drugo, Drugo)
+655 - Found Match: (</a>, </a>)
+656 - Found Match: (</li>, </li>)
+657 - Found Match: (<li>, <li>)
+658 - Found Match: (<a>, <a>)
+659 - Found Match: (Jezikovni spletovalec, Jezikovni spletovalec)
+660 - Found Match: (</a>, </a>)
+661 - Found Match: (</li>, </li>)
+662 - Found Match: (<li>, <li>)
+663 - Found Match: (<a>, <a>)
+664 - Found Match: (1. svetovna vojna, 1. svetovna vojna)
+665 - Found Match: (</a>, </a>)
+666 - Found Match: (</li>, </li>)
+667 - Found Match: (</ul>, </ul>)
+668 - Found Match: (</li>, </li>)
+669 - Found Match: (<li>, <li>)
+670 - Found Match: (<a>, <a>)
+671 - Found Match: (Življenjski slog , Življenjski slog )
+672 - Found Match: (</a>, </a>)
+673 - Found Match: (<ul>, <ul>)
+674 - Found Match: (<li>, <li>)
+675 - Found Match: (<a>, <a>)
+676 - Found Match: (Ture avanture, Ture avanture)
+677 - Found Match: (</a>, </a>)
+678 - Found Match: (</li>, </li>)
+679 - Found Match: (<li>, <li>)
+680 - Found Match: (<a>, <a>)
+681 - Found Match: (Kulinarika, Kulinarika)
+682 - Found Match: (</a>, </a>)
+683 - Found Match: (</li>, </li>)
+684 - Found Match: (<li>, <li>)
+685 - Found Match: (<a>, <a>)
+686 - Found Match: (Lepota bivanja, Lepota bivanja)
+687 - Found Match: (</a>, </a>)
+688 - Found Match: (</li>, </li>)
+689 - Found Match: (<li>, <li>)
+690 - Found Match: (<a>, <a>)
+691 - Found Match: (Avtomobilnost, Avtomobilnost)
+692 - Found Match: (</a>, </a>)
+693 - Found Match: (</li>, </li>)
+694 - Found Match: (<li>, <li>)
+695 - Found Match: (<a>, <a>)
+696 - Found Match: (Moda, Moda)
+697 - Found Match: (</a>, </a>)
+698 - Found Match: (</li>, </li>)
+699 - Found Match: (<li>, <li>)
+700 - Found Match: (<a>, <a>)
+701 - Found Match: (196x ljubezen, 196x ljubezen)
+702 - Found Match: (</a>, </a>)
+703 - Found Match: (</li>, </li>)
+704 - Found Match: (</ul>, </ul>)
+705 - Found Match: (</li>, </li>)
+706 - Found Match: (<li>, <li>)
+707 - Found Match: (<a>, <a>)
+708 - Found Match: (Svet zabave , Svet zabave )
+709 - Found Match: (</a>, </a>)
+710 - Found Match: (<ul>, <ul>)
+711 - Found Match: (<li>, <li>)
+712 - Found Match: (<a>, <a>)
+713 - Found Match: (Evrovizija, Evrovizija)
+714 - Found Match: (</a>, </a>)
+715 - Found Match: (</li>, </li>)
+716 - Found Match: (<li>, <li>)
+717 - Found Match: (<a>, <a>)
+718 - Found Match: (Glasba, Glasba)
+719 - Found Match: (</a>, </a>)
+720 - Found Match: (</li>, </li>)
+721 - Found Match: (<li>, <li>)
+722 - Found Match: (<a>, <a>)
+723 - Found Match: (Film in TV, Film in TV)
+724 - Found Match: (</a>, </a>)
+725 - Found Match: (</li>, </li>)
+726 - Found Match: (<li>, <li>)
+727 - Found Match: (<a>, <a>)
+728 - Found Match: (Svet znanih, Svet znanih)
+729 - Found Match: (</a>, </a>)
+730 - Found Match: (</li>, </li>)
+731 - Found Match: (<li>, <li>)
+732 - Found Match: (<a>, <a>)
+733 - Found Match: (Družabno, Družabno)
+734 - Found Match: (</a>, </a>)
+735 - Found Match: (</li>, </li>)
+736 - Found Match: (<li>, <li>)
+737 - Found Match: (<a>, <a>)
+738 - Found Match: (Zanimivosti, Zanimivosti)
+739 - Found Match: (</a>, </a>)
+740 - Found Match: (</li>, </li>)
+741 - Found Match: (</ul>, </ul>)
+742 - Found Match: (</li>, </li>)
+743 - Found Match: (<li>, <li>)
+744 - Found Match: (<a>, <a>)
+745 - Found Match: (Posebna izdaja , Posebna izdaja )
+746 - Found Match: (</a>, </a>)
+747 - Found Match: (<ul>, <ul>)
+748 - Found Match: (<li>, <li>)
+749 - Found Match: (<a>, <a>)
+750 - Found Match: (MMC Podrobno, MMC Podrobno)
+751 - Found Match: (</a>, </a>)
+752 - Found Match: (</li>, </li>)
+753 - Found Match: (<li>, <li>)
+754 - Found Match: (<a>, <a>)
+755 - Found Match: (Klepet, Klepet)
+756 - Found Match: (</a>, </a>)
+757 - Found Match: (</li>, </li>)
+758 - Found Match: (<li>, <li>)
+759 - Found Match: (<a>, <a>)
+760 - Found Match: (Podkast Številke, Podkast Številke)
+761 - Found Match: (</a>, </a>)
+762 - Found Match: (</li>, </li>)
+763 - Found Match: (<li>, <li>)
+764 - Found Match: (<a>, <a>)
+765 - Found Match: (1968, 1968)
+766 - Found Match: (</a>, </a>)
+767 - Found Match: (</li>, </li>)
+768 - Found Match: (<li>, <li>)
+769 - Found Match: (<a>, <a>)
+770 - Found Match: (Kolumne, Kolumne)
+771 - Found Match: (</a>, </a>)
+772 - Found Match: (</li>, </li>)
+773 - Found Match: (<li>, <li>)
+774 - Found Match: (<a>, <a>)
+775 - Found Match: (MMC Teden, MMC Teden)
+776 - Found Match: (</a>, </a>)
+777 - Found Match: (</li>, </li>)
+778 - Found Match: (<li>, <li>)
+779 - Found Match: (<a>, <a>)
+780 - Found Match: (MMC Analiza, MMC Analiza)
+781 - Found Match: (</a>, </a>)
+782 - Found Match: (</li>, </li>)
+783 - Found Match: (<li>, <li>)
+784 - Found Match: (<a>, <a>)
+785 - Found Match: (Praznično leto RTV Slovenija, Praznično leto RTV Slovenija)
+786 - Found Match: (</a>, </a>)
+787 - Found Match: (</li>, </li>)
+788 - Found Match: (</ul>, </ul>)
+789 - Found Match: (</li>, </li>)
+790 - Found Match: (<li>, <li>)
+791 - Found Match: (<a>, <a>)
+792 - Found Match: (Info , Info )
+793 - Found Match: (</a>, </a>)
+794 - Found Match: (<ul>, <ul>)
+795 - Found Match: (<li>, <li>)
+796 - Found Match: (<a>, <a>)
+797 - Found Match: (Vreme, Vreme)
+798 - Found Match: (</a>, </a>)
+799 - Found Match: (</li>, </li>)
+800 - Found Match: (<li>, <li>)
+801 - Found Match: (<a>, <a>)
+802 - Found Match: (Snežne razmere, Snežne razmere)
+803 - Found Match: (</a>, </a>)
+804 - Found Match: (</li>, </li>)
+805 - Found Match: (<li>, <li>)
+806 - Found Match: (<a>, <a>)
+807 - Found Match: (Stanje na cestah, Stanje na cestah)
+808 - Found Match: (</a>, </a>)
+809 - Found Match: (</li>, </li>)
+810 - Found Match: (</ul>, </ul>)
+811 - Found Match: (</li>, </li>)
+812 - Found Match: (<li>, <li>)
+813 - Found Match: (</li>, </li>)
+814 - Found Match: (<li>, <li>)
+815 - Found Match: (<a>, <a>)
+816 - Found Match: (TV Slovenija , TV Slovenija )
+817 - Found Match: (</a>, </a>)
+818 - Found Match: (<ul>, <ul>)
+819 - Found Match: (<li>, <li>)
+820 - Found Match: (<a>, <a>)
+821 - Found Match: (Info, Info)
+822 - Found Match: (</a>, </a>)
+823 - Found Match: (</li>, </li>)
+824 - Found Match: (<li>, <li>)
+825 - Found Match: (<a>, <a>)
+826 - Found Match: (Kultura, Kultura)
+827 - Found Match: (</a>, </a>)
+828 - Found Match: (</li>, </li>)
+829 - Found Match: (<li>, <li>)
+830 - Found Match: (<a>, <a>)
+831 - Found Match: (Filmi/serije, Filmi/serije)
+832 - Found Match: (</a>, </a>)
+833 - Found Match: (</li>, </li>)
+834 - Found Match: (<li>, <li>)
+835 - Found Match: (<a>, <a>)
+836 - Found Match: (Razvedrilo, Razvedrilo)
+837 - Found Match: (</a>, </a>)
+838 - Found Match: (</li>, </li>)
+839 - Found Match: (<li>, <li>)
+840 - Found Match: (<a>, <a>)
+841 - Found Match: (Otroci, Otroci)
+842 - Found Match: (</a>, </a>)
+843 - Found Match: (</li>, </li>)
+844 - Found Match: (<li>, <li>)
+845 - Found Match: (<a>, <a>)
+846 - Found Match: (Izobraževanje, Izobraževanje)
+847 - Found Match: (</a>, </a>)
+848 - Found Match: (</li>, </li>)
+849 - Found Match: (<li>, <li>)
+850 - Found Match: (<a>, <a>)
+851 - Found Match: (Dokumentarci, Dokumentarci)
+852 - Found Match: (</a>, </a>)
+853 - Found Match: (</li>, </li>)
+854 - Found Match: (<li>, <li>)
+855 - Found Match: (<a>, <a>)
+856 - Found Match: (Duhovnost, Duhovnost)
+857 - Found Match: (</a>, </a>)
+858 - Found Match: (</li>, </li>)
+859 - Found Match: (</ul>, </ul>)
+860 - Found Match: (</li>, </li>)
+861 - Found Match: (<li>, <li>)
+862 - Found Match: (<a>, <a>)
+863 - Found Match: (Radio Slovenija , Radio Slovenija )
+864 - Found Match: (</a>, </a>)
+865 - Found Match: (<ul>, <ul>)
+866 - Found Match: (<li>, <li>)
+867 - Found Match: (<a>, <a>)
+868 - Found Match: (Prvi, Prvi)
+869 - Found Match: (</a>, </a>)
+870 - Found Match: (</li>, </li>)
+871 - Found Match: (<li>, <li>)
+872 - Found Match: (<a>, <a>)
+873 - Found Match: (Val 202, Val 202)
+874 - Found Match: (</a>, </a>)
+875 - Found Match: (</li>, </li>)
+876 - Found Match: (<li>, <li>)
+877 - Found Match: (<a>, <a>)
+878 - Found Match: (ARS, ARS)
+879 - Found Match: (</a>, </a>)
+880 - Found Match: (</li>, </li>)
+881 - Found Match: (<li>, <li>)
+882 - Found Match: (<a>, <a>)
+883 - Found Match: (Radio Koper, Radio Koper)
+884 - Found Match: (</a>, </a>)
+885 - Found Match: (</li>, </li>)
+886 - Found Match: (<li>, <li>)
+887 - Found Match: (<a>, <a>)
+888 - Found Match: (Radio Capodistria, Radio Capodistria)
+889 - Found Match: (</a>, </a>)
+890 - Found Match: (</li>, </li>)
+891 - Found Match: (<li>, <li>)
+892 - Found Match: (<a>, <a>)
+893 - Found Match: (Radio Maribor, Radio Maribor)
+894 - Found Match: (</a>, </a>)
+895 - Found Match: (</li>, </li>)
+896 - Found Match: (<li>, <li>)
+897 - Found Match: (<a>, <a>)
+898 - Found Match: (Radio Si, Radio Si)
+899 - Found Match: (</a>, </a>)
+900 - Found Match: (</li>, </li>)
+901 - Found Match: (<li>, <li>)
+902 - Found Match: (<a>, <a>)
+903 - Found Match: (MMR, MMR)
+904 - Found Match: (</a>, </a>)
+905 - Found Match: (</li>, </li>)
+906 - Found Match: (</ul>, </ul>)
+907 - Found Match: (</li>, </li>)
+908 - Found Match: (<li>, <li>)
+909 - Found Match: (<a>, <a>)
+910 - Found Match: (RTV 4D , RTV 4D )
+911 - Found Match: (</a>, </a>)
+912 - Found Match: (<ul>, <ul>)
+913 - Found Match: (<li>, <li>)
+914 - Found Match: (<a>, <a>)
+915 - Found Match: (V živo, V živo)
+916 - Found Match: (</a>, </a>)
+917 - Found Match: (</li>, </li>)
+918 - Found Match: (<li>, <li>)
+919 - Found Match: (<a>, <a>)
+920 - Found Match: (Arhiv, Arhiv)
+921 - Found Match: (</a>, </a>)
+922 - Found Match: (</li>, </li>)
+923 - Found Match: (<li>, <li>)
+924 - Found Match: (<a>, <a>)
+925 - Found Match: (Spored, Spored)
+926 - Found Match: (</a>, </a>)
+927 - Found Match: (</li>, </li>)
+928 - Found Match: (<li>, <li>)
+929 - Found Match: (<a>, <a>)
+930 - Found Match: (Oddaje, Oddaje)
+931 - Found Match: (</a>, </a>)
+932 - Found Match: (</li>, </li>)
+933 - Found Match: (</ul>, </ul>)
+934 - Found Match: (</li>, </li>)
+935 - Found Match: (<li>, <li>)
+936 - Found Match: (<a>, <a>)
+937 - Found Match: (Tematski portali , Tematski portali )
+938 - Found Match: (</a>, </a>)
+939 - Found Match: (<ul>, <ul>)
+940 - Found Match: (<li>, <li>)
+941 - Found Match: (<a>, <a>)
+942 - Found Match: (Otroški portal, Otroški portal)
+943 - Found Match: (</a>, </a>)
+944 - Found Match: (</li>, </li>)
+945 - Found Match: (<li>, <li>)
+946 - Found Match: (<a>, <a>)
+947 - Found Match: (Moja generacija, Moja generacija)
+948 - Found Match: (</a>, </a>)
+949 - Found Match: (</li>, </li>)
+950 - Found Match: (<li>, <li>)
+951 - Found Match: (<a>, <a>)
+952 - Found Match: (Moj splet, Moj splet)
+953 - Found Match: (</a>, </a>)
+954 - Found Match: (</li>, </li>)
+955 - Found Match: (<li>, <li>)
+956 - Found Match: (<a>, <a>)
+957 - Found Match: (Teletext, Teletext)
+958 - Found Match: (</a>, </a>)
+959 - Found Match: (</li>, </li>)
+960 - Found Match: (</ul>, </ul>)
+961 - Found Match: (</li>, </li>)
+962 - Found Match: (<li>, <li>)
+963 - Found Match: (</li>, </li>)
+964 - Found Match: (<li>, <li>)
+965 - Found Match: (<a>, <a>)
+966 - Found Match: (O RTV Slovenija , O RTV Slovenija )
+967 - Found Match: (</a>, </a>)
+968 - Found Match: (<ul>, <ul>)
+969 - Found Match: (<li>, <li>)
+970 - Found Match: (<a>, <a>)
+971 - Found Match: (Kdo smo, Kdo smo)
+972 - Found Match: (</a>, </a>)
+973 - Found Match: (</li>, </li>)
+974 - Found Match: (<li>, <li>)
+975 - Found Match: (<a>, <a>)
+976 - Found Match: (RTV-prispevek, RTV-prispevek)
+977 - Found Match: (</a>, </a>)
+978 - Found Match: (</li>, </li>)
+979 - Found Match: (<li>, <li>)
+980 - Found Match: (<a>, <a>)
+981 - Found Match: (Za medije, Za medije)
+982 - Found Match: (</a>, </a>)
+983 - Found Match: (</li>, </li>)
+984 - Found Match: (<li>, <li>)
+985 - Found Match: (<a>, <a>)
+986 - Found Match: (Kontakti in informacije, Kontakti in informacije)
+987 - Found Match: (</a>, </a>)
+988 - Found Match: (</li>, </li>)
+989 - Found Match: (</ul>, </ul>)
+990 - Found Match: (</li>, </li>)
+991 - Found Match: (</ul>, </ul>)
+992 - Found Match: (</div>, </div>)
+993 - Found Match: (</div>, </div>)
+994 - Found Match: (</div>, </div>)
+995 - Found Match: (</div>, </div>)
+996 - Found Match: (<div>, <div>)
+997 - Found Match: (</div>, </div>)
+998 - Found Match: (<div>, <div>)
+999 - Found Match: (<div>, <div>)
+1000 - Found Match: (<h3>, <h3>)
+1001 - Found Match: (<svg>, <svg>)
+1002 - Found Match: (<g>, <g>)
+1003 - Found Match: (<circle>, <circle>)
+1004 - Found Match: (</circle>, </circle>)
+1005 - Found Match: (<circle>, <circle>)
+1006 - Found Match: (</circle>, </circle>)
+1007 - Found Match: (<circle>, <circle>)
+1008 - Found Match: (</circle>, </circle>)
+1009 - Found Match: (<circle>, <circle>)
+1010 - Found Match: (</circle>, </circle>)
+1011 - Found Match: (</g>, </g>)
+1012 - Found Match: (<g>, <g>)
+1013 - Found Match: (<circle>, <circle>)
+1014 - Found Match: (</circle>, </circle>)
+1015 - Found Match: (<circle>, <circle>)
+1016 - Found Match: (</circle>, </circle>)
+1017 - Found Match: (<circle>, <circle>)
+1018 - Found Match: (</circle>, </circle>)
+1019 - Found Match: (<circle>, <circle>)
+1020 - Found Match: (</circle>, </circle>)
+1021 - Found Match: (</g>, </g>)
+1022 - Found Match: (<circle>, <circle>)
+1023 - Found Match: (</circle>, </circle>)
+1024 - Found Match: (<circle>, <circle>)
+1025 - Found Match: (</circle>, </circle>)
+1026 - Found Match: (</svg>, </svg>)
+1027 - Found Match: (<a>, <a>)
+1028 - Matching string (a, b): (Testi, Avtomobilnost)
+1029 - Found Match: (</a>, </a>)
+1030 - Found Match: (</h3>, </h3>)
+1031 - Found Match: (</div>, </div>)
+1032 - Found Match: (<div>, <div>)
+1033 - Found Match: (<a>, <a>)
+1034 - Found Match: (Uredi, Uredi)
+1035 - Found Match: (</a>, </a>)
+1036 - Found Match: (</div>, </div>)
+1037 - Found Match: (<div>, <div>)
+1038 - Found Match: (<div>, <div>)
+1039 - Found Match: (<header>, <header>)
+1040 - Found Match: (<div>, <div>)
+1041 - Found Match: (<h3>, <h3>)
+1042 - Found Match: (<svg>, <svg>)
+1043 - Found Match: (<g>, <g>)
+1044 - Found Match: (<circle>, <circle>)
+1045 - Found Match: (</circle>, </circle>)
+1046 - Found Match: (<circle>, <circle>)
+1047 - Found Match: (</circle>, </circle>)
+1048 - Found Match: (<circle>, <circle>)
+1049 - Found Match: (</circle>, </circle>)
+1050 - Found Match: (<circle>, <circle>)
+1051 - Found Match: (</circle>, </circle>)
+1052 - Found Match: (</g>, </g>)
+1053 - Found Match: (<g>, <g>)
+1054 - Found Match: (<circle>, <circle>)
+1055 - Found Match: (</circle>, </circle>)
+1056 - Found Match: (<circle>, <circle>)
+1057 - Found Match: (</circle>, </circle>)
+1058 - Found Match: (<circle>, <circle>)
+1059 - Found Match: (</circle>, </circle>)
+1060 - Found Match: (<circle>, <circle>)
+1061 - Found Match: (</circle>, </circle>)
+1062 - Found Match: (</g>, </g>)
+1063 - Found Match: (<circle>, <circle>)
+1064 - Found Match: (</circle>, </circle>)
+1065 - Found Match: (<circle>, <circle>)
+1066 - Found Match: (</circle>, </circle>)
+1067 - Found Match: (</svg>, </svg>)
+1068 - Found Match: (<a>, <a>)
+1069 - Matching string (a, b): (Testi, Avtomobilnost)
+1070 - Found Match: (</a>, </a>)
+1071 - Found Match: (</h3>, </h3>)
+1072 - Found Match: (<a>, <a>)
+1073 - Found Match: (</a>, </a>)
+1074 - Found Match: (</div>, </div>)
+1075 - Found Match: (<h1>, <h1>)
+1076 - Matching string (a, b): (Audi A6 50 TDI quattro: nemir v premijskem razredu, Volvo XC 40 D4 AWD momentum: suvereno med najboljše v razredu)
+1077 - Found Match: (</h1>, </h1>)
+1078 - Found Match: (<div>, <div>)
+1079 - Matching string (a, b): (Test nove generacije, Test novega modela)
+1080 - Found Match: (</div>, </div>)
+1081 - Found Match: (<div>, <div>)
+1082 - Found Match: (<div>, <div>)
+1083 - Found Match: (<strong>, <strong>)
+1084 - Found Match: (Miha Merljak, Miha Merljak)
+1085 - Found Match: (</strong>, </strong>)
+1086 - Matching string (a, b): (| 28. december 2018 ob 08:51 , | 25. januar 2019 ob 15:23 )
+1087 - Found Match: (</div>, </div>)
+1088 - Found Match: (<div>, <div>)
+1089 - Found Match: (Ljubljana - MMC RTV SLO , Ljubljana - MMC RTV SLO )
+1090 - Found Match: (</div>, </div>)
+1091 - Found Match: (</div>, </div>)
+1092 - Matching iterator (a, b): (<div>, <figure>)
+Square 1:
+<div> <div> <figure> <a> <img> </a> <figcaption> <span> </span> Audi A6 je avtomobil za direktorje, ki se mu na avtocesti spoštljivo umikajo, kot bi šlo za Pahorjev ali Šarčev avtomobil. Foto: David Šavli </figcaption> </figure> </div> <div> </div> </div>
+Square 2:
+<div> <div> <strong> Miha Merljak </strong> | 28. december 2018 ob 08:51  </div> <div> Ljubljana - MMC RTV SLO  </div> </div>
+0 - Found Match: (<div>, <div>)
+1 - Found Match: (<div>, <div>)
+2 - Matching iterator (a, b): (<figure>, <strong>)
+Search down failed
+Search down failed
+Failed to match iterator
+2 - Matching optional (a, b): (<figure>, <strong>)
+Error: couldn't find optional match
+<div>
+  <div>
+Failed to match iterator
+1092 - Matching optional (a, b): (<div>, <figure>)
+Opt match: <div>, <div>
+1093 - Found Match: (<div>, <div>)
+1094 - Found Match: (<div>, <div>)
+(STRING, TAG) - (<figure>, Miha Merljak) mismatch occured
+1096 - Found Match: (</div>, </div>)
+1097 - Matching iterator (a, b): (<div>, </div>)
+Square 1:
+<div> </div>
+Square 2:
+<div> <figure> <a> <img> </a> <figcaption> <span> </span> Audi A6 je avtomobil za direktorje, ki se mu na avtocesti spoštljivo umikajo, kot bi šlo za Pahorjev ali Šarčev avtomobil. Foto: David Šavli </figcaption> </figure> </div>
+0 - Found Match: (<div>, <div>)
+1 - Matching iterator (a, b): (</div>, <figure>)
+Search down failed
+Search down failed
+Failed to match iterator
+1 - Matching optional (a, b): (</div>, <figure>)
+Error: couldn't find optional match
+<div>
+Failed to match iterator
+1097 - Matching optional (a, b): (<div>, </div>)
+Opt match: </div>, </div>
+1098 - Found Match: (</div>, </div>)
+1099 - Matching iterator (a, b): (<p>, <div>)
+Search up failed
+Square 1:
+<div> 25. januar 2019 ob 15:23 <br> Ljubljana - MMC RTV SLO  </div>
+Square 2:
+<div> <div> Miha Merljak </div> </div>
+0 - Found Match: (<div>, <div>)
+(STRING, TAG) - (25. januar 2019 ob 15:23, <div>) mismatch occured
+2 - Matching iterator (a, b): (<br>, </div>)
+Search down failed
+Search down failed
+Failed to match iterator
+2 - Matching optional (a, b): (<br>, </div>)
+Error: couldn't find optional match
+<div>
+  ( <div>Miha Merljak</div> )?
+Failed to match iterator
+1099 - Matching optional (a, b): (<p>, <div>)
+Opt match: <div>, <div>
+1100 - Found Match: (<div>, <div>)
+(STRING, TAG) - (<div>, 25. januar 2019 ob 15:23) mismatch occured
+1102 - Matching iterator (a, b): (</div>, <br>)
+Search up failed
+Search up failed
+Failed to match iterator
+1102 - Matching optional (a, b): (</div>, <br>)
+Opt match: </div>, </div>
+1103 - Found Match: (</div>, </div>)
+1104 - Found Match: (<div>, <div>)
+(STRING, TAG) - (28. december 2018 ob 08:51, <div>) mismatch occured
+1106 - Matching iterator (a, b): (<br>, <div>)
+Search down failed
+Search down failed
+Failed to match iterator
+1106 - Matching optional (a, b): (<br>, <div>)
+Opt match: <div>, <div>
+1107 - Found Match: (<div>, <div>)
+1108 - Found Match: (</div>, </div>)
+1109 - Found Match: (<div>, <div>)
+1110 - Found Match: (</div>, </div>)
+1111 - Matching iterator (a, b): (<div>, <a>)
+Square 1:
+<div> </div>
+Square 2:
+<div> </div>
+0 - Found Match: (<div>, <div>)
+1 - Found Match: (</div>, </div>)
+terminal: </div>
+Wrapper (old, new) (1111, 1107)
+1112 - Found Match: (<a>, <a>)
+1113 - Found Match: (</a>, </a>)
+1114 - Found Match: (</div>, </div>)
+1115 - Found Match: (<figure>, <figure>)
+1116 - Found Match: (<h5>, <h5>)
+1117 - Found Match: (Poudarki, Poudarki)
+1118 - Found Match: (</h5>, </h5>)
+1119 - Found Match: (<ul>, <ul>)
+1120 - Found Match: (<li>, <li>)
+1121 - Matching string (a, b): (Zaradi videza se mu na avtocesti spoštljivo umikajo, XC40 se pohvali z robustno gradnjo in švedskim dizajnom)
+1122 - Found Match: (</li>, </li>)
+1123 - Found Match: (<li>, <li>)
+1124 - Matching string (a, b): (Cesto in promet skenira s kopico radarjev, kamer in tipal, Kabina je prostorna in kakovostno izdelana)
+1125 - Found Match: (</li>, </li>)
+1126 - Found Match: (<li>, <li>)
+1127 - Matching string (a, b): (50 TDI označuje trilitrski turbodizel, podkrepljen z elektromotorjem, Dizel z vrha ponudbe je zelo zmogljiv, a za mestno uporabo prerobusten)
+1128 - Found Match: (</li>, </li>)
+1129 - Found Match: (</ul>, </ul>)
+1130 - Found Match: (</figure>, </figure>)
+1131 - Found Match: (</div>, </div>)
+1132 - Found Match: (<div>, <div>)
+1133 - Found Match: (<div>, <div>)
+1134 - Matching iterator (a, b): (<figure>, </div>)
+Search down failed
+Search down failed
+Failed to match iterator
+1134 - Matching optional (a, b): (<figure>, </div>)
+Opt match: <figure>, <figure>
+1135 - Found Match: (<figure>, <figure>)
+1136 - Found Match: (<a>, <a>)
+1137 - Found Match: (<img>, <img>)
+1138 - Found Match: (</a>, </a>)
+1139 - Found Match: (<figcaption>, <figcaption>)
+1140 - Found Match: (<span>, <span>)
+1141 - Found Match: (</span>, </span>)
+1142 - Matching string (a, b): (Audi A6 je avtomobil za direktorje, ki se mu na avtocesti spoštljivo umikajo, kot bi šlo za Pahorjev ali Šarčev avtomobil. Foto: David Šavli , XC40 se v mestu odlično zlije z okolico. Foto: David Šavli )
+1143 - Found Match: (</figcaption>, </figcaption>)
+1144 - Found Match: (</figure>, </figure>)
+1145 - Matching iterator (a, b): (</div>, <figure>)
+Search up failed
+Square 1:
+<figure> <div> <a> <img> </a> </div> <div> <img> </div> </figure>
+Square 2:
+<figure> <a> <img> </a> <figcaption> <span> </span> XC40 se v mestu odlično zlije z okolico. Foto: David Šavli  </figcaption> </figure>
+0 - Found Match: (<figure>, <figure>)
+1 - Matching iterator (a, b): (<div>, <a>)
+Search down failed
+Search down failed
+Failed to match iterator
+1 - Matching optional (a, b): (<div>, <a>)
+Error: couldn't find optional match
+<figure>
+Failed to match iterator
+1145 - Matching optional (a, b): (</div>, <figure>)
+Opt match: <figure>, <figure>
+1146 - Found Match: (<figure>, <figure>)
+1147 - Found Match: (<div>, <div>)
+(STRING, TAG) - (Oglas, <a>) mismatch occured
+1149 - Found Match: (</div>, </div>)
+1150 - Found Match: (<div>, <div>)
+1151 - Matching iterator (a, b): (<div>, <img>)
+Square 1:
+<div> <a> <img> </a> </div> <div> <img> </div> </div> </figure> <p> </p> <p> Samo poglejte njegovo masko – to ogromno satovje z radarji na takem položaju, da se ti na avtocesti tudi pri 120 km/h vsi spoštljivo umikajo, saj so prepričani, da gre za Pahorjev ali Šarčev avto. Seveda, novi A6 lahko cesto in promet skenira s kar petimi radarji, petimi kamerami, infrardečo kamero za nočni vid, dvanajstimi ultrazvočnimi senzorji in laserskim čitalnikom – lidarjem. V glavnem vojaška tehnologija v službi varnosti za fante, ki smo radi gledali Top Gun, Bonda in druge možakarja s finimi igračami. </p> <p> <strong> Novo poglavje <br> </strong> Vozniški delovni prostor je novo poglavje digitalne dobe, z dvema ogromnima zaslonoma, ki tako kot naprednejši telefoni dregnejo blazinice vaših prstov, kot se sprehajate po steklu. A še bolj se nam zdi pomembno, da so osnovna stikala tam, kjer jih pričakujete. Najprej so torej zagotovili enostavno osnovo, tisti bolj "advanced" vozniki pa si lahko nato vse skupaj še veliko bolj prilagodijo. Velik korak naprej pri kabinskem udobju zaznavajo tudi na zadnji klopi, tam je prostora v vseh smereh precej več. </p> <p> Če vam pogled na Audijev spisek dodatne opreme ne odvzame volje do življenja, potem vsekakor toplo priporočamo nakup zračnega vzmetenja, saj dobi z njim A6 več različnih in vozniško zelo uporabnih karakterjev. </p> <p> Enako velja za seksi luči z inteligentno matrično osvetlitvijo, pa za športno podvozje in vsekakor za štirikolesno krmiljenje. S tem postane A6 med ovinki v občutku na volanu še veliko krajši in bolj agilen. Vse našteto smo preskušali v družbi agregata 50 TDI, ki je v resnici klasični trilitrski dizel, podkrepljen z elektromotorjem. Ja, ta audi je mehki hibrid z izjemnim navorom in dovolj moči kadar koli in kjer koli. Si pa mislimo, da bo največji del trga zadovoljil že učinkovit dvolitrski mehki hibrid z močjo 150 kilovatov. </p> <p> <iframe> </iframe> </p> <p> <strong> Ključni tehnični podatki: </strong> </p> <p> - na testu Audi A6 50 TDI quattro tiptronic </p> <p> <strong> Mere: </strong> <br> - dolžina: 4,9 m <br> - medosna razdalja: 2,9 m <br> - obračalni krog: 12,1 m <br> - prtljažnik: 530 l <br> - masa: 1.900 kg </p> <p> <strong> Pogon: </strong> <br> - trilitrski šestvaljni dizelski motor <br> - moč: 210 kW <br> - navor: 620 Nm <br> - 8-stopenjski samodejni menjalnik <br> - pogon na vsa štiri kolesa <br> - pnevmatike: 225/60 R17 <br> - poraba: 6,6 l/100 km = 8,9 EUR/100 km <br> - posoda za gorivo: 73 l <br> - doseg: 1.106 km <br> - izpusti CO <sub> </sub> : 147 g/km </p> <p> <strong> Stroški pri 15.000 km in 5-letni uporabi: </strong> <br> - nakupna cena: 69.080 EUR <br> - stroški finančnega lizinga: 4.463 EUR/5 let <br> - stroški registracije: 10.829 EUR/5 let <br> - stroški vzdrževanja: 1.926 EUR/5 let <br> - stroški goriva: 6.702 EUR/75.000 km <br> - strošek 1 kompleta pnevmatik: 716 EUR <br> - vrednosti po 5 letih po Eurotaxu: 33.964 EUR </p> <p> - stroški skupaj: 1.001 EUR/mesec </p> <p> </p> <div> <div> <div> <figure> <a> <img> </a> <figcaption> MMC RTV SLO  </figcaption> </figure> <figure> <a> <img> </a> <figcaption> MMC RTV SLO  </figcaption> </figure> <figure> <a> <img> </a> <figcaption> MMC RTV SLO  </figcaption> </figure> <figure> <a> <img> </a> <figcaption> MMC RTV SLO  </figcaption> </figure> <figure> <a> <img> </a> <figcaption> MMC RTV SLO  </figcaption> </figure> <figure> <a> <img> </a> <figcaption> MMC RTV SLO  </figcaption> </figure> <figure> <a> <img> </a> <figcaption> V notranjosti kraljujejo zasloni, prek katerih je mogoče upravljati praktično vse funkcije avtomobila. Foto: David Šavli </figcaption> </figure> <figure> <a> <img> </a> <figcaption> MMC RTV SLO  </figcaption> </figure> <figure> <a> <img> </a> <figcaption> MMC RTV SLO  </figcaption> </figure> <figure> <a> <img> </a> <figcaption> MMC RTV SLO  </figcaption> </figure> <figure> <a> <img> </a> <figcaption> MMC RTV SLO  </figcaption> </figure> <figure> <a> <img> </a> <figcaption> MMC RTV SLO  </figcaption> </figure> <figure> <a> <img> </a> <figcaption> Med doplačili priporočamo zračno vzmetenje in štirikolesno krmiljenje. Foto: David Šavli </figcaption> </figure> <figure> <a> <img> </a> <figcaption> MMC RTV SLO  </figcaption> </figure> <figure> <a> <img> </a> <figcaption> MMC RTV SLO  </figcaption> </figure> <figure> <a> <img> </a> <figcaption> MMC RTV SLO  </figcaption> </figure> <figure> <a> <img> </a> <figcaption> MMC RTV SLO  </figcaption> </figure> <figure> <a> <img> </a> <figcaption> MMC RTV SLO  </figcaption> </figure> <figure> <a> <img> </a> <figcaption> MMC RTV SLO  </figcaption> </figure> </div> <div> </div> <div> </div> </div> <div> <figure> <a> <img> </a> <figcaption> MMC RTV SLO  </figcaption> </figure> <figure> <a> <img> </a> <figcaption> MMC RTV SLO  </figcaption> </figure> <figure> <a> <img> </a> <figcaption> MMC RTV SLO  </figcaption> </figure> <figure> <a> <img> </a> <figcaption> MMC RTV SLO  </figcaption> </figure> </div> </div> </article> </div> <div> <div> <div> <div>
+Square 2:
+<div> <div> <div> <a> <img> </a> </div> <div> <a> <img> </a> </div> <div> <a> <img> </a> </div> <div> <a> <img> </a> </div> <div> <a> <img> </a> </div> <div> <a> <img> </a> </div> <div> <a> <img> </a> </div> <div> <a> <img> </a> </div> <div> <a> <img> </a> </div> <div> <a> <img> </a> </div> <div> <a> <img> </a> </div> <div> <a> <img> </a> </div> <div> <a> <img> </a> </div> <div> <a> <img> </a> </div> </div> </div> </li> <li> <a> Arhiv </a> </li> </ul> </div> </div> <div> <ul> <li> <a> <img> <img> </a> </li> <li> <a> <img> <img> </a> </li> <li> <a> <img> <img> </a> </li> <li> <a> <img> <img> </a> </li> <li> <a> <img> <img> </a> </li> </ul> <form> <input> </form> <div> <a> <span> Prijava </span> </a> <div> <form> <input> <div> <label> Uporabniško ime: </label> <input> </div> <div> <label> Geslo: </label> <input> </div> <div> <button> Prijavi </button> <a> Registracija </a> </div> </form> <a> Pozabljeno geslo? </a> <div> <div> <span> Temni način  <span> BETA </span> </span> <label> <input> <span> </span> </label> </div> </div> </div> </div> <div> <a> </a> <div> <h2> </h2> <a> Odjava </a> <a> Uporabniški račun </a> <div> <div> <span> Temni način  <span> BETA </span> </span> <label> <input> <span> </span> </label> </div> </div> </div> </div> </div> </div> </div> </div> <div> <div> <div> <div> <div> <div> </div> <div> </div> <div> </div> </div> <div> <a> RTVSLO.si </a> </div> <ul> <li> <a> Slovenija </a> </li> <li> <a> Svet </a> </li> <li> <a> Šport </a> </li> <li> <a> Kultura </a> </li> <li> <a> Življenjski slog </a> </li> <li> <a> Svet zabave </a> </li> </ul> <div> <div> Iskanje </div> <form> <input> <button> </button> <div> </div> </form> </div> <div> <div> <span> </span> </div> <div> <a> </a> </div> <div> <a> </a> </div> <div> <div> <span> </span> <span> </span> <span> </span> <span> </span> </div> <span> Kazalo </span> </div> </div> </div> </div> </div> <div> <div> <div> <div> <div> </div> <div> <div> <div> <h3> Predlogi </h3> <div> <div> Odbojka </div> <div> Hokej </div> <div> Tenis </div> </div> </div> <div> <h3> Rezultati iskanja </h3> <div> </div> </div> </div> <p> Zaradi testiranja je dodanih umetnih 2 sekunde delaya. </p> </div> </div> </div> </div> </div> <div> <div> <div> <div> <a> <img> </a> </div> <div> <h5> <span> </span> <span> <a> </a> </span> <a> </a> </h5> <p> </p> </div> </div> </div> </div> </div> <div> <div> <span> </span> <span> </span> <span> </span> <span> </span> </div> </div> <div> </div> <div> <div> <div> <div> <ul> <li> <a> Slovenija  </a> <ul> <li> <a> Gospodarstvo </a> </li> <li> <a> Lokalne novice </a> </li> <li> <a> Črna kronika </a> </li> <li> <a> Zdravje </a> </li> <li> <a> Okolje </a> </li> <li> <a> Znanost in tehnologija </a> </li> <li> <a> Slovenci v sosednjih državah  </a> </li> </ul> </li> <li> <a> Svet  </a> <ul> <li> <a> Evropska unija </a> </li> <li> <a> Evropa </a> </li> <li> <a> S. in J. Amerika </a> </li> <li> <a> Bližnji vzhod </a> </li> <li> <a> Afrika </a> </li> <li> <a> Azija z Oceanijo </a> </li> </ul> </li> <li> <a> Šport  </a> <ul> <li> <a> Nogomet </a> </li> <li> <a> Košarka </a> </li> <li> <a> Rokomet </a> </li> <li> <a> Odbojka </a> </li> <li> <a> Hokej </a> </li> <li> <a> Tenis </a> </li> <li> <a> Atletika </a> </li> <li> <a> Zimski športi </a> </li> <li> <a> Motošporti </a> </li> <li> <a> F1 </a> </li> <li> <a> Kolesarstvo </a> </li> <li> <a> Preostali športi </a> </li> <li> <a> Rekreacija </a> </li> <li> <a> Športni SOS </a> </li> </ul> </li> <li> <a> Kultura  </a> <ul> <li> <a> Film in TV </a> </li> <li> <a> Glasba </a> </li> <li> <a> Knjige </a> </li> <li> <a> Oder </a> </li> <li> <a> Vizualna umetnost </a> </li> <li> <a> Arhitektura in oblikovanje </a> </li> <li> <a> Dediščina </a> </li> <li> <a> Recenzije </a> </li> <li> <a> Drugo </a> </li> <li> <a> Jezikovni spletovalec </a> </li> <li> <a> 1. svetovna vojna </a> </li> </ul> </li> <li> <a> Življenjski slog  </a> <ul> <li> <a> Ture avanture </a> </li> <li> <a> Kulinarika </a> </li> <li> <a> Lepota bivanja </a> </li> <li> <a> Avtomobilnost </a> </li> <li> <a> Moda </a> </li> <li> <a> 196x ljubezen </a> </li> </ul> </li> <li> <a> Svet zabave  </a> <ul> <li> <a> Evrovizija </a> </li> <li> <a> Glasba </a> </li> <li> <a> Film in TV </a> </li> <li> <a> Svet znanih </a> </li> <li> <a> Družabno </a> </li> <li> <a> Zanimivosti </a> </li> </ul> </li> <li> <a> Posebna izdaja  </a> <ul> <li> <a> MMC Podrobno </a> </li> <li> <a> Klepet </a> </li> <li> <a> Podkast Številke </a> </li> <li> <a> 1968 </a> </li> <li> <a> Kolumne </a> </li> <li> <a> MMC Teden </a> </li> <li> <a> MMC Analiza </a> </li> <li> <a> Praznično leto RTV Slovenija </a> </li> </ul> </li> <li> <a> Info  </a> <ul> <li> <a> Vreme </a> </li> <li> <a> Snežne razmere </a> </li> <li> <a> Stanje na cestah </a> </li> </ul> </li> <li> </li> <li> <a> TV Slovenija  </a> <ul> <li> <a> Info </a> </li> <li> <a> Kultura </a> </li> <li> <a> Filmi/serije </a> </li> <li> <a> Razvedrilo </a> </li> <li> <a> Otroci </a> </li> <li> <a> Izobraževanje </a> </li> <li> <a> Dokumentarci </a> </li> <li> <a> Duhovnost </a> </li> </ul> </li> <li> <a> Radio Slovenija  </a> <ul> <li> <a> Prvi </a> </li> <li> <a> Val 202 </a> </li> <li> <a> ARS </a> </li> <li> <a> Radio Koper </a> </li> <li> <a> Radio Capodistria </a> </li> <li> <a> Radio Maribor </a> </li> <li> <a> Radio Si </a> </li> <li> <a> MMR </a> </li> </ul> </li> <li> <a> RTV 4D  </a> <ul> <li> <a> V živo </a> </li> <li> <a> Arhiv </a> </li> <li> <a> Spored </a> </li> <li> <a> Oddaje </a> </li> </ul> </li> <li> <a> Tematski portali  </a> <ul> <li> <a> Otroški portal </a> </li> <li> <a> Moja generacija </a> </li> <li> <a> Moj splet </a> </li> <li> <a> Teletext </a> </li> </ul> </li> <li> </li> <li> <a> O RTV Slovenija  </a> <ul> <li> <a> Kdo smo </a> </li> <li> <a> RTV-prispevek </a> </li> <li> <a> Za medije </a> </li> <li> <a> Kontakti in informacije </a> </li> </ul> </li> </ul> </div> </div> </div> </div> <div> </div> <div> <div> <h3> <svg> <g> <circle> </circle> <circle> </circle> <circle> </circle> <circle> </circle> </g> <g> <circle> </circle> <circle> </circle> <circle> </circle> <circle> </circle> </g> <circle> </circle> <circle> </circle> </svg> <a> Testi </a> </h3> </div> <div> <a> Uredi </a> </div> <div> <div> <header> <div> <h3> <svg> <g> <circle> </circle> <circle> </circle> <circle> </circle> <circle> </circle> </g> <g> <circle> </circle> <circle> </circle> <circle> </circle> <circle> </circle> </g> <circle> </circle> <circle> </circle> </svg> <a> Testi </a> </h3> <a> </a> </div> <h1> Audi A6 50 TDI quattro: nemir v premijskem razredu </h1> <div> Test nove generacije </div> <div> <div> <strong> Miha Merljak </strong> | 28. december 2018 ob 08:51  </div> <div> Ljubljana - MMC RTV SLO  </div> </div> <div> <div> <figure> <a> <img> </a> <figcaption> <span> </span> Audi A6 je avtomobil za direktorje, ki se mu na avtocesti spoštljivo umikajo, kot bi šlo za Pahorjev ali Šarčev avtomobil. Foto: David Šavli </figcaption> </figure> </div> <div> </div> </div> <p> To je novi audi A6. V razred najdražjih in najbolj premijskih žrebcev je vnesel nemir, še preden je sploh zapeljal na parkirni prostor, rezerviran za izvršnega direktorja.  </p> </header> <div> <div> <div> Miha Merljak </div> </div> <div> 28. december 2018 ob 08:51 <br> Ljubljana - MMC RTV SLO  </div> <div> <div> </div> <div> </div> <div> </div> <a> </a> </div> <figure> <h5> Poudarki </h5> <ul> <li> Zaradi videza se mu na avtocesti spoštljivo umikajo </li> <li> Cesto in promet skenira s kopico radarjev, kamer in tipal </li> <li> 50 TDI označuje trilitrski turbodizel, podkrepljen z elektromotorjem </li> </ul> </figure> </div> <div> <div> <figure> <a> <img> </a> <figcaption> <span> </span> Audi A6 je avtomobil za direktorje, ki se mu na avtocesti spoštljivo umikajo, kot bi šlo za Pahorjev ali Šarčev avtomobil. Foto: David Šavli  </figcaption> </figure> </div> <article> <figure> <div> Oglas </div> <div>
+0 - Found Match: (<div>, <div>)
+1 - Matching iterator (a, b): (<a>, <div>)
+Search down failed
+Search up failed
+Failed to match iterator
+1 - Matching optional (a, b): (<a>, <div>)
+Opt match: <a>, <a>
+2 - Found Match: (<a>, <a>)
+(STRING, TAG) - (<img>, Registracija) mismatch occured
+4 - Matching iterator (a, b): (</div>, </a>)
+Search up failed
+Search down failed
+Failed to match iterator
+4 - Matching optional (a, b): (</div>, </a>)
+Opt match: </div>, </div>
+5 - Found Match: (</div>, </div>)
+6 - Matching iterator (a, b): (<div>, </form>)
+Search up failed
+Search down failed
+Failed to match iterator
+6 - Matching optional (a, b): (<div>, </form>)
+Opt match: <div>, <div>
+7 - Found Match: (<div>, <div>)
+8 - Matching iterator (a, b): (<img>, <span>)
+Search down failed
+Search down failed
+Failed to match iterator
+8 - Matching optional (a, b): (<img>, <span>)
+Error: couldn't find optional match
+<div>
+  ( <div><div><a><img></a></div><div><a><img></a></div><div><a><img></a></div><div><a><img></a></div><div><a><img></a></div><div><a><img></a></div><div><a><img></a></div><div><a><img></a></div><div><a><img></a></div><div><a><img></a></div><div><a><img></a></div><div><a><img></a></div><div><a><img></a></div><div><a><img></a></div></div></div></li><li><a>Arhiv</a></li></ul></div></div><div><ul><li><a><img><img></a></li><li><a><img><img></a></li><li><a><img><img></a></li><li><a><img><img></a></li><li><a><img><img></a></li></ul><form><input></form><div><a><span>Prijava</span></a><div><form><input><div><label>Uporabniško ime:</label><input></div><div><label>Geslo:</label><input></div><div><button>Prijavi</button> )?
+  <a>
+    ( <img> )?
+    ( </a> )?
+  </div>
+  ( </form><a>Pozabljeno geslo?</a><div> )?
+  <div>
+Failed to match iterator
+1151 - Matching optional (a, b): (<div>, <img>)
+Opt match: <div>, <div>
+1152 - Found Match: (<div>, <div>)
+1153 - Matching iterator (a, b): (<a>, <figure>)
+! Length difference too great !
+Square 1:
+<a> <img> </a> </div> <div> <img> </div> </div> </figure> <p> </p> <p> Samo poglejte njegovo masko – to ogromno satovje z radarji na takem položaju, da se ti na avtocesti tudi pri 120 km/h vsi spoštljivo umikajo, saj so prepričani, da gre za Pahorjev ali Šarčev avto. Seveda, novi A6 lahko cesto in promet skenira s kar petimi radarji, petimi kamerami, infrardečo kamero za nočni vid, dvanajstimi ultrazvočnimi senzorji in laserskim čitalnikom – lidarjem. V glavnem vojaška tehnologija v službi varnosti za fante, ki smo radi gledali Top Gun, Bonda in druge možakarja s finimi igračami. </p> <p> <strong> Novo poglavje <br> </strong> Vozniški delovni prostor je novo poglavje digitalne dobe, z dvema ogromnima zaslonoma, ki tako kot naprednejši telefoni dregnejo blazinice vaših prstov, kot se sprehajate po steklu. A še bolj se nam zdi pomembno, da so osnovna stikala tam, kjer jih pričakujete. Najprej so torej zagotovili enostavno osnovo, tisti bolj "advanced" vozniki pa si lahko nato vse skupaj še veliko bolj prilagodijo. Velik korak naprej pri kabinskem udobju zaznavajo tudi na zadnji klopi, tam je prostora v vseh smereh precej več. </p> <p> Če vam pogled na Audijev spisek dodatne opreme ne odvzame volje do življenja, potem vsekakor toplo priporočamo nakup zračnega vzmetenja, saj dobi z njim A6 več različnih in vozniško zelo uporabnih karakterjev. </p> <p> Enako velja za seksi luči z inteligentno matrično osvetlitvijo, pa za športno podvozje in vsekakor za štirikolesno krmiljenje. S tem postane A6 med ovinki v občutku na volanu še veliko krajši in bolj agilen. Vse našteto smo preskušali v družbi agregata 50 TDI, ki je v resnici klasični trilitrski dizel, podkrepljen z elektromotorjem. Ja, ta audi je mehki hibrid z izjemnim navorom in dovolj moči kadar koli in kjer koli. Si pa mislimo, da bo največji del trga zadovoljil že učinkovit dvolitrski mehki hibrid z močjo 150 kilovatov. </p> <p> <iframe> </iframe> </p> <p> <strong> Ključni tehnični podatki: </strong> </p> <p> - na testu Audi A6 50 TDI quattro tiptronic </p> <p> <strong> Mere: </strong> <br> - dolžina: 4,9 m <br> - medosna razdalja: 2,9 m <br> - obračalni krog: 12,1 m <br> - prtljažnik: 530 l <br> - masa: 1.900 kg </p> <p> <strong> Pogon: </strong> <br> - trilitrski šestvaljni dizelski motor <br> - moč: 210 kW <br> - navor: 620 Nm <br> - 8-stopenjski samodejni menjalnik <br> - pogon na vsa štiri kolesa <br> - pnevmatike: 225/60 R17 <br> - poraba: 6,6 l/100 km = 8,9 EUR/100 km <br> - posoda za gorivo: 73 l <br> - doseg: 1.106 km <br> - izpusti CO <sub> </sub> : 147 g/km </p> <p> <strong> Stroški pri 15.000 km in 5-letni uporabi: </strong> <br> - nakupna cena: 69.080 EUR <br> - stroški finančnega lizinga: 4.463 EUR/5 let <br> - stroški registracije: 10.829 EUR/5 let <br> - stroški vzdrževanja: 1.926 EUR/5 let <br> - stroški goriva: 6.702 EUR/75.000 km <br> - strošek 1 kompleta pnevmatik: 716 EUR <br> - vrednosti po 5 letih po Eurotaxu: 33.964 EUR </p> <p> - stroški skupaj: 1.001 EUR/mesec </p> <p> </p> <div> <div> <div> <figure> <a> <img> </a> <figcaption> MMC RTV SLO  </figcaption> </figure> <figure> <a> <img> </a> <figcaption> MMC RTV SLO  </figcaption> </figure> <figure> <a> <img> </a> <figcaption> MMC RTV SLO  </figcaption> </figure> <figure> <a> <img> </a> <figcaption> MMC RTV SLO  </figcaption> </figure> <figure> <a> <img> </a> <figcaption> MMC RTV SLO  </figcaption> </figure> <figure> <a> <img> </a> <figcaption> MMC RTV SLO  </figcaption> </figure> <figure> <a> <img> </a> <figcaption> V notranjosti kraljujejo zasloni, prek katerih je mogoče upravljati praktično vse funkcije avtomobila. Foto: David Šavli </figcaption> </figure> <figure> <a> <img> </a> <figcaption> MMC RTV SLO  </figcaption> </figure> <figure> <a> <img> </a> <figcaption> MMC RTV SLO  </figcaption> </figure> <figure> <a> <img> </a> <figcaption> MMC RTV SLO  </figcaption> </figure> <figure> <a> <img> </a> <figcaption> MMC RTV SLO  </figcaption> </figure> <figure> <a> <img> </a> <figcaption> MMC RTV SLO  </figcaption> </figure> <figure> <a> <img> </a> <figcaption> Med doplačili priporočamo zračno vzmetenje in štirikolesno krmiljenje. Foto: David Šavli </figcaption> </figure> <figure> <a> <img> </a> <figcaption> MMC RTV SLO  </figcaption> </figure> <figure> <a> <img> </a> <figcaption> MMC RTV SLO  </figcaption> </figure> <figure> <a> <img> </a> <figcaption> MMC RTV SLO  </figcaption> </figure> <figure> <a> <img> </a> <figcaption> MMC RTV SLO  </figcaption> </figure> <figure> <a> <img> </a> <figcaption> MMC RTV SLO  </figcaption> </figure> <figure> <a> <img> </a> <figcaption> MMC RTV SLO  </figcaption> </figure> </div> <div> </div> <div> </div> </div> <div> <figure> <a> <img> </a> <figcaption> MMC RTV SLO  </figcaption> </figure> <figure> <a> <img> </a> <figcaption> MMC RTV SLO  </figcaption> </figure> <figure> <a> <img> </a> <figcaption> MMC RTV SLO  </figcaption> </figure> <figure> <a> <img> </a> <figcaption> MMC RTV SLO  </figcaption> </figure> </div> </div> </article> </div> <div> <div> <div> <div> </div> </div> <div> <h4> Zadnje iz sekcije </h4> <div> <div>
+Square 2:
+<a> Za medije </a> </li> <li> <a> Kontakti in informacije </a> </li> </ul> </li> </ul> </div> </div> </div> </div> <div> </div> <div> <div> <h3> <svg> <g> <circle> </circle> <circle> </circle> <circle> </circle> <circle> </circle> </g> <g> <circle> </circle> <circle> </circle> <circle> </circle> <circle> </circle> </g> <circle> </circle> <circle> </circle> </svg> <a> Testi </a> </h3> </div> <div> <a> Uredi </a> </div> <div> <div> <header> <div> <h3> <svg> <g> <circle> </circle> <circle> </circle> <circle> </circle> <circle> </circle> </g> <g> <circle> </circle> <circle> </circle> <circle> </circle> <circle> </circle> </g> <circle> </circle> <circle> </circle> </svg> <a> Testi </a> </h3> <a> </a> </div> <h1> Audi A6 50 TDI quattro: nemir v premijskem razredu </h1> <div> Test nove generacije </div> <div> <div> <strong> Miha Merljak </strong> | 28. december 2018 ob 08:51  </div> <div> Ljubljana - MMC RTV SLO  </div> </div> <div> <div> <figure> <a> <img> </a> <figcaption> <span> </span> Audi A6 je avtomobil za direktorje, ki se mu na avtocesti spoštljivo umikajo, kot bi šlo za Pahorjev ali Šarčev avtomobil. Foto: David Šavli </figcaption> </figure> </div> <div> </div> </div> <p> To je novi audi A6. V razred najdražjih in najbolj premijskih žrebcev je vnesel nemir, še preden je sploh zapeljal na parkirni prostor, rezerviran za izvršnega direktorja.  </p> </header> <div> <div> <div> Miha Merljak </div> </div> <div> 28. december 2018 ob 08:51 <br> Ljubljana - MMC RTV SLO  </div> <div> <div> </div> <div> </div> <div> </div> <a> </a> </div> <figure> <h5> Poudarki </h5> <ul> <li> Zaradi videza se mu na avtocesti spoštljivo umikajo </li> <li> Cesto in promet skenira s kopico radarjev, kamer in tipal </li> <li> 50 TDI označuje trilitrski turbodizel, podkrepljen z elektromotorjem </li> </ul> </figure> </div> <div> <div> <figure> <a> <img> </a> <figcaption> <span> </span> Audi A6 je avtomobil za direktorje, ki se mu na avtocesti spoštljivo umikajo, kot bi šlo za Pahorjev ali Šarčev avtomobil. Foto: David Šavli  </figcaption> </figure> </div> <article> <figure> <div> Oglas </div> <div> <div>
+0 - Found Match: (<a>, <a>)
+(STRING, TAG) - (<img>, Za medije) mismatch occured
+2 - Matching iterator (a, b): (</div>, </a>)
+Search up failed
+Search down failed
+Failed to match iterator
+2 - Matching optional (a, b): (</div>, </a>)
+Error: couldn't find optional match
+<a>
+  ( <img> )?
+Failed to match iterator
+1153 - Matching optional (a, b): (<a>, <figure>)
+Opt match: <figure>, <figure>
+1154 - Found Match: (<figure>, <figure>)
+1155 - Found Match: (<a>, <a>)
+1156 - Found Match: (<img>, <img>)
+1157 - Found Match: (</a>, </a>)
+1158 - Found Match: (<figcaption>, <figcaption>)
+1159 - Matching string (a, b): (MMC RTV SLO , Foto: David Šavli)
+1160 - Found Match: (</figcaption>, </figcaption>)
+1161 - Found Match: (</figure>, </figure>)
+1162 - Found Match: (<figure>, <figure>)
+1163 - Found Match: (<a>, <a>)
+1164 - Found Match: (<img>, <img>)
+1165 - Found Match: (</a>, </a>)
+1166 - Found Match: (<figcaption>, <figcaption>)
+1167 - Matching string (a, b): (MMC RTV SLO , Foto: David Šavli)
+1168 - Found Match: (</figcaption>, </figcaption>)
+1169 - Found Match: (</figure>, </figure>)
+1170 - Found Match: (<figure>, <figure>)
+1171 - Found Match: (<a>, <a>)
+1172 - Found Match: (<img>, <img>)
+1173 - Found Match: (</a>, </a>)
+1174 - Found Match: (<figcaption>, <figcaption>)
+1175 - Matching string (a, b): (MMC RTV SLO , Foto: David Šavli)
+1176 - Found Match: (</figcaption>, </figcaption>)
+1177 - Found Match: (</figure>, </figure>)
+1178 - Found Match: (<figure>, <figure>)
+1179 - Found Match: (<a>, <a>)
+1180 - Found Match: (<img>, <img>)
+1181 - Found Match: (</a>, </a>)
+1182 - Found Match: (<figcaption>, <figcaption>)
+1183 - Matching string (a, b): (MMC RTV SLO , Foto: David Šavli)
+1184 - Found Match: (</figcaption>, </figcaption>)
+1185 - Found Match: (</figure>, </figure>)
+1186 - Found Match: (<figure>, <figure>)
+1187 - Found Match: (<a>, <a>)
+1188 - Found Match: (<img>, <img>)
+1189 - Found Match: (</a>, </a>)
+1190 - Found Match: (<figcaption>, <figcaption>)
+1191 - Matching string (a, b): (MMC RTV SLO , Foto: David Šavli)
+1192 - Found Match: (</figcaption>, </figcaption>)
+1193 - Found Match: (</figure>, </figure>)
+1194 - Found Match: (<figure>, <figure>)
+1195 - Found Match: (<a>, <a>)
+1196 - Found Match: (<img>, <img>)
+1197 - Found Match: (</a>, </a>)
+1198 - Found Match: (<figcaption>, <figcaption>)
+1199 - Matching string (a, b): (MMC RTV SLO , Foto: David Šavli)
+1200 - Found Match: (</figcaption>, </figcaption>)
+1201 - Found Match: (</figure>, </figure>)
+1202 - Found Match: (<figure>, <figure>)
+1203 - Found Match: (<a>, <a>)
+1204 - Found Match: (<img>, <img>)
+1205 - Found Match: (</a>, </a>)
+1206 - Found Match: (<figcaption>, <figcaption>)
+1207 - Matching string (a, b): (V notranjosti kraljujejo zasloni, prek katerih je mogoče upravljati praktično vse funkcije avtomobila. Foto: David Šavli, Foto: David Šavli)
+1208 - Found Match: (</figcaption>, </figcaption>)
+1209 - Found Match: (</figure>, </figure>)
+1210 - Found Match: (<figure>, <figure>)
+1211 - Found Match: (<a>, <a>)
+1212 - Found Match: (<img>, <img>)
+1213 - Found Match: (</a>, </a>)
+1214 - Found Match: (<figcaption>, <figcaption>)
+1215 - Matching string (a, b): (MMC RTV SLO , Foto: David Šavli)
+1216 - Found Match: (</figcaption>, </figcaption>)
+1217 - Found Match: (</figure>, </figure>)
+1218 - Found Match: (<figure>, <figure>)
+1219 - Found Match: (<a>, <a>)
+1220 - Found Match: (<img>, <img>)
+1221 - Found Match: (</a>, </a>)
+1222 - Found Match: (<figcaption>, <figcaption>)
+1223 - Matching string (a, b): (MMC RTV SLO , Foto: David Šavli)
+1224 - Found Match: (</figcaption>, </figcaption>)
+1225 - Found Match: (</figure>, </figure>)
+1226 - Found Match: (<figure>, <figure>)
+1227 - Found Match: (<a>, <a>)
+1228 - Found Match: (<img>, <img>)
+1229 - Found Match: (</a>, </a>)
+1230 - Found Match: (<figcaption>, <figcaption>)
+1231 - Matching string (a, b): (MMC RTV SLO , Foto: David Šavli)
+1232 - Found Match: (</figcaption>, </figcaption>)
+1233 - Found Match: (</figure>, </figure>)
+1234 - Found Match: (<figure>, <figure>)
+1235 - Found Match: (<a>, <a>)
+1236 - Found Match: (<img>, <img>)
+1237 - Found Match: (</a>, </a>)
+1238 - Found Match: (<figcaption>, <figcaption>)
+1239 - Matching string (a, b): (MMC RTV SLO , Foto: David Šavli)
+1240 - Found Match: (</figcaption>, </figcaption>)
+1241 - Found Match: (</figure>, </figure>)
+1242 - Found Match: (<figure>, <figure>)
+1243 - Found Match: (<a>, <a>)
+1244 - Found Match: (<img>, <img>)
+1245 - Found Match: (</a>, </a>)
+1246 - Found Match: (<figcaption>, <figcaption>)
+1247 - Matching string (a, b): (MMC RTV SLO , Foto: David Šavli)
+1248 - Found Match: (</figcaption>, </figcaption>)
+1249 - Found Match: (</figure>, </figure>)
+1250 - Found Match: (<figure>, <figure>)
+1251 - Found Match: (<a>, <a>)
+1252 - Found Match: (<img>, <img>)
+1253 - Found Match: (</a>, </a>)
+1254 - Found Match: (<figcaption>, <figcaption>)
+1255 - Matching string (a, b): (Med doplačili priporočamo zračno vzmetenje in štirikolesno krmiljenje. Foto: David Šavli, Foto: David Šavli)
+1256 - Found Match: (</figcaption>, </figcaption>)
+1257 - Found Match: (</figure>, </figure>)
+1258 - Found Match: (<figure>, <figure>)
+1259 - Found Match: (<a>, <a>)
+1260 - Found Match: (<img>, <img>)
+1261 - Found Match: (</a>, </a>)
+1262 - Found Match: (<figcaption>, <figcaption>)
+1263 - Matching string (a, b): (MMC RTV SLO , Foto: David Šavli)
+1264 - Found Match: (</figcaption>, </figcaption>)
+1265 - Found Match: (</figure>, </figure>)
+1266 - Found Match: (<figure>, <figure>)
+1267 - Found Match: (<a>, <a>)
+1268 - Found Match: (<img>, <img>)
+1269 - Found Match: (</a>, </a>)
+1270 - Found Match: (<figcaption>, <figcaption>)
+1271 - Matching string (a, b): (MMC RTV SLO , Foto: David Šavli)
+1272 - Found Match: (</figcaption>, </figcaption>)
+1273 - Found Match: (</figure>, </figure>)
+1274 - Found Match: (<figure>, <figure>)
+1275 - Found Match: (<a>, <a>)
+1276 - Found Match: (<img>, <img>)
+1277 - Found Match: (</a>, </a>)
+1278 - Found Match: (<figcaption>, <figcaption>)
+1279 - Matching string (a, b): (MMC RTV SLO , Foto: David Šavli)
+1280 - Found Match: (</figcaption>, </figcaption>)
+1281 - Found Match: (</figure>, </figure>)
+1282 - Found Match: (<figure>, <figure>)
+1283 - Found Match: (<a>, <a>)
+1284 - Found Match: (<img>, <img>)
+1285 - Found Match: (</a>, </a>)
+1286 - Found Match: (<figcaption>, <figcaption>)
+1287 - Matching string (a, b): (MMC RTV SLO , Foto: David Šavli)
+1288 - Found Match: (</figcaption>, </figcaption>)
+1289 - Found Match: (</figure>, </figure>)
+1290 - Found Match: (<figure>, <figure>)
+1291 - Found Match: (<a>, <a>)
+1292 - Found Match: (<img>, <img>)
+1293 - Found Match: (</a>, </a>)
+1294 - Found Match: (<figcaption>, <figcaption>)
+1295 - Matching string (a, b): (MMC RTV SLO , Foto: David Šavli)
+1296 - Found Match: (</figcaption>, </figcaption>)
+1297 - Found Match: (</figure>, </figure>)
+1298 - Matching iterator (a, b): (<figure>, </div>)
+Square 1:
+<figure> <a> <img> </a> <figcaption> MMC RTV SLO  </figcaption> </figure>
+Square 2:
+<figure> <a> <img> </a> <figcaption> MMC RTV SLO  </figcaption> </figure>
+0 - Found Match: (<figure>, <figure>)
+1 - Found Match: (<a>, <a>)
+2 - Found Match: (<img>, <img>)
+3 - Found Match: (</a>, </a>)
+4 - Found Match: (<figcaption>, <figcaption>)
+5 - Found Match: (MMC RTV SLO , MMC RTV SLO )
+6 - Found Match: (</figcaption>, </figcaption>)
+7 - Found Match: (</figure>, </figure>)
+terminal: </figure>
+Wrapper (old, new) (1294, 1150)
+1299 - Found Match: (</div>, </div>)
+1300 - Found Match: (<div>, <div>)
+1301 - Found Match: (</div>, </div>)
+1302 - Found Match: (<div>, <div>)
+1303 - Found Match: (</div>, </div>)
+1304 - Found Match: (</div>, </div>)
+1305 - Found Match: (<div>, <div>)
+1306 - Found Match: (<figure>, <figure>)
+1307 - Found Match: (<a>, <a>)
+1308 - Found Match: (<img>, <img>)
+1309 - Found Match: (</a>, </a>)
+1310 - Found Match: (<figcaption>, <figcaption>)
+1311 - Matching string (a, b): (MMC RTV SLO , Foto: David Šavli)
+1312 - Found Match: (</figcaption>, </figcaption>)
+1313 - Found Match: (</figure>, </figure>)
+1314 - Found Match: (<figure>, <figure>)
+1315 - Found Match: (<a>, <a>)
+1316 - Found Match: (<img>, <img>)
+1317 - Found Match: (</a>, </a>)
+1318 - Found Match: (<figcaption>, <figcaption>)
+1319 - Matching string (a, b): (MMC RTV SLO , Foto: David Šavli)
+1320 - Found Match: (</figcaption>, </figcaption>)
+1321 - Found Match: (</figure>, </figure>)
+1322 - Found Match: (<figure>, <figure>)
+1323 - Found Match: (<a>, <a>)
+1324 - Found Match: (<img>, <img>)
+1325 - Found Match: (</a>, </a>)
+1326 - Found Match: (<figcaption>, <figcaption>)
+1327 - Matching string (a, b): (MMC RTV SLO , Foto: David Šavli)
+1328 - Found Match: (</figcaption>, </figcaption>)
+1329 - Found Match: (</figure>, </figure>)
+1330 - Found Match: (<figure>, <figure>)
+1331 - Found Match: (<a>, <a>)
+1332 - Found Match: (<img>, <img>)
+1333 - Found Match: (</a>, </a>)
+1334 - Found Match: (<figcaption>, <figcaption>)
+1335 - Matching string (a, b): (MMC RTV SLO , Foto: David Šavli)
+1336 - Found Match: (</figcaption>, </figcaption>)
+1337 - Found Match: (</figure>, </figure>)
+1338 - Found Match: (</div>, </div>)
+1339 - Found Match: (</div>, </div>)
+1340 - Found Match: (</article>, </article>)
+1341 - Found Match: (</div>, </div>)
+1342 - Found Match: (<div>, <div>)
+1343 - Found Match: (<div>, <div>)
+1344 - Found Match: (<div>, <div>)
+1345 - Found Match: (<div>, <div>)
+1346 - Found Match: (</div>, </div>)
+1347 - Found Match: (</div>, </div>)
+1348 - Found Match: (<div>, <div>)
+1349 - Found Match: (<h4>, <h4>)
+1350 - Found Match: (Zadnje iz sekcije, Zadnje iz sekcije)
+1351 - Found Match: (</h4>, </h4>)
+1352 - Found Match: (<div>, <div>)
+1353 - Found Match: (<div>, <div>)
+1354 - Found Match: (<div>, <div>)
+1355 - Found Match: (<a>, <a>)
+1356 - Found Match: (<img>, <img>)
+1357 - Found Match: (</a>, </a>)
+1358 - Found Match: (</div>, </div>)
+1359 - Found Match: (<div>, <div>)
+1360 - Found Match: (<a>, <a>)
+1361 - Matching string (a, b): (Ford kuga je z zamenjavo generacije postala tudi priključni hibrid, LJFW: "Šotor bi napolnili, pa če bi bil še 20 metrov daljši")
+1362 - Found Match: (</a>, </a>)
+1363 - Found Match: (</div>, </div>)
+1364 - Found Match: (</div>, </div>)
+1365 - Found Match: (</div>, </div>)
+1366 - Found Match: (<div>, <div>)
+1367 - Found Match: (<div>, <div>)
+1368 - Found Match: (<div>, <div>)
+1369 - Found Match: (<a>, <a>)
+1370 - Found Match: (<img>, <img>)
+1371 - Found Match: (</a>, </a>)
+1372 - Found Match: (</div>, </div>)
+1373 - Found Match: (<div>, <div>)
+1374 - Found Match: (<a>, <a>)
+1375 - Matching string (a, b): (Ženske so poškodbam v prometnih nesrečah izpostavljene bolj kot moški, Foto: Noč v Louvru - aperitiv pri Moni Lisi, večerja pri Miloški Veneri )
+1376 - Found Match: (</a>, </a>)
+1377 - Found Match: (</div>, </div>)
+1378 - Found Match: (</div>, </div>)
+1379 - Found Match: (</div>, </div>)
+1380 - Found Match: (<div>, <div>)
+1381 - Found Match: (<div>, <div>)
+1382 - Found Match: (<div>, <div>)
+1383 - Found Match: (<a>, <a>)
+1384 - Found Match: (<img>, <img>)
+1385 - Found Match: (</a>, </a>)
+1386 - Found Match: (</div>, </div>)
+1387 - Found Match: (<div>, <div>)
+1388 - Found Match: (<a>, <a>)
+1389 - Matching string (a, b): (Pripravite se na ofenzivo priključnih hibridov, Ford kuga je z zamenjavo generacije postala tudi priključni hibrid)
+1390 - Found Match: (</a>, </a>)
+1391 - Found Match: (</div>, </div>)
+1392 - Found Match: (</div>, </div>)
+1393 - Found Match: (</div>, </div>)
+1394 - Found Match: (<div>, <div>)
+1395 - Found Match: (<div>, <div>)
+1396 - Found Match: (<div>, <div>)
+1397 - Found Match: (<a>, <a>)
+1398 - Found Match: (<img>, <img>)
+1399 - Found Match: (</a>, </a>)
+1400 - Found Match: (</div>, </div>)
+1401 - Found Match: (<div>, <div>)
+1402 - Found Match: (<a>, <a>)
+1403 - Matching string (a, b): (Bentley se je ob stoletnici spomnil blowerja, enega najbolj ikonskih avtomobilov iz dirkaške preteklosti, Čokoladno-malinova zebra torta)
+1404 - Found Match: (</a>, </a>)
+1405 - Found Match: (</div>, </div>)
+1406 - Found Match: (</div>, </div>)
+1407 - Found Match: (</div>, </div>)
+1408 - Found Match: (<div>, <div>)
+1409 - Found Match: (<div>, <div>)
+1410 - Found Match: (<div>, <div>)
+1411 - Found Match: (<a>, <a>)
+1412 - Found Match: (<img>, <img>)
+1413 - Found Match: (</a>, </a>)
+1414 - Found Match: (</div>, </div>)
+1415 - Found Match: (<div>, <div>)
+1416 - Found Match: (<a>, <a>)
+1417 - Matching string (a, b): (Rekorderska steza na slani ravnici Bonneville potrebuje rešitev, LJFW: Prvi večer je minil v znamenju izbora Fashion Scout SEE )
+1418 - Found Match: (</a>, </a>)
+1419 - Found Match: (</div>, </div>)
+1420 - Found Match: (</div>, </div>)
+1421 - Found Match: (</div>, </div>)
+1422 - Found Match: (</div>, </div>)
+1423 - Found Match: (</div>, </div>)
+1424 - Found Match: (</div>, </div>)
+1425 - Found Match: (<div>, <div>)
+1426 - Found Match: (<div>, <div>)
+1427 - Found Match: (<a>, <a>)
+1428 - Matching string (a, b): (Audi, Test)
+1429 - Found Match: (</a>, </a>)
+1430 - Found Match: (<a>, <a>)
+1431 - Matching string (a, b): (A6, volvo)
+1432 - Found Match: (</a>, </a>)
+1433 - Found Match: (<a>, <a>)
+1434 - Matching string (a, b): (liumuzina, XC40)
+1435 - Found Match: (</a>, </a>)
+1436 - Matching iterator (a, b): (<a>, </div>)
+Square 1:
+<a> test </a>
+Square 2:
+<a> liumuzina </a>
+0 - Found Match: (<a>, <a>)
+1 - Matching string (a, b): (test, liumuzina)
+2 - Found Match: (</a>, </a>)
+terminal: </a>
+Wrapper (old, new) (1288, 1279)
+1437 - Found Match: (</div>, </div>)
+1438 - Found Match: (<div>, <div>)
+1439 - Found Match: (<a>, <a>)
+1440 - Found Match: (Prijavi napako, Prijavi napako)
+1441 - Found Match: (</a>, </a>)
+1442 - Found Match: (<div>, <div>)
+1443 - Found Match: (</div>, </div>)
+1444 - Found Match: (<div>, <div>)
+1445 - Found Match: (</div>, </div>)
+1446 - Found Match: (<div>, <div>)
+1447 - Found Match: (</div>, </div>)
+1448 - Found Match: (</div>, </div>)
+1449 - Found Match: (<figure>, <figure>)
+1450 - Found Match: (<div>, <div>)
+1451 - Found Match: (Oglas, Oglas)
+1452 - Found Match: (</div>, </div>)
+1453 - Found Match: (<div>, <div>)
+1454 - Found Match: (</div>, </div>)
+1455 - Found Match: (</figure>, </figure>)
+1456 - Found Match: (</div>, </div>)
+1457 - Found Match: (</div>, </div>)
+1458 - Found Match: (</div>, </div>)
+1459 - Found Match: (<div>, <div>)
+1460 - Matching iterator (a, b): (<div>, </div>)
+Search down failed
+Search down failed
+Failed to match iterator
+1460 - Matching optional (a, b): (<div>, </div>)
+Opt match: <div>, <div>
+1461 - Found Match: (<div>, <div>)
+1462 - Found Match: (<div>, <div>)
+1463 - Found Match: (<div>, <div>)
+1464 - Found Match: (<a>, <a>)
+1465 - Found Match: (<img>, <img>)
+1466 - Found Match: (</a>, </a>)
+1467 - Found Match: (<h3>, <h3>)
+1468 - Found Match: (<span>, <span>)
+1469 - Found Match: (<a>, <a>)
+1470 - Found Match: (Avtomobilnost, Avtomobilnost)
+1471 - Found Match: (</a>, </a>)
+1472 - Found Match: (</span>, </span>)
+1473 - Found Match: (<a>, <a>)
+1474 - Matching string (a, b): (Volvo XC 40 D4 AWD momentum: suvereno med najboljše v razredu, Ženske so poškodbam v prometnih nesrečah izpostavljene bolj kot moški)
+1475 - Found Match: (</a>, </a>)
+1476 - Found Match: (</h3>, </h3>)
+1477 - Found Match: (<p>, <p>)
+1478 - Matching string (a, b): (Test novega modela, Razvoj avtomobilske varnosti)
+1479 - Found Match: (</p>, </p>)
+1480 - Found Match: (</div>, </div>)
+1481 - Found Match: (</div>, </div>)
+1482 - Found Match: (<div>, <div>)
+1483 - Found Match: (<div>, <div>)
+1484 - Found Match: (<a>, <a>)
+1485 - Found Match: (<img>, <img>)
+1486 - Found Match: (</a>, </a>)
+1487 - Found Match: (<h3>, <h3>)
+1488 - Found Match: (<span>, <span>)
+1489 - Found Match: (<a>, <a>)
+1490 - Matching string (a, b): (Testi, Avtomobilnost)
+1491 - Found Match: (</a>, </a>)
+1492 - Found Match: (</span>, </span>)
+1493 - Found Match: (<a>, <a>)
+1494 - Matching string (a, b): (Kia ceed 1.4 turbo LX edition: vozi z najboljšimi, Pripravite se na ofenzivo priključnih hibridov)
+1495 - Found Match: (</a>, </a>)
+1496 - Found Match: (</h3>, </h3>)
+1497 - Found Match: (<p>, <p>)
+1498 - Matching string (a, b): (Test nove generacije, Ekipa Avtomobilnosti na avtomobilskem salonu v Ženevi)
+1499 - Found Match: (</p>, </p>)
+1500 - Found Match: (</div>, </div>)
+1501 - Found Match: (</div>, </div>)
+1502 - Found Match: (<div>, <div>)
+1503 - Found Match: (<div>, <div>)
+1504 - Found Match: (<a>, <a>)
+1505 - Found Match: (<img>, <img>)
+1506 - Found Match: (</a>, </a>)
+1507 - Found Match: (<h3>, <h3>)
+1508 - Found Match: (<span>, <span>)
+1509 - Matching iterator (a, b): (</span>, <a>)
+Search down failed
+Search down failed
+Failed to match iterator
+1509 - Matching optional (a, b): (</span>, <a>)
+Opt match: <a>, <a>
+1510 - Found Match: (<a>, <a>)
+1511 - Matching string (a, b): (Testi, Avtomobilnost)
+1512 - Found Match: (</a>, </a>)
+1513 - Found Match: (</span>, </span>)
+1514 - Found Match: (<a>, <a>)
+1515 - Matching string (a, b): (Mercedes-Benz CLS: Tisti, ki je svet obrnil na glavo, Bentley se je ob stoletnici spomnil blowerja, enega najbolj ikonskih avtomobilov iz dirkaške preteklosti)
+1516 - Found Match: (</a>, </a>)
+1517 - Found Match: (</h3>, </h3>)
+1518 - Found Match: (<p>, <p>)
+1519 - Matching string (a, b): (Test nove generacije, Obuditev legende)
+1520 - Found Match: (</p>, </p>)
+1521 - Found Match: (</div>, </div>)
+1522 - Found Match: (</div>, </div>)
+1523 - Found Match: (<div>, <div>)
+1524 - Found Match: (<div>, <div>)
+1525 - Found Match: (<a>, <a>)
+1526 - Found Match: (<img>, <img>)
+1527 - Found Match: (</a>, </a>)
+1528 - Found Match: (<h3>, <h3>)
+1529 - Found Match: (<span>, <span>)
+1530 - Matching iterator (a, b): (</span>, <a>)
+Search down failed
+Search down failed
+Failed to match iterator
+1530 - Matching optional (a, b): (</span>, <a>)
+Opt match: <a>, <a>
+1531 - Found Match: (<a>, <a>)
+1532 - Matching string (a, b): (Testi, Avtomobilnost)
+1533 - Found Match: (</a>, </a>)
+1534 - Found Match: (</span>, </span>)
+1535 - Found Match: (<a>, <a>)
+1536 - Matching string (a, b): (Maserati levante diesel: šarmer na velikih kolesih, Rekorderska steza na slani ravnici Bonneville potrebuje rešitev)
+1537 - Found Match: (</a>, </a>)
+1538 - Found Match: (</h3>, </h3>)
+1539 - Found Match: (<p>, <p>)
+1540 - Matching string (a, b): (Preizkus novega modela, Ogrožena naravna znamenitost)
+1541 - Found Match: (</p>, </p>)
+1542 - Found Match: (</div>, </div>)
+1543 - Found Match: (</div>, </div>)
+1544 - Found Match: (</div>, </div>)
+1545 - Found Match: (<a>, <a>)
+1546 - Found Match: (Več novic, Več novic)
+1547 - Found Match: (</a>, </a>)
+1548 - Found Match: (</div>, </div>)
+1549 - Found Match: (<div>, <div>)
+1550 - Found Match: (<div>, <div>)
+1551 - Found Match: (<div>, <div>)
+1552 - Found Match: (<figure>, <figure>)
+1553 - Found Match: (<div>, <div>)
+1554 - Found Match: (Oglas, Oglas)
+1555 - Found Match: (</div>, </div>)
+1556 - Found Match: (<div>, <div>)
+1557 - Found Match: (<div>, <div>)
+1558 - Found Match: (<iframe>, <iframe>)
+1559 - Found Match: (</iframe>, </iframe>)
+1560 - Found Match: (</div>, </div>)
+1561 - Found Match: (<div>, <div>)
+1562 - Found Match: (<img>, <img>)
+1563 - Found Match: (</div>, </div>)
+1564 - Found Match: (</div>, </div>)
+1565 - Found Match: (</figure>, </figure>)
+1566 - Found Match: (<figure>, <figure>)
+1567 - Found Match: (<div>, <div>)
+1568 - Found Match: (Oglas, Oglas)
+1569 - Found Match: (</div>, </div>)
+1570 - Found Match: (<div>, <div>)
+1571 - Found Match: (</div>, </div>)
+1572 - Found Match: (</figure>, </figure>)
+1573 - Found Match: (</div>, </div>)
+1574 - Found Match: (</div>, </div>)
+1575 - Found Match: (</div>, </div>)
+1576 - Found Match: (<div>, <div>)
+1577 - Found Match: (<div>, <div>)
+1578 - Found Match: (<h3>, <h3>)
+1579 - Found Match: (<svg>, <svg>)
+1580 - Found Match: (<g>, <g>)
+1581 - Found Match: (<circle>, <circle>)
+1582 - Found Match: (</circle>, </circle>)
+1583 - Found Match: (<circle>, <circle>)
+1584 - Found Match: (</circle>, </circle>)
+1585 - Found Match: (<circle>, <circle>)
+1586 - Found Match: (</circle>, </circle>)
+1587 - Found Match: (<circle>, <circle>)
+1588 - Found Match: (</circle>, </circle>)
+1589 - Found Match: (</g>, </g>)
+1590 - Found Match: (<g>, <g>)
+1591 - Found Match: (<circle>, <circle>)
+1592 - Found Match: (</circle>, </circle>)
+1593 - Found Match: (<circle>, <circle>)
+1594 - Found Match: (</circle>, </circle>)
+1595 - Found Match: (<circle>, <circle>)
+1596 - Found Match: (</circle>, </circle>)
+1597 - Found Match: (<circle>, <circle>)
+1598 - Found Match: (</circle>, </circle>)
+1599 - Found Match: (</g>, </g>)
+1600 - Found Match: (<circle>, <circle>)
+1601 - Found Match: (</circle>, </circle>)
+1602 - Found Match: (<circle>, <circle>)
+1603 - Found Match: (</circle>, </circle>)
+1604 - Found Match: (</svg>, </svg>)
+1605 - Found Match: (<a>, <a>)
+1606 - Found Match: (Komentarji , Komentarji )
+1607 - Found Match: (<span>, <span>)
+1608 - Matching string (a, b): ((13), (7))
+1609 - Found Match: (</span>, </span>)
+1610 - Found Match: (</a>, </a>)
+1611 - Found Match: (<div>, <div>)
+1612 - Found Match: (<div>, <div>)
+1613 - Found Match: (Prikazuj komentarje, Prikazuj komentarje)
+1614 - Found Match: (<span>, <span>)
+1615 - Found Match: (</span>, </span>)
+1616 - Found Match: (</div>, </div>)
+1617 - Found Match: (<div>, <div>)
+1618 - Found Match: (</div>, </div>)
+1619 - Found Match: (</div>, </div>)
+1620 - Found Match: (</h3>, </h3>)
+1621 - Found Match: (</div>, </div>)
+1622 - Found Match: (<div>, <div>)
+1623 - Found Match: (<a>, <a>)
+1624 - Found Match: (Uredi, Uredi)
+1625 - Found Match: (</a>, </a>)
+1626 - Found Match: (</div>, </div>)
+1627 - Found Match: (<div>, <div>)
+1628 - Found Match: (<p>, <p>)
+1629 - Found Match: (Komentarji so trenutno skriti. , Komentarji so trenutno skriti. )
+1630 - Found Match: (<a>, <a>)
+1631 - Found Match: (Prikaži komentarje, Prikaži komentarje)
+1632 - Found Match: (</a>, </a>)
+1633 - Found Match: (</p>, </p>)
+1634 - Found Match: (<div>, <div>)
+1635 - Found Match: (<div>, <div>)
+1636 - Found Match: (<div>, <div>)
+1637 - Found Match: (</div>, </div>)
+1638 - Found Match: (</div>, </div>)
+1639 - Found Match: (</div>, </div>)
+1640 - Found Match: (</div>, </div>)
+1641 - Found Match: (<link>, <link>)
+1642 - Found Match: (<link>, <link>)
+1643 - Found Match: (</div>, </div>)
+1644 - Found Match: (</div>, </div>)
+1645 - Found Match: (<footer>, <footer>)
+1646 - Found Match: (<div>, <div>)
+1647 - Found Match: (<div>, <div>)
+1648 - Found Match: (<ul>, <ul>)
+1649 - Found Match: (<li>, <li>)
+1650 - Found Match: (<a>, <a>)
+1651 - Found Match: (Stari portal , Stari portal )
+1652 - Found Match: (</a>, </a>)
+1653 - Found Match: (</li>, </li>)
+1654 - Found Match: (<li>, <li>)
+1655 - Found Match: (<a>, <a>)
+1656 - Found Match: (Impresum, Impresum)
+1657 - Found Match: (</a>, </a>)
+1658 - Found Match: (</li>, </li>)
+1659 - Found Match: (<li>, <li>)
+1660 - Found Match: (<a>, <a>)
+1661 - Found Match: (O RTV Slovenija, O RTV Slovenija)
+1662 - Found Match: (</a>, </a>)
+1663 - Found Match: (</li>, </li>)
+1664 - Found Match: (<li>, <li>)
+1665 - Found Match: (<a>, <a>)
+1666 - Found Match: (Varuhinja, Varuhinja)
+1667 - Found Match: (</a>, </a>)
+1668 - Found Match: (</li>, </li>)
+1669 - Found Match: (<li>, <li>)
+1670 - Found Match: (<a>, <a>)
+1671 - Found Match: (Kontakti, Kontakti)
+1672 - Found Match: (</a>, </a>)
+1673 - Found Match: (</li>, </li>)
+1674 - Found Match: (<li>, <li>)
+1675 - Found Match: (<a>, <a>)
+1676 - Found Match: (RTV prispevek, RTV prispevek)
+1677 - Found Match: (</a>, </a>)
+1678 - Found Match: (</li>, </li>)
+1679 - Found Match: (<li>, <li>)
+1680 - Found Match: (<a>, <a>)
+1681 - Found Match: (DOSTOPNO , DOSTOPNO )
+1682 - Found Match: (</a>, </a>)
+1683 - Found Match: (</li>, </li>)
+1684 - Found Match: (<li>, <li>)
+1685 - Found Match: (<a>, <a>)
+1686 - Found Match: (</a>, </a>)
+1687 - Found Match: (</li>, </li>)
+1688 - Found Match: (<li>, <li>)
+1689 - Found Match: (<a>, <a>)
+1690 - Found Match: (About RTV Slovenia, About RTV Slovenia)
+1691 - Found Match: (</a>, </a>)
+1692 - Found Match: (</li>, </li>)
+1693 - Found Match: (</ul>, </ul>)
+1694 - Found Match: (<div>, <div>)
+1695 - Found Match: (<a>, <a>)
+1696 - Found Match: (</a>, </a>)
+1697 - Found Match: (<a>, <a>)
+1698 - Found Match: (</a>, </a>)
+1699 - Found Match: (<a>, <a>)
+1700 - Found Match: (</a>, </a>)
+1701 - Found Match: (<a>, <a>)
+1702 - Found Match: (</a>, </a>)
+1703 - Found Match: (<a>, <a>)
+1704 - Found Match: (</a>, </a>)
+1705 - Found Match: (</div>, </div>)
+1706 - Found Match: (</div>, </div>)
+1707 - Found Match: (<div>, <div>)
+1708 - Found Match: (<div>, <div>)
+1709 - Found Match: (<a>, <a>)
+1710 - Found Match: (Nastavitve zasebnosti, Nastavitve zasebnosti)
+1711 - Found Match: (</a>, </a>)
+1712 - Found Match: (| , | )
+1713 - Found Match: (<a>, <a>)
+1714 - Found Match: (Spletni piškotki, Spletni piškotki)
+1715 - Found Match: (</a>, </a>)
+1716 - Found Match: (| , | )
+1717 - Found Match: (<a>, <a>)
+1718 - Found Match: (Varstvo osebnih podatkov, Varstvo osebnih podatkov)
+1719 - Found Match: (</a>, </a>)
+1720 - Found Match: (</div>, </div>)
+1721 - Found Match: (© MMC RTV Slovenija (ISSN 1581-372X) | 1995 - 2019 | Vse pravice pridržane , © MMC RTV Slovenija (ISSN 1581-372X) | 1995 - 2019 | Vse pravice pridržane )
+1722 - Found Match: (</div>, </div>)
+1723 - Found Match: (</div>, </div>)
+1724 - Found Match: (</footer>, </footer>)
+1725 - Found Match: (<div>, <div>)
+1726 - Found Match: (<div>, <div>)
+1727 - Found Match: (<div>, <div>)
+1728 - Found Match: (<div>, <div>)
+1729 - Found Match: (<h5>, <h5>)
+1730 - Found Match: (Prijava, Prijava)
+1731 - Found Match: (</h5>, </h5>)
+1732 - Found Match: (<button>, <button>)
+1733 - Found Match: (<span>, <span>)
+1734 - Found Match: (</span>, </span>)
+1735 - Found Match: (</button>, </button>)
+1736 - Found Match: (</div>, </div>)
+1737 - Found Match: (<div>, <div>)
+1738 - Found Match: (<form>, <form>)
+1739 - Found Match: (<input>, <input>)
+1740 - Found Match: (<div>, <div>)
+1741 - Found Match: (<label>, <label>)
+1742 - Found Match: (Uporabniško ime:, Uporabniško ime:)
+1743 - Found Match: (</label>, </label>)
+1744 - Found Match: (<input>, <input>)
+1745 - Found Match: (</div>, </div>)
+1746 - Found Match: (<div>, <div>)
+1747 - Found Match: (<label>, <label>)
+1748 - Found Match: (Geslo:, Geslo:)
+1749 - Found Match: (</label>, </label>)
+1750 - Found Match: (<input>, <input>)
+1751 - Found Match: (</div>, </div>)
+1752 - Found Match: (<div>, <div>)
+1753 - Found Match: (<button>, <button>)
+1754 - Found Match: (Prijava, Prijava)
+1755 - Found Match: (</button>, </button>)
+1756 - Found Match: (<a>, <a>)
+1757 - Found Match: (Registracija, Registracija)
+1758 - Found Match: (</a>, </a>)
+1759 - Found Match: (</div>, </div>)
+1760 - Found Match: (</form>, </form>)
+1761 - Found Match: (<a>, <a>)
+1762 - Found Match: (Pozabljeno geslo?, Pozabljeno geslo?)
+1763 - Found Match: (</a>, </a>)
+1764 - Found Match: (<div>, <div>)
+1765 - Found Match: (<div>, <div>)
+1766 - Found Match: (<span>, <span>)
+1767 - Found Match: (Temni način , Temni način )
+1768 - Found Match: (<span>, <span>)
+1769 - Found Match: (BETA, BETA)
+1770 - Found Match: (</span>, </span>)
+1771 - Found Match: (</span>, </span>)
+1772 - Found Match: (<label>, <label>)
+1773 - Found Match: (<input>, <input>)
+1774 - Found Match: (<span>, <span>)
+1775 - Found Match: (</span>, </span>)
+1776 - Found Match: (</label>, </label>)
+1777 - Found Match: (</div>, </div>)
+1778 - Found Match: (</div>, </div>)
+1779 - Found Match: (</div>, </div>)
+1780 - Found Match: (</div>, </div>)
+1781 - Found Match: (</div>, </div>)
+1782 - Found Match: (</div>, </div>)
+1783 - Found Match: (<div>, <div>)
+1784 - Found Match: (<div>, <div>)
+1785 - Found Match: (<div>, <div>)
+1786 - Found Match: (<div>, <div>)
+1787 - Found Match: (<h5>, <h5>)
+1788 - Found Match: (Prijavljen, Prijavljen)
+1789 - Found Match: (</h5>, </h5>)
+1790 - Found Match: (<button>, <button>)
+1791 - Found Match: (<span>, <span>)
+1792 - Found Match: (</span>, </span>)
+1793 - Found Match: (</button>, </button>)
+1794 - Found Match: (</div>, </div>)
+1795 - Found Match: (<div>, <div>)
+1796 - Found Match: (<h2>, <h2>)
+1797 - Found Match: (</h2>, </h2>)
+1798 - Found Match: (<a>, <a>)
+1799 - Found Match: (Odjava, Odjava)
+1800 - Found Match: (</a>, </a>)
+1801 - Found Match: (<a>, <a>)
+1802 - Found Match: (Uporabniški račun, Uporabniški račun)
+1803 - Found Match: (</a>, </a>)
+1804 - Found Match: (<div>, <div>)
+1805 - Found Match: (<div>, <div>)
+1806 - Found Match: (<span>, <span>)
+1807 - Found Match: (Temni način , Temni način )
+1808 - Found Match: (<span>, <span>)
+1809 - Found Match: (BETA, BETA)
+1810 - Found Match: (</span>, </span>)
+1811 - Found Match: (</span>, </span>)
+1812 - Found Match: (<label>, <label>)
+1813 - Found Match: (<input>, <input>)
+1814 - Found Match: (<span>, <span>)
+1815 - Found Match: (</span>, </span>)
+1816 - Found Match: (</label>, </label>)
+1817 - Found Match: (</div>, </div>)
+1818 - Found Match: (</div>, </div>)
+1819 - Found Match: (</div>, </div>)
+1820 - Found Match: (</div>, </div>)
+1821 - Found Match: (</div>, </div>)
+1822 - Found Match: (</div>, </div>)
+1823 - Found Match: (<div>, <div>)
+1824 - Found Match: (<div>, <div>)
+1825 - Found Match: (<div>, <div>)
+1826 - Found Match: (<div>, <div>)
+1827 - Found Match: (<h5>, <h5>)
+1828 - Found Match: (Časovno obdobje po meri, Časovno obdobje po meri)
+1829 - Found Match: (</h5>, </h5>)
+1830 - Found Match: (<button>, <button>)
+1831 - Found Match: (<span>, <span>)
+1832 - Found Match: (</span>, </span>)
+1833 - Found Match: (</button>, </button>)
+1834 - Found Match: (</div>, </div>)
+1835 - Found Match: (<div>, <div>)
+1836 - Found Match: (<div>, <div>)
+1837 - Found Match: (<label>, <label>)
+1838 - Found Match: (Od, Od)
+1839 - Found Match: (</label>, </label>)
+1840 - Found Match: (<div>, <div>)
+1841 - Found Match: (<input>, <input>)
+1842 - Found Match: (</div>, </div>)
+1843 - Found Match: (</div>, </div>)
+1844 - Found Match: (<div>, <div>)
+1845 - Found Match: (<label>, <label>)
+1846 - Found Match: (Do, Do)
+1847 - Found Match: (</label>, </label>)
+1848 - Found Match: (<div>, <div>)
+1849 - Found Match: (<input>, <input>)
+1850 - Found Match: (</div>, </div>)
+1851 - Found Match: (</div>, </div>)
+1852 - Found Match: (</div>, </div>)
+1853 - Found Match: (<div>, <div>)
+1854 - Found Match: (<button>, <button>)
+1855 - Found Match: (Prikaži rezultate, Prikaži rezultate)
+1856 - Found Match: (</button>, </button>)
+1857 - Found Match: (</div>, </div>)
+1858 - Found Match: (</div>, </div>)
+1859 - Found Match: (</div>, </div>)
+1860 - Found Match: (</div>, </div>)
+1861 - Found Match: (<div>, <div>)
+1862 - Found Match: (<div>, <div>)
+1863 - Found Match: (</div>, </div>)
+1864 - Found Match: (<div>, <div>)
+1865 - Found Match: (<div>, <div>)
+1866 - Found Match: (<div>, <div>)
+1867 - Found Match: (</div>, </div>)
+1868 - Found Match: (<div>, <div>)
+1869 - Found Match: (</div>, </div>)
+1870 - Found Match: (<div>, <div>)
+1871 - Found Match: (</div>, </div>)
+1872 - Found Match: (</div>, </div>)
+1873 - Found Match: (<div>, <div>)
+1874 - Found Match: (<div>, <div>)
+1875 - Found Match: (<div>, <div>)
+1876 - Found Match: (</div>, </div>)
+1877 - Found Match: (<button>, <button>)
+1878 - Found Match: (</button>, </button>)
+1879 - Found Match: (<button>, <button>)
+1880 - Found Match: (</button>, </button>)
+1881 - Found Match: (<button>, <button>)
+1882 - Found Match: (</button>, </button>)
+1883 - Found Match: (<button>, <button>)
+1884 - Found Match: (</button>, </button>)
+1885 - Found Match: (<div>, <div>)
+1886 - Found Match: (<div>, <div>)
+1887 - Found Match: (<div>, <div>)
+1888 - Found Match: (<div>, <div>)
+1889 - Found Match: (</div>, </div>)
+1890 - Found Match: (</div>, </div>)
+1891 - Found Match: (</div>, </div>)
+1892 - Found Match: (</div>, </div>)
+1893 - Found Match: (</div>, </div>)
+1894 - Found Match: (<div>, <div>)
+1895 - Found Match: (<div>, <div>)
+1896 - Found Match: (</div>, </div>)
+1897 - Found Match: (</div>, </div>)
+1898 - Found Match: (<button>, <button>)
+1899 - Found Match: (</button>, </button>)
+1900 - Found Match: (<button>, <button>)
+1901 - Found Match: (</button>, </button>)
+1902 - Found Match: (<div>, <div>)
+1903 - Found Match: (<div>, <div>)
+1904 - Found Match: (</div>, </div>)
+1905 - Found Match: (</div>, </div>)
+1906 - Found Match: (</div>, </div>)
+1907 - Found Match: (</div>, </div>)
+1908 - Found Match: (</div>, </div>)
+1909 - Found Match: (<link>, <link>)
+1910 - Found Match: (<style>, <style>)
+1911 - Found Match: (.no-heading-block { margin-top: 30px; } .hide_headers, .hide_headers #main-container { padding-top: 0; } .hide_headers #top-bar, .hide_headers #main-bar, .hide_headers #main-menu-drawer, .hide_headers footer, .hide_headers #mobile-menu-wrapper { display: none; } .hide_headers #sub-menu { top: 0; } .news-container .comment .show-more { display: none; } .news-container .comment .shown-less:before { display: none; } .news-container .comment .shown-less { max-height: inherit !important; } /* Lonza add to bundle */ .iAdserver.inArticle .holder:before, .iAdserver.inArticle .ipromAP:before, .rightColumnAd .iAdserver .holder:before, .rightColumnAd .iAdserver .ipromAP:before { content: "Oglas"; text-align: left; /* float: left; */ font-size: 0.7rem; color: #aaa; display: block; text-align: left; } .rightColumnAd .iAdserver .holder { margin-bottom: 40px !important; } .article .news-container .article .iAdserver.inArticle .holder { margin-bottom: 25px !important; } .article .news-container .article .iAdserver.inArticle .iprom-html5-player { background-color: black !important; } .article .news-container .article .iAdserver.inArticle .ipromAP { height: 266px !important; margin-bottom: 10px !important; } /* IF FIRST IMAGE aside or left - force it to right - wanted by LZ 6.2.19 */ .article .news-container .article figure :first-child .c-figure-aside-lg, .article .news-container .article figure :first-child .c-figure-left { width: 50%; margin-left: 0px; float: right; } , .no-heading-block { margin-top: 30px; } .hide_headers, .hide_headers #main-container { padding-top: 0; } .hide_headers #top-bar, .hide_headers #main-bar, .hide_headers #main-menu-drawer, .hide_headers footer, .hide_headers #mobile-menu-wrapper { display: none; } .hide_headers #sub-menu { top: 0; } .news-container .comment .show-more { display: none; } .news-container .comment .shown-less:before { display: none; } .news-container .comment .shown-less { max-height: inherit !important; } /* Lonza add to bundle */ .iAdserver.inArticle .holder:before, .iAdserver.inArticle .ipromAP:before, .rightColumnAd .iAdserver .holder:before, .rightColumnAd .iAdserver .ipromAP:before { content: "Oglas"; text-align: left; /* float: left; */ font-size: 0.7rem; color: #aaa; display: block; text-align: left; } .rightColumnAd .iAdserver .holder { margin-bottom: 40px !important; } .article .news-container .article .iAdserver.inArticle .holder { margin-bottom: 25px !important; } .article .news-container .article .iAdserver.inArticle .iprom-html5-player { background-color: black !important; } .article .news-container .article .iAdserver.inArticle .ipromAP { height: 266px !important; margin-bottom: 10px !important; } /* IF FIRST IMAGE aside or left - force it to right - wanted by LZ 6.2.19 */ .article .news-container .article figure :first-child .c-figure-aside-lg, .article .news-container .article figure :first-child .c-figure-left { width: 50%; margin-left: 0px; float: right; } )
+1912 - Found Match: (</style>, </style>)
+1913 - Found Match: (<nav>, <nav>)
+1914 - Found Match: (<a>, <a>)
+1915 - Found Match: (<span>, <span>)
+1916 - Found Match: (</span>, </span>)
+1917 - Found Match: (</a>, </a>)
+1918 - Found Match: (<button>, <button>)
+1919 - Found Match: (<span>, <span>)
+1920 - Found Match: (</span>, </span>)
+1921 - Found Match: (</button>, </button>)
+1922 - Found Match: (<div>, <div>)
+1923 - Found Match: (<ul>, <ul>)
+1924 - Found Match: (<li>, <li>)
+1925 - Found Match: (<a>, <a>)
+1926 - Found Match: (Preusmeritve / aliasi, Preusmeritve / aliasi)
+1927 - Found Match: (</a>, </a>)
+1928 - Found Match: (</li>, </li>)
+1929 - Found Match: (<li>, <li>)
+1930 - Found Match: (<a>, <a>)
+1931 - Found Match: (Meniji, Meniji)
+1932 - Found Match: (</a>, </a>)
+1933 - Found Match: (</li>, </li>)
+1934 - Found Match: (<li>, <li>)
+1935 - Found Match: (<a>, <a>)
+1936 - Found Match: (Uporabniki, Uporabniki)
+1937 - Found Match: (</a>, </a>)
+1938 - Found Match: (<div>, <div>)
+1939 - Found Match: (<a>, <a>)
+1940 - Found Match: (Skupine, Skupine)
+1941 - Found Match: (</a>, </a>)
+1942 - Found Match: (<a>, <a>)
+1943 - Found Match: (Iskalnik uporabnikov, Iskalnik uporabnikov)
+1944 - Found Match: (</a>, </a>)
+1945 - Found Match: (<a>, <a>)
+1946 - Found Match: (Pravice uporabnikov, Pravice uporabnikov)
+1947 - Found Match: (</a>, </a>)
+1948 - Found Match: (<a>, <a>)
+1949 - Found Match: (Moderirani uporabniki, Moderirani uporabniki)
+1950 - Found Match: (</a>, </a>)
+1951 - Found Match: (</div>, </div>)
+1952 - Found Match: (</li>, </li>)
+1953 - Found Match: (<li>, <li>)
+1954 - Found Match: (<a>, <a>)
+1955 - Found Match: (Vsebine, Vsebine)
+1956 - Found Match: (</a>, </a>)
+1957 - Found Match: (<div>, <div>)
+1958 - Found Match: (<a>, <a>)
+1959 - Found Match: (Administracija novic, Administracija novic)
+1960 - Found Match: (</a>, </a>)
+1961 - Found Match: (<a>, <a>)
+1962 - Found Match: (Administracija sekcij, Administracija sekcij)
+1963 - Found Match: (</a>, </a>)
+1964 - Found Match: (<a>, <a>)
+1965 - Found Match: (Administracija slike &amp; video dneva, Administracija slike &amp; video dneva)
+1966 - Found Match: (</a>, </a>)
+1967 - Found Match: (<a>, <a>)
+1968 - Found Match: (Administracija anket, Administracija anket)
+1969 - Found Match: (</a>, </a>)
+1970 - Found Match: (<a>, <a>)
+1971 - Found Match: (Administracija nujnih informacij, Administracija nujnih informacij)
+1972 - Found Match: (</a>, </a>)
+1973 - Found Match: (<a>, <a>)
+1974 - Found Match: (Administracija mailerja, Administracija mailerja)
+1975 - Found Match: (</a>, </a>)
+1976 - Found Match: (</div>, </div>)
+1977 - Found Match: (</li>, </li>)
+1978 - Found Match: (<li>, <li>)
+1979 - Found Match: (<a>, <a>)
+1980 - Found Match: (File upload, File upload)
+1981 - Found Match: (</a>, </a>)
+1982 - Found Match: (</li>, </li>)
+1983 - Found Match: (</ul>, </ul>)
+1984 - Found Match: (</div>, </div>)
+1985 - Found Match: (</nav>, </nav>)
+1986 - Found Match: (<nav>, <nav>)
+1987 - Found Match: (<a>, <a>)
+1988 - Found Match: (<span>, <span>)
+1989 - Found Match: (</span>, </span>)
+1990 - Found Match: (</a>, </a>)
+1991 - Found Match: (<button>, <button>)
+1992 - Found Match: (<span>, <span>)
+1993 - Found Match: (</span>, </span>)
+1994 - Found Match: (</button>, </button>)
+1995 - Found Match: (<div>, <div>)
+1996 - Found Match: (<ul>, <ul>)
+1997 - Found Match: (<li>, <li>)
+1998 - Found Match: (<a>, <a>)
+1999 - Found Match: (NOVA novica, NOVA novica)
+2000 - Found Match: (</a>, </a>)
+2001 - Found Match: (</li>, </li>)
+2002 - Found Match: (<li>, <li>)
+2003 - Found Match: (<a>, <a>)
+2004 - Found Match: (STARA novica, STARA novica)
+2005 - Found Match: (</a>, </a>)
+2006 - Found Match: (</li>, </li>)
+2007 - Found Match: (<li>, <li>)
+2008 - Found Match: (<a>, <a>)
+2009 - Found Match: (Uteži FP, Uteži FP)
+2010 - Found Match: (</a>, </a>)
+2011 - Found Match: (</li>, </li>)
+2012 - Found Match: (<li>, <li>)
+2013 - Found Match: (<a>, <a>)
+2014 - Found Match: (Admin. novic NOVA, Admin. novic NOVA)
+2015 - Found Match: (</a>, </a>)
+2016 - Found Match: (</li>, </li>)
+2017 - Found Match: (<li>, <li>)
+2018 - Found Match: (<a>, <a>)
+2019 - Found Match: (Admin. novic STARA, Admin. novic STARA)
+2020 - Found Match: (</a>, </a>)
+2021 - Found Match: (</li>, </li>)
+2022 - Found Match: (<li>, <li>)
+2023 - Found Match: (<a>, <a>)
+2024 - Found Match: (Neaktivne novice, Neaktivne novice)
+2025 - Found Match: (</a>, </a>)
+2026 - Found Match: (</li>, </li>)
+2027 - Found Match: (<li>, <li>)
+2028 - Found Match: (<a>, <a>)
+2029 - Found Match: (Videonovice, Videonovice)
+2030 - Found Match: (</a>, </a>)
+2031 - Found Match: (</li>, </li>)
+2032 - Found Match: (<li>, <li>)
+2033 - Found Match: (<a>, <a>)
+2034 - Found Match: (Upload slik, Upload slik)
+2035 - Found Match: (</a>, </a>)
+2036 - Found Match: (</li>, </li>)
+2037 - Found Match: (<li>, <li>)
+2038 - Found Match: (<a>, <a>)
+2039 - Found Match: (Upload datotek, Upload datotek)
+2040 - Found Match: (</a>, </a>)
+2041 - Found Match: (</li>, </li>)
+2042 - Found Match: (</ul>, </ul>)
+2043 - Found Match: (</div>, </div>)
+2044 - Found Match: (</nav>, </nav>)
+2045 - Found Match: (<iframe>, <iframe>)
+2046 - Found Match: (</iframe>, </iframe>)
+2047 - Found Match: (<img>, <img>)
+2048 - Found Match: (<style>, <style>)
+2049 - Found Match: (.ipromAP { text-align: center; } .ipromAP>* { margin: 0 auto; text-align: center; } .ipromAP>iframe { display: block; margin: 0 auto !important; } , .ipromAP { text-align: center; } .ipromAP>* { margin: 0 auto; text-align: center; } .ipromAP>iframe { display: block; margin: 0 auto !important; } )
+2050 - Found Match: (</style>, </style>)
+2051 - Found Match: (<iframe>, <iframe>)
+2052 - Found Match: (</iframe>, </iframe>)
+2053 - Found Match: (<img>, <img>)
+2054 - Found Match: (</body>, </body>)
+---- rtvslo.si\Audi A6 50 TDI quattro_ nemir v premijskem razredu - RTVSLO.si.html ----
+<body>
+  <div>
+    <div>
+      <div>
+        <iframe>
+        </iframe>
+      </div>
+      <div>
+      </div>
+    </div>
+  </div>
+  <div>
+    <div>
+      <div>
+        <div>
+          <div>
+            <a>
+              RTV SLO
+            </a>
+          </div>
+          <ul>
+            <li>
+              <a>
+                Radio
+                <span>
+                </span>
+              </a>
+              <div>
+                <div>
+                  <a>
+                    <img>
+                  </a>
+                  <a>
+                    <img>
+                  </a>
+                  <a>
+                    <img>
+                  </a>
+                  <a>
+                    <img>
+                  </a>
+                  <a>
+                    <img>
+                  </a>
+                  <a>
+                    <img>
+                  </a>
+                  <a>
+                    <img>
+                  </a>
+                  <a>
+                    <img>
+                  </a>
+                </div>
+              </div>
+            </li>
+            <li>
+              <a>
+                Televizija
+              </a>
+            </li>
+            <li>
+              <a>
+                O RTV
+              </a>
+            </li>
+          </ul>
+        </div>
+        <div>
+          <div>
+            <a>
+              4D
+            </a>
+            <ul>
+              <li>
+                <a>
+                  Spored
+                </a>
+              </li>
+              <li>
+                <a>
+                  V živo
+                </a>
+                <div>
+                  <div>
+                    <div>
+                      <a>
+                        <img>
+                      </a>
+                    </div>
+                    <div>
+                      <a>
+                        <img>
+                      </a>
+                    </div>
+                    <div>
+                      <a>
+                        <img>
+                      </a>
+                    </div>
+                    <div>
+                      <a>
+                        <img>
+                      </a>
+                    </div>
+                    <div>
+                      <a>
+                        <img>
+                      </a>
+                    </div>
+                    <div>
+                      <a>
+                        <img>
+                      </a>
+                    </div>
+                    <div>
+                      <a>
+                        <img>
+                      </a>
+                    </div>
+                    <div>
+                      <a>
+                        <img>
+                      </a>
+                    </div>
+                    <div>
+                      <a>
+                        <img>
+                      </a>
+                    </div>
+                    <div>
+                      <a>
+                        <img>
+                      </a>
+                    </div>
+                    <div>
+                      <a>
+                        <img>
+                      </a>
+                    </div>
+                    <div>
+                      <a>
+                        <img>
+                      </a>
+                    </div>
+                    <div>
+                      <a>
+                        <img>
+                      </a>
+                    </div>
+                    <div>
+                      <a>
+                        <img>
+                      </a>
+                    </div>
+                  </div>
+                </div>
+              </li>
+              <li>
+                <a>
+                  Arhiv
+                </a>
+              </li>
+            </ul>
+          </div>
+        </div>
+        <div>
+          <ul>
+            <li>
+              <a>
+                <img>
+                <img>
+              </a>
+            </li>
+            <li>
+              <a>
+                <img>
+                <img>
+              </a>
+            </li>
+            <li>
+              <a>
+                <img>
+                <img>
+              </a>
+            </li>
+            <li>
+              <a>
+                <img>
+                <img>
+              </a>
+            </li>
+            <li>
+              <a>
+                <img>
+                <img>
+              </a>
+            </li>
+          </ul>
+          <form>
+            <input>
+          </form>
+          <div>
+            <a>
+              <span>
+                Prijava
+              </span>
+            </a>
+            <div>
+              <form>
+                <input>
+                <div>
+                  <label>
+                    Uporabniško ime:
+                  </label>
+                  <input>
+                </div>
+                <div>
+                  <label>
+                    Geslo:
+                  </label>
+                  <input>
+                </div>
+                <div>
+                  <button>
+                    Prijavi
+                  </button>
+                  <a>
+                    Registracija
+                  </a>
+                </div>
+              </form>
+              <a>
+                Pozabljeno geslo?
+              </a>
+              <div>
+                <div>
+                  <span>
+                    Temni način 
+                    <span>
+                      BETA
+                    </span>
+                  </span>
+                  <label>
+                    <input>
+                    <span>
+                    </span>
+                  </label>
+                </div>
+              </div>
+            </div>
+          </div>
+          <div>
+            <a>
+            </a>
+            <div>
+              <h2>
+              </h2>
+              <a>
+                Odjava
+              </a>
+              <a>
+                Uporabniški račun
+              </a>
+              <div>
+                <div>
+                  <span>
+                    Temni način 
+                    <span>
+                      BETA
+                    </span>
+                  </span>
+                  <label>
+                    <input>
+                    <span>
+                    </span>
+                  </label>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+  <div>
+    <div>
+      <div>
+        <div>
+          <div>
+            <div>
+            </div>
+            <div>
+            </div>
+            <div>
+            </div>
+          </div>
+          <div>
+            <a>
+              RTVSLO.si
+            </a>
+          </div>
+          <ul>
+            <li>
+              <a>
+                Slovenija
+              </a>
+            </li>
+            <li>
+              <a>
+                Svet
+              </a>
+            </li>
+            <li>
+              <a>
+                Šport
+              </a>
+            </li>
+            <li>
+              <a>
+                Kultura
+              </a>
+            </li>
+            <li>
+              <a>
+                Življenjski slog
+              </a>
+            </li>
+            <li>
+              <a>
+                Svet zabave
+              </a>
+            </li>
+          </ul>
+          <div>
+            <div>
+              Iskanje
+            </div>
+            <form>
+              <input>
+              <button>
+              </button>
+              <div>
+              </div>
+            </form>
+          </div>
+          <div>
+            <div>
+              <span>
+              </span>
+            </div>
+            <div>
+              <a>
+              </a>
+            </div>
+            <div>
+              <a>
+              </a>
+            </div>
+            <div>
+              <div>
+                <span>
+                </span>
+                <span>
+                </span>
+                <span>
+                </span>
+                <span>
+                </span>
+              </div>
+              <span>
+                Kazalo
+              </span>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+    <div>
+      <div>
+        <div>
+          <div>
+            <div>
+            </div>
+            <div>
+              <div>
+                <div>
+                  <h3>
+                    Predlogi
+                  </h3>
+                  <div>
+                    <div>
+                      Odbojka
+                    </div>
+                    <div>
+                      Hokej
+                    </div>
+                    <div>
+                      Tenis
+                    </div>
+                  </div>
+                </div>
+                <div>
+                  <h3>
+                    Rezultati iskanja
+                  </h3>
+                  <div>
+                  </div>
+                </div>
+              </div>
+              <p>
+                Zaradi testiranja je dodanih umetnih 2 sekunde delaya.
+              </p>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+    <div>
+      <div>
+        <div>
+          <div>
+            <a>
+              <img>
+            </a>
+          </div>
+          <div>
+            <h5>
+              <span>
+              </span>
+              <span>
+                <a>
+                </a>
+              </span>
+              <a>
+              </a>
+            </h5>
+            <p>
+            </p>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+  <div>
+    <div>
+      ( <span></span><span></span><span></span><span></span></div></div><div></div><div><div> )?
+      <div>
+        <div>
+          ( </div></div><div><div></div></div><div><div><span><a>Ture avanture </a></span><span><a>Kulinarika </a></span><span><a>Lepota bivanja </a></span><span><a>Avtomobilnost </a></span><span><a>Moda </a></span><span><a>196x ljubezen </a></span><span>3. 4. 2019 | 15.25</span></div></div></div></div><div><div><span></span><span></span><span></span><span></span></div></div><div></div><div><div><div><div> )?
+          <ul>
+            <li>
+              <a>
+                Slovenija 
+              </a>
+              <ul>
+                <li>
+                  <a>
+                    Gospodarstvo
+                  </a>
+                </li>
+                <li>
+                  <a>
+                    Lokalne novice
+                  </a>
+                </li>
+                <li>
+                  <a>
+                    Črna kronika
+                  </a>
+                </li>
+                <li>
+                  <a>
+                    Zdravje
+                  </a>
+                </li>
+                <li>
+                  <a>
+                    Okolje
+                  </a>
+                </li>
+                <li>
+                  <a>
+                    Znanost in tehnologija
+                  </a>
+                </li>
+                <li>
+                  <a>
+                    Slovenci v sosednjih državah 
+                  </a>
+                </li>
+              </ul>
+            </li>
+            <li>
+              <a>
+                Svet 
+              </a>
+              <ul>
+                <li>
+                  <a>
+                    Evropska unija
+                  </a>
+                </li>
+                <li>
+                  <a>
+                    Evropa
+                  </a>
+                </li>
+                <li>
+                  <a>
+                    S. in J. Amerika
+                  </a>
+                </li>
+                <li>
+                  <a>
+                    Bližnji vzhod
+                  </a>
+                </li>
+                <li>
+                  <a>
+                    Afrika
+                  </a>
+                </li>
+                <li>
+                  <a>
+                    Azija z Oceanijo
+                  </a>
+                </li>
+              </ul>
+            </li>
+            <li>
+              <a>
+                Šport 
+              </a>
+              <ul>
+                <li>
+                  <a>
+                    Nogomet
+                  </a>
+                </li>
+                <li>
+                  <a>
+                    Košarka
+                  </a>
+                </li>
+                <li>
+                  <a>
+                    Rokomet
+                  </a>
+                </li>
+                <li>
+                  <a>
+                    Odbojka
+                  </a>
+                </li>
+                <li>
+                  <a>
+                    Hokej
+                  </a>
+                </li>
+                <li>
+                  <a>
+                    Tenis
+                  </a>
+                </li>
+                <li>
+                  <a>
+                    Atletika
+                  </a>
+                </li>
+                <li>
+                  <a>
+                    Zimski športi
+                  </a>
+                </li>
+                <li>
+                  <a>
+                    Motošporti
+                  </a>
+                </li>
+                <li>
+                  <a>
+                    F1
+                  </a>
+                </li>
+                <li>
+                  <a>
+                    Kolesarstvo
+                  </a>
+                </li>
+                <li>
+                  <a>
+                    Preostali športi
+                  </a>
+                </li>
+                <li>
+                  <a>
+                    Rekreacija
+                  </a>
+                </li>
+                <li>
+                  <a>
+                    Športni SOS
+                  </a>
+                </li>
+              </ul>
+            </li>
+            <li>
+              <a>
+                Kultura 
+              </a>
+              <ul>
+                <li>
+                  <a>
+                    Film in TV
+                  </a>
+                </li>
+                <li>
+                  <a>
+                    Glasba
+                  </a>
+                </li>
+                <li>
+                  <a>
+                    Knjige
+                  </a>
+                </li>
+                <li>
+                  <a>
+                    Oder
+                  </a>
+                </li>
+                <li>
+                  <a>
+                    Vizualna umetnost
+                  </a>
+                </li>
+                <li>
+                  <a>
+                    Arhitektura in oblikovanje
+                  </a>
+                </li>
+                <li>
+                  <a>
+                    Dediščina
+                  </a>
+                </li>
+                <li>
+                  <a>
+                    Recenzije
+                  </a>
+                </li>
+                <li>
+                  <a>
+                    Drugo
+                  </a>
+                </li>
+                <li>
+                  <a>
+                    Jezikovni spletovalec
+                  </a>
+                </li>
+                <li>
+                  <a>
+                    1. svetovna vojna
+                  </a>
+                </li>
+              </ul>
+            </li>
+            <li>
+              <a>
+                Življenjski slog 
+              </a>
+              <ul>
+                <li>
+                  <a>
+                    Ture avanture
+                  </a>
+                </li>
+                <li>
+                  <a>
+                    Kulinarika
+                  </a>
+                </li>
+                <li>
+                  <a>
+                    Lepota bivanja
+                  </a>
+                </li>
+                <li>
+                  <a>
+                    Avtomobilnost
+                  </a>
+                </li>
+                <li>
+                  <a>
+                    Moda
+                  </a>
+                </li>
+                <li>
+                  <a>
+                    196x ljubezen
+                  </a>
+                </li>
+              </ul>
+            </li>
+            <li>
+              <a>
+                Svet zabave 
+              </a>
+              <ul>
+                <li>
+                  <a>
+                    Evrovizija
+                  </a>
+                </li>
+                <li>
+                  <a>
+                    Glasba
+                  </a>
+                </li>
+                <li>
+                  <a>
+                    Film in TV
+                  </a>
+                </li>
+                <li>
+                  <a>
+                    Svet znanih
+                  </a>
+                </li>
+                <li>
+                  <a>
+                    Družabno
+                  </a>
+                </li>
+                <li>
+                  <a>
+                    Zanimivosti
+                  </a>
+                </li>
+              </ul>
+            </li>
+            <li>
+              <a>
+                Posebna izdaja 
+              </a>
+              <ul>
+                <li>
+                  <a>
+                    MMC Podrobno
+                  </a>
+                </li>
+                <li>
+                  <a>
+                    Klepet
+                  </a>
+                </li>
+                <li>
+                  <a>
+                    Podkast Številke
+                  </a>
+                </li>
+                <li>
+                  <a>
+                    1968
+                  </a>
+                </li>
+                <li>
+                  <a>
+                    Kolumne
+                  </a>
+                </li>
+                <li>
+                  <a>
+                    MMC Teden
+                  </a>
+                </li>
+                <li>
+                  <a>
+                    MMC Analiza
+                  </a>
+                </li>
+                <li>
+                  <a>
+                    Praznično leto RTV Slovenija
+                  </a>
+                </li>
+              </ul>
+            </li>
+            <li>
+              <a>
+                Info 
+              </a>
+              <ul>
+                <li>
+                  <a>
+                    Vreme
+                  </a>
+                </li>
+                <li>
+                  <a>
+                    Snežne razmere
+                  </a>
+                </li>
+                <li>
+                  <a>
+                    Stanje na cestah
+                  </a>
+                </li>
+              </ul>
+            </li>
+            <li>
+            </li>
+            <li>
+              <a>
+                TV Slovenija 
+              </a>
+              <ul>
+                <li>
+                  <a>
+                    Info
+                  </a>
+                </li>
+                <li>
+                  <a>
+                    Kultura
+                  </a>
+                </li>
+                <li>
+                  <a>
+                    Filmi/serije
+                  </a>
+                </li>
+                <li>
+                  <a>
+                    Razvedrilo
+                  </a>
+                </li>
+                <li>
+                  <a>
+                    Otroci
+                  </a>
+                </li>
+                <li>
+                  <a>
+                    Izobraževanje
+                  </a>
+                </li>
+                <li>
+                  <a>
+                    Dokumentarci
+                  </a>
+                </li>
+                <li>
+                  <a>
+                    Duhovnost
+                  </a>
+                </li>
+              </ul>
+            </li>
+            <li>
+              <a>
+                Radio Slovenija 
+              </a>
+              <ul>
+                <li>
+                  <a>
+                    Prvi
+                  </a>
+                </li>
+                <li>
+                  <a>
+                    Val 202
+                  </a>
+                </li>
+                <li>
+                  <a>
+                    ARS
+                  </a>
+                </li>
+                <li>
+                  <a>
+                    Radio Koper
+                  </a>
+                </li>
+                <li>
+                  <a>
+                    Radio Capodistria
+                  </a>
+                </li>
+                <li>
+                  <a>
+                    Radio Maribor
+                  </a>
+                </li>
+                <li>
+                  <a>
+                    Radio Si
+                  </a>
+                </li>
+                <li>
+                  <a>
+                    MMR
+                  </a>
+                </li>
+              </ul>
+            </li>
+            <li>
+              <a>
+                RTV 4D 
+              </a>
+              <ul>
+                <li>
+                  <a>
+                    V živo
+                  </a>
+                </li>
+                <li>
+                  <a>
+                    Arhiv
+                  </a>
+                </li>
+                <li>
+                  <a>
+                    Spored
+                  </a>
+                </li>
+                <li>
+                  <a>
+                    Oddaje
+                  </a>
+                </li>
+              </ul>
+            </li>
+            <li>
+              <a>
+                Tematski portali 
+              </a>
+              <ul>
+                <li>
+                  <a>
+                    Otroški portal
+                  </a>
+                </li>
+                <li>
+                  <a>
+                    Moja generacija
+                  </a>
+                </li>
+                <li>
+                  <a>
+                    Moj splet
+                  </a>
+                </li>
+                <li>
+                  <a>
+                    Teletext
+                  </a>
+                </li>
+              </ul>
+            </li>
+            <li>
+            </li>
+            <li>
+              <a>
+                O RTV Slovenija 
+              </a>
+              <ul>
+                <li>
+                  <a>
+                    Kdo smo
+                  </a>
+                </li>
+                <li>
+                  <a>
+                    RTV-prispevek
+                  </a>
+                </li>
+                <li>
+                  <a>
+                    Za medije
+                  </a>
+                </li>
+                <li>
+                  <a>
+                    Kontakti in informacije
+                  </a>
+                </li>
+              </ul>
+            </li>
+          </ul>
+        </div>
+      </div>
+    </div>
+  </div>
+  <div>
+  </div>
+  <div>
+    <div>
+      <h3>
+        <svg>
+          <g>
+            <circle>
+            </circle>
+            <circle>
+            </circle>
+            <circle>
+            </circle>
+            <circle>
+            </circle>
+          </g>
+          <g>
+            <circle>
+            </circle>
+            <circle>
+            </circle>
+            <circle>
+            </circle>
+            <circle>
+            </circle>
+          </g>
+          <circle>
+          </circle>
+          <circle>
+          </circle>
+        </svg>
+        <a>
+          #PCDATA
+        </a>
+      </h3>
+    </div>
+    <div>
+      <a>
+        Uredi
+      </a>
+    </div>
+    <div>
+      <div>
+        <header>
+          <div>
+            <h3>
+              <svg>
+                <g>
+                  <circle>
+                  </circle>
+                  <circle>
+                  </circle>
+                  <circle>
+                  </circle>
+                  <circle>
+                  </circle>
+                </g>
+                <g>
+                  <circle>
+                  </circle>
+                  <circle>
+                  </circle>
+                  <circle>
+                  </circle>
+                  <circle>
+                  </circle>
+                </g>
+                <circle>
+                </circle>
+                <circle>
+                </circle>
+              </svg>
+              <a>
+                #PCDATA
+              </a>
+            </h3>
+            <a>
+            </a>
+          </div>
+          <h1>
+            #PCDATA
+          </h1>
+          <div>
+            #PCDATA
+          </div>
+          <div>
+            <div>
+              <strong>
+                Miha Merljak
+              </strong>
+              #PCDATA
+            </div>
+            <div>
+              Ljubljana - MMC RTV SLO 
+            </div>
+          </div>
+          ( <figure><a><img></a><figcaption><span></span>XC40 se v mestu odlično zlije z okolico. Foto: David Šavli </figcaption></figure><p>XC 40 je najmanjši Volvov SUV, ki se oblikovno skoraj v celotni naslanja na oba večja predhodnika. Že samo s tem so mu vrata do denarnic tistih kupcev, ki iščejo izstopajočo, a hkrati visoko kultivirano in prečiščeno dizajnersko govorico, na pol odprta.</p></header><div> )?
+          <div>
+            <div>
+              ( <figure><a><img></a><figcaption><span></span>Audi A6 je avtomobil za direktorje, ki se mu na avtocesti spoštljivo umikajo, kot bi šlo za Pahorjev ali Šarčev avtomobil. Foto: David Šavli</figcaption></figure> )?
+            </div>
+            ( <div></div> )?
+          </div>
+          ( <p>To je novi audi A6. V razred najdražjih in najbolj premijskih žrebcev je vnesel nemir, še preden je sploh zapeljal na parkirni prostor, rezerviran za izvršnega direktorja. </p></header><div> )?
+          <div>
+            ( <div>Miha Merljak</div> )?
+            ( <br>Ljubljana - MMC RTV SLO  )?
+          </div>
+          <div>
+            ( <div></div> )?
+            ( <br>Ljubljana - MMC RTV SLO </div><div> )?
+            ( <div></div> )+
+            <a>
+            </a>
+          </div>
+          <figure>
+            <h5>
+              Poudarki
+            </h5>
+            <ul>
+              <li>
+                #PCDATA
+              </li>
+              <li>
+                #PCDATA
+              </li>
+              <li>
+                #PCDATA
+              </li>
+            </ul>
+          </figure>
+        </div>
+        <div>
+          <div>
+            ( </div><article> )?
+            <figure>
+              <a>
+                <img>
+              </a>
+              <figcaption>
+                <span>
+                </span>
+                #PCDATA
+              </figcaption>
+            </figure>
+            ( </div><article> )?
+            <figure>
+              <div>
+                ( <a><img></a> )?
+              </div>
+              <div>
+                ( <img></div></figure><p>Volvo se je nižjih srednjih razredov v preteklosti izogibal ali pa je vanje vstopal z zelo nišnimi produkti, ki niso pustili večjega tržnega pečata. V primeru XC 40 ni težko napovedati, da bo ta tradicija prekinjena. Ponuja namreč visoko kakovost končne izdelave in v kabini odlično premišljeno funkcionalnost ter na dotik prijetne materiale. </p><p>Še posebej hvalimo število, iznajdljivost in velikost različnih odlagalnih prostorov ter široke, čvrste in zelo udobne sedeže. Intuitivno in enostavno logično je upravljanje z velikim vmesnikom, ki z večfunkcijskim zaslonom na dotik kraljuje na z roko lahko dostopnem mestu na sredinski armaturi. Razočaranj ne bo niti v velikosti in uporabnosti prtljažnega prostora, ki s 460 litri prostornine sicer ni med večjimi v razredu, a se v uporabniškem smislu odkupi z dobro urejenostjo ter domiselnimi rešitvami pregrajevanja.</p><figure><a><img></a><figcaption><span></span>Foto: David Šavli </figcaption></figure><p>XC 40 je od tal odmaknjen konkretnih 21 cm, a sta vzmetenje in krmilni mehanizem tako nastavljena, da ponuja tudi v hitro odpeljanih ovinkih zelo dolgo nevtralno in predvidljivo lego. V premeru preskušanega modela, ki je imel v paketu R design vzmetenje še nekoliko bolj trdo, se je to samo še bolj potrdilo, a je v tem primeru treba računati na manj udobno vožnjo čez različne asfaltne grbine. Podoben razmislek velja opraviti tudi pri izbiri motorja.</p><p>Preskušani 2-litrski dizel s 190 KM predstavlja vrh ponudbe, ki z močjo, udobjem in tudi povprečno porabo navduši predvsem pri avtocestnih dolgoprogaških izzivih, v počasni mestni vožnji ter pri pogostih postankih in speljevanjih pa deluje preveč robusten.</p><p>XC 40 je s čvrsto gradnjo, funkcionalno in udobno kabino ter številnimi asistenčnimi sistemi in izstopajočim skandinavskim dizajnom v premišljenem trenutku vstopil na trg modnih mestnih terencev, v katerem se brez ene same sence dvoma suvereno postavi med najdražje in najbolj premijske v mestu.</p><p><strong>Ključni tehnični podatki:</strong><br>- na testu Volvo XC40 2.0 TD avt awd momentum </p><p>Mere:<br>- dolžina: 4,4 m<br>- medosna razdalja: 2,7 m<br>- obračalni krog: 11,4 m<br>- oddaljenost od tal: 21 cm<br>- prtljažnik: 432 l<br>- masa: 2.250 kg<br>Pogon:<br>- 2-litrski 4-valjni bencinski motor<br>- moč: 140 kW<br>- navor: 400 Nm<br>- 8-stopenjski samodejni menjalnik<br>- pogon na vsa štiri kolesa<br>- pnevmatike: 235/50 R19 <br>- poraba: 6,3 l/100 km = 8,2 EUR/100km<br>- posoda za gorivo: 54 l<br>- doseg: 857 km<br>- izpusti CO2: 133 g/km</p><p>Stroški pri 15.000 km in 5-letni uporabi:<br>- nakupna cena: 43.619 EUR<br>- stroški finančnega leasinga: 3.268 EUR/5 let<br>- stroški registracije: 8.701 EUR/5 let<br>- stroški vzdrževanja: 2.320 EUR/5 let<br>- stroški goriva: 6.190 EUR/75.000 km<br>- strošek 1 kompleta pnevmatik: 923 EUR<br>- vrednosti po 5 letih po Eurotaxu: 18.886 EUR<br>- stroški skupaj: 774 EUR/mesec</p><figure><div><iframe></iframe></div></figure><div><div> )?
+                <div>
+                  ( <a><img></a></div><div><img></div></div></figure><p></p><p>Samo poglejte njegovo masko – to ogromno satovje z radarji na takem položaju, da se ti na avtocesti tudi pri 120 km/h vsi spoštljivo umikajo, saj so prepričani, da gre za Pahorjev ali Šarčev avto. Seveda, novi A6 lahko cesto in promet skenira s kar petimi radarji, petimi kamerami, infrardečo kamero za nočni vid, dvanajstimi ultrazvočnimi senzorji in laserskim čitalnikom – lidarjem. V glavnem vojaška tehnologija v službi varnosti za fante, ki smo radi gledali Top Gun, Bonda in druge možakarja s finimi igračami.</p><p><strong>Novo poglavje<br></strong>Vozniški delovni prostor je novo poglavje digitalne dobe, z dvema ogromnima zaslonoma, ki tako kot naprednejši telefoni dregnejo blazinice vaših prstov, kot se sprehajate po steklu. A še bolj se nam zdi pomembno, da so osnovna stikala tam, kjer jih pričakujete. Najprej so torej zagotovili enostavno osnovo, tisti bolj "advanced" vozniki pa si lahko nato vse skupaj še veliko bolj prilagodijo. Velik korak naprej pri kabinskem udobju zaznavajo tudi na zadnji klopi, tam je prostora v vseh smereh precej več.</p><p>Če vam pogled na Audijev spisek dodatne opreme ne odvzame volje do življenja, potem vsekakor toplo priporočamo nakup zračnega vzmetenja, saj dobi z njim A6 več različnih in vozniško zelo uporabnih karakterjev.</p><p>Enako velja za seksi luči z inteligentno matrično osvetlitvijo, pa za športno podvozje in vsekakor za štirikolesno krmiljenje. S tem postane A6 med ovinki v občutku na volanu še veliko krajši in bolj agilen. Vse našteto smo preskušali v družbi agregata 50 TDI, ki je v resnici klasični trilitrski dizel, podkrepljen z elektromotorjem. Ja, ta audi je mehki hibrid z izjemnim navorom in dovolj moči kadar koli in kjer koli. Si pa mislimo, da bo največji del trga zadovoljil že učinkovit dvolitrski mehki hibrid z močjo 150 kilovatov.</p><p><iframe></iframe></p><p><strong>Ključni tehnični podatki:</strong></p><p>- na testu Audi A6 50 TDI quattro tiptronic</p><p><strong>Mere:</strong><br>- dolžina: 4,9 m<br>- medosna razdalja: 2,9 m<br>- obračalni krog: 12,1 m<br>- prtljažnik: 530 l<br>- masa: 1.900 kg</p><p><strong>Pogon:</strong><br>- trilitrski šestvaljni dizelski motor<br>- moč: 210 kW<br>- navor: 620 Nm<br>- 8-stopenjski samodejni menjalnik<br>- pogon na vsa štiri kolesa<br>- pnevmatike: 225/60 R17<br>- poraba: 6,6 l/100 km = 8,9 EUR/100 km<br>- posoda za gorivo: 73 l<br>- doseg: 1.106 km<br>- izpusti CO<sub></sub>: 147 g/km</p><p><strong>Stroški pri 15.000 km in 5-letni uporabi:</strong><br>- nakupna cena: 69.080 EUR<br>- stroški finančnega lizinga: 4.463 EUR/5 let<br>- stroški registracije: 10.829 EUR/5 let<br>- stroški vzdrževanja: 1.926 EUR/5 let<br>- stroški goriva: 6.702 EUR/75.000 km<br>- strošek 1 kompleta pnevmatik: 716 EUR<br>- vrednosti po 5 letih po Eurotaxu: 33.964 EUR</p><p>- stroški skupaj: 1.001 EUR/mesec</p><p></p><div><div><div> )?
+                  ( <figure><a><img></a><figcaption>MMC RTV SLO </figcaption></figure> )+
+                </div>
+                <div>
+                </div>
+                <div>
+                </div>
+              </div>
+              <div>
+                <figure>
+                  <a>
+                    <img>
+                  </a>
+                  <figcaption>
+                    #PCDATA
+                  </figcaption>
+                </figure>
+                <figure>
+                  <a>
+                    <img>
+                  </a>
+                  <figcaption>
+                    #PCDATA
+                  </figcaption>
+                </figure>
+                <figure>
+                  <a>
+                    <img>
+                  </a>
+                  <figcaption>
+                    #PCDATA
+                  </figcaption>
+                </figure>
+                <figure>
+                  <a>
+                    <img>
+                  </a>
+                  <figcaption>
+                    #PCDATA
+                  </figcaption>
+                </figure>
+              </div>
+            </div>
+          </article>
+        </div>
+        <div>
+          <div>
+            <div>
+              <div>
+              </div>
+            </div>
+            <div>
+              <h4>
+                Zadnje iz sekcije
+              </h4>
+              <div>
+                <div>
+                  <div>
+                    <a>
+                      <img>
+                    </a>
+                  </div>
+                  <div>
+                    <a>
+                      #PCDATA
+                    </a>
+                  </div>
+                </div>
+              </div>
+              <div>
+                <div>
+                  <div>
+                    <a>
+                      <img>
+                    </a>
+                  </div>
+                  <div>
+                    <a>
+                      #PCDATA
+                    </a>
+                  </div>
+                </div>
+              </div>
+              <div>
+                <div>
+                  <div>
+                    <a>
+                      <img>
+                    </a>
+                  </div>
+                  <div>
+                    <a>
+                      #PCDATA
+                    </a>
+                  </div>
+                </div>
+              </div>
+              <div>
+                <div>
+                  <div>
+                    <a>
+                      <img>
+                    </a>
+                  </div>
+                  <div>
+                    <a>
+                      #PCDATA
+                    </a>
+                  </div>
+                </div>
+              </div>
+              <div>
+                <div>
+                  <div>
+                    <a>
+                      <img>
+                    </a>
+                  </div>
+                  <div>
+                    <a>
+                      #PCDATA
+                    </a>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+        <div>
+          <div>
+            ( <a>#PCDATA</a> )+
+          </div>
+          <div>
+            <a>
+              Prijavi napako
+            </a>
+            <div>
+            </div>
+            <div>
+            </div>
+            <div>
+            </div>
+          </div>
+          <figure>
+            <div>
+              Oglas
+            </div>
+            <div>
+            </div>
+          </figure>
+        </div>
+      </div>
+    </div>
+    <div>
+      ( </div><div><h3><svg><g><circle></circle><circle></circle><circle></circle><circle></circle></g><g><circle></circle><circle></circle><circle></circle><circle></circle></g><circle></circle><circle></circle></svg><a>Avtomobilnost</a></h3></div><div> )?
+      <div>
+        <div>
+          <div>
+            <a>
+              <img>
+            </a>
+            <h3>
+              <span>
+                <a>
+                  Avtomobilnost
+                </a>
+              </span>
+              <a>
+                #PCDATA
+              </a>
+            </h3>
+            <p>
+              #PCDATA
+            </p>
+          </div>
+        </div>
+        <div>
+          <div>
+            <a>
+              <img>
+            </a>
+            <h3>
+              <span>
+                <a>
+                  #PCDATA
+                </a>
+              </span>
+              <a>
+                #PCDATA
+              </a>
+            </h3>
+            <p>
+              #PCDATA
+            </p>
+          </div>
+        </div>
+        <div>
+          <div>
+            <a>
+              <img>
+            </a>
+            <h3>
+              <span>
+                ( </span><span> )?
+                <a>
+                  #PCDATA
+                </a>
+              </span>
+              <a>
+                #PCDATA
+              </a>
+            </h3>
+            <p>
+              #PCDATA
+            </p>
+          </div>
+        </div>
+        <div>
+          <div>
+            <a>
+              <img>
+            </a>
+            <h3>
+              <span>
+                ( </span><span> )?
+                <a>
+                  #PCDATA
+                </a>
+              </span>
+              <a>
+                #PCDATA
+              </a>
+            </h3>
+            <p>
+              #PCDATA
+            </p>
+          </div>
+        </div>
+      </div>
+      <a>
+        Več novic
+      </a>
+    </div>
+    <div>
+      <div>
+        <div>
+          <figure>
+            <div>
+              Oglas
+            </div>
+            <div>
+              <div>
+                <iframe>
+                </iframe>
+              </div>
+              <div>
+                <img>
+              </div>
+            </div>
+          </figure>
+          <figure>
+            <div>
+              Oglas
+            </div>
+            <div>
+            </div>
+          </figure>
+        </div>
+      </div>
+    </div>
+    <div>
+      <div>
+        <h3>
+          <svg>
+            <g>
+              <circle>
+              </circle>
+              <circle>
+              </circle>
+              <circle>
+              </circle>
+              <circle>
+              </circle>
+            </g>
+            <g>
+              <circle>
+              </circle>
+              <circle>
+              </circle>
+              <circle>
+              </circle>
+              <circle>
+              </circle>
+            </g>
+            <circle>
+            </circle>
+            <circle>
+            </circle>
+          </svg>
+          <a>
+            Komentarji 
+            <span>
+              #PCDATA
+            </span>
+          </a>
+          <div>
+            <div>
+              Prikazuj komentarje
+              <span>
+              </span>
+            </div>
+            <div>
+            </div>
+          </div>
+        </h3>
+      </div>
+      <div>
+        <a>
+          Uredi
+        </a>
+      </div>
+      <div>
+        <p>
+          Komentarji so trenutno skriti. 
+          <a>
+            Prikaži komentarje
+          </a>
+        </p>
+        <div>
+          <div>
+            <div>
+            </div>
+          </div>
+        </div>
+      </div>
+      <link>
+        <link>
+        </div>
+      </div>
+      <footer>
+        <div>
+          <div>
+            <ul>
+              <li>
+                <a>
+                  Stari portal 
+                </a>
+              </li>
+              <li>
+                <a>
+                  Impresum
+                </a>
+              </li>
+              <li>
+                <a>
+                  O RTV Slovenija
+                </a>
+              </li>
+              <li>
+                <a>
+                  Varuhinja
+                </a>
+              </li>
+              <li>
+                <a>
+                  Kontakti
+                </a>
+              </li>
+              <li>
+                <a>
+                  RTV prispevek
+                </a>
+              </li>
+              <li>
+                <a>
+                  DOSTOPNO 
+                </a>
+              </li>
+              <li>
+                <a>
+                </a>
+              </li>
+              <li>
+                <a>
+                  About RTV Slovenia
+                </a>
+              </li>
+            </ul>
+            <div>
+              <a>
+              </a>
+              <a>
+              </a>
+              <a>
+              </a>
+              <a>
+              </a>
+              <a>
+              </a>
+            </div>
+          </div>
+          <div>
+            <div>
+              <a>
+                Nastavitve zasebnosti
+              </a>
+              | 
+              <a>
+                Spletni piškotki
+              </a>
+              | 
+              <a>
+                Varstvo osebnih podatkov
+              </a>
+            </div>
+            © MMC RTV Slovenija (ISSN 1581-372X) | 1995 - 2019 | Vse pravice pridržane 
+          </div>
+        </div>
+      </footer>
+      <div>
+        <div>
+          <div>
+            <div>
+              <h5>
+                Prijava
+              </h5>
+              <button>
+                <span>
+                </span>
+              </button>
+            </div>
+            <div>
+              <form>
+                <input>
+                <div>
+                  <label>
+                    Uporabniško ime:
+                  </label>
+                  <input>
+                </div>
+                <div>
+                  <label>
+                    Geslo:
+                  </label>
+                  <input>
+                </div>
+                <div>
+                  <button>
+                    Prijava
+                  </button>
+                  <a>
+                    Registracija
+                  </a>
+                </div>
+              </form>
+              <a>
+                Pozabljeno geslo?
+              </a>
+              <div>
+                <div>
+                  <span>
+                    Temni način 
+                    <span>
+                      BETA
+                    </span>
+                  </span>
+                  <label>
+                    <input>
+                    <span>
+                    </span>
+                  </label>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+      <div>
+        <div>
+          <div>
+            <div>
+              <h5>
+                Prijavljen
+              </h5>
+              <button>
+                <span>
+                </span>
+              </button>
+            </div>
+            <div>
+              <h2>
+              </h2>
+              <a>
+                Odjava
+              </a>
+              <a>
+                Uporabniški račun
+              </a>
+              <div>
+                <div>
+                  <span>
+                    Temni način 
+                    <span>
+                      BETA
+                    </span>
+                  </span>
+                  <label>
+                    <input>
+                    <span>
+                    </span>
+                  </label>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+      <div>
+        <div>
+          <div>
+            <div>
+              <h5>
+                Časovno obdobje po meri
+              </h5>
+              <button>
+                <span>
+                </span>
+              </button>
+            </div>
+            <div>
+              <div>
+                <label>
+                  Od
+                </label>
+                <div>
+                  <input>
+                </div>
+              </div>
+              <div>
+                <label>
+                  Do
+                </label>
+                <div>
+                  <input>
+                </div>
+              </div>
+            </div>
+            <div>
+              <button>
+                Prikaži rezultate
+              </button>
+            </div>
+          </div>
+        </div>
+      </div>
+      <div>
+        <div>
+        </div>
+        <div>
+          <div>
+            <div>
+            </div>
+            <div>
+            </div>
+            <div>
+            </div>
+          </div>
+          <div>
+            <div>
+              <div>
+              </div>
+              <button>
+              </button>
+              <button>
+              </button>
+              <button>
+              </button>
+              <button>
+              </button>
+              <div>
+                <div>
+                  <div>
+                    <div>
+                    </div>
+                  </div>
+                </div>
+              </div>
+            </div>
+            <div>
+              <div>
+              </div>
+            </div>
+            <button>
+            </button>
+            <button>
+            </button>
+            <div>
+              <div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+      <link>
+        <style>
+          .no-heading-block { margin-top: 30px; } .hide_headers, .hide_headers #main-container { padding-top: 0; } .hide_headers #top-bar, .hide_headers #main-bar, .hide_headers #main-menu-drawer, .hide_headers footer, .hide_headers #mobile-menu-wrapper { display: none; } .hide_headers #sub-menu { top: 0; } .news-container .comment .show-more { display: none; } .news-container .comment .shown-less:before { display: none; } .news-container .comment .shown-less { max-height: inherit !important; } /* Lonza add to bundle */ .iAdserver.inArticle .holder:before, .iAdserver.inArticle .ipromAP:before, .rightColumnAd .iAdserver .holder:before, .rightColumnAd .iAdserver .ipromAP:before { content: "Oglas"; text-align: left; /* float: left; */ font-size: 0.7rem; color: #aaa; display: block; text-align: left; } .rightColumnAd .iAdserver .holder { margin-bottom: 40px !important; } .article .news-container .article .iAdserver.inArticle .holder { margin-bottom: 25px !important; } .article .news-container .article .iAdserver.inArticle .iprom-html5-player { background-color: black !important; } .article .news-container .article .iAdserver.inArticle .ipromAP { height: 266px !important; margin-bottom: 10px !important; } /* IF FIRST IMAGE aside or left - force it to right - wanted by LZ 6.2.19 */ .article .news-container .article figure :first-child .c-figure-aside-lg, .article .news-container .article figure :first-child .c-figure-left { width: 50%; margin-left: 0px; float: right; } 
+        </style>
+        <nav>
+          <a>
+            <span>
+            </span>
+          </a>
+          <button>
+            <span>
+            </span>
+          </button>
+          <div>
+            <ul>
+              <li>
+                <a>
+                  Preusmeritve / aliasi
+                </a>
+              </li>
+              <li>
+                <a>
+                  Meniji
+                </a>
+              </li>
+              <li>
+                <a>
+                  Uporabniki
+                </a>
+                <div>
+                  <a>
+                    Skupine
+                  </a>
+                  <a>
+                    Iskalnik uporabnikov
+                  </a>
+                  <a>
+                    Pravice uporabnikov
+                  </a>
+                  <a>
+                    Moderirani uporabniki
+                  </a>
+                </div>
+              </li>
+              <li>
+                <a>
+                  Vsebine
+                </a>
+                <div>
+                  <a>
+                    Administracija novic
+                  </a>
+                  <a>
+                    Administracija sekcij
+                  </a>
+                  <a>
+                    Administracija slike &amp; video dneva
+                  </a>
+                  <a>
+                    Administracija anket
+                  </a>
+                  <a>
+                    Administracija nujnih informacij
+                  </a>
+                  <a>
+                    Administracija mailerja
+                  </a>
+                </div>
+              </li>
+              <li>
+                <a>
+                  File upload
+                </a>
+              </li>
+            </ul>
+          </div>
+        </nav>
+        <nav>
+          <a>
+            <span>
+            </span>
+          </a>
+          <button>
+            <span>
+            </span>
+          </button>
+          <div>
+            <ul>
+              <li>
+                <a>
+                  NOVA novica
+                </a>
+              </li>
+              <li>
+                <a>
+                  STARA novica
+                </a>
+              </li>
+              <li>
+                <a>
+                  Uteži FP
+                </a>
+              </li>
+              <li>
+                <a>
+                  Admin. novic NOVA
+                </a>
+              </li>
+              <li>
+                <a>
+                  Admin. novic STARA
+                </a>
+              </li>
+              <li>
+                <a>
+                  Neaktivne novice
+                </a>
+              </li>
+              <li>
+                <a>
+                  Videonovice
+                </a>
+              </li>
+              <li>
+                <a>
+                  Upload slik
+                </a>
+              </li>
+              <li>
+                <a>
+                  Upload datotek
+                </a>
+              </li>
+            </ul>
+          </div>
+        </nav>
+        <iframe>
+        </iframe>
+        <img>
+        <style>
+          .ipromAP { text-align: center; } .ipromAP>* { margin: 0 auto; text-align: center; } .ipromAP>iframe { display: block; margin: 0 auto !important; } 
+        </style>
+        <iframe>
+        </iframe>
+        <img>
+      </body>

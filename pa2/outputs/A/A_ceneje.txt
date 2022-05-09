@@ -1,0 +1,117 @@
+---- ceneje.si\APPLE prenosnik MacBook Pro 13.3 M1 (8-CPU + 8-GPU) 8GB_256GB, Silver - Ceneje.si.html ----
+{
+  "Title": "APPLE prenosnik MacBook Pro 13.3 M1 (8-CPU + 8-GPU) 8GB/256GB, Silver",
+  "TopPrice": "1.299,99 €",
+  "TopDiscount": "<span class=\"regular\">1.539,99 €</span> <span class=\"discount\">-16 %</span>",
+  "Offers": [
+    {
+      "Seller": "Big Bang",
+      "Price": "1.299,99 €",
+      "Discount": "<span class=\"discountValue\">-16 %</span><span class=\"crossedPrice\">1.539,99 €</span>"
+    },
+    {
+      "Seller": "Si.mobileshop.eu",
+      "Price": "1.230,00 €",
+      "Discount": ""
+    },
+    {
+      "Seller": "Harvey Norman",
+      "Price": "1.299,99 €",
+      "Discount": "</div> <a target=\"_blank\" class=\"rateFunction floating\" onclick=\"trackGaDeeplinkEvent(&quot;https://www.ceneje.si/Redirect/Deeplink?deeplink=x7C7N9IBEtKSo55Oi0b9OW8ZF+GYyME6h1CP//Rm7inFO4uKxFxV2DddJOkr0YGHAv5wYHemaC4rmlvSSbcul6OEAB3DTC75COTw9OpflbhT4y+a5msTtBirFaZ9LsGoZXp4KJFpYhFeysYJNvTtvE3HHQiziM7jF4Hy4mRVYDHh0WMX8n7YpFT9d0lXQAYv+A7rCwWWk9JPNKHIbRcmzizJVzFazgSPkMvyVLg8MB0YKfQN5q3+K6V+b27fHaXhjUZvmLEj8cnZEw73aJqxB3IePE1JyEWJDuYPdiZaHmI=&amp;productId=21299428&amp;sellerId=1214&amp;cs=1&quot;, &quot;1214_Si.mobileshop.eu&quot;, &quot;0.18&quot;, &quot;EUR&quot;, &quot;21299428&quot;, &quot;APPLE+MacBook+Pro+13.3+M1+(8-CPU+%2b+8-GPU)+8GB%2f256GB%2c+Silver&quot;, &quot;971_Prenosniki&quot;, &quot;0&quot;, &#39;productPage&#39;, &#39;deeplink&#39;, &#39;price&#39;);trackRtbDeeplink(&#39;True&#39;, &#39;D3GKNaK1V3YrRR3IVOkt&#39;, &#39;21299428&#39;, &#39;1230&#39;);trackCriteo(&#39;True&#39;, &#39;21791&#39;, &#39;21299428&#39;, &#39;1230&#39;, &#39;d&#39;);trackFacebook(&quot;track&quot;,&quot;Purchase&quot;, &quot;21299428&quot;, &quot;0.18&quot;, &quot;&quot;, &quot;&quot;, &quot;&quot;, &quot;EUR&quot;, &quot;&quot;, &quot;&quot;);\" href=\"https://www.ceneje.si/Redirect/Deeplink?deeplink=x7C7N9IBEtKSo55Oi0b9OW8ZF+GYyME6h1CP//Rm7inFO4uKxFxV2DddJOkr0YGHAv5wYHemaC4rmlvSSbcul6OEAB3DTC75COTw9OpflbhT4y+a5msTtBirFaZ9LsGoZXp4KJFpYhFeysYJNvTtvE3HHQiziM7jF4Hy4mRVYDHh0WMX8n7YpFT9d0lXQAYv+A7rCwWWk9JPNKHIbRcmzizJVzFazgSPkMvyVLg8MB0YKfQN5q3+K6V+b27fHaXhjUZvmLEj8cnZEw73aJqxB3IePE1JyEWJDuYPdiZaHmI=&amp;productId=21299428&amp;sellerId=1214&amp;cs=1&amp;pos=2&amp;of=6\"> <div class=\"price-value\"> <span class=\"hiddenInfo\"><span class=\"onOff isQtip\" title=\"Cena je bila osvežena danes ob 14:56.&lt;br /&gt;V vsakem primeru na strani trgovine preverite ali je aktualna cena enaka navedeni na tej strani.\" data-cclass=\"qtip-newQtipDesign\"></span></span> 1.230,00 €"
+    },
+    {
+      "Seller": "Big Bang",
+      "Price": "1.299,99 €",
+      "Discount": ""
+    },
+    {
+      "Seller": "isistemi.si",
+      "Price": "1.586,00 €",
+      "Discount": "</div> <a target=\"_blank\" class=\"rateFunction floating\" onclick=\"trackGaDeeplinkEvent(&quot;https://www.ceneje.si/Redirect/Deeplink?deeplink=x7C7N9IBEtKSo55Oi0b9OW8ZF+GYyME6h1CP//Rm7inFO4uKxFxV2GWjq5QbTZFy9FeVLdw7u4q3xQ91b4OQFs9GYUYdJPZmRaOMiW9fs41h7/W9SlXmIEyS38fKCLFpTEHNJGg5v92g0NZKEMbPvgda5O7pcFi0dtj4d2lVlypSkJ0o8Q2G1ha5Bd7MyZG9UC+zERRjlXUzV87MuQCdioIN/JQugjnhuISi05zuuYV43Cc5QtcWQQ+KFJxmSU98CdIY7LLnDBA=&amp;productId=21299428&amp;sellerId=1146&amp;cs=1&quot;, &quot;1146_Harvey+Norman&quot;, &quot;0.18&quot;, &quot;EUR&quot;, &quot;21299428&quot;, &quot;APPLE+MacBook+Pro+13.3+M1+(8-CPU+%2b+8-GPU)+8GB%2f256GB%2c+Silver&quot;, &quot;971_Prenosniki&quot;, &quot;0&quot;, &#39;productPage&#39;, &#39;deeplink&#39;, &#39;price&#39;);trackRtbDeeplink(&#39;True&#39;, &#39;D3GKNaK1V3YrRR3IVOkt&#39;, &#39;21299428&#39;, &#39;1299.99&#39;);trackCriteo(&#39;True&#39;, &#39;21791&#39;, &#39;21299428&#39;, &#39;1299.99&#39;, &#39;d&#39;);trackFacebook(&quot;track&quot;,&quot;Purchase&quot;, &quot;21299428&quot;, &quot;0.18&quot;, &quot;&quot;, &quot;&quot;, &quot;&quot;, &quot;EUR&quot;, &quot;&quot;, &quot;&quot;);\" href=\"https://www.ceneje.si/Redirect/Deeplink?deeplink=x7C7N9IBEtKSo55Oi0b9OW8ZF+GYyME6h1CP//Rm7inFO4uKxFxV2GWjq5QbTZFy9FeVLdw7u4q3xQ91b4OQFs9GYUYdJPZmRaOMiW9fs41h7/W9SlXmIEyS38fKCLFpTEHNJGg5v92g0NZKEMbPvgda5O7pcFi0dtj4d2lVlypSkJ0o8Q2G1ha5Bd7MyZG9UC+zERRjlXUzV87MuQCdioIN/JQugjnhuISi05zuuYV43Cc5QtcWQQ+KFJxmSU98CdIY7LLnDBA=&amp;productId=21299428&amp;sellerId=1146&amp;cs=1&amp;pos=3&amp;of=6\"> <div class=\"price-value\"> <span class=\"hiddenInfo\"><span class=\"onOff isQtip\" title=\"Cena je bila osvežena danes ob 14:40.&lt;br /&gt;V vsakem primeru na strani trgovine preverite ali je aktualna cena enaka navedeni na tej strani.\" data-cclass=\"qtip-newQtipDesign\"></span></span> 1.299,99 €"
+    },
+    {
+      "Seller": "Senetic",
+      "Price": "1.661,66 €",
+      "Discount": "<span class=\"discountValue\">-16 %</span><span class=\"crossedPrice\">1.539,99 €</span>"
+    }
+  ]
+}
+
+---- ceneje.si\Prenosnik ACER Nitro 5 AN517-52-577J i5-10300H_8GB_SSD 512GB_17.3 FHD IPS_GTX 1650 4GB_brez OS crn - 43,9 cm (17,3) - Ceneje.si.html ----
+{
+  "Title": "Prenosnik ACER Nitro 5 AN517-52-577J i5-10300H/8GB/SSD 512GB/17.3 FHD IPS/GTX 1650 4GB/brez OS črn - 43,9 cm (17,3)",
+  "TopPrice": "799,90 €",
+  "TopDiscount": "<span class=\"regular\">1.206,73 €</span> <span class=\"discount\">-34 %</span>",
+  "Offers": [
+    {
+      "Seller": "Shoppster",
+      "Price": "799,90 €",
+      "Discount": "<span class=\"discountValue\">-34 %</span><span class=\"crossedPrice\">1.206,73 €</span>"
+    },
+    {
+      "Seller": "Big Bang",
+      "Price": "803,85 €",
+      "Discount": ""
+    },
+    {
+      "Seller": "Shoppster",
+      "Price": "1.037,99 €",
+      "Discount": "</div> <a target=\"_blank\" class=\"rateFunction floating\" onclick=\"trackGaDeeplinkEvent(&quot;https://www.ceneje.si/Redirect/Deeplink?deeplink=x7C7N9IBEtKSo55Oi0b9OW8ZF+GYyME6h1CP//Rm7inFO4uKxFxV2GsPOSpV8PrnKFdg6QDXKXBuDdbP6Dslz6uPt3G7UxJHSga+wRK1omAwz0Xpo6buQhLGDWqmpl2igBxVntVAKX4oH1vrpyqx+4upvv491gpA/yGmfCvmsgQetSTp6jpe43YWwVBwyFNJEo7bo5MLtS1eoTi+NbOc0tN5bWm7MuJV3pXNrrsHWOu0apqYJHlJXj2gmyv6rJbieOXLMzaE9sUA3WmEwBtUlLnsqOX+nP2D6MJAEHKCFSWucX0t6f2+rAWHR0rgEcDBk68W2s6BoaTiTBClfmEQViQYw0lriWv0&amp;productId=30208347&amp;sellerId=862&amp;cs=1&amp;pp=2&amp;pc=1&quot;, &quot;862_Big+Bang&quot;, &quot;0.18&quot;, &quot;EUR&quot;, &quot;30208347&quot;, &quot;Prenosnik+ACER+Nitro+5+AN517-52-577J+i5-10300H%2f8GB%2fSSD+512GB%2f17.3+FHD+IPS%2fGTX+1650+4GB%2fbrez+OS+%c4%8drn+-+43%2c9+cm+(17%2c3)&quot;, &quot;971_Prenosniki&quot;, &quot;0&quot;, &#39;productPage&#39;, &#39;deeplink_premium&#39;, &#39;price&#39;);trackRtbDeeplink(&#39;True&#39;, &#39;D3GKNaK1V3YrRR3IVOkt&#39;, &#39;30208347&#39;, &#39;1037.99&#39;);trackCriteo(&#39;True&#39;, &#39;21791&#39;, &#39;30208347&#39;, &#39;1037.99&#39;, &#39;d&#39;);trackFacebook(&quot;track&quot;,&quot;Purchase&quot;, &quot;30208347&quot;, &quot;0.18&quot;, &quot;&quot;, &quot;&quot;, &quot;&quot;, &quot;EUR&quot;, &quot;&quot;, &quot;&quot;);\" href=\"https://www.ceneje.si/Redirect/Deeplink?deeplink=x7C7N9IBEtKSo55Oi0b9OW8ZF+GYyME6h1CP//Rm7inFO4uKxFxV2GsPOSpV8PrnKFdg6QDXKXBuDdbP6Dslz6uPt3G7UxJHSga+wRK1omAwz0Xpo6buQhLGDWqmpl2igBxVntVAKX4oH1vrpyqx+4upvv491gpA/yGmfCvmsgQetSTp6jpe43YWwVBwyFNJEo7bo5MLtS1eoTi+NbOc0tN5bWm7MuJV3pXNrrsHWOu0apqYJHlJXj2gmyv6rJbieOXLMzaE9sUA3WmEwBtUlLnsqOX+nP2D6MJAEHKCFSWucX0t6f2+rAWHR0rgEcDBk68W2s6BoaTiTBClfmEQViQYw0lriWv0&amp;productId=30208347&amp;sellerId=862&amp;cs=1&amp;pp=2&amp;pc=1&amp;pos=2&amp;of=14\"> <div class=\"price-value\"> <span class=\"hiddenInfo\"><span class=\"onOff isQtip\" title=\"Cena je bila osvežena danes ob 15:38.&lt;br /&gt;V vsakem primeru na strani trgovine preverite ali je aktualna cena enaka navedeni na tej strani.\" data-cclass=\"qtip-newQtipDesign\"></span></span> 1.037,99 €"
+    },
+    {
+      "Seller": "anni.si",
+      "Price": "799,90 €",
+      "Discount": "<span class=\"discountValue\">-34 %</span><span class=\"crossedPrice\">1.206,73 €</span>"
+    },
+    {
+      "Seller": "Tehnox.si",
+      "Price": "803,85 €",
+      "Discount": "<span class=\"discountValue\">-32 %</span><span class=\"crossedPrice\">1.206,73 €</span>"
+    },
+    {
+      "Seller": "Balix",
+      "Price": "819,00 €",
+      "Discount": "<span class=\"discountValue\">-20 %</span><span class=\"crossedPrice\">1.206,73 €</span>"
+    },
+    {
+      "Seller": "parcom.shop",
+      "Price": "822,00 €",
+      "Discount": ""
+    },
+    {
+      "Seller": "eMundia.si",
+      "Price": "967,67 €",
+      "Discount": "</div> <a target=\"_blank\" class=\"rateFunction floating\" onclick=\"trackGaDeeplinkEvent(&quot;https://www.ceneje.si/Redirect/Deeplink?deeplink=x7C7N9IBEtKSo55Oi0b9OW8ZF+GYyME6h1CP//Rm7inFO4uKxFxV2KZw4N8ZiXJfSBGL02DXRmwpRFgscbvj3GApYYhfVTfjh8CCL1hDn6JropB8i9MB/XK3BRlUVp7JXfNVdFnAdkrbKYD5N+zwXCxyByDrajMX2I4wJ/Hc6HDzO9gqvjcYb82DT6WCvtWH8Eyn0CqGFAasfB7ChWqhItkzIFYWEIrsSIv0BktJTCEiabEfc7ISsNszFRRMdmii1p1mNxuCMoMkxYDJEkgSEpGoSypggNKflY05rPan3177YcPXghR5mjRBmBjJUR7RkaHDQAV+FMjmWqs6y9tjPQ==&amp;productId=30208347&amp;sellerId=2493&quot;, &quot;2493_Balix&quot;, &quot;0.18&quot;, &quot;EUR&quot;, &quot;30208347&quot;, &quot;Prenosnik+ACER+Nitro+5+AN517-52-577J+i5-10300H%2f8GB%2fSSD+512GB%2f17.3+FHD+IPS%2fGTX+1650+4GB%2fbrez+OS+%c4%8drn+-+43%2c9+cm+(17%2c3)&quot;, &quot;971_Prenosniki&quot;, &quot;0&quot;, &#39;productPage&#39;, &#39;deeplink&#39;, &#39;price&#39;);trackRtbDeeplink(&#39;True&#39;, &#39;D3GKNaK1V3YrRR3IVOkt&#39;, &#39;30208347&#39;, &#39;970.68&#39;);trackCriteo(&#39;True&#39;, &#39;21791&#39;, &#39;30208347&#39;, &#39;970.68&#39;, &#39;d&#39;);trackFacebook(&quot;track&quot;,&quot;Purchase&quot;, &quot;30208347&quot;, &quot;0.18&quot;, &quot;&quot;, &quot;&quot;, &quot;&quot;, &quot;EUR&quot;, &quot;&quot;, &quot;&quot;);\" href=\"https://www.ceneje.si/Redirect/Deeplink?deeplink=x7C7N9IBEtKSo55Oi0b9OW8ZF+GYyME6h1CP//Rm7inFO4uKxFxV2KZw4N8ZiXJfSBGL02DXRmwpRFgscbvj3GApYYhfVTfjh8CCL1hDn6JropB8i9MB/XK3BRlUVp7JXfNVdFnAdkrbKYD5N+zwXCxyByDrajMX2I4wJ/Hc6HDzO9gqvjcYb82DT6WCvtWH8Eyn0CqGFAasfB7ChWqhItkzIFYWEIrsSIv0BktJTCEiabEfc7ISsNszFRRMdmii1p1mNxuCMoMkxYDJEkgSEpGoSypggNKflY05rPan3177YcPXghR5mjRBmBjJUR7RkaHDQAV+FMjmWqs6y9tjPQ==&amp;productId=30208347&amp;sellerId=2493&amp;pos=6&amp;of=14\"> <div class=\"price-value\"> <span class=\"hiddenInfo\"><span class=\"onOff isQtip\" title=\"Cena je bila osvežena danes ob 15:38.&lt;br /&gt;V vsakem primeru na strani trgovine preverite ali je aktualna cena enaka navedeni na tej strani.\" data-cclass=\"qtip-newQtipDesign\"></span></span> 970,68 €"
+    },
+    {
+      "Seller": "Big Bang",
+      "Price": "970,68 €",
+      "Discount": "<span class=\"discountValue\">-17 %</span><span class=\"crossedPrice\">1.206,73 €</span>"
+    },
+    {
+      "Seller": "BIRO.si",
+      "Price": "997,00 €",
+      "Discount": "<span class=\"discountValue\">-17 %</span><span class=\"crossedPrice\">1.206,73 €</span>"
+    },
+    {
+      "Seller": "Akcija.si",
+      "Price": "1.000,34 €",
+      "Discount": ""
+    },
+    {
+      "Seller": "ECE",
+      "Price": "1.037,99 €",
+      "Discount": "</div> <a target=\"_blank\" class=\"rateFunction floating\" onclick=\"trackGaDeeplinkEvent(&quot;https://www.ceneje.si/Redirect/Deeplink?deeplink=x7C7N9IBEtKSo55Oi0b9OW8ZF+GYyME6h1CP//Rm7inFO4uKxFxV2GsPOSpV8PrnKFdg6QDXKXBuDdbP6Dslz6uPt3G7UxJHSga+wRK1omAwz0Xpo6buQhLGDWqmpl2igBxVntVAKX4oH1vrpyqx+4upvv491gpA/yGmfCvmsgQetSTp6jpe43YWwVBwyFNJEo7bo5MLtS1eoTi+NbOc0tN5bWm7MuJV3pXNrrsHWOu0apqYJHlJXj2gmyv6rJbieOXLMzaE9sUA3WmEwBtUlLnsqOX+nP2D6MJAEHKCFSWucX0t6f2+rAWHR0rgEcDBk68W2s6BoaTiTBClfmEQViQYw0lriWv0&amp;productId=30208347&amp;sellerId=862&amp;cs=1&amp;pc=1&quot;, &quot;862_Big+Bang&quot;, &quot;0.18&quot;, &quot;EUR&quot;, &quot;30208347&quot;, &quot;Prenosnik+ACER+Nitro+5+AN517-52-577J+i5-10300H%2f8GB%2fSSD+512GB%2f17.3+FHD+IPS%2fGTX+1650+4GB%2fbrez+OS+%c4%8drn+-+43%2c9+cm+(17%2c3)&quot;, &quot;971_Prenosniki&quot;, &quot;0&quot;, &#39;productPage&#39;, &#39;deeplink&#39;, &#39;price&#39;);trackRtbDeeplink(&#39;True&#39;, &#39;D3GKNaK1V3YrRR3IVOkt&#39;, &#39;30208347&#39;, &#39;1037.99&#39;);trackCriteo(&#39;True&#39;, &#39;21791&#39;, &#39;30208347&#39;, &#39;1037.99&#39;, &#39;d&#39;);trackFacebook(&quot;track&quot;,&quot;Purchase&quot;, &quot;30208347&quot;, &quot;0.18&quot;, &quot;&quot;, &quot;&quot;, &quot;&quot;, &quot;EUR&quot;, &quot;&quot;, &quot;&quot;);\" href=\"https://www.ceneje.si/Redirect/Deeplink?deeplink=x7C7N9IBEtKSo55Oi0b9OW8ZF+GYyME6h1CP//Rm7inFO4uKxFxV2GsPOSpV8PrnKFdg6QDXKXBuDdbP6Dslz6uPt3G7UxJHSga+wRK1omAwz0Xpo6buQhLGDWqmpl2igBxVntVAKX4oH1vrpyqx+4upvv491gpA/yGmfCvmsgQetSTp6jpe43YWwVBwyFNJEo7bo5MLtS1eoTi+NbOc0tN5bWm7MuJV3pXNrrsHWOu0apqYJHlJXj2gmyv6rJbieOXLMzaE9sUA3WmEwBtUlLnsqOX+nP2D6MJAEHKCFSWucX0t6f2+rAWHR0rgEcDBk68W2s6BoaTiTBClfmEQViQYw0lriWv0&amp;productId=30208347&amp;sellerId=862&amp;cs=1&amp;pc=1&amp;pos=9&amp;of=14\"> <div class=\"price-value\"> <span class=\"hiddenInfo\"><span class=\"onOff isQtip\" title=\"Cena je bila osvežena danes ob 15:38.&lt;br /&gt;V vsakem primeru na strani trgovine preverite ali je aktualna cena enaka navedeni na tej strani.\" data-cclass=\"qtip-newQtipDesign\"></span></span> 1.037,99 €"
+    },
+    {
+      "Seller": "Najnakupi.si",
+      "Price": "1.077,00 €",
+      "Discount": ""
+    },
+    {
+      "Seller": "Kupčič",
+      "Price": "1.098,24 €",
+      "Discount": "</div> <a target=\"_blank\" class=\"rateFunction floating\" onclick=\"trackGaDeeplinkEvent(&quot;https://www.ceneje.si/Redirect/Deeplink?deeplink=x7C7N9IBEtKSo55Oi0b9OW8ZF+GYyME6h1CP//Rm7inFO4uKxFxV2NRI3VFb+n/LqRW5vdFOIVj5izwqe+EMArlS2RFkT6ynLoSU/QlDn425I8MukGrQx0eFXamj4FqXy//8b8BmbLdOvFdwQ9eNBFNz88IXS0mfOhhyf+t1k7LdqIrFWlKVcrnvhw8zzwGHKzrY5ES7Y94WCj0x9GjDnWuWG9waWgWAdcrtZ9TD772MD85qfxDsU0aSqH9sZ9ZFT0l47B1VGiew53XqJt8NecjnDWC1sjQl5i7VrEjwTzemtUmcqT/KcpC3SF5qMXDdYNuh8o4drxs9LSxCke1gg7lGH6IvyhvO&amp;productId=30208347&amp;sellerId=198&quot;, &quot;198_BIRO.si&quot;, &quot;0.18&quot;, &quot;EUR&quot;, &quot;30208347&quot;, &quot;Prenosnik+ACER+Nitro+5+AN517-52-577J+i5-10300H%2f8GB%2fSSD+512GB%2f17.3+FHD+IPS%2fGTX+1650+4GB%2fbrez+OS+%c4%8drn+-+43%2c9+cm+(17%2c3)&quot;, &quot;971_Prenosniki&quot;, &quot;0&quot;, &#39;productPage&#39;, &#39;deeplink&#39;, &#39;price&#39;);trackRtbDeeplink(&#39;True&#39;, &#39;D3GKNaK1V3YrRR3IVOkt&#39;, &#39;30208347&#39;, &#39;1077&#39;);trackCriteo(&#39;True&#39;, &#39;21791&#39;, &#39;30208347&#39;, &#39;1077&#39;, &#39;d&#39;);trackFacebook(&quot;track&quot;,&quot;Purchase&quot;, &quot;30208347&quot;, &quot;0.18&quot;, &quot;&quot;, &quot;&quot;, &quot;&quot;, &quot;EUR&quot;, &quot;&quot;, &quot;&quot;);\" href=\"https://www.ceneje.si/Redirect/Deeplink?deeplink=x7C7N9IBEtKSo55Oi0b9OW8ZF+GYyME6h1CP//Rm7inFO4uKxFxV2NRI3VFb+n/LqRW5vdFOIVj5izwqe+EMArlS2RFkT6ynLoSU/QlDn425I8MukGrQx0eFXamj4FqXy//8b8BmbLdOvFdwQ9eNBFNz88IXS0mfOhhyf+t1k7LdqIrFWlKVcrnvhw8zzwGHKzrY5ES7Y94WCj0x9GjDnWuWG9waWgWAdcrtZ9TD772MD85qfxDsU0aSqH9sZ9ZFT0l47B1VGiew53XqJt8NecjnDWC1sjQl5i7VrEjwTzemtUmcqT/KcpC3SF5qMXDdYNuh8o4drxs9LSxCke1gg7lGH6IvyhvO&amp;productId=30208347&amp;sellerId=198&amp;pos=10&amp;of=14\"> <div class=\"price-value\"> <span class=\"hiddenInfo\"><span class=\"onOff isQtip\" title=\"Cena je bila osvežena danes ob 15:38.&lt;br /&gt;V vsakem primeru na strani trgovine preverite ali je aktualna cena enaka navedeni na tej strani.\" data-cclass=\"qtip-newQtipDesign\"></span></span> 1.077,00 €"
+    }
+  ]
+}
