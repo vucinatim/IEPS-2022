@@ -18,10 +18,16 @@ $ conda create --name <env> --file requirements.txt
 Run each of the implementations seperately with different arguments (A, B, C)
 
 1. Regex Extraction
+```
 python run-extraction.py A
+```
 
 2. XPath Extraction
+```
 python run-extraction.py B
+```
 
 3. RoadRunner
+```
 python run-extraction.py C
+```
