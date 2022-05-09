@@ -317,7 +317,7 @@ def print_wrapper(wrapper):
 
 def auto_extract(sites):
     for idx, site in enumerate(sites):
-        if idx != 2:
+        if idx != 0:
             continue
         p_names = list(site.keys())
         p_htmls = list(site.values())
