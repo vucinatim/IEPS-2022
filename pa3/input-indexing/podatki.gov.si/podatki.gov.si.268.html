@@ -1,0 +1,824 @@
+<!DOCTYPE html><html xmlns="http://www.w3.org/1999/xhtml" lang="sl" class="js " style="height: 100%;"><head><meta class="foundation-mq-small" /><meta class="foundation-mq-small-only" /><meta class="foundation-mq-medium" /><meta class="foundation-mq-medium-only" /><meta class="foundation-mq-large" /><meta class="foundation-mq-large-only" /><meta class="foundation-mq-xlarge" /><meta class="foundation-mq-xlarge-only" /><meta class="foundation-mq-xxlarge" /><meta class="foundation-data-attribute-namespace" />
+    <!-- IE=edge tells IE8 not to be tempted to use IE7 compatibility/quirks modes.
+          chrome=IE7 tells IE7 to use the Chrome Frame if available - good for Flex machines.
+          Should be the first meta tag in the body. -->
+    <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=IE7" />
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<link rel="shortcut icon" href="https://podatki.gov.si/sites/all/themes/custom/opsi_theme/favicon.ico" type="image/vnd.microsoft.icon" />
+<meta name="Generator" content="Drupal 7 (http://drupal.org)" />
+    <title>Objavi aplikacijo | OPSI - Odprti podatki Slovenije</title>
+    <style type="text/css" media="all">
+@import url("https://podatki.gov.si/modules/system/system.base.css?pnwv4v");
+@import url("https://podatki.gov.si/modules/system/system.menus.css?pnwv4v");
+@import url("https://podatki.gov.si/modules/system/system.messages.css?pnwv4v");
+@import url("https://podatki.gov.si/modules/system/system.theme.css?pnwv4v");
+</style>
+<style type="text/css" media="all">
+@import url("https://podatki.gov.si/profiles/dgu/modules/contrib/jquery_update/replace/ui/themes/base/minified/jquery.ui.core.min.css?pnwv4v");
+@import url("https://podatki.gov.si/profiles/dgu/modules/contrib/jquery_update/replace/ui/themes/base/minified/jquery.ui.theme.min.css?pnwv4v");
+@import url("https://podatki.gov.si/profiles/dgu/modules/contrib/jquery_update/replace/ui/themes/base/minified/jquery.ui.resizable.min.css?pnwv4v");
+@import url("https://podatki.gov.si/profiles/dgu/modules/contrib/jquery_update/replace/ui/themes/base/minified/jquery.ui.button.min.css?pnwv4v");
+@import url("https://podatki.gov.si/profiles/dgu/modules/contrib/jquery_update/replace/ui/themes/base/minified/jquery.ui.dialog.min.css?pnwv4v");
+@import url("https://podatki.gov.si/profiles/dgu/modules/contrib/media/css/media.css?pnwv4v");
+@import url("https://podatki.gov.si/misc/vertical-tabs.css?pnwv4v");
+</style>
+<style type="text/css" media="all">
+@import url("https://podatki.gov.si/modules/book/book.css?pnwv4v");
+@import url("https://podatki.gov.si/sites/all/modules/contrib/date/date_api/date.css?pnwv4v");
+@import url("https://podatki.gov.si/sites/all/modules/contrib/date/date_popup/themes/datepicker.1.7.css?pnwv4v");
+@import url("https://podatki.gov.si/modules/field/theme/field.css?pnwv4v");
+@import url("https://podatki.gov.si/profiles/dgu/modules/contrib/logintoboggan/logintoboggan.css?pnwv4v");
+@import url("https://podatki.gov.si/modules/node/node.css?pnwv4v");
+@import url("https://podatki.gov.si/modules/search/search.css?pnwv4v");
+@import url("https://podatki.gov.si/modules/user/user.css?pnwv4v");
+@import url("https://podatki.gov.si/profiles/dgu/modules/contrib/extlink/extlink.css?pnwv4v");
+@import url("https://podatki.gov.si/profiles/dgu/modules/contrib/views/css/views.css?pnwv4v");
+</style>
+<style type="text/css" media="all">
+@import url("https://podatki.gov.si/profiles/dgu/modules/contrib/apachesolr_autocomplete/apachesolr_autocomplete.css?pnwv4v");
+@import url("https://podatki.gov.si/profiles/dgu/modules/contrib/apachesolr_autocomplete/jquery-autocomplete/jquery.autocomplete.css?pnwv4v");
+@import url("https://podatki.gov.si/profiles/dgu/modules/contrib/ctools/css/ctools.css?pnwv4v");
+@import url("https://podatki.gov.si/profiles/dgu/modules/contrib/lexicon/css/lexicon.css?pnwv4v");
+@import url("https://podatki.gov.si/profiles/dgu/modules/contrib/panels/css/panels.css?pnwv4v");
+@import url("https://podatki.gov.si/modules/filter/filter.css?pnwv4v");
+@import url("https://podatki.gov.si/profiles/dgu/modules/contrib/link/link.css?pnwv4v");
+@import url("https://podatki.gov.si/profiles/dgu/modules/contrib/imagefield_crop/Jcrop/css/jquery.Jcrop.css?pnwv4v");
+@import url("https://podatki.gov.si/modules/file/file.css?pnwv4v");
+@import url("https://podatki.gov.si/modules/image/image.css?pnwv4v");
+@import url("https://podatki.gov.si/profiles/dgu/modules/contrib/field_group/field_group.field_ui.css?pnwv4v");
+@import url("https://podatki.gov.si/profiles/dgu/modules/features/dgu_glossary/css/dgu_glossary.css?pnwv4v");
+</style>
+<style type="text/css" media="all">
+@import url("https://podatki.gov.si/sites/all/themes/custom/opsi_theme/css/app.css?pnwv4v");
+@import url("https://podatki.gov.si/sites/all/themes/custom/opsi_theme/fonts/opsi/opsi.css?pnwv4v");
+</style>
+<style type="text/css" media="print">
+@import url("https://podatki.gov.si/sites/all/themes/custom/opsi_theme/css/print.css?pnwv4v");
+</style>
+
+    <!--<link href='https://fonts.googleapis.com/css?family=Roboto:400,300,500,700,900&subset=latin,latin-ext' rel='stylesheet' type='text/css'>-->
+
+    <link rel="apple-touch-icon" sizes="152x152" href="img/icons/apple-touch-icon-152x152.png" />
+    <link rel="apple-touch-icon" sizes="144x144" href="img/icons/apple-touch-icon-144x144.png" />
+    <link rel="apple-touch-icon" sizes="120x120" href="img/icons/apple-touch-icon-120x120.png" />
+    <link rel="apple-touch-icon" sizes="114x114" href="img/icons/apple-touch-icon-114x114.png" />
+    <link rel="apple-touch-icon" sizes="76x76" href="img/icons/apple-touch-icon-76x76.png" />
+    <link rel="apple-touch-icon" sizes="72x72" href="img/icons/apple-touch-icon-72x72.png" />
+    <link rel="apple-touch-icon" sizes="60x60" href="img/icons/apple-touch-icon-60x60.png" />
+    <link rel="apple-touch-icon" sizes="57x57" href="img/icons/apple-touch-icon-57x57.png" />
+
+    <meta name="msapplication-TileColor" content="#c7d8e2" />
+    <meta name="msapplication-TileImage" content="img/icons/mstile-144x144.png" />
+
+    <!-- <link rel="stylesheet" href="/assets/css/dgu-drupal.min.css" /> -->
+    <script type="text/javascript" async="" defer="" src="/analitika/piwik.js"></script><script src="//ajax.googleapis.com/ajax/libs/jquery/1.8.3/jquery.min.js"></script>
+    <script>
+      //&lt;![CDATA[
+      window.jQuery || document.write('&lt;script src="/assets/js/jquery-1.8.3.min.js"&gt;&lt;\/script&gt;')
+      // ]]&gt;
+    </script>
+    <script src="/sites/all/themes/custom/opsi_theme/js/underscore-min.js"></script>
+    
+    <!--<script src="/assets/js/vendor.min.js"></script>-->
+    <!--<script src="http://pops-ckan-test.xlab.si/assets/js/dgu-drupal.min.js"></script> not in use -->
+    <!--<script src="http://pops-ckan-test.xlab.si/assets/js/dgu-shared.min.js"></script> not in use -->
+    
+    <script type="text/javascript" src="https://podatki.gov.si/profiles/dgu/modules/contrib/jquery_update/replace/jquery/1.8/jquery.min.js?v=1.8.3"></script>
+<script type="text/javascript" src="https://podatki.gov.si/misc/jquery.once.js?v=1.2"></script>
+<script type="text/javascript" src="https://podatki.gov.si/misc/drupal.js?pnwv4v"></script>
+<script type="text/javascript" src="https://podatki.gov.si/profiles/dgu/modules/contrib/jquery_update/replace/ui/ui/minified/jquery.ui.core.min.js?v=1.10.2"></script>
+<script type="text/javascript" src="https://podatki.gov.si/profiles/dgu/modules/contrib/jquery_update/replace/ui/ui/minified/jquery.ui.widget.min.js?v=1.10.2"></script>
+<script type="text/javascript" src="https://podatki.gov.si/profiles/dgu/modules/contrib/media/js/media.core.js?v=7.x-2.0-beta5"></script>
+<script type="text/javascript" src="https://podatki.gov.si/profiles/dgu/modules/contrib/jquery_update/replace/ui/ui/minified/jquery.ui.mouse.min.js?v=1.10.2"></script>
+<script type="text/javascript" src="https://podatki.gov.si/profiles/dgu/modules/contrib/jquery_update/replace/ui/ui/minified/jquery.ui.resizable.min.js?v=1.10.2"></script>
+<script type="text/javascript" src="https://podatki.gov.si/profiles/dgu/modules/contrib/jquery_update/replace/ui/ui/minified/jquery.ui.draggable.min.js?v=1.10.2"></script>
+<script type="text/javascript" src="https://podatki.gov.si/profiles/dgu/modules/contrib/jquery_update/replace/ui/ui/minified/jquery.ui.button.min.js?v=1.10.2"></script>
+<script type="text/javascript" src="https://podatki.gov.si/profiles/dgu/modules/contrib/jquery_update/replace/ui/ui/minified/jquery.ui.position.min.js?v=1.10.2"></script>
+<script type="text/javascript" src="https://podatki.gov.si/profiles/dgu/modules/contrib/jquery_update/replace/ui/ui/minified/jquery.ui.dialog.min.js?v=1.10.2"></script>
+<script type="text/javascript" src="https://podatki.gov.si/profiles/dgu/modules/contrib/media/js/util/json2.js?v=7.x-2.0-beta5"></script>
+<script type="text/javascript" src="https://podatki.gov.si/profiles/dgu/modules/contrib/media/js/util/ba-debug.min.js?v=7.x-2.0-beta5"></script>
+<script type="text/javascript" src="https://podatki.gov.si/profiles/dgu/modules/contrib/jquery_update/replace/ui/external/jquery.cookie.js?v=67fb34f6a866c40d0570"></script>
+<script type="text/javascript" src="https://podatki.gov.si/profiles/dgu/modules/contrib/jquery_update/replace/jquery.form/3/jquery.form.min.js?v=3.51.0"></script>
+<script type="text/javascript" src="https://podatki.gov.si/misc/vertical-tabs.js?v=1.0"></script>
+<script type="text/javascript" src="https://podatki.gov.si/misc/form.js?v=7.51"></script>
+<script type="text/javascript" src="https://podatki.gov.si/misc/ajax.js?v=7.51"></script>
+<script type="text/javascript" src="https://podatki.gov.si/profiles/dgu/modules/contrib/jquery_update/js/jquery_update.js?v=0.0.1"></script>
+<script type="text/javascript" src="https://podatki.gov.si/profiles/dgu/modules/contrib/admin_menu/admin_devel/admin_devel.js?pnwv4v"></script>
+<script type="text/javascript" src="https://podatki.gov.si/sites/all/modules/contrib/ajax_dlcount/ajax_dlcount.js?pnwv4v"></script>
+<script type="text/javascript" src="https://podatki.gov.si/profiles/dgu/modules/features/dgu_data_set_request/dgu_data_set_request.js?pnwv4v"></script>
+<script type="text/javascript" src="https://podatki.gov.si/profiles/dgu/modules/features/dgu_site_feature/dgu_site.js?pnwv4v"></script>
+<script type="text/javascript" src="https://podatki.gov.si/profiles/dgu/modules/contrib/extlink/extlink.js?pnwv4v"></script>
+<script type="text/javascript" src="https://podatki.gov.si/misc/tabledrag.js?pnwv4v"></script>
+<script type="text/javascript" src="https://podatki.gov.si/sites/default/files/languages/sl__Gk-aYE9n7HlS8j58Zic-veyOGVU24Dfp6PMKy452RY.js?pnwv4v"></script>
+<script type="text/javascript" src="https://podatki.gov.si/profiles/dgu/modules/contrib/apachesolr_autocomplete/apachesolr_autocomplete.js?pnwv4v"></script>
+<script type="text/javascript" src="https://podatki.gov.si/profiles/dgu/modules/contrib/apachesolr_autocomplete/jquery-autocomplete/jquery.autocomplete.js?pnwv4v"></script>
+<script type="text/javascript" src="https://podatki.gov.si/sites/all/modules/contrib/captcha/captcha.js?pnwv4v"></script>
+<script type="text/javascript" src="https://podatki.gov.si/sites/all/modules/custom/opsi/lib/cryptojs-aes-php-master/example/aes.js?pnwv4v"></script>
+<script type="text/javascript" src="https://podatki.gov.si/sites/all/modules/custom/opsi/lib/cryptojs-aes-php-master/aes-json-format.js?pnwv4v"></script>
+<script type="text/javascript" src="https://podatki.gov.si/misc/textarea.js?v=7.51"></script>
+<script type="text/javascript" src="https://podatki.gov.si/modules/field/modules/text/text.js?pnwv4v"></script>
+<script type="text/javascript" src="https://podatki.gov.si/profiles/dgu/modules/contrib/media/js/media.popups.js?v=7.x-2.0-beta5"></script>
+<script type="text/javascript" src="https://podatki.gov.si/modules/filter/filter.js?pnwv4v"></script>
+<script type="text/javascript" src="https://podatki.gov.si/profiles/dgu/modules/contrib/media/modules/media_wysiwyg/js/media_wysiwyg.filter.js?pnwv4v"></script>
+<script type="text/javascript" src="https://podatki.gov.si/misc/progress.js?v=7.51"></script>
+<script type="text/javascript" src="https://podatki.gov.si/profiles/dgu/modules/contrib/imagefield_crop/Jcrop/js/jquery.Jcrop.js?pnwv4v"></script>
+<script type="text/javascript" src="https://podatki.gov.si/profiles/dgu/modules/contrib/imagefield_crop/imagefield_crop.js?pnwv4v"></script>
+<script type="text/javascript" src="https://podatki.gov.si/misc/autocomplete.js?v=7.51"></script>
+<script type="text/javascript" src="https://podatki.gov.si/modules/file/file.js?pnwv4v"></script>
+<script type="text/javascript" src="https://podatki.gov.si/misc/tableheader.js?pnwv4v"></script>
+<script type="text/javascript" src="https://podatki.gov.si/modules/node/node.js?pnwv4v"></script>
+<script type="text/javascript" src="https://podatki.gov.si/profiles/dgu/modules/contrib/workbench_moderation/js/workbench_moderation.js?pnwv4v"></script>
+<script type="text/javascript" src="https://podatki.gov.si/sites/all/themes/custom/opsi_theme/js/modernizr-custom.js?pnwv4v"></script>
+<script type="text/javascript" src="https://podatki.gov.si/sites/all/themes/custom/opsi_theme/js/app.min.js?pnwv4v"></script><style></style>
+<script type="text/javascript">
+&lt;!--//--&gt;&lt;![CDATA[//&gt;&lt;!--
+jQuery.extend(Drupal.settings, {"basePath":"\/","pathPrefix":"","ajaxPageState":{"theme":"opsi_theme","theme_token":"4u7nadFSO1TFz0RDaXy2RY3zkbHuaNYUbw-8I4KGznY","jquery_version":"1.8","js":{"profiles\/dgu\/modules\/contrib\/jquery_update\/replace\/jquery\/1.8\/jquery.min.js":1,"misc\/jquery.once.js":1,"misc\/drupal.js":1,"profiles\/dgu\/modules\/contrib\/jquery_update\/replace\/ui\/ui\/minified\/jquery.ui.core.min.js":1,"profiles\/dgu\/modules\/contrib\/jquery_update\/replace\/ui\/ui\/minified\/jquery.ui.widget.min.js":1,"profiles\/dgu\/modules\/contrib\/media\/js\/media.core.js":1,"profiles\/dgu\/modules\/contrib\/jquery_update\/replace\/ui\/ui\/minified\/jquery.ui.mouse.min.js":1,"profiles\/dgu\/modules\/contrib\/jquery_update\/replace\/ui\/ui\/minified\/jquery.ui.resizable.min.js":1,"profiles\/dgu\/modules\/contrib\/jquery_update\/replace\/ui\/ui\/minified\/jquery.ui.draggable.min.js":1,"profiles\/dgu\/modules\/contrib\/jquery_update\/replace\/ui\/ui\/minified\/jquery.ui.button.min.js":1,"profiles\/dgu\/modules\/contrib\/jquery_update\/replace\/ui\/ui\/minified\/jquery.ui.position.min.js":1,"profiles\/dgu\/modules\/contrib\/jquery_update\/replace\/ui\/ui\/minified\/jquery.ui.dialog.min.js":1,"profiles\/dgu\/modules\/contrib\/media\/js\/util\/json2.js":1,"profiles\/dgu\/modules\/contrib\/media\/js\/util\/ba-debug.min.js":1,"profiles\/dgu\/modules\/contrib\/jquery_update\/replace\/ui\/external\/jquery.cookie.js":1,"profiles\/dgu\/modules\/contrib\/jquery_update\/replace\/jquery.form\/3\/jquery.form.min.js":1,"misc\/vertical-tabs.js":1,"misc\/form.js":1,"misc\/ajax.js":1,"profiles\/dgu\/modules\/contrib\/jquery_update\/js\/jquery_update.js":1,"profiles\/dgu\/modules\/contrib\/admin_menu\/admin_devel\/admin_devel.js":1,"sites\/all\/modules\/contrib\/ajax_dlcount\/ajax_dlcount.js":1,"profiles\/dgu\/modules\/features\/dgu_data_set_request\/dgu_data_set_request.js":1,"profiles\/dgu\/modules\/features\/dgu_site_feature\/dgu_site.js":1,"profiles\/dgu\/modules\/contrib\/extlink\/extlink.js":1,"misc\/tabledrag.js":1,"public:\/\/languages\/sl__Gk-aYE9n7HlS8j58Zic-veyOGVU24Dfp6PMKy452RY.js":1,"profiles\/dgu\/modules\/contrib\/apachesolr_autocomplete\/apachesolr_autocomplete.js":1,"profiles\/dgu\/modules\/contrib\/apachesolr_autocomplete\/jquery-autocomplete\/jquery.autocomplete.js":1,"sites\/all\/modules\/contrib\/captcha\/captcha.js":1,"sites\/all\/modules\/custom\/opsi\/lib\/cryptojs-aes-php-master\/example\/aes.js":1,"sites\/all\/modules\/custom\/opsi\/lib\/cryptojs-aes-php-master\/aes-json-format.js":1,"misc\/textarea.js":1,"modules\/field\/modules\/text\/text.js":1,"profiles\/dgu\/modules\/contrib\/media\/js\/media.popups.js":1,"modules\/filter\/filter.js":1,"profiles\/dgu\/modules\/contrib\/media\/modules\/media_wysiwyg\/js\/media_wysiwyg.filter.js":1,"misc\/progress.js":1,"profiles\/dgu\/modules\/contrib\/imagefield_crop\/Jcrop\/js\/jquery.Jcrop.js":1,"profiles\/dgu\/modules\/contrib\/imagefield_crop\/imagefield_crop.js":1,"misc\/autocomplete.js":1,"modules\/file\/file.js":1,"misc\/tableheader.js":1,"modules\/node\/node.js":1,"profiles\/dgu\/modules\/contrib\/workbench_moderation\/js\/workbench_moderation.js":1,"sites\/all\/themes\/custom\/opsi_theme\/js\/modernizr-custom.js":1,"sites\/all\/themes\/custom\/opsi_theme\/js\/app.min.js":1},"css":{"modules\/system\/system.base.css":1,"modules\/system\/system.menus.css":1,"modules\/system\/system.messages.css":1,"modules\/system\/system.theme.css":1,"misc\/ui\/jquery.ui.core.css":1,"misc\/ui\/jquery.ui.theme.css":1,"misc\/ui\/jquery.ui.resizable.css":1,"misc\/ui\/jquery.ui.button.css":1,"misc\/ui\/jquery.ui.dialog.css":1,"profiles\/dgu\/modules\/contrib\/media\/css\/media.css":1,"misc\/vertical-tabs.css":1,"modules\/book\/book.css":1,"sites\/all\/modules\/contrib\/date\/date_api\/date.css":1,"sites\/all\/modules\/contrib\/date\/date_popup\/themes\/datepicker.1.7.css":1,"modules\/field\/theme\/field.css":1,"profiles\/dgu\/modules\/contrib\/logintoboggan\/logintoboggan.css":1,"modules\/node\/node.css":1,"modules\/search\/search.css":1,"modules\/user\/user.css":1,"profiles\/dgu\/modules\/contrib\/extlink\/extlink.css":1,"profiles\/dgu\/modules\/contrib\/views\/css\/views.css":1,"profiles\/dgu\/modules\/contrib\/apachesolr_autocomplete\/apachesolr_autocomplete.css":1,"profiles\/dgu\/modules\/contrib\/apachesolr_autocomplete\/jquery-autocomplete\/jquery.autocomplete.css":1,"profiles\/dgu\/modules\/contrib\/ctools\/css\/ctools.css":1,"profiles\/dgu\/modules\/contrib\/lexicon\/css\/lexicon.css":1,"profiles\/dgu\/modules\/contrib\/panels\/css\/panels.css":1,"modules\/filter\/filter.css":1,"profiles\/dgu\/modules\/contrib\/link\/link.css":1,"profiles\/dgu\/modules\/contrib\/imagefield_crop\/Jcrop\/css\/jquery.Jcrop.css":1,"modules\/file\/file.css":1,"modules\/image\/image.css":1,"profiles\/dgu\/modules\/contrib\/field_group\/field_group.field_ui.css":1,"profiles\/dgu\/modules\/features\/dgu_glossary\/css\/dgu_glossary.css":1,"sites\/all\/themes\/custom\/opsi_theme\/css\/app.css":1,"sites\/all\/themes\/custom\/opsi_theme\/fonts\/opsi\/opsi.css":1,"sites\/all\/themes\/custom\/opsi_theme\/css\/print.css":1}},"apachesolr_autocomplete":{"path":"\/apachesolr_autocomplete"},"extlink":{"extTarget":0,"extClass":"ext","extLabel":"(link is external)","extImgClass":0,"extSubdomains":1,"extExclude":"","extInclude":"","extCssExclude":"div .pull-right","extCssExplicit":"","extAlert":0,"extAlertText":"This link will take you to an external web site.","mailtoClass":0,"mailtoLabel":"(link sends e-mail)"},"media":{"browserUrl":"\/media\/browser?render=media-popup","styleSelectorUrl":"\/media\/-media_id-\/format-form?render=media-popup","dialogOptions":{"dialogclass":"media-wrapper","modal":true,"draggable":false,"resizable":false,"minwidth":500,"width":670,"height":280,"position":"center","overlay":{"backgroundcolor":"#000000","opacity":0.4},"zindex":10000},"wysiwyg_allowed_attributes":["alt","title","height","width","hspace","vspace","border","align","style","class","id","usemap","data-picture-group","data-picture-align","data-picture-mapping"],"img_alt_field":"field_file_image_alt_text","img_title_field":"field_file_image_title_text"},"tagmap":[],"wysiwyg":{"triggers":{"edit-body-und-0-value":{"field":"edit-body-und-0-value","resizable":1,"summary":"edit-body-und-0-summary","activeFormat":"plain_text"}}},"file":{"elements":{"#edit-field-app-thumbnail-und-0-upload":"png,gif,jpg,jpeg","#edit-field-screen-shots-und-0-upload":"png,gif,jpg,jpeg"}},"ajax":{"edit-field-app-thumbnail-und-0-upload-button":{"wrapper":"edit-field-app-thumbnail-und-0-ajax-wrapper","effect":"fade","progress":{"type":"throbber","message":null},"event":"mousedown","keypress":true,"prevent":"click","url":"\/file\/ajax\/field_app_thumbnail\/und\/0\/form-ELLsSuFfPlZQgcN06Fq--wTqcvYwxX_EsKm0n5iAfv8","submit":{"_triggering_element_name":"field_app_thumbnail_und_0_upload_button","_triggering_element_value":"Nalaganje"}},"edit-field-screen-shots-und-0-upload-button":{"wrapper":"edit-field-screen-shots-und-ajax-wrapper","effect":"fade","progress":{"type":"throbber","message":null},"event":"mousedown","keypress":true,"prevent":"click","url":"\/file\/ajax\/field_screen_shots\/und\/form-ELLsSuFfPlZQgcN06Fq--wTqcvYwxX_EsKm0n5iAfv8","submit":{"_triggering_element_name":"field_screen_shots_und_0_upload_button","_triggering_element_value":"Nalaganje"}},"edit-field-uses-dataset-und-add-more":{"callback":"field_add_more_js","wrapper":"field-uses-dataset-add-more-wrapper","effect":"fade","event":"mousedown","keypress":true,"prevent":"click","url":"\/system\/ajax","submit":{"_triggering_element_name":"field_uses_dataset_add_more","_triggering_element_value":"Dodaj \u0161e eno..."}}},"urlIsAjaxTrusted":{"\/file\/ajax\/field_app_thumbnail\/und\/0\/form-ELLsSuFfPlZQgcN06Fq--wTqcvYwxX_EsKm0n5iAfv8":true,"\/file\/ajax\/field_screen_shots\/und\/form-ELLsSuFfPlZQgcN06Fq--wTqcvYwxX_EsKm0n5iAfv8":true,"\/system\/ajax":true,"\/aplikacije\/dodaj":true},"tableDrag":{"edit-field-screen-shots-und-table":{"edit-field-screen-shots-und-weight":[{"target":"edit-field-screen-shots-und-weight","source":"edit-field-screen-shots-und-weight","relationship":"sibling","action":"order","hidden":true,"limit":0}]},"field-uses-dataset-values":{"field_uses_dataset-delta-order":[{"target":"field_uses_dataset-delta-order","source":"field_uses_dataset-delta-order","relationship":"sibling","action":"order","hidden":true,"limit":0}]}}});
+//--&gt;&lt;!]]&gt;
+</script>
+
+    <!-- HTML5 element support for IE8 -->
+    <!--[if lt IE 9]>
+    <script src="//cdnjs.cloudflare.com/ajax/libs/html5shiv/3.6.2/html5shiv.js"></script>
+    <script src="//s3.amazonaws.com/nwapi/nwmatcher/nwmatcher-1.2.5-min.js"></script>
+    <script src="//html5base.googlecode.com/svn-history/r38/trunk/js/selectivizr-1.0.3b.js"></script>
+    <script src="//cdnjs.cloudflare.com/ajax/libs/respond.js/1.1.0/respond.min.js"></script>
+    <link rel="stylesheet" href="/sites/all/themes/custom/opsi/css/ie8.css" />
+    <![endif]-->
+
+    <!-- Temporary -->
+    <!-- <link rel="stylesheet" href="/assets/css/datagovuk.min.css?-1"> -->
+  <link type="text/css" rel="stylesheet" charset="UTF-8" href="https://translate.googleapis.com/translate_static/css/translateelement.css" /><script type="text/javascript" charset="UTF-8" src="https://translate.googleapis.com/translate_static/js/element/main.js"></script><meta class="foundation-mq-topbar" /><script type="text/javascript" charset="UTF-8" src="https://translate.googleapis.com/element/TE_20181015_01/e/js/element/element_main.js"></script></head>
+    <body class="html not-front not-logged-in no-sidebars page-aplikacije page-aplikacije-dodaj i18n-sl view_theme_0" style="position: relative; min-height: 100%; top: 40px;"><div class="skiptranslate" style=""><iframe id=":2.container" class="goog-te-banner-frame skiptranslate" frameborder="0" src="javascript:''" style="visibility:visible"></iframe></div>
+    <!-- Piwik --> 
+    <script type="text/javascript"> 
+      var _paq = _paq || []; 
+      _paq.push(['trackPageView']);
+      _paq.push(['enableLinkTracking']);
+      (function() { 
+        var u="/analitika/"; 
+        _paq.push(['setTrackerUrl', u+'piwik.php']); 
+        _paq.push(['setSiteId', 4]); 
+        var d=document, g=d.createElement('script'), s=d.getElementsByTagName('script')[0]; 
+        g.type='text/javascript'; g.async=true; g.defer=true; g.src=u+'piwik.js'; s.parentNode.insertBefore(g,s); 
+      })(); 
+    </script> 
+    <noscript>&lt;p&gt;&lt;img src="/analitika/piwik.php?idsite=4" style="border:0;" alt="" /&gt;&lt;/p&gt;</noscript> 
+    <!-- End Piwik Code --> 
+        
+<header class="page print-hide">
+
+<div class="contain-to-grid sticky">
+  <div class="top-bar" data-topbar="" data-options="sticky_on: large">
+
+    <div class="row expanded top">
+      <div class="small-4 columns">
+        <a class="logo rs-mju image_background icon icon-rs-mju ext" target="_blank" href="http://www.mju.gov.si/" title="Ministrstvo za javno upravo"></a>
+      </div>
+      <div class="small-8 columns hide-for-medium-up">
+        <a class="burger hide-for-medium-up" href="#"><div></div></a>
+      </div>
+      <div class="small-12 medium-8 columns right-wrapper">
+        <a class="logo ess icon-ess show-for-large-up ext" target="_blank" href="http://www.eu-skladi.si/" title="Evropski socialni sklad"></a>
+        <div class="right">
+          <div id="google_translate_element" class="visible-for-medium-up"><div class="skiptranslate goog-te-gadget" dir="ltr" style=""><div id=":0.targetLanguage" class="goog-te-gadget-simple" style="white-space: nowrap;"><img src="https://www.google.com/images/cleardot.gif" class="goog-te-gadget-icon" alt="" style="background-image: url(&quot;https://translate.googleapis.com/translate_static/img/te_ctrl3.gif&quot;); background-position: -65px 0px;" /><span style="vertical-align: middle;"><a aria-haspopup="true" class="goog-te-menu-value" href="javascript:void(0)"><span>Select Language</span><img src="https://www.google.com/images/cleardot.gif" alt="" width="1" height="1" /><span style="border-left: 1px solid rgb(187, 187, 187);">​</span><img src="https://www.google.com/images/cleardot.gif" alt="" width="1" height="1" /><span aria-hidden="true" style="color: rgb(118, 118, 118);">▼</span></a></span></div></div></div>
+          <script type="text/javascript">
+          function googleTranslateElementInit() {
+            new google.translate.TranslateElement({pageLanguage: 'sl', layout: google.translate.TranslateElement.InlineLayout.SIMPLE}, 'google_translate_element');
+          }
+          </script>
+          <script type="text/javascript" src="//translate.google.com/translate_a/element.js?cb=googleTranslateElementInit"></script>
+          <nav id="menu-header-top">
+              <div class="region region-header-top-right-nav">
+    <div id="block-system-user-menu" class="block block-system block-menu boxed">
+
+    <h2>User menu</h2>
+  
+  <div class="content">
+    <ul class="menu"><li class="first leaf"><span id="accessibility" class="nolink">Dostopnost</span></li>
+<li class="leaf"><a href="/kontakt">Kontakti</a></li>
+<li class="last leaf"><a href="/user/login" id="user" class="login icon-user">Log in</a></li>
+</ul>  </div>
+</div>
+  </div>
+          </nav>
+        </div>
+      </div>
+    </div>
+
+    
+    <div class="row accessibility">
+      <div class="small-12 width-limit">
+
+        <h5>Pisava</h5>
+
+        <div class="row" data-equalizer="text">
+
+          <div class="small-12 medium-4 columns">
+            <div class="accessibility-box" data-equalizer-watch="">
+              <h6>Velikost</h6>
+              Uporabite
+                <ul>
+                  <li><strong>CTRL+</strong> za povečavo</li>
+                  <li><strong>CTRL-</strong> za pomanjšavo</li>
+                </ul>
+            </div>
+          </div>
+
+          <div class="small-12 medium-4 columns">
+            <div class="accessibility-box" data-equalizer-watch="">
+              <h6>Velike / male črke</h6>
+              <div class="row">
+                <div class="small-6 columns element">
+                  <a view_mode="view_upper" class="view_mode view_lower active">Male</a>
+                </div>
+                <div class="small-6 columns element">
+                  <a view_mode="view_upper" class="view_mode view_upper ">Velike</a>
+                </div>
+              </div>
+            </div>
+          </div>
+
+          <div class="small-12 medium-4 columns">
+            <div class="accessibility-box" data-equalizer-watch="">
+              <h6>Stil</h6>
+              <div class="row">
+                <div class="small-6 columns element">
+                  <a view_mode="view_strong" class="view_mode  view_normal active">Navadno</a>
+                </div>
+                <div class="small-6 columns element">
+                  <a view_mode="view_strong" class="view_mode  view_strong ">Krepko</a>
+                </div>
+              </div>
+
+            </div>
+          </div>
+
+        </div>
+
+        <h5>Teme</h5>
+
+        <div class="row themes" data-equalizer="">
+            
+              <div class="small-6 medium-4 large-2 columns element">
+                <a view_theme="0" class="view_theme view_theme_0  active" title="Belo ozadje, sans-serifna pisava" data-equalizer-watch="">
+                  <div class="bold">Krepko</div>
+                  <div class="regular">Navadno</div>
+                  <div class="link">Povezava</div>
+                </a>
+              </div>
+              
+              <div class="small-6 medium-4 large-2 columns element">
+                <a view_theme="1" class="view_theme view_theme_1 " title="Belo ozadje, črna pisava" data-equalizer-watch="">
+                  <div class="bold">Krepko</div>
+                  <div class="regular">Navadno</div>
+                  <div class="link">Povezava</div>
+                </a>
+              </div>
+              
+              <div class="small-6 medium-4 large-2 columns element">
+                <a view_theme="2" class="view_theme view_theme_2 " title="Modro ozadje, rumena pisava" data-equalizer-watch="">
+                  <div class="bold">Krepko</div>
+                  <div class="regular">Navadno</div>
+                  <div class="link">Povezava</div>
+                </a>
+              </div>
+              
+              <div class="small-6 medium-4 large-2 columns element">
+                <a view_theme="3" class="view_theme view_theme_3 " title="Bež ozadje, modra pisava" data-equalizer-watch="">
+                  <div class="bold">Krepko</div>
+                  <div class="regular">Navadno</div>
+                  <div class="link">Povezava</div>
+                </a>
+              </div>
+              
+              <div class="small-6 medium-4 large-2 columns element">
+                <a view_theme="4" class="view_theme view_theme_4 " title="Črno ozadje, rumena pisava" data-equalizer-watch="">
+                  <div class="bold">Krepko</div>
+                  <div class="regular">Navadno</div>
+                  <div class="link">Povezava</div>
+                </a>
+              </div>
+              
+              <div class="small-6 medium-4 large-2 columns element">
+                <a view_theme="5" class="view_theme view_theme_5 " title="Belo ozadje, serifna pisava" data-equalizer-watch="">
+                  <div class="bold">Krepko</div>
+                  <div class="regular">Navadno</div>
+                  <div class="link">Povezava</div>
+                </a>
+              </div>
+                      </div>
+
+      </div>
+    </div>
+
+    <div class="row expanded middle">
+      <div class="small-4 columns">
+        <a class="burger hide-for-large-up" href="#"><div></div></a>
+        <nav class="header_navigation_left">
+            <div class="region region-header-middle-left-nav">
+    <div id="block-menu-menu-header-middle-left-nav" class="block block-menu boxed">
+
+    <h2>Header - middle left navigation</h2>
+  
+  <div class="content">
+    <ul class="menu"><li class="first leaf"><a href="/">Domov</a></li>
+<li class="leaf"><a href="/data/search?open_data=True">Podatki</a></li>
+<li class="leaf expanded"><a href="/podrocja">Področja</a><ul class="menu">
+			<li>
+				<a href="/data/search?open_data=True&amp;all_podrocje=Prebivalstvo in družba" class="icon-category-1">Prebivalstvo in družba
+				</a>
+			</li>
+			<li>
+				<a href="/data/search?open_data=True&amp;all_podrocje=Pravosodje. pravni sistem in javna varnost" class="icon-category-2">Pravosodje, pravni sistem in javna varnost
+				</a>
+			</li>
+			<li>
+				<a href="/data/search?open_data=True&amp;all_podrocje=Javni sektor" class="icon-category-3">Javni sektor
+				</a>
+			</li>
+			<li>
+				<a href="/data/search?open_data=True&amp;all_podrocje=Izobraževanje. kultura in šport" class="icon-category-5">Izobraževanje, kultura in šport
+				</a>
+			</li>
+			<li>
+				<a href="/data/search?open_data=True&amp;all_podrocje=Sociala in zaposlovanje" class="icon-category-6">Sociala in zaposlovanje
+				</a>
+			</li>
+			<li>
+				<a href="/data/search?open_data=True&amp;all_podrocje=Zdravje" class="icon-category-7">Zdravje
+				</a>
+			</li>
+			<li>
+				<a href="/data/search?open_data=True&amp;all_podrocje=Okolje in prostor" class="icon-category-8">Okolje in prostor
+				</a>
+			</li>
+			<li>
+				<a href="/data/search?open_data=True&amp;all_podrocje=Promet in infrastruktura" class="icon-category-9">Promet in infrastruktura
+				</a>
+			</li>
+			<li>
+				<a href="/data/search?open_data=True&amp;all_podrocje=Kmetijstvo. ribištvo. gozdarstvo in prehrana" class="icon-category-10">Kmetijstvo, ribištvo, gozdarstvo in prehrana
+				</a>
+			</li>
+			<li>
+				<a href="/data/search?open_data=True&amp;all_podrocje=Finance in davki" class="icon-category-11">Finance in davki
+				</a>
+			</li>
+			<li>
+				<a href="/data/search?open_data=True&amp;all_podrocje=Gospodarstvo" class="icon-category-12">Gospodarstvo
+				</a>
+			</li>
+			<li>
+				<a href="/data/search?open_data=True&amp;all_podrocje=Energetika" class="icon-category-13">Energetika
+				</a>
+			</li>
+			<li>
+				<a href="/data/search?open_data=True&amp;all_podrocje=Znanost in tehnologija" class="icon-category-14">Znanost in tehnologija
+				</a>
+			</li>
+			<li>
+				<a href="/data/search?open_data=True&amp;all_podrocje=Mednarodne zadeve" class="icon-category-15">Mednarodne zadeve
+				</a>
+			</li></ul></li>
+<li class="leaf active-trail"><a href="/aplikacije" class="active-trail active">Aplikacije</a></li>
+<li class="leaf"><a href="/knjiznica">Knjižnica</a></li>
+<li class="last expanded show-for-large-only icon icon-arrow-right" id="menu_more"><span class="nolink">Več</span><ul class="menu"><li class="first leaf"><a href="/uporaba-podatkov">Uporaba podatkov</a></li>
+<li class="leaf"><a href="/posredovanje-podatkov">Posredovanje podatkov</a></li>
+<li class="last leaf"><a href="/o-portalu">O portalu</a></li>
+</ul></li>
+</ul>  </div>
+</div>
+  </div>
+        </nav>
+      </div>
+      <div class="small-4 columns">
+        <a class="logo opsi image_background icon icon-logo-opsi" target="_self" href="/" title="Odprti podatki Slovenije">
+        </a>
+      </div>
+      <div class="small-4 columns">
+        <nav class="header_navigation_right">
+            <div class="region region-header-middle-right-nav">
+    <div id="block-menu-menu-header-middle-right-nav" class="block block-menu boxed">
+
+    <h2>Header - middle right navigation</h2>
+  
+  <div class="content">
+    <ul class="menu"><li class="first leaf"><a href="/o-portalu">O portalu</a></li>
+<li class="leaf"><a href="/posredovanje-podatkov">Posredovanje podatkov</a></li>
+<li class="leaf"><a href="/uporaba-podatkov">Uporaba podatkov</a></li>
+<li class="last leaf"><a href="https://e-uprava.gov.si/aktualno/koristne-povezave.html" class="ext">Koristne povezave</a></li>
+</ul>  </div>
+</div>
+  </div>
+        </nav>
+      </div>
+    </div>
+
+  </div>
+</div><!-- /Sticky -->
+
+  <div class="row expanded bottom">
+      <div class="region region-header-bottom">
+    <div id="block-opsi-opsi-block-data-search-form" class="block block-opsi boxed">
+
+    
+  <div class="content">
+    
+	<div class="small-12">
+		<form class="search" action="/data/search">
+			<input type="text" class="form-control" name="s" title="Išči po podatkih" placeholder="Išči po podatkih" value="" />
+			<span class="input-group-btn">
+				<button type="submit" class="icon icon-search"></button>
+			</span>
+		</form>
+	</div>
+	  </div>
+</div>
+  </div>
+  </div>
+
+</header>
+
+<div class="off-canvas-wrap" data-offcanvas="">
+  <div class="inner-wrap">
+
+    <a id="left-off-canvas-toggle" class="left-off-canvas-toggle hidden" href="#" title="Mobile menu"></a>
+
+    <!-- Off Canvas Menu -->
+    <aside class="left-off-canvas-menu">
+      <nav>
+          <div class="region region-header-middle-left-nav">
+      <div class="region region-header-middle-left-nav">
+    <div id="block-menu-menu-header-middle-left-nav" class="block block-menu boxed">
+
+    <h2>Header - middle left navigation</h2>
+  
+  <div class="content">
+    <ul class="menu"><li class="first leaf"><a href="/">Domov</a></li>
+<li class="leaf"><a href="/data/search?open_data=True">Podatki</a></li>
+<li class="leaf expanded"><a href="/podrocja">Področja</a><ul class="menu">
+			<li>
+				<a href="/data/search?open_data=True&amp;all_podrocje=Prebivalstvo in družba" class="icon-category-1">Prebivalstvo in družba
+				</a>
+			</li>
+			<li>
+				<a href="/data/search?open_data=True&amp;all_podrocje=Pravosodje. pravni sistem in javna varnost" class="icon-category-2">Pravosodje, pravni sistem in javna varnost
+				</a>
+			</li>
+			<li>
+				<a href="/data/search?open_data=True&amp;all_podrocje=Javni sektor" class="icon-category-3">Javni sektor
+				</a>
+			</li>
+			<li>
+				<a href="/data/search?open_data=True&amp;all_podrocje=Izobraževanje. kultura in šport" class="icon-category-5">Izobraževanje, kultura in šport
+				</a>
+			</li>
+			<li>
+				<a href="/data/search?open_data=True&amp;all_podrocje=Sociala in zaposlovanje" class="icon-category-6">Sociala in zaposlovanje
+				</a>
+			</li>
+			<li>
+				<a href="/data/search?open_data=True&amp;all_podrocje=Zdravje" class="icon-category-7">Zdravje
+				</a>
+			</li>
+			<li>
+				<a href="/data/search?open_data=True&amp;all_podrocje=Okolje in prostor" class="icon-category-8">Okolje in prostor
+				</a>
+			</li>
+			<li>
+				<a href="/data/search?open_data=True&amp;all_podrocje=Promet in infrastruktura" class="icon-category-9">Promet in infrastruktura
+				</a>
+			</li>
+			<li>
+				<a href="/data/search?open_data=True&amp;all_podrocje=Kmetijstvo. ribištvo. gozdarstvo in prehrana" class="icon-category-10">Kmetijstvo, ribištvo, gozdarstvo in prehrana
+				</a>
+			</li>
+			<li>
+				<a href="/data/search?open_data=True&amp;all_podrocje=Finance in davki" class="icon-category-11">Finance in davki
+				</a>
+			</li>
+			<li>
+				<a href="/data/search?open_data=True&amp;all_podrocje=Gospodarstvo" class="icon-category-12">Gospodarstvo
+				</a>
+			</li>
+			<li>
+				<a href="/data/search?open_data=True&amp;all_podrocje=Energetika" class="icon-category-13">Energetika
+				</a>
+			</li>
+			<li>
+				<a href="/data/search?open_data=True&amp;all_podrocje=Znanost in tehnologija" class="icon-category-14">Znanost in tehnologija
+				</a>
+			</li>
+			<li>
+				<a href="/data/search?open_data=True&amp;all_podrocje=Mednarodne zadeve" class="icon-category-15">Mednarodne zadeve
+				</a>
+			</li></ul></li>
+<li class="leaf active-trail"><a href="/aplikacije" class="active-trail active">Aplikacije</a></li>
+<li class="leaf"><a href="/knjiznica">Knjižnica</a></li>
+<li class="last expanded show-for-large-only icon icon-arrow-right" id="menu_more"><span class="nolink">Več</span><ul class="menu"><li class="first leaf"><a href="/uporaba-podatkov">Uporaba podatkov</a></li>
+<li class="leaf"><a href="/posredovanje-podatkov">Posredovanje podatkov</a></li>
+<li class="last leaf"><a href="/o-portalu">O portalu</a></li>
+</ul></li>
+</ul>  </div>
+</div>
+  </div>
+  </div>
+          <div class="region region-header-middle-right-nav">
+      <div class="region region-header-middle-right-nav">
+    <div id="block-menu-menu-header-middle-right-nav" class="block block-menu boxed">
+
+    <h2>Header - middle right navigation</h2>
+  
+  <div class="content">
+    <ul class="menu"><li class="first leaf"><a href="/o-portalu">O portalu</a></li>
+<li class="leaf"><a href="/posredovanje-podatkov">Posredovanje podatkov</a></li>
+<li class="leaf"><a href="/uporaba-podatkov">Uporaba podatkov</a></li>
+<li class="last leaf"><a href="https://e-uprava.gov.si/aktualno/koristne-povezave.html" class="ext">Koristne povezave</a></li>
+</ul>  </div>
+</div>
+  </div>
+  </div>
+      </nav>
+    </aside>
+
+
+  <div class="row expanded titlebar">
+    <div class="small-12 columns">
+      <div class="icon icon-portal"></div>      <div class="title center"><h1>Objavi aplikacijo</h1></div>
+          </div>
+  </div>
+    <div class="row expanded tabbar">
+    <div class="small-12 columns">
+      <div id="menu-tabs"><h2 class="element-invisible">Primarni zavihki</h2><ul class="row tabs--primary nav"><li><a href="/aplikacije">Novosti</a></li>
+<li><a href="/aplikacije/vse">Vse aplikacije</a></li>
+<li class="active"><a href="/aplikacije/dodaj" class="active">Prijava aplikacije<span class="element-invisible">(active tab)</span></a></li>
+</ul></div>    </div>
+  </div>
+    <div class="region region-content">
+    <div id="block-system-main" class="block block-system boxed">
+
+    
+  <div class="content">
+    <form class="node-form node-app-form boxed" enctype="multipart/form-data" action="/aplikacije/dodaj" method="post" id="app-node-form" accept-charset="UTF-8"><div><div class="form-item form-type-textfield form-item-title">
+  <label for="edit-title">Ime <span class="form-required" title="To polje je obvezno.">*</span></label>
+ <input type="text" id="edit-title" name="title" value="" size="60" maxlength="255" class="form-text required" />
+</div>
+<input type="hidden" name="changed" value="" />
+<input type="hidden" name="form_build_id" value="form-ELLsSuFfPlZQgcN06Fq--wTqcvYwxX_EsKm0n5iAfv8" />
+<input type="hidden" name="form_id" value="app_node_form" />
+<div class="field-type-text-with-summary field-name-body field-widget-text-textarea-with-summary form-wrapper" id="edit-body"><div id="body-add-more-wrapper"><div class="text-format-wrapper"><div><div class="form-item form-type-textarea form-item-body-und-0-summary">
+  <label for="edit-body-und-0-summary">Povzetek <span class="form-required" title="To polje je obvezno.">*</span></label>
+ <div class="form-textarea-wrapper resizable textarea-processed resizable-textarea"><textarea class="text-summary form-textarea required text-summary-processed" id="edit-body-und-0-summary" name="body[und][0][summary]" cols="60" rows="5"></textarea><div class="grippie"></div></div>
+<div class="description">Vnesite kratek povzetek</div>
+</div>
+</div><div class="form-item form-type-textarea form-item-body-und-0-value">
+  <label for="edit-body-und-0-value">Opis </label>
+ <div class="form-textarea-wrapper resizable textarea-processed resizable-textarea"><textarea class="text-full wysiwyg form-textarea" id="edit-body-und-0-value" name="body[und][0][value]" cols="60" rows="20"></textarea><div class="grippie"></div></div>
+</div>
+<fieldset class="filter-wrapper form-wrapper" id="edit-body-und-0-format"><div class="fieldset-wrapper"><div class="filter-help form-wrapper" id="edit-body-und-0-format-help"><p><a href="/filter/tips" target="_blank">Več informacij o tekstovnih formatih</a></p></div><div class="filter-guidelines form-wrapper filter-guidelines-processed" id="edit-body-und-0-format-guidelines"><div class="filter-guidelines-item filter-guidelines-plain_text"><h3 style="display: none;">Plain text</h3><ul class="tips"><li>HTML oznake niso dovoljene.</li><li>Spletni in e-mail naslovi bodo samodejno pretvorjeni v povezavo.</li><li>Samodejen prelom odstavkov in vrstic.</li><li>Modul Leksikon bo samodejno označil izraze, ki so bili opredeljeni v besednjaku s povezavami na njihove opise. Če obstajajo določene besedne zveze ali deli besedila, ki jih je treba izvzeti iz leksikona za označevanje in povezovanje uporabite posebno označevanje, [no-leksikon] ... [/ ne-leksikon]. Poleg tega ne bodo skenirani ti HTML elementi: A, okrajšano, okrajšava, številka, vnaprej. Poleg tega ne bodo skenirani ti HTML elementi: a, abbr, acronym, code, pre. Additionally, these HTML elements will not be scanned: <em class="placeholder">a, abbr, acronym, code, pre</em>.</li></ul></div></div></div></fieldset>
+<div class="description">Prosimo, da za objavo na OPSI dodate uporaben opis vaše aplikacije.</div></div>
+</div></div><div class="field-type-fivestar field-name-field-rating field-widget-exposed form-wrapper" id="edit-field-rating"></div><div class="field-type-link-field field-name-field-app-link field-widget-link-field form-wrapper" id="edit-field-app-link"><div id="field-app-link-add-more-wrapper"><div class="form-item form-type-link-field form-item-field-app-link-und-0">
+  <label for="edit-field-app-link-und-0">Povezava na aplikacijo </label>
+ <div class="link-field-subrow clearfix"><div class="link-field-title link-field-column"><div class="form-item form-type-textfield form-item-field-app-link-und-0-title">
+  <label for="edit-field-app-link-und-0-title">Naslov </label>
+ <input type="text" id="edit-field-app-link-und-0-title" name="field_app_link[und][0][title]" value="" size="60" maxlength="128" class="form-text" />
+<div class="description">Dolžina imena povezave je omejena na največ 128 znakov.</div>
+</div>
+</div><div class="link-field-url link-field-column"><div class="form-item form-type-textfield form-item-field-app-link-und-0-url">
+  <label for="edit-field-app-link-und-0-url">URL <span class="form-required" title="To polje je obvezno.">*</span></label>
+ <input type="text" id="edit-field-app-link-und-0-url" name="field_app_link[und][0][url]" value="" size="60" maxlength="2048" class="form-text required" />
+</div>
+</div></div>
+<div class="description">Vpišite naslov URL vaše aplikacije.</div>
+</div>
+</div></div><div class="field-type-text field-name-field-developed-by field-widget-text-textfield form-wrapper" id="edit-field-developed-by"><div id="field-developed-by-add-more-wrapper"><div class="form-item form-type-textfield form-item-field-developed-by-und-0-value">
+  <label for="edit-field-developed-by-und-0-value">Razvijalec <span class="form-required" title="To polje je obvezno.">*</span></label>
+ <input class="text-full form-text required" type="text" id="edit-field-developed-by-und-0-value" name="field_developed_by[und][0][value]" value="" size="60" maxlength="255" />
+</div>
+</div></div><div class="field-type-text field-name-field-submitter-name field-widget-text-textfield form-wrapper" id="edit-field-submitter-name"><div id="field-submitter-name-add-more-wrapper"><div class="form-item form-type-textfield form-item-field-submitter-name-und-0-value">
+  <label for="edit-field-submitter-name-und-0-value">Ime objavitelja <span class="form-required" title="To polje je obvezno.">*</span></label>
+ <input class="text-full form-text required" type="text" id="edit-field-submitter-name-und-0-value" name="field_submitter_name[und][0][value]" value="" size="60" maxlength="255" />
+</div>
+</div></div><div class="field-type-email field-name-field-submitter-email field-widget-email-textfield form-wrapper" id="edit-field-submitter-email"><div id="field-submitter-email-add-more-wrapper"><div class="text-full-wrapper"><div class="form-item form-type-textfield form-item-field-submitter-email-und-0-email">
+  <label for="edit-field-submitter-email-und-0-email">Elektronska pošta objavitelja <span class="form-required" title="To polje je obvezno.">*</span></label>
+ <input type="text" id="edit-field-submitter-email-und-0-email" name="field_submitter_email[und][0][email]" value="" size="60" maxlength="128" class="form-text required" />
+</div>
+</div></div></div><div class="field-type-image field-name-field-app-thumbnail field-widget-imagefield-crop-widget form-wrapper" id="edit-field-app-thumbnail"><div id="edit-field-app-thumbnail-und-0-ajax-wrapper"><div class="form-item form-type-managed-file form-item-field-app-thumbnail-und-0">
+  <label for="edit-field-app-thumbnail-und-0-upload">Slika aplikacije <span class="form-required" title="To polje je obvezno.">*</span></label>
+ <div class="imagefield-crop-widget form-managed-file clearfix"></div><input type="file" id="edit-field-app-thumbnail-und-0-upload" name="files[field_app_thumbnail_und_0]" size="22" class="form-file" /><input id="edit-field-app-thumbnail-und-0-upload-button" name="field_app_thumbnail_und_0_upload_button" value="Nalaganje" type="submit" class="btn-default form-submit ajax-processed" />
+<input type="hidden" name="field_app_thumbnail[und][0][fid]" value="0" />
+<input type="hidden" name="field_app_thumbnail[und][0][display]" value="1" />
+
+<div class="description">Click on the image and drag to mark how the image will be cropped</div>
+</div>
+</div></div><div class="field-type-image field-name-field-screen-shots field-widget-image-image form-wrapper" id="edit-field-screen-shots"><div id="edit-field-screen-shots-und-ajax-wrapper"><fieldset id="edit-field-screen-shots-und" class="form-wrapper"><legend><span class="fieldset-legend">Slike</span></legend><div class="fieldset-wrapper"><div class="fieldset-description">Prosimo, da naložite dodatne slike, ki predstavijo uporabo vaše aplikacije. Prikazane bodo na strani o podrobnostih vaše aplikacije.</div><div class="form-item form-type-managed-file form-item-field-screen-shots-und-0">
+  <label for="edit-field-screen-shots-und-0-upload">Dodaj novo datoteko </label>
+ <div class="image-widget form-managed-file clearfix"><div class="image-widget-data"><input type="file" id="edit-field-screen-shots-und-0-upload" name="files[field_screen_shots_und_0]" size="22" class="form-file" /><input id="edit-field-screen-shots-und-0-upload-button" name="field_screen_shots_und_0_upload_button" value="Nalaganje" type="submit" class="btn-default form-submit ajax-processed" />
+<input type="hidden" name="field_screen_shots[und][0][_weight]" value="0" />
+<input type="hidden" name="field_screen_shots[und][0][fid]" value="0" />
+<input type="hidden" name="field_screen_shots[und][0][display]" value="1" />
+</div></div>
+<div class="description">Velikost datoteke ne sme biti večja od <strong>2 MB</strong>.<br />Dovoljeni formati: <strong>png gif jpg jpeg</strong>.</div>
+</div>
+</div></fieldset>
+</div></div><div class="field-type-entityreference field-name-field-uses-dataset field-widget-entityreference-autocomplete form-wrapper" id="edit-field-uses-dataset"><div id="field-uses-dataset-add-more-wrapper"><div class="form-item"><div class="tabledrag-toggle-weight-wrapper"><a href="#" class="tabledrag-toggle-weight" title="Re-order rows by numerical weight instead of dragging.">Show row weights</a></div><table class="sticky-header" style="position: fixed; top: 0px; left: 20px; visibility: hidden;"><thead style=""><tr><th colspan="2" class="field-label"><label>Uporablja zbirko </label></th><th class="tabledrag-hide" style="display: none;">Vrstni red</th> </tr></thead></table><table id="field-uses-dataset-values" class="field-multiple-table sticky-enabled tabledrag-processed tableheader-processed sticky-table">
+ <thead><tr><th colspan="2" class="field-label"><label>Uporablja zbirko </label></th><th class="tabledrag-hide" style="display: none;">Vrstni red</th> </tr></thead>
+<tbody>
+ <tr class="draggable odd"><td class="field-multiple-drag"><a href="#" class="tabledrag-handle" title="Preuredi z vlečenjem"><div class="handle"> </div></a></td><td><div class="form-item form-type-textfield form-item-field-uses-dataset-und-0-target-id" role="application">
+  <input type="text" id="edit-field-uses-dataset-und-0-target-id" name="field_uses_dataset[und][0][target_id]" value="" size="60" maxlength="1024" class="form-text form-autocomplete" autocomplete="OFF" aria-autocomplete="list" /><input type="hidden" id="edit-field-uses-dataset-und-0-target-id-autocomplete" value="https://podatki.gov.si/entityreference/autocomplete/single/field_uses_dataset/node/app/NULL" disabled="disabled" class="autocomplete autocomplete-processed" />
+<span class="element-invisible" aria-live="assertive" id="edit-field-uses-dataset-und-0-target-id-autocomplete-aria-live"></span></div>
+</td><td class="delta-order tabledrag-hide" style="display: none;"><div class="form-item form-type-select form-item-field-uses-dataset-und-0--weight">
+  <label class="element-invisible" for="edit-field-uses-dataset-und-0-weight">Weight for row 1 </label>
+ <select class="field_uses_dataset-delta-order form-select" id="edit-field-uses-dataset-und-0-weight" name="field_uses_dataset[und][0][_weight]"><option value="0" selected="selected">0</option></select>
+</div>
+</td> </tr>
+</tbody>
+</table>
+<div class="clearfix"><input class="field-add-more-submit btn-default form-submit ajax-processed" id="edit-field-uses-dataset-und-add-more" name="field_uses_dataset_add_more" value="Dodaj še eno..." type="submit" />
+</div></div></div></div><div class="field-type-list-text field-name-field-app-charge field-widget-options-select form-wrapper" id="edit-field-app-charge"><div class="form-item form-type-select form-item-field-app-charge-und">
+  <label for="edit-field-app-charge-und">Plačljivost aplikacije <span class="form-required" title="To polje je obvezno.">*</span></label>
+ <select id="edit-field-app-charge-und" name="field_app_charge[und]" class="form-select required"><option value="_none">- Izberite vrednost -</option><option value="none">Prosta uporaba</option></select>
+<div class="description">Ta podatek se ne bo posredoval drugim uporabnikom portala.</div>
+</div>
+</div><div class="field-type-taxonomy-term-reference field-name-field-sector field-widget-options-select form-wrapper" id="edit-field-sector"><div class="form-item form-type-select form-item-field-sector-und">
+  <label for="edit-field-sector-und">Področje <span class="form-required" title="To polje je obvezno.">*</span></label>
+ <select id="edit-field-sector-und" name="field_sector[und]" class="form-select required"><option value="_none">- Izberite vrednost -</option><option value="27">Prebivalstvo in družba</option><option value="28">Pravosodje. pravni sistem in javna varnost</option><option value="24">Javni sektor</option><option value="33">Izobraževanje. kultura in šport</option><option value="25">Sociala in zaposlovanje</option><option value="23">Zdravje</option><option value="29">Okolje in prostor</option><option value="26">Promet in infrastruktura</option><option value="32">Kmetijstvo. ribištvo. gozdarstvo in prehrana</option><option value="35">Finance in davki</option><option value="34">Gospodarstvo</option><option value="36">Energetika</option><option value="22">Znanost in tehnologija</option><option value="30">Mednarodne zadeve</option></select>
+<div class="description">Prosimo, da izberete področje, kateremu pripada vaša aplikacija.</div>
+</div>
+</div><input class="node-form-revision-information" type="hidden" name="revision_information" value="" />
+<fieldset class="captcha form-wrapper"><legend><span class="fieldset-legend">CAPTCHA</span></legend><div class="fieldset-wrapper"><div class="fieldset-description">This question is for testing whether or not you are a human visitor and to prevent automated spam submissions.</div><input type="hidden" name="captcha_sid" value="20733" />
+<input type="hidden" name="captcha_token" value="b1b2d29053251f89b657877bab9bec7b" />
+<div class="form-item form-type-textfield form-item-captcha-response">
+  <label for="edit-captcha-response">Matematično vprašanje <span class="form-required" title="To polje je obvezno.">*</span></label>
+ <span class="field-prefix">8 + 2 = </span> <input type="text" id="edit-captcha-response" name="captcha_response" value="" size="4" maxlength="2" class="form-text required" autocomplete="off" />
+<div class="description">Vpišite rešitev enostavnega matematičnega problema. Primer: kot odgovor na 1 + 3, vpišite 4.</div>
+</div>
+</div></fieldset>
+<h2 class="element-invisible">Vertical Tabs</h2><div class="vertical-tabs-panes vertical-tabs-processed"><input class="vertical-tabs-active-tab" type="hidden" name="additional_settings__active_tab" value="" />
+</div><div class="form-actions form-wrapper" id="edit-actions"><input id="edit-publish" name="op" value="Submit for moderation" type="submit" class="btn-default form-submit" />
+</div></div></form>  </div>
+</div>
+  </div>
+
+  </div>
+</div>
+
+<footer>
+  <div class="row">
+    <div class="small-12 medium-6 large-4 columns">
+      <nav></nav>
+      <a class="logo opsi image_background icon icon-logo-opsi" target="_self" href="/" title="Odprti podatki Slovenije"></a>
+      <a class="logo ess icon-ess ext" target="_blank" href="http://www.eu-skladi.si/" title="Evropski socialni sklad"></a>
+    </div>
+    <div class="small-12 medium-6 large-2 columns hide-for-small-only  print-hide">
+      <nav>  <div class="region region-header-middle-left-nav">
+      <div class="region region-header-middle-left-nav">
+      <div class="region region-header-middle-left-nav">
+    <div id="block-menu-menu-header-middle-left-nav" class="block block-menu boxed">
+
+    <h2>Header - middle left navigation</h2>
+  
+  <div class="content">
+    <ul class="menu"><li class="first leaf"><a href="/">Domov</a></li>
+<li class="leaf"><a href="/data/search?open_data=True">Podatki</a></li>
+<li class="leaf expanded"><a href="/podrocja">Področja</a><ul class="menu">
+			<li>
+				<a href="/data/search?open_data=True&amp;all_podrocje=Prebivalstvo in družba" class="icon-category-1">Prebivalstvo in družba
+				</a>
+			</li>
+			<li>
+				<a href="/data/search?open_data=True&amp;all_podrocje=Pravosodje. pravni sistem in javna varnost" class="icon-category-2">Pravosodje, pravni sistem in javna varnost
+				</a>
+			</li>
+			<li>
+				<a href="/data/search?open_data=True&amp;all_podrocje=Javni sektor" class="icon-category-3">Javni sektor
+				</a>
+			</li>
+			<li>
+				<a href="/data/search?open_data=True&amp;all_podrocje=Izobraževanje. kultura in šport" class="icon-category-5">Izobraževanje, kultura in šport
+				</a>
+			</li>
+			<li>
+				<a href="/data/search?open_data=True&amp;all_podrocje=Sociala in zaposlovanje" class="icon-category-6">Sociala in zaposlovanje
+				</a>
+			</li>
+			<li>
+				<a href="/data/search?open_data=True&amp;all_podrocje=Zdravje" class="icon-category-7">Zdravje
+				</a>
+			</li>
+			<li>
+				<a href="/data/search?open_data=True&amp;all_podrocje=Okolje in prostor" class="icon-category-8">Okolje in prostor
+				</a>
+			</li>
+			<li>
+				<a href="/data/search?open_data=True&amp;all_podrocje=Promet in infrastruktura" class="icon-category-9">Promet in infrastruktura
+				</a>
+			</li>
+			<li>
+				<a href="/data/search?open_data=True&amp;all_podrocje=Kmetijstvo. ribištvo. gozdarstvo in prehrana" class="icon-category-10">Kmetijstvo, ribištvo, gozdarstvo in prehrana
+				</a>
+			</li>
+			<li>
+				<a href="/data/search?open_data=True&amp;all_podrocje=Finance in davki" class="icon-category-11">Finance in davki
+				</a>
+			</li>
+			<li>
+				<a href="/data/search?open_data=True&amp;all_podrocje=Gospodarstvo" class="icon-category-12">Gospodarstvo
+				</a>
+			</li>
+			<li>
+				<a href="/data/search?open_data=True&amp;all_podrocje=Energetika" class="icon-category-13">Energetika
+				</a>
+			</li>
+			<li>
+				<a href="/data/search?open_data=True&amp;all_podrocje=Znanost in tehnologija" class="icon-category-14">Znanost in tehnologija
+				</a>
+			</li>
+			<li>
+				<a href="/data/search?open_data=True&amp;all_podrocje=Mednarodne zadeve" class="icon-category-15">Mednarodne zadeve
+				</a>
+			</li></ul></li>
+<li class="leaf active-trail"><a href="/aplikacije" class="active-trail active">Aplikacije</a></li>
+<li class="leaf"><a href="/knjiznica">Knjižnica</a></li>
+<li class="last expanded show-for-large-only icon icon-arrow-right" id="menu_more"><span class="nolink">Več</span><ul class="menu"><li class="first leaf"><a href="/uporaba-podatkov">Uporaba podatkov</a></li>
+<li class="leaf"><a href="/posredovanje-podatkov">Posredovanje podatkov</a></li>
+<li class="last leaf"><a href="/o-portalu">O portalu</a></li>
+</ul></li>
+</ul>  </div>
+</div>
+  </div>
+  </div>
+  </div>
+</nav>
+      <nav></nav>
+    </div>
+    <div class="small-12 medium-6 large-3 columns hide-for-small-only  print-hide">
+      <nav>  <div class="region region-header-middle-right-nav">
+      <div class="region region-header-middle-right-nav">
+      <div class="region region-header-middle-right-nav">
+    <div id="block-menu-menu-header-middle-right-nav" class="block block-menu boxed">
+
+    <h2>Header - middle right navigation</h2>
+  
+  <div class="content">
+    <ul class="menu"><li class="first leaf"><a href="/o-portalu">O portalu</a></li>
+<li class="leaf"><a href="/posredovanje-podatkov">Posredovanje podatkov</a></li>
+<li class="leaf"><a href="/uporaba-podatkov">Uporaba podatkov</a></li>
+<li class="last leaf"><a href="https://e-uprava.gov.si/aktualno/koristne-povezave.html" class="ext">Koristne povezave</a></li>
+</ul>  </div>
+</div>
+  </div>
+  </div>
+  </div>
+</nav>
+      <nav>  <div class="region region-footer-col3">
+    <div id="block-menu-menu-footer-nav-col-3" class="block block-menu boxed">
+
+    <h2>Footer - navigation column 3</h2>
+  
+  <div class="content">
+    <ul class="menu"><li class="first last leaf"><a href="/kontakt">Kontakt</a></li>
+</ul>  </div>
+</div>
+  </div>
+</nav>
+    </div>
+    <div class="small-12 medium-6 large-3 columns  print-hide">
+      <nav class="hide-for-small-only">  <div class="region region-footer-col4">
+    <div id="block-menu-menu-menu-footer-nav-col-4" class="block block-menu boxed">
+
+    <h2>Footer - navigation column 4</h2>
+  
+  <div class="content">
+    <ul class="menu"><li class="first leaf"><a href="/pogoji-uporabe">Pogoji uporabe</a></li>
+<li class="leaf"><a href="/politika-zasebnosti">Pomoč pri uporabi</a></li>
+<li class="last leaf"><a href="/piskotki">Piškotki</a></li>
+</ul>  </div>
+</div>
+  </div>
+</nav>
+      <div class="row">
+        <div class="small-12 columns">
+          <div class="social">
+            <!-- <a class="social icon icon-linkedin" target="_blank" title="Linkedin"></a> -->
+            <a class="social icon icon-twitter ext" target="_blank" title="Twitter" href="https://twitter.com/vladars"></a>
+            <a class="social icon icon-facebook ext" target="_blank" title="Facebook" href="https://www.facebook.com/Ministrstvo-za-javno-upravo-373305022851086/"></a>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</footer>
+
+<script>
+  jQuery(document).foundation();
+</script>
+        <!-- HTML5 element support for IE8 -->
+    <!--[if lt IE 9]>
+    <script src="/sites/all/themes/custom/opsi/js/rem.min.js"></script>
+    <![endif]--><div id="goog-gt-tt" class="skiptranslate" dir="ltr"><div style="padding: 8px;"><div><div class="logo"><img src="https://www.gstatic.com/images/branding/product/1x/translate_24dp.png" width="20" height="20" alt="Google Translate" /></div></div></div><div class="top" style="padding: 8px; float: left; width: 100%;"><h1 class="title gray">Original text</h1></div><div class="middle" style="padding: 8px;"><div class="original-text"></div></div><div class="bottom" style="padding: 8px;"><div class="activity-links"><span class="activity-link">Contribute a better translation</span><span class="activity-link"></span></div><div class="started-activity-container"><hr style="color: #CCC; background-color: #CCC; height: 1px; border: none;" /><div class="activity-root"></div></div></div><div class="status-message" style="display: none;"></div></div>
+  
+
+<div class="goog-te-spinner-pos"><div class="goog-te-spinner-animation"><svg xmlns="http://www.w3.org/2000/svg" class="goog-te-spinner" width="96px" height="96px" viewBox="0 0 66 66"><circle class="goog-te-spinner-path" fill="none" stroke-width="6" stroke-linecap="round" cx="33" cy="33" r="30"/></svg></div></div><iframe frameborder="0" class="goog-te-menu-frame skiptranslate" title="Language Translate Widget" style="visibility: visible; box-sizing: content-box; width: 1030px; height: 263px; display: none;"></iframe><iframe frameborder="0" class="goog-te-menu-frame skiptranslate" title="Language Translate Widget" style="visibility: visible; box-sizing: content-box; width: 977px; height: 263px; display: none;"></iframe><iframe frameborder="0" class="goog-te-menu-frame skiptranslate" title="Language Translate Widget" style="visibility: visible; box-sizing: content-box; width: 197px; height: 69px; display: none;"></iframe></body></html>
