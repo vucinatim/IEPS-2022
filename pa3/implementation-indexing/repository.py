@@ -24,16 +24,37 @@ def create_postings(postings: List[Posting]):
 
 def search(words):
     with sqlite3.connect(DB_FILE) as conn:
+        term = tuple(words)
+        if len(words) == 1:
+            term = tuple([*words, ""])
         cur = conn.cursor()
         search_query = f"""SELECT p.documentName AS docName, 
                         SUM(frequency) AS freq, 
                         GROUP_CONCAT(indexes) AS idxs
                         FROM Posting p
-                        WHERE p.word IN {tuple(words)}
+                        WHERE p.word IN {term}
                         GROUP BY p.documentName
                         ORDER BY freq DESC;"""
 
         cur.execute(search_query)
-        result = cur.fetchmany(10)
+        result = cur.fetchall()
+        cur.close()
+        return result
+
+
+def get_all_index_words():
+    with sqlite3.connect(DB_FILE) as conn:
+        cur = conn.cursor()
+        cur.execute("""SELECT * FROM IndexWord""")
+        result = cur.fetchall()
+        cur.close()
+        return result
+
+
+def get_all_postings():
+    with sqlite3.connect(DB_FILE) as conn:
+        cur = conn.cursor()
+        cur.execute("""SELECT * FROM Posting""")
+        result = cur.fetchall()
         cur.close()
         return result

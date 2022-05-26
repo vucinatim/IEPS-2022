@@ -13,6 +13,9 @@ if __name__ == "__main__":
         print("Error: no arguments passed.")
         exit()
 
+    n_results = int(sys.argv[2]) if len(sys.argv) > 2 else 10
+    n_snippets = int(sys.argv[3]) if len(sys.argv) > 3 else 3
+
     search_term = sys.argv[1]
     search_words, _ = preprocess_text(search_term)
 
@@ -22,4 +25,4 @@ if __name__ == "__main__":
 
     dt = round((stop - start) * 1000)
 
-    print_results(results, search_term, dt)
+    print_results(results, search_term, dt, n_results=n_results, n_snippets=n_snippets)

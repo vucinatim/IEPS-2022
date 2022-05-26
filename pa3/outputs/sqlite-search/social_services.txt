@@ -1,0 +1,13 @@
+Results for a query: "social services"
+
+
+Results found in 1ms.
+Showing top 10 results limited to 3 snippets.
+
+
+  Frequencies   Document                                 Snippet
+--------------  ---------------------------------------  -------------------------------------------------------------------------------------------------------------------------------------------------------
+             5  e-uprava.gov.si/e-uprava.gov.si.9.html   ... Labour, retirement Social services, health, ... ... relationship etc.? Social services, health, ... ... obtain financial social assistance? How ...
+             5  e-uprava.gov.si/e-uprava.gov.si.45.html  ... Labour, retirement Social services, health, ... ... relationship etc.? Social services, health, ... ... obtain financial social assistance? How ...
+             1  podatki.gov.si/podatki.gov.si.340.html   ... and spa services ltd. TERME ...
+             1  evem.gov.si/evem.gov.si.661.html         ... and Related Services (AJPES) and ...
